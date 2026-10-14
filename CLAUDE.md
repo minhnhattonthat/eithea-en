@@ -18,8 +18,13 @@ Rulings and names: `glossary.md` (Lou, honorifics kept, English credits, full na
 - Each disc: boot `SLPS_031.4x`, `EITHEA.EXE`, `EITHEA1.EXE` (all ~546-552 KB), `CD_DATA/BIND.DAT` (archive) + `BIND.TBL` (13-byte entries: 8-char name, 2-char type, 3 bytes unknown), `FILE.LST`, `MOVIE/OPEN1.STR`, `SECRET.BIN` 32 MB. Disc 2 adds `XEND.XA`.
 - BIND.DAT starts with a script-like text (`pic_feed X.TIM`, `disk_change 1`, `hitret`) — event scripts live there.
 
+## More tools
+- `tools/bind.py` (BIND pack/unpack), `tools/build.py N [--qa-novoice] [--override NAME.TYPE=FILE]` (rebuild disc; QA builds strip voice cmds because PCSX-Redux hangs on the first voice), `tools/tim.py`, `tools/mipsscan.py`, `tools/lua/*.lua` probes. Details: `notes/recon.md`.
+- Rebuilt discs need a COLD boot in emu.py (savestates break); route to new game in notes/recon.md.
+
 ## Status
 - Done: Step 0 setup, original smoke boots, identity build byte-identical on both discs.
-- Next: Phase 1 recon: decode BIND.TBL entries, find text/script encoding, font, graphics text survey.
+- Done (Phase 1 mostly): BIND format + roundtrip, scripts are plain cp932 text, font format, print routine found (notes/recon.md).
+- Next: (a) extract XT scripts + EXE strings to a translatable format with roundtrip test; (b) engine patch: VWF ASCII in print routine 0x80036958 (armips, host code in verified-free memory); (c) graphics-text survey (OPEN1.STR subtitles, title, credits, UI TIMs); (d) width gate, marker build.
 - Rulings: specs pre-approved (report at end). No user saves. Given Family names.
 - Open: none yet.
