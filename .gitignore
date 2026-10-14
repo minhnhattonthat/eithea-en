@@ -4,6 +4,7 @@ work/
 dist/
 release/
 tools/*/
+!tools/lua/
 *.sstate
 *.mcd
 __pycache__/
