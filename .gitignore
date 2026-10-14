@@ -9,3 +9,4 @@ tools/*/
 *.mcd
 __pycache__/
 .pytest_cache/
+*.log
