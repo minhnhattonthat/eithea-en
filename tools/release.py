@@ -44,10 +44,19 @@ def leftover(n, out):
     for name, typ, data in items:
         if typ.strip() != "XT" or name.strip() in text.SKIP:
             continue
-        for e in text.parse(data):
-            raw = data[e["start"]:e["end"]]
-            if KANA.search(raw):
-                bad.append(f"{name.strip()}: {raw[:40].decode('cp932', 'replace')!r}")
+        for typ2, s, e in text.scan(data):              # raw spans: pair codes aren't all valid cp932
+            if typ2 != "blk":
+                continue
+            i, kana = s, 0
+            while i < e:                                 # walk code by code (a trail byte can look like a lead)
+                c = data[i]
+                if 0x81 <= c <= 0x9F or 0xE0 <= c <= 0xFC:
+                    kana += bool(KANA.fullmatch(data[i:i + 2]))
+                    i += 2
+                else:
+                    i += 1
+            if kana:
+                bad.append(f"{name.strip()}: {data[s:s + 40].decode('cp932', 'replace')!r}")
     return bad
 
 
