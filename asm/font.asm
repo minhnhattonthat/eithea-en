@@ -7,6 +7,7 @@
 HWOFF   equ 0          ; 106 half glyphs x 24 bytes (1 byte per row per plane, pixels in bits 7..3)
 SCROFF  equ 106*24     ; 48-byte scratch glyph
 CODEOFF equ SCROFF+48  ; ext code below
+MAGICOFF equ (94*24)   ; first unused half-glyph slot holds the "EXT1" marker
 PADIDX  equ (0x5e-0x20)  ; slot of the invisible PAD character ('^'), see tools/font.py (equ is textual: keep the parentheses)
 
 ; ---- glyph blitter 0x800367d4 (x=a0, y=a1, code=a2, buf=a3): replace the KANJI.BL search ----
@@ -49,11 +50,22 @@ PADIDX  equ (0x5e-0x20)  ; slot of the invisible PAD character ('^'), see tools/
     jr    v0
     nop
 ; 2) strcat (0x8006b2ec): merge an odd-length (PAD-ended) string with the piece appended to it
-strcat_tramp:
-    lui   t0, 0x800e
-    lw    t0, 0x6e54(t0)
-    nop                         ; load delay
-    beqz  t0, strcat_orig       ; font not loaded yet: plain strcat
+strcat_tramp:                   ; strcat runs during start-up too, when 0x800e6e54 still holds stale data from the
+    lui   t0, 0x800e            ; previous program: only enter the ext code if the pointer is sane AND the block
+    lw    t0, 0x6e54(t0)        ; carries the "EXT1" marker (an unused glyph slot, see tools/font.py)
+    lui   t1, 0x8010
+    sltu  t2, t0, t1            ; below 0x80100000?
+    bnez  t2, strcat_orig
+    lui   t1, 0x801f
+    sltu  t2, t0, t1            ; at/above 0x801f0000?
+    beqz  t2, strcat_orig
+    andi  t2, t0, 3             ; unaligned?
+    bnez  t2, strcat_orig
+    nop
+    lw    t2, MAGICOFF(t0)
+    lui   t3, 0x3154
+    ori   t3, t3, 0x5845        ; "EXT1"
+    bne   t2, t3, strcat_orig
     nop
     addiu t0, t0, CODEOFF+strcat_hook
     jr    t0
@@ -292,7 +304,7 @@ sh_fb:                          ; the original strcat (its first two instruction
     addiu sp, sp, -0x20
     sw    s1, 0x14(sp)
     lui   v0, 0x8006
-    addiu v0, v0, 0xb2f4
+    ori   v0, v0, 0xb2f4        ; ori: addiu would sign-extend to 0x8005b2f4
     jr    v0
     nop
 

@@ -130,7 +130,7 @@ def build(out):
     ext = bytes(ext)
     order = [chr(0x20 + i) for i in range(94)]
     rev = {v: k for k, v in ALIAS.items() if v}
-    hw = b"".join(half(rev.get(c, c)) for c in order) + bytes(24 * (NCH - 94))
+    hw = b"".join(half(rev.get(c, c)) for c in order) + b"EXT1" + bytes(24 * (NCH - 94) - 4)  # marker: asm MAGICOFF
     head = hw + bytes(48) + ext
     head += bytes(-len(head) % 48)
     n = len(head) // 48
