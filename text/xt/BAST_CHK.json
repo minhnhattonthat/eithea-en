@@ -1,0 +1,387 @@
+[
+ {
+  "id": "BAST_CHK:0000",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　翔　　　　　　　　　　　　秋穂\n　ユカ　　　　　　　　　　　ルー\n　ひかる　　　　　　　　　　次へ",
+  "en": "Shou                      Akiho\nYuka                      Lou\nHikaru                    Next"
+ },
+ {
+  "id": "BAST_CHK:0001",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　イムル　　　　　　　　　　ナムリア\n　ハーミー　　　　　　　　　アゼル\n　アルバイジャン　　　　　　次へ",
+  "en": "Imul                      Namuria\nHermie                    Azel\nAlbaijan                  Next"
+ },
+ {
+  "id": "BAST_CHK:0002",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　高木　学　　　　　　　　　ファンナ\n　斉藤　ヒトシ　　　　　　　エウリケ\n　ランドー　　　　　　　　　次へ",
+  "en": "Manabu                    Fanna\nHitoshi                   Eurike\nRando                     Next"
+ },
+ {
+  "id": "BAST_CHK:0003",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　シャイ　　　　　　　　　　オパス\n　マテリア　　　　　　　　　女王\n　カレン　　　　　　　　　　次へ",
+  "en": "Shai                      Opas\nMateria                   The Queen\nKaren                     Next"
+ },
+ {
+  "id": "BAST_CHK:0004",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　ミュウ　　　　　　　　　　ユン\n　ポーポー　　　　　　　　　フィノ\n　ピエン　　　　　　　　　　次へ",
+  "en": "Myu                       Yun\nPopo                      Fino\nPien                      Next"
+ },
+ {
+  "id": "BAST_CHK:0005",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　月・店の娘　　　　　　　　月・神官\n　月・護衛女　　　　　　　　カ・買収屋\n　火・護衛男　　　　　　　　次へ",
+  "en": "Moon: shop girl           Moon: priest\nMoon: female guard        Carlyle: buyer\nFire: male guard          Next"
+ },
+ {
+  "id": "BAST_CHK:0006",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　倶楽部黒服　　　　　　　　カ・ゲーム屋\n　火・市場男　　　　　　　　カ・薬屋\n　火・店少年　　　　　　　　次へ",
+  "en": "Club staff                Carlyle: game shop\nFire: market man          Carlyle: apothecary\nFire: shop boy            Next"
+ },
+ {
+  "id": "BAST_CHK:0007",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　アンティークショップ　　　火・酒場\n　カ・リング屋　　　　　　　プラダ\n　火・武器屋　　　　　　　　白レディ",
+  "en": "Antique shop              Fire: tavern\nCarlyle: ring shop        Prada\nFire: weapon shop         White Lady"
+ },
+ {
+  "id": "BAST_CHK:0008",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　１・気丈　　　　　　　　　４・困惑\n　２・心配　　　　　　　　　５・神妙\n　３・怒る　　　　　　　　　次へ",
+  "en": "1 Brave                   4 Confused\n2 Worried                 5 Solemn\n3 Angry                   Next"
+ },
+ {
+  "id": "BAST_CHK:0009",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　６・驚き　　　　　　　　　９・照れる\n　７・決意　　　　　　　　　１０・楽しそう\n　８・ごまかし　　　　　　　次へ",
+  "en": "6 Surprised               9 Embarrassed\n7 Resolute                10 Cheerful\n8 Evasive                 Next"
+ },
+ {
+  "id": "BAST_CHK:0010",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　１１・普通\n　戻る",
+  "en": "11 Normal\nBack"
+ },
+ {
+  "id": "BAST_CHK:0011",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　１２・気丈　　　　　　　　１５・心配\n　１３・提案　　　　　　　　１６・反発\n　１４・ふてくされる　　　　次へ",
+  "en": "12 Brave                  15 Worried\n13 Suggesting             16 Defiant\n14 Sulking                Next"
+ },
+ {
+  "id": "BAST_CHK:0012",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　１７・文句　　　　　　　　Ｂ－２０・特殊\n　１８・あわてる　　　　　　Ｂ－２１・困惑\n　１９・落ち込む　　　　　　次へ",
+  "en": "17 Complaining            B-20 Special\n18 Flustered              B-21 Confused\n19 Dejected               Next"
+ },
+ {
+  "id": "BAST_CHK:0013",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　２２・疲れ　　　　　　　　２５・楽しそう\n　２３・神妙　　　　　　　　２６・普通\n　２４・優しさ　　　　　　　次へ",
+  "en": "22 Tired                  25 Cheerful\n23 Solemn                 26 Normal\n24 Kindness               Next"
+ },
+ {
+  "id": "BAST_CHK:0014",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　２７・ふてくされる\n　２８・あきれる\n　戻る",
+  "en": "27 Sulking\n28 Exasperated\nBack"
+ },
+ {
+  "id": "BAST_CHK:0015",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　２９・不安　　　　　　　　３２・特殊２\n　３０・落ち込む　　　　　　３３・思いやり\n　３１・特殊１　　　　　　　次へ",
+  "en": "29 Anxious                32 Special 2\n30 Dejected               33 Caring\n31 Special 1              Next"
+ },
+ {
+  "id": "BAST_CHK:0016",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　３４・困惑　　　　　　　　３７・決意\n　３５・疲れ　　　　　　　　３８・ふてくされる\n　３６・神妙　　　　　　　　次へ",
+  "en": "34 Confused               37 Resolute\n35 Tired                  38 Sulking\n36 Solemn                 Next"
+ },
+ {
+  "id": "BAST_CHK:0017",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　３９・あわてる・照れる　　　４２・普通\n　４０・心配　　　　　　　　４３・普通・後半\n　４１・楽しそう　　　　　　次へ",
+  "en": "39 Flustered, shy         42 Normal\n40 Worried                43 Normal, 2nd half\n41 Cheerful               Next"
+ },
+ {
+  "id": "BAST_CHK:0018",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　４４・照れる・後半　　　　４７・落ち込む後半\n　４５・決意・後半　　　　　４８・あわてる後半\n　４６・疲れ・後半　　　　　次へ",
+  "en": "44 Shy, 2nd half          47 Down, 2nd half\n45 Resolute, 2nd half     48 Rattled, 2nd half\n46 Tired, 2nd half        Next"
+ },
+ {
+  "id": "BAST_CHK:0019",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　４９・心配・後半　　　　　戻る\n　５０・楽しそう・後半\n　５１・告白・後半",
+  "en": "49 Worried, 2nd half      Back\n50 Cheerful, 2nd half\n51 Confession, 2nd half"
+ },
+ {
+  "id": "BAST_CHK:0020",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　５２・冷静　　　　　　　　５５・心配\n　５３・納得　　　　　　　　５６・にやり\n　５４・特殊１　　　　　　　次へ",
+  "en": "52 Calm                   55 Worried\n53 Convinced              56 Smirking\n54 Special 1              Next"
+ },
+ {
+  "id": "BAST_CHK:0021",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　５７・なぐさめる　　　　　Ｂ－６０・あわてる\n　５８・困惑　　　　　　　　Ｂ－６１・神妙\n　５９・特殊２　　　　　　　次へ",
+  "en": "57 Consoling              B-60 Flustered\n58 Confused               B-61 Solemn\n59 Special 2              Next"
+ },
+ {
+  "id": "BAST_CHK:0022",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　６２・励まし　　　　　　　６５・楽しそう\n　６３・ふてくされる　　　　６６・普通\n　６４・落ち込み　　　　　　戻る",
+  "en": "62 Encouraging            65 Cheerful\n63 Sulking                66 Normal\n64 Dejected               Back"
+ },
+ {
+  "id": "BAST_CHK:0023",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　６７・普通　　　　　　　　７０・喧嘩腰\n　６８・いら立ち　　　　　　７１・落ち込み\n　６９・困惑　　　　　　　　次へ",
+  "en": "67 Normal                 70 Confrontational\n68 Irritated              71 Dejected\n69 Confused               Next"
+ },
+ {
+  "id": "BAST_CHK:0024",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　７２・寂しい　　　　　　　７５・ふてくされる\n　７３・泣き　　　　　　　　７６・あわてる照れる\n　７４・物思いにふける　　　次へ",
+  "en": "72 Lonely                 75 Sulking\n73 Crying                 76 Flustered, shy\n74 Lost in thought        Next"
+ },
+ {
+  "id": "BAST_CHK:0025",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　７７・心配　　　　　　　　戻る\n　７８・楽しそう\n　７９・不安",
+  "en": "77 Worried                Back\n78 Cheerful\n79 Anxious"
+ },
+ {
+  "id": "BAST_CHK:0026",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　８０・特殊１　　　　　　　８３・真面目\n　８１・特殊２　　　　　　　８４・怒り\n　８２・特殊３　　　　　　　次へ",
+  "en": "80 Special 1              83 Serious\n81 Special 2              84 Angry\n82 Special 3              Next"
+ },
+ {
+  "id": "BAST_CHK:0027",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　８５・決意　　　　　　　　８８・ふてくされる\n　８６・落ち込み　　　　　　８９・心配\n　８７・ぐったり　　　　　　次へ",
+  "en": "85 Resolute               88 Sulking\n86 Dejected               89 Worried\n87 Exhausted              Next"
+ },
+ {
+  "id": "BAST_CHK:0028",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　９０・楽しそう　　　　　　９３・ベイベー２\n　９１・普通　　　　　　　　９４・王子様モード\n　９２・ベイベー１　　　　　戻る",
+  "en": "90 Cheerful               93 Baby 2\n91 Normal                 94 Prince mode\n92 Baby 1                 Back"
+ },
+ {
+  "id": "BAST_CHK:0029",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　９５・警告　　　　　　　　９８・真剣\n　９６・特殊　　　　　　　　９９・てれる\n　９７・普通　　　　　　　　次へ",
+  "en": "95 Warning                98 Earnest\n96 Special                99 Shy\n97 Normal                 Next"
+ },
+ {
+  "id": "BAST_CHK:0030",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　１００・泣く　　　　　　　１０３・楽しそう\n　１０１・ふてくされる　　　１０４・不安\n　１０２・心配　　　　　　　次へ",
+  "en": "100 Crying                103 Cheerful\n101 Sulking               104 Anxious\n102 Worried               Next"
+ },
+ {
+  "id": "BAST_CHK:0031",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　１０５・困惑\n　戻る",
+  "en": "105 Confused\nBack"
+ },
+ {
+  "id": "BAST_CHK:0032",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　１０６・ブック手に　　　　１０９・えらそう\n　１０７・招き　　　　　　　１１０・説明\n　１０８・謎解けてうれしい　次へ",
+  "en": "106 Holding the book      109 Haughty\n107 Beckoning             110 Explaining\n108 Glad puzzle solved    Next"
+ },
+ {
+  "id": "BAST_CHK:0033",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　１１１・深刻な顔　　　　　１１４・遠慮\n　１１２・ヴァムール横　　　１１５・真剣\n　１１３・アゼル見て驚き　　次へ",
+  "en": "111 Grave face            114 Hesitant\n112 Beside Vamur          115 Earnest\n113 Startled at Azel      Next"
+ },
+ {
+  "id": "BAST_CHK:0034",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　１１６・本当にいいんだな\n　１１７・普通\n　戻る",
+  "en": "116 Are you sure?\n117 Normal\nBack"
+ },
+ {
+  "id": "BAST_CHK:0035",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　１１８・うつむく　　　　　戻る\n　１１９・ハキがない\n　１２０・ぐったり",
+  "en": "118 Looking down          Back\n119 Listless\n120 Exhausted"
+ },
+ {
+  "id": "BAST_CHK:0036",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　１２１・話し掛けてくる　　１２４・驚く\n　１２２・興味深い　　　　　１２５・不適に\n　１２３・ユンを紹介　　　　次へ",
+  "en": "121 Approaching to talk   124 Surprised\n122 Intrigued             125 Defiant grin\n123 Introducing Yun       Next"
+ },
+ {
+  "id": "BAST_CHK:0037",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　１２６・見下している\n　戻る",
+  "en": "126 Looking down on them\nBack"
+ },
+ {
+  "id": "BAST_CHK:0038",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　１２７・ひかるに再会　　　１３０・真剣\n　１２８・ひかると会話　　　１３１・神妙\n　１２９・大げさに話す　　　次へ",
+  "en": "127 Reuniting: Hikaru     130 Earnest\n128 Talking to Hikaru     131 Solemn\n129 Exaggerating          Next"
+ },
+ {
+  "id": "BAST_CHK:0039",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　１３２・のんき\n　１３３・抜け穴思い出す\n　戻る",
+  "en": "132 Carefree\n133 Recalling the tunnel\nBack"
+ },
+ {
+  "id": "BAST_CHK:0040",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　１３４・ひかるに再会　　　１３７・真剣\n　１３５・ひかると会話　　　１３８・神妙\n　１３６・大げさに話す　　　次へ",
+  "en": "134 Reuniting: Hikaru     137 Earnest\n135 Talking to Hikaru     138 Solemn\n136 Exaggerating          Next"
+ },
+ {
+  "id": "BAST_CHK:0041",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　１３９・笑って話す\n　１４０・抜け穴思い出す\n　戻る",
+  "en": "139 Talking, smiling\n140 Recalling the tunnel\nBack"
+ },
+ {
+  "id": "BAST_CHK:0042",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　１４１・部屋に座る\n　１４２・困った\n　戻る",
+  "en": "141 Sitting in the room\n142 Troubled\nBack"
+ },
+ {
+  "id": "BAST_CHK:0043",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　１４３・普通　　　　　　　１４６・驚く\n　１４４・真剣　　　　　　　戻る\n　１４５・困惑",
+  "en": "143 Normal                146 Surprised\n144 Earnest               Back\n145 Confused"
+ },
+ {
+  "id": "BAST_CHK:0044",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　１４７・うざったい　　　　１５０・不安\n　１４８・怒ってる　　　　　戻る\n　１４９・うれしそう・いらだたしそう",
+  "en": "147 Annoyed               150 Anxious\n148 Angry                 Back\n149 Pleased, irritated"
+ },
+ {
+  "id": "BAST_CHK:0045",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　１５１・弓の手入れ　　　　戻る\n　１５２・弓の手入れ・下向き\n　１５３・普通",
+  "en": "151 Tending the bow       Back\n152 Tending the bow, down\n153 Normal"
+ },
+ {
+  "id": "BAST_CHK:0046",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　１５５・余裕　　　　　　　１５８・起動\n　１５６・機嫌を伺う　　　　１５９・消滅\n　１５７・怒り　　　　　　　戻る",
+  "en": "155 Composed              158 Activating\n156 Gauging mood          159 Vanishing\n157 Angry                 Back"
+ },
+ {
+  "id": "BAST_CHK:0047",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　１６０・勝ち誇り\n　１６１・死にそう\n　戻る",
+  "en": "160 Triumphant\n161 Near death\nBack"
+ },
+ {
+  "id": "BAST_CHK:0048",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　１６２・規律正しく\n　１６３・怒り\n　戻る",
+  "en": "162 Disciplined\n163 Angry\nBack"
+ },
+ {
+  "id": "BAST_CHK:0049",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　１６４・現れたとき　　　　戻る\n　１６５・レディー前で\n　１９７・信じられない",
+  "en": "164 When appearing        Back\n165 In front of Lady\n197 Disbelief"
+ },
+ {
+  "id": "BAST_CHK:0050",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　１６６・普通　　　　　　　１６９・泣いてる\n　１６７・得意げ　　　　　　戻る\n　１６８・ぐったり",
+  "en": "166 Normal                169 Weeping\n167 Smug                  Back\n168 Exhausted"
+ },
+ {
+  "id": "BAST_CHK:0051",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　１７１・普通　　　　　　　１７４・裏切られ\n　１７２・喜ぶ　　　　　　　１７５・うれしい\n　１７３・不可解　　　　　　次へ",
+  "en": "171 Normal                174 Betrayed\n172 Delighted             175 Happy\n173 Baffled               Next"
+ },
+ {
+  "id": "BAST_CHK:0052",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　１７６・神妙\n　戻る",
+  "en": "176 Solemn\nBack"
+ },
+ {
+  "id": "BAST_CHK:0053",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　１７７・普通　　　　　　　戻る\n　１７８・心配\n　１７９・怒る・しかる",
+  "en": "177 Normal                Back\n178 Worried\n179 Angry, scolding"
+ },
+ {
+  "id": "BAST_CHK:0054",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　１９４・不適に　　　　　　戻る\n　１９５・にらみ\n　１９６・傷ついてにらみ",
+  "en": "194 Bold                  Back\n195 Glaring\n196 Hurt, glaring"
+ }
+]

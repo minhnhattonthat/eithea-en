@@ -7,4 +7,4 @@ root = pathlib.Path(__file__).resolve().parent.parent
 if not any((root / "tests").glob("test_*.py")):
     print("check: no tests yet")
     sys.exit(0)
-sys.exit(subprocess.call([sys.executable, "-X", "utf8", "-m", "pytest", "-q", str(root / "tests")]))
+sys.exit(subprocess.call([sys.executable, "-X", "utf8", "-m", "pytest", "-q", "-p", "no:faulthandler", str(root / "tests")]))

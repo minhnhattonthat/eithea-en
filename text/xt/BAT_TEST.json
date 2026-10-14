@@ -1,0 +1,23 @@
+[
+ {
+  "id": "BAT_TEST:0000",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　最初の戦闘　　　　　　　　月光の塔ボス\n　銃を見つけた後の戦闘　　　イオピロスボス\n　体育館の戦闘　　　　　　　次へ",
+  "en": "First battle              Moonlight Tower boss\nBattle after finding gun  Iopiros boss\nGym battle                Next"
+ },
+ {
+  "id": "BAT_TEST:0001",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　基本パターン１　　　　　　基本パターン４\n　基本パターン２　　　　　　基本パターン５\n　基本パターン３　　　　　　次へ",
+  "en": "Basic pattern 1           Basic pattern 4\nBasic pattern 2           Basic pattern 5\nBasic pattern 3           Next"
+ },
+ {
+  "id": "BAT_TEST:0002",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　基本パターン６　　　　　　基本パターン９\n　基本パターン７　　　　　　基本パターン１０\n　基本パターン８　　　　　　戻る",
+  "en": "Basic pattern 6           Basic pattern 9\nBasic pattern 7           Basic pattern 10\nBasic pattern 8           Back"
+ }
+]

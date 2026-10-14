@@ -18,7 +18,7 @@ import font
 
 root = pathlib.Path(__file__).resolve().parent.parent
 OUT = root / "text" / "xt"
-SKIP = {"DEBUG", "START1", "STARTBAK", "BAT_TEST", "BAST_CHK"}  # debug-only scripts, left Japanese
+SKIP = set()   # names of scripts to leave Japanese (none: the developer debug menus are translated too)
 LQ, RQ, NM, NME = "「」〈〉"
 CIRC = "①②③④⑤⑥⑦⑧⑨⑩"
 WIDTH = {"msg": 48, "choice": 46}   # chars per line (6 px each); provisional until the width gate
@@ -98,9 +98,10 @@ def from_jp(t):
 TAG = re.compile(r"<(10|[1-9])>")
 
 
-def enc_line(s):
+def enc_line(s, pad=" "):
     """English line -> pair codes. Inline codes must sit on a pair boundary: a lone char before a code is
-    resolved by moving a colour start before a space, deferring <8>/<10> by one char, or padding with a space."""
+    resolved by moving a colour start before a space, deferring <8>/<10> by one char, or padding with a space.
+    pad: the filler for an odd-length tail (font.PAD for EXE strings the game glues with strcat)."""
     toks = [t for t in re.split(r"(<(?:10|[1-9])>)", s) if t]
     out, pend, i = [], "", 0
     seq = []                                             # flatten to chars and codes
@@ -128,7 +129,7 @@ def enc_line(s):
         else:
             pend = x
     if pend:
-        out.append(font.pair(pend, " "))
+        out.append(font.pair(pend, pad))
     out.extend(bytes((0x87, 0x3F + h)) for h in held)
     return b"".join(out)
 
@@ -141,9 +142,10 @@ def visible_len(s):
     return n + sum(1 for _ in TAG.finditer(s))  # worst case: each code costs one padding space
 
 
-def enc_en(en, kind, speaker=""):
-    """<p> = extra message page: 」 hcls 〈speaker〉 「 (hcls waits for the button and clears the name box)."""
-    pre = "　".encode("cp932") if kind == "choice" else b""
+def enc_en(en, kind, speaker="", lead=True):
+    """<p> = extra message page: 」 hcls 〈speaker〉 「 (hcls waits for the button and clears the name box).
+    lead: a choice line starts with the 0x8140 cursor cell only if the Japanese did."""
+    pre = "　".encode("cp932") if kind == "choice" and lead else b""
     sep = f"」\r\nhcls\r\n{f'〈{speaker}〉' + chr(13) + chr(10) if speaker else ''}「".encode("cp932")
     fix = (lambda l: l.lstrip(" ")) if kind == "choice" else (lambda l: l)   # cursor cell is the 0x8140 prefix
     return sep.join(b"\r\n".join(pre + enc_line(fix(l)) for l in page.split("\n")) for page in en.split("<p>"))
@@ -252,7 +254,7 @@ def insert(b, rows, mode="en"):
         elif mode == "marker":
             out.append(enc_en(marker(r), r["kind"]))
         elif r["en"]:
-            out.append(enc_en(r["en"], r["kind"], e["speaker"]))
+            out.append(enc_en(r["en"], r["kind"], e["speaker"], e["jp"][:1] == "　"))
         else:
             out.append(b[e["start"]:e["end"]])
         pos = e["end"]

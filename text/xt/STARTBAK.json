@@ -1,0 +1,121 @@
+[
+ {
+  "id": "STARTBAK:0000",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　最初から　　　　　　　　　ボイステスト\n　途中に飛び込み\n　ロードして始める",
+  "en": "From the start            Voice test\nJump into the middle\nLoad and start"
+ },
+ {
+  "id": "STARTBAK:0001",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　データ１\n　データ２\n　戻る",
+  "en": "Data 1\nData 2\nBack"
+ },
+ {
+  "id": "STARTBAK:0002",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　１章　　　　　　　　　　　４章\n　２章　　　　　　　　　　　５章\n　３章",
+  "en": "Ch.1                      Ch.4\nCh.2                      Ch.5\nCh.3"
+ },
+ {
+  "id": "STARTBAK:0003",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　最初から始める　　　　　　体育館\n　教室から始める　　　　　　丘を出発する\n　体育館へ続く通路",
+  "en": "Start from the beginning  Gym\nStart from the classroom  Leave the hill\nPassage to the gym"
+ },
+ {
+  "id": "STARTBAK:0004",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　体育館　　　　　　　　　　丘を出発する\n　イオピロスの丘到着　　　　月光族の村の入り口\n　丘の翌朝イベント　　　　　戻る",
+  "en": "Gym                       Leave the hill\nReach Iopiros Hill        Moonlight Clan gate\nHill morning event        Back"
+ },
+ {
+  "id": "STARTBAK:0005",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　２章はじめから\n　月光の塔攻略開始\n　月光の塔６階ボス前",
+  "en": "Ch.2 from the start\nStart Moonlight Tower\nMoonlight Tower, before F6 boss"
+ },
+ {
+  "id": "STARTBAK:0006",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　塔６階ボス　　　　　　　　戻る\n　<1>塔攻略後タリスマなし　　　\n　<1>塔攻略後タリスマあり　　　",
+  "en": "Tower F6 boss             Back\n<1>After tower, no Talisma\n<1>After tower, with Talisma"
+ },
+ {
+  "id": "STARTBAK:0007",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　月光の村　　　　　　　　　月光の塔６階\n　月光の塔入り口　　　　　　戻る\n　月光の塔３階　　　　　　　",
+  "en": "Moonlight Village         Moonlight Tower F6\nMoonlight Tower entrance  Back\nMoonlight Tower F3"
+ },
+ {
+  "id": "STARTBAK:0008",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　アルバイジャン到着後　　　ゆか捕まる\n　イオピロス塔攻略開始\n　イオピロスの塔ボス",
+  "en": "After Albaijan arrives    Yuka gets caught\nStart Iopiros Tower\nIopiros Tower boss"
+ },
+ {
+  "id": "STARTBAK:0009",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　イオピロスの塔へ　　　　　イオピロスの塔６階\n　イオピロスの塔入口　　　　戻る\n　イオピロスの塔３階　　　　",
+  "en": "To Iopiros Tower          Iopiros Tower F6\nIopiros Tower entrance    Back\nIopiros Tower F3"
+ },
+ {
+  "id": "STARTBAK:0010",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　イオピロス塔攻略開始　　　ボスを倒して村へ戻る\n　イオピロスの塔１階攻略　　＊アルバイジャン解析\n　イオピロスの塔ボス　　　　戻る",
+  "en": "Start Iopiros Tower       Boss beaten, return\nIopiros Tower F1 clear    *Analyze Albaijan\nIopiros Tower boss        Back"
+ },
+ {
+  "id": "STARTBAK:0011",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　４章始まり　　　　　　　　地下探索開始\n　ひかる探索開始　　　　　　空かないコンテナ\n　地下で実験開始　　　　　　ひかるがもらう",
+  "en": "Ch.4 start                Start ruins search\nStart Hikaru search       Locked container\nStart underground test    Hikaru receives it"
+ },
+ {
+  "id": "STARTBAK:0012",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　地下で実験開始へ　　　　　キャンプ・ユカ\n　地下探索開始　　　　　　　空かないコンテナ\n　キャンプ・ひかる　　　　　つぎへ",
+  "en": "Go to underground test    Camp: Yuka\nStart ruins search        Locked container\nCamp: Hikaru              Next"
+ },
+ {
+  "id": "STARTBAK:0013",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　ひかるがイムルにもらう　　　\n　ペンダント解析　　　　　　　\n　地下でタリスマゲット　　　　戻る",
+  "en": "Hikaru gets it from Imul\nAnalyze the pendant\nGet Talisma underground   Back"
+ },
+ {
+  "id": "STARTBAK:0014",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　カーライルの町　　　　　　カーライル地下３Ｆへ\n　カーライル地下１Ｆ　　　　もどる\n　カーライル地下２Ｆ　　　　",
+  "en": "Carlyle town              Carlyle basement 3F\nCarlyle basement 1F       Back\nCarlyle basement 2F"
+ },
+ {
+  "id": "STARTBAK:0015",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　５章始まり\n　洞窟・実験室前\n　牢の中でユカが告白",
+  "en": "Ch.5 start\nCave, before the lab\nYuka confesses in the cell"
+ },
+ {
+  "id": "STARTBAK:0016",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　城の地下１Ｆへ　　　　　　城下町の入り口\n　城の地下３Ｆへ　　　　　　もどる\n　城の地下５Ｆへ　　　　　　",
+  "en": "Castle basement 1F        Castle town gate\nCastle basement 3F        Back\nCastle basement 5F"
+ }
+]

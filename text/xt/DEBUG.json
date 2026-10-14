@@ -1,0 +1,72 @@
+[
+ {
+  "id": "DEBUG:0000",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　最初から　　　　　　　　　ボイステスト\n　途中に飛び込み　　　　　　魔弾テスト\n　ロードして始める",
+  "en": "From the start            Voice test\nJump in midway            Magic Bullet test\nLoad and start"
+ },
+ {
+  "id": "DEBUG:0001",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "もう一回\n戻る",
+  "en": "Once more\nBack"
+ },
+ {
+  "id": "DEBUG:0002",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　データ１\n　データ２\n　戻る",
+  "en": "Data 1\nData 2\nBack"
+ },
+ {
+  "id": "DEBUG:0003",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　１章　　　　　　　　　　　４章\n　２章　　　　　　　　　　　５章\n　３章",
+  "en": "Ch.1                      Ch.4\nCh.2                      Ch.5\nCh.3"
+ },
+ {
+  "id": "DEBUG:0004",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　最初から始める　　　　　　体育館\n　廊下から始める　　　　　　丘を出発する\n　体育館へ続く通路",
+  "en": "Start from the beginning  Gym\nStart from the hallway    Leave the hill\nPassage to the gym"
+ },
+ {
+  "id": "DEBUG:0005",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　２章はじめから\n　月光の塔攻略開始\n　月光の塔６階ボス前",
+  "en": "Ch.2 from the start\nStart Moonlight Tower\nMoonlight Tower, before F6 boss"
+ },
+ {
+  "id": "DEBUG:0006",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　アルバイジャン到着後　　　ゆか捕まる\n　イオピロス塔攻略開始\n　イオピロスの塔ボス",
+  "en": "After Albaijan arrives    Yuka gets caught\nStart Iopiros Tower\nIopiros Tower boss"
+ },
+ {
+  "id": "DEBUG:0007",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　４章始まり　　　　　　　　地下探索開始\n　ひかる探索開始　　　　　　空かないコンテナ\n　地下で実験開始　　　　　　次へ",
+  "en": "Ch.4 start                Start ruins search\nStart Hikaru search       Locked container\nStart underground test    Next"
+ },
+ {
+  "id": "DEBUG:0008",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　ひかるがもらう\n　ペンダント解析\n　タリスマ発見",
+  "en": "Hikaru receives it\nAnalyze the pendant\nFound the Talisma"
+ },
+ {
+  "id": "DEBUG:0009",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　５章始まり\n　洞窟…実験室前\n　牢の中でユカが告白",
+  "en": "Ch.5 start\nCave, before the lab\nYuka confesses in the cell"
+ }
+]

@@ -49,7 +49,7 @@ def esc(s):
 
 
 def unesc(s):
-    return s.replace("\\n", "\n").strip()
+    return s.replace("\\n", "\n").strip(" \t\r")   # keep blank trailing menu lines
 
 
 def limit(kind):

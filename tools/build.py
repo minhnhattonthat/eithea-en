@@ -28,7 +28,8 @@ def edit(items, qa_novoice, overrides=(), scripts=None):
     for name, typ, data in items:
         key = f"{name.rstrip()}.{typ.rstrip()}"
         if scripts and typ == "XT" and name.rstrip() in scripts:
-            data = scripts[name.rstrip()]
+            v = scripts[name.rstrip()]
+            data = v(data) if callable(v) else v
         if key in ov:
             data = pathlib.Path(ov[key]).read_bytes()
         if qa_novoice and typ == "XT":
@@ -68,6 +69,8 @@ def build(n, out, qa_novoice=False, overrides=(), english=False, marker=False, k
     if english:  # translated XT scripts (text/xt/*.json); mode "marker" shows ids instead
         import text
         scripts = {nm: b for (d, nm), b in text.files(marker and "marker" or "en").items() if d == f"d{n}"}
+        import access
+        scripts["START"] = access.start_script            # hidden debug-menu gate (hold L1+R1 on New Game)
     items = edit(bind.split((cd / "BIND.TBL").read_bytes(), (cd / "BIND.DAT").read_bytes()), qa_novoice, overrides, scripts)
     tbl, dat = bind.join(items)
     (tree / "CD_DATA" / "BIND.TBL").write_bytes(tbl)

@@ -17,9 +17,7 @@ KNOWN LIMITATIONS
 - Spoken voice acting stays Japanese (text is English).
 - The title logo, the stylized brush-written names that animate in the opening movie, and a few
   pieces of in-world artwork stay as drawn.
-- Text uses a fixed-width 6 px font. Odd-length names can leave a double space before a following
-  word in some battle messages (e.g. "Doggy  defeated!").
-- The developer debug menus are left in Japanese.
+- Text uses a fixed-width 6 px font.
 - Staff name readings are best effort; corrections welcome.
 
 REQUIRED FILES (Redump, Rev 1)
@@ -32,6 +30,13 @@ HOW TO PATCH
 3. Keep your original .cue file for each disc; edit the FILE line to point at the patched .bin
    (or rename the patched .bin to the original name).
 4. Check the patched CRC32 / SHA-1 against the values above.
+
+DEBUG MENU (developer tool, translated)
+Hold L1 + R1 while you choose New Game on the title screen (keep them held until the loading screen
+appears). The developer menu opens instead of the prologue: start a chapter or scene directly, test
+battles, check voices and character expressions. It was never meant for players: jumping into the
+middle of the story skips events and can leave flags unset, so don't save over a real game with it.
+Disc 2 has its own list (chapters 6-10, endings and epilogues).
 
 TESTING
 Checked in PCSX-Redux (SCPH-5500 BIOS): boot, prologue, opening movie, the first chapter's opening

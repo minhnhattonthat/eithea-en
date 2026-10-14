@@ -1,0 +1,149 @@
+[
+ {
+  "id": "START1:0000",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　６章　　　　　　　　　　　９章\n　７章　　　　　　　　　　　１０章前半\n　８章　　　　　　　　　　　次へ",
+  "en": "Ch.6                      Ch.9\nCh.7                      Ch.10, first half\nCh.8                      Next"
+ },
+ {
+  "id": "START1:0001",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　１０章後半　　　　　　　　　　ＥＤひかる\n　ＥＤパーティー　　　　　　ＥＤ秋穂\n　ＥＤユカ　　　　　　　　　次へ",
+  "en": "Ch.10, second half        Ending: Hikaru\nEnding: Party             Ending: Akiho\nEnding: Yuka              Next"
+ },
+ {
+  "id": "START1:0002",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　ＥＤルー　　　　　　　　　ＥＰひかる\n　ＥＤハーミー　　　　　　　ＥＰ秋穂\n　ＥＰユカ　　　　　　　　　次へ",
+  "en": "Ending: Lou               Epilogue: Hikaru\nEnding: Hermie            Epilogue: Akiho\nEpilogue: Yuka            Next"
+ },
+ {
+  "id": "START1:0003",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　ＥＰルー　　　　　　　　　地下聖堂\n　ＥＰハーミー　　　　　　　地下廃虚２\n　もどる",
+  "en": "Epilogue: Lou             Underground Chapel\nEpilogue: Hermie          Underground Ruins 2\nBack"
+ },
+ {
+  "id": "START1:0004",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　６章始まり　　　　　　　　黒の間前\n　宿を探索開始　　　　　　　アゼルの家で・・・\n　アゼルと会う",
+  "en": "Ch.6 start                Before Black Chamber\nStart exploring the inn   At Azel's house...\nMeet Azel"
+ },
+ {
+  "id": "START1:0005",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　ダンジョン内ユカ　　　　　アゼルの家で・・・\n　ダンジョン内ひかる　　　　\n　地下３階へ　　　　　　　　",
+  "en": "Yuka in the dungeon       At Azel's house...\nHikaru in the dungeon\nTo Basement 3"
+ },
+ {
+  "id": "START1:0006",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　火竜城町の入り口へ　　　　火竜城の地下牢へ３Ｆ\n　火竜城の城下町へ　　　　　もどる\n　火竜城の地下牢へ１Ｆ　　　",
+  "en": "Castle town entrance      Castle dungeon, 3F\nCastle town               Back\nFire Dragon Castle dungeon, 1F"
+ },
+ {
+  "id": "START1:0007",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　マップ　　　　　　　　　　王の間でレイが\n　８章始まり　　　　　　　　黒の間でヴァムールと\n　城の中でキャンプ　　　　　ユン死亡",
+  "en": "Map                       Rea, throne room\nCh.8 start                Vamur, Black Chamber\nCamp in the castle        Yun dies"
+ },
+ {
+  "id": "START1:0008",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　火竜城町の入り口へ　　　　火竜城中女王の間\n　火竜城の城下町へ　　　　　もどる\n　火竜城の中１Ｆ　　　　　　",
+  "en": "Castle town entrance      the Queen's chamber\nCastle town               Back\nFire Dragon Castle, floor 1"
+ },
+ {
+  "id": "START1:0009",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　マップ　　　　　　　　　　自由移動開始\n　９章始まり　　　　　　　　傷心のルー\n　ピエンと会う　　　　　　　次へ",
+  "en": "Map                       Start free roaming\nCh.9 start                Heartbroken Lou\nMeet Pien                 Next"
+ },
+ {
+  "id": "START1:0010",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　ポーポー泣く　　　　　　　迷いの森攻略中\n　夜に出発　　　　　　　　　ユカのセンチ\n　秋穂の気持ち　　　　　　　次へ",
+  "en": "Popo crying               In the Lost Forest\nLeave at night            Yuka's sentiment\nAkiho's feelings          Next"
+ },
+ {
+  "id": "START1:0011",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　タリスマ発見　　　　　　\n　戻る",
+  "en": "Found the Talisma\nBack"
+ },
+ {
+  "id": "START1:0012",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　ヤムヤムの町　　　　　　　ヤムヤムの森Ｅ\n　ヤムヤムの森　　　　　　　もどる\n　ヤムヤムの森Ｄ　　　　　　",
+  "en": "Yamyam Town               Yamyam Forest E\nYamyam Forest             Back\nYamyam Forest D"
+ },
+ {
+  "id": "START1:0013",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　マップ　　　　　　　　　　テントイベント秋穂\n　最初から　　　　　　　　　制御装置前カレン\n　攻略開始　　　　　　　　　ピエンから転送",
+  "en": "Map                       Tent event: Akiho\nFrom the start            Karen at controls\nStart the dungeon         Teleport from Pien"
+ },
+ {
+  "id": "START1:0014",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　神木入り口　　　　　　　　\n　　　　　　　　　　　　　　\n　　　　　　　　　　　　　　",
+  "en": "Sacred Tree entrance\n\n"
+ },
+ {
+  "id": "START1:0015",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　最初から　　　　　　　　　街の中へ\n　月光の村へ到着　　　　　　ダンジョンハーミー\n　ランドーと話す　　　　　　次へ",
+  "en": "From the start            Into the town\nReach Moonlight Village   Hermie's dungeon\nTalk to Rando             Next"
+ },
+ {
+  "id": "START1:0016",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　丘の上のシャイとルー　　　聖堂ダンジョン\n　ハーミーイベント　　　　　　ルーの家\n　ミュウとの戦闘　　　　　　　次へ\n",
+  "en": "Shai and Lou on the hill  Cathedral dungeon\nHermie event              Lou's house\nFight with Myu            Next\n"
+ },
+ {
+  "id": "START1:0017",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　村の中へ　　　　　　　　　アルバイジャン家\n　カーライルの抜け穴　　　　　廃墟開始\n　カーライル到着　　　　　　　次へ\n",
+  "en": "Into the village          Albaijan's house\nCarlyle secret passage    Start ruins\nReach Carlyle             Next\n"
+ },
+ {
+  "id": "START1:0018",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　最初から　　　　　　　　　ラスト・ユカ\n　カーライル地下３　　　　　ラスト・ひかる\n　カーライル地下４　　　　次へ",
+  "en": "From the start            Finale: Yuka\nCarlyle basement 3        Finale: Hikaru\nCarlyle basement 4        Next"
+ },
+ {
+  "id": "START1:0019",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　ラスト・秋穂\n　ラスト・ルー\n　ラスト・ハーミー",
+  "en": "Finale: Akiho\nFinale: Lou\nFinale: Hermie"
+ },
+ {
+  "id": "START1:0020",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　ユカ　　　　　　　　　　　ルー\n　ひかる　　　　　　　　　　ハーミー\n　秋穂　　　　　　　　　　　戻る",
+  "en": "Yuka                      Lou\nHikaru                    Hermie\nAkiho                     Back"
+ }
+]

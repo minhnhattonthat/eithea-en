@@ -70,8 +70,10 @@ G = {
 }
 G['é'] = "...#./..#../...../.###./#...#/#####/#..../.###."
 G['~'] = "...../...../...../.#..#/#.#.#/#..#."
-ALIAS = {'♪': '{', '♥': '}', 'é': '`', '~': '|', '…': None}  # Unicode -> slot char; '…' rejected (write "...")
-CHARS = {chr(0x20 + i) for i in range(94)} - {'{', '}', '`', '|'} | set(ALIAS) - {'…'}
+PAD = '␠'   # invisible "unused second half" of an odd-length EXE string; the strcat hook (asm/font.asm) merges it
+BATTLE_NAMES = ("Shou", "Yuka", "Hikaru", "Akiho", "Lou", "Imul", "Hermie")   # party-name switch cases 0..5 (+Hermie)
+ALIAS = {'♪': '{', '♥': '}', 'é': '`', '~': '|', PAD: '^', '…': None}  # Unicode -> slot char; '…' rejected (write "...")
+CHARS = {chr(0x20 + i) for i in range(94)} - {'{', '}', '`', '|', '^'} | set(ALIAS) - {'…', PAD}
 
 
 def half(ch):
@@ -107,10 +109,10 @@ def unpair(lead, trail):
     return "".join(rev.get(chr(0x20 + i), chr(0x20 + i)) for i in (i1, i2))
 
 
-def encode(text):
-    """ASCII text -> pair codes; odd length gets a trailing space."""
+def encode(text, pad=" "):
+    """ASCII text -> pair codes; odd length gets a trailing pad (a space, or PAD for glued EXE strings)."""
     if len(text) % 2:
-        text += " "
+        text += pad
     return b"".join(pair(text[i], text[i + 1]) for i in range(0, len(text), 2))
 
 
@@ -120,11 +122,11 @@ def build(out):
     # patches out/EITHEA.EXE (a fresh copy of the original) and writes the ext code
     (out / "EITHEA.EXE").write_bytes((root / "work/d1/tree/EITHEA.EXE").read_bytes())
     subprocess.run([str(root / "tools/armips/armips.exe"), str(root / "asm/font.asm"), "-root", str(out),
-                    "-strequ", "CODEOUT", "fontext.bin"], check=True)
+                    "-strequ", "CODEOUT", "fontext.bin", "-sym", "fontext.sym"], check=True)
     ext = bytearray((out / "fontext.bin").read_bytes())
-    for k, name in enumerate(("Shou", "Akiho")):           # battle-prompt names (asm str_shou / str_akiho)
-        b = encode(name) + b"\0"
-        ext[len(ext) - 16 + 8 * k:len(ext) - 8 + 8 * k] = b.ljust(8, b"\0")
+    for k, name in enumerate(BATTLE_NAMES):                # 8-byte slots at the end of the ext code (asm `names`)
+        b = encode(name, PAD) + b"\0"
+        ext[len(ext) - 56 + 8 * k:len(ext) - 48 + 8 * k] = b.ljust(8, b"\0")
     ext = bytes(ext)
     order = [chr(0x20 + i) for i in range(94)]
     rev = {v: k for k, v in ALIAS.items() if v}

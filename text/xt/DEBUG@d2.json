@@ -1,0 +1,163 @@
+[
+ {
+  "id": "DEBUG@d2:0000",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　本編　　　　　　　　　　　ボイスチェック\n　追加分ボイスチェック　　　再々追加分ボイス　　\n　ロードしてはじめる",
+  "en": "Main story                Voice check\nAdded voice check         More added voices\nLoad and start"
+ },
+ {
+  "id": "DEBUG@d2:0001",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　データ１\n　データ２\n　戻る",
+  "en": "Data 1\nData 2\nBack"
+ },
+ {
+  "id": "DEBUG@d2:0002",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　６章　　　　　　　　　　　９章\n　７章　　　　　　　　　　　１０章\n　８章　　　　　　　　　　　次へ",
+  "en": "Ch.6                      Ch.9\nCh.7                      Ch.10\nCh.8                      Next"
+ },
+ {
+  "id": "DEBUG@d2:0003",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　エンディング\n　エピローグ",
+  "en": "Ending\nEpilogue"
+ },
+ {
+  "id": "DEBUG@d2:0004",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　パーティー　　　　　　　　秋穂\n　ユカ　　　　　　　　　　　ルー\n　ひかる　　　　　　　　　　ハーミー",
+  "en": "Party                     Akiho\nYuka                      Lou\nHikaru                    Hermie"
+ },
+ {
+  "id": "DEBUG@d2:0005",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　ユカ　　　　　　　　　　　ルー\n　ひかる　　　　　　　　　　ハーミー１\n　秋穂　　　　　　　　　　　ハーミー２",
+  "en": "Yuka                      Lou\nHikaru                    Hermie 1\nAkiho                     Hermie 2"
+ },
+ {
+  "id": "DEBUG@d2:0006",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　６章始まり　　　　　　　　黒の間前\n　宿を探索開始\n　アゼルと会う",
+  "en": "Ch.6 start                Before Black Chamber\nStart exploring the inn\nMeet Azel"
+ },
+ {
+  "id": "DEBUG@d2:0007",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　ダンジョン内ユカ　　　　　アゼルの家で………\n　ダンジョン内ひかる　　　　\n　地下３階へ　　　　　　　　",
+  "en": "Yuka in the dungeon       At Azel's house...\nHikaru in the dungeon\nTo Basement 3"
+ },
+ {
+  "id": "DEBUG@d2:0008",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　火竜城町の入り口へ　　　　火竜城の地下牢へ３Ｆ\n　火竜城の城下町へ　　　　　もどる\n　火竜城の地下牢へ１Ｆ　　　",
+  "en": "Castle town entrance      Castle dungeon, 3F\nCastle town               Back\nFire Dragon Castle dungeon, 1F"
+ },
+ {
+  "id": "DEBUG@d2:0009",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　７章始まり　　　　　　　　黒の間でヴァムールと\n　城の中でキャンプ　　　　　ユン死亡\n　王の間でレイが",
+  "en": "Ch.7 start                Vamur, Black Chamber\nCamp in the castle        Yun dies\nRea in the throne room"
+ },
+ {
+  "id": "DEBUG@d2:0010",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　火竜城町の入り口へ　　　　火竜城中女王の間\n　火竜城の城下町へ　　　　　もどる\n　火竜城の中１Ｆ　　　　　　",
+  "en": "Castle town entrance      the Queen's chamber\nCastle town               Back\nFire Dragon Castle, floor 1"
+ },
+ {
+  "id": "DEBUG@d2:0011",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　８章始まり\n　自由移動開始\n　タリスマ発見",
+  "en": "Ch.8 start\nStart free roaming\nFound the Talisma"
+ },
+ {
+  "id": "DEBUG@d2:0012",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　ポーポー泣く　　　　　　　迷いの森攻略中\n　夜に出発　　　　　　　　　ユカのセンチ\n　秋穂の気持ち　　　　　　　次へ",
+  "en": "Popo crying               In the Lost Forest\nLeave at night            Yuka's sentiment\nAkiho's feelings          Next"
+ },
+ {
+  "id": "DEBUG@d2:0013",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　タリスマ発見　　　　　　\n　戻る",
+  "en": "Found the Talisma\nBack"
+ },
+ {
+  "id": "DEBUG@d2:0014",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　ヤムヤムの町　　　　　　　ヤムヤムの森Ｅ\n　ヤムヤムの森　　　　　　　もどる\n　ヤムヤムの森Ｄ　　　　　　",
+  "en": "Yamyam Town               Yamyam Forest E\nYamyam Forest             Back\nYamyam Forest D"
+ },
+ {
+  "id": "DEBUG@d2:0015",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　９章始まり\n　制御装置前カレン",
+  "en": "Ch.9 start\nKaren at the control device"
+ },
+ {
+  "id": "DEBUG@d2:0016",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　神木入り口　　　　　　　　\n　　　　　　　　　　　　　　\n　　　　　　　　　　　　　　",
+  "en": "Sacred Tree entrance\n\n"
+ },
+ {
+  "id": "DEBUG@d2:0017",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　１０章始まり　　　　　　　ルーの家\n　月光の村へ到着　　　　　　カーライル到着\n　神託所に行きたい　　　　　次へ",
+  "en": "Ch.10 start               Lou's house\nReach Moonlight Village   Reach Carlyle\nTo the Oracle Shrine      Next"
+ },
+ {
+  "id": "DEBUG@d2:0018",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　カーライル地下３　　　　　ラスト…秋穂\n　ラスト…ユカ　　　　　　　ラスト…ルー\n　ラスト…ひかる　　　　　　ラスト…ハーミー",
+  "en": "Carlyle basement 3        Finale: Akiho\nFinale: Yuka              Finale: Lou\nFinale: Hikaru            Finale: Hermie"
+ },
+ {
+  "id": "DEBUG@d2:0019",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　村の中へ　　　　　　　　　アルバイジャン家\n　カーライルの抜け穴　　　　　廃墟開始\n　カーライル到着",
+  "en": "Into the village          Albaijan's house\nCarlyle secret passage    Start ruins\nReach Carlyle"
+ },
+ {
+  "id": "DEBUG@d2:0020",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　最初から　　　　　　　　　ラスト…ユカ\n　カーライル地下３　　　　　ラスト…ひかる\n　カーライル地下４　　　　次へ",
+  "en": "From the start            Finale: Yuka\nCarlyle basement 3        Finale: Hikaru\nCarlyle basement 4        Next"
+ },
+ {
+  "id": "DEBUG@d2:0021",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　ラスト…秋穂\n　ラスト…ルー\n　ラスト…ハーミー",
+  "en": "Finale: Akiho\nFinale: Lou\nFinale: Hermie"
+ },
+ {
+  "id": "DEBUG@d2:0022",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　ユカ　　　　　　　　　　　ルー\n　ひかる　　　　　　　　　　ハーミー\n　秋穂　　　　　　　　　　　戻る",
+  "en": "Yuka                      Lou\nHikaru                    Hermie\nAkiho                     Back"
+ }
+]

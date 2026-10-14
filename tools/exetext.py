@@ -59,7 +59,7 @@ def encode(en, size):
     if en.startswith("raw:"):
         b = en[4:].encode("cp932")
     else:
-        b = b"\r\n".join(text.enc_line(l) for l in en.split("\n"))
+        b = b"\r\n".join(text.enc_line(l, text.font.PAD) for l in en.split("\n"))
     if len(b) > size:
         raise ValueError(f"{len(b)} bytes > {size}: {en!r}")
     return b + FWS * ((size - len(b)) // 2)
