@@ -49,7 +49,7 @@ def build(n, out, qa_novoice=False, overrides=(), english=False, marker=False):
         font.build(fb)
         import exetext
         import gfx
-        files, patch = gfx.all_files()                      # English images + EXE words they need
+        files, patch = gfx.all_files(f"d{n}")                      # English images + EXE words they need
         exe = gfx.exe_patch(exetext.apply((fb / "EITHEA.EXE").read_bytes()), patch)
         (tree / "EITHEA.EXE").write_bytes(exe)
         gd = out / "gfx"

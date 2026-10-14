@@ -319,6 +319,173 @@ def album():
     return {"OMOI1.IM": save("OMOI1.IM", im)}
 
 
+def note():
+    """EVCHI.IM: handwritten 地下室 ("basement") on white paper."""
+    im = img("EVCHI.IM")
+    im = erase(im, (8, 8, 312, 232), lambda r, g, b: max(r, g, b) < 170, grow=2, iters=60)
+    im = text(im, (20, 60, 300, 180), "Basement", font="Inkfree.ttf", size=58, fill=(40, 40, 40), halo=None, stroke=0)
+    return {"EVCHI.IM": save("EVCHI.IM", im)}
+
+
+def mono_pages(p, base=0x14CF0):
+    """256x256 4bpp texture pages inside a MONO*.P map file: [(offset, 256x256 index array)]."""
+    import numpy as np
+    out, o = [], base % 0x8200
+    while o + 0x8000 <= len(p):
+        if o >= 0x200:
+            a = np.frombuffer(p[o:o + 0x8000], np.uint8).reshape(256, 128)
+            px = np.zeros((256, 256), np.uint8); px[:, 0::2] = a & 15; px[:, 1::2] = a >> 4
+            out.append((o, px))
+        o += 0x8200
+    return out
+
+
+def paragraphs(px, bg, gap=3):
+    """text blocks in a page: [(x0, y0, x1, y1)] split where more than `gap` rows step separates text rows
+    (lines inside a paragraph are 2-3 rows apart, paragraphs 4+)."""
+    import numpy as np
+    m = px != bg
+    rows = np.nonzero(m.any(axis=1))[0]
+    blocks, start, prev = [], None, None
+    for y in rows:
+        if start is None:
+            start = y
+        elif y - prev > gap:
+            blocks.append((start, prev)); start = y
+        prev = y
+    if start is not None:
+        blocks.append((start, prev))
+    out = []
+    for a, b in blocks:
+        cols = np.nonzero(m[a:b + 1].any(axis=0))[0]
+        out.append((int(cols.min()), int(a), int(cols.max()) + 1, int(b) + 1))
+    return out
+
+
+def glow_text(w, h, s, font="tahomabd.ttf", max_size=13):
+    """levels 0..15: white core (15) with a soft glow (1..6), centred lines; largest size that fits."""
+    import numpy as np
+    from PIL import ImageFilter
+    words = s.replace("\n", " ").split()
+    d = ImageDraw.Draw(Image.new("L", (1, 1)))
+    for size in range(max_size, 6, -1):
+        f = ImageFont.truetype(WIN + font, size)
+        lines, cur = [], ""
+        for wd in words:                                    # greedy wrap to the block width
+            t = f"{cur} {wd}".strip()
+            if cur and f.getlength(t) > w - 6:
+                lines.append(cur); cur = wd
+            else:
+                cur = t
+        lines.append(cur)
+        s = "\n".join(lines)
+        bb = d.multiline_textbbox((0, 0), s, font=f, spacing=2, align="center")
+        if bb[2] - bb[0] <= w - 4 and bb[3] - bb[1] <= h - 2:
+            break
+    core = Image.new("L", (w, h))
+    d = ImageDraw.Draw(core)
+    d.multiline_text(((w - (bb[2] - bb[0])) // 2 - bb[0], (h - (bb[3] - bb[1])) // 2 - bb[1]), s, font=f,
+                     fill=255, spacing=2, align="center")
+    glow = core.filter(ImageFilter.MaxFilter(3)).filter(ImageFilter.GaussianBlur(1))
+    c, g = np.array(core) / 255.0, np.array(glow) / 255.0
+    lev = np.maximum(np.round(c * 9 + (c > 0.1) * 6), np.round(np.minimum(g * 2, 1) * 6) * (g > 0.05))
+    return np.clip(lev, 0, 15).astype(np.uint8)
+
+
+# MONO*.P: (page base offset, texts for the auto-detected blocks in page order, top to bottom). A text is a script
+# row id, literal English, or [(lines, text), ...] to split one detected block whose JP paragraphs touch.
+MONO = {
+    ("d1", "MONO1.P"): (0x14CF0, ["IVENT01:0000", "But I don't know if that's my real name.", "IVENT01:0001",
+                                  "IVENT01:0002", "IVENT01:0003", "IVENT01:0004", "IVENT01:0005",
+                                  "IVENT02B:0110", "IVENT02B:0111"]),
+    ("d2", "MONO2.P"): (0x5410, [
+        "And so, our adventure in the other world of Eithéa ended, and we came back to our own world.",
+        "A world without dragons, and without any oddball princes, either.",
+        "Sometimes I even wonder if everything that happened in that world was just a dream.",
+        "Just like the future of our own world...",
+        "But we all remember what happened there, and Hitoshi and Manabu seem to like it so much they still haven't come back.",
+        "After we got back, I found out we'd only been missing for a few hours.",
+        "It seems we'd been listed as missing in all the commotion.",
+        "Whoever summoned us... I'd guess the \"Saint of the Ele Tree\"... must have sent just the school back ahead of us.",
+        [(3, "Honestly, I still don't really know if what we did in Eithéa was right or not."),
+         (5, "Right after the earthquake, the whole school was suddenly reduced to ruins, and there was total panic, apparently.")],
+        "But I only ever did what I believed was right, and in the end, that's about all I can do.",
+        "Sometimes I get nostalgic about Eithéa, but I don't think I'll ever go back there again.",
+        "The future of Eithéa is for the people who live there to carve out together.",
+        "Isn't that right, Lou...?"]),
+    ("d2", "MONO4.P"): (0x5440, [
+        "And so, our adventure in Eithéa, another world, came to an end.",
+        "As for me, I chose to stay and live in this world with Hermie.",
+        "But I only ever did what I believed was right, and in the end, that's about all I can do.",
+        "Well, if you think about it, this place is kind of like my hometown anyway.",
+        "When I told everyone I was staying, I think Yuka even cried...",
+        "Sensei called me a \"lolicon,\" and Itou-san gave me the cold shoulder. It was rough.",
+        "Still, what happened here is a precious memory for all of us, and Hitoshi and Manabu seem so comfortable they show no sign of going back.",
+        "Oh, and the other day, Albaijan and Namuria had their wedding.",
+        "Knowing Namuria, Albaijan is sure to end up under her thumb...",
+        "Imul's still busy chasing girls as ever. As for Lou, who knows what got into her, but I hear she's been training to be a bride every day.",
+        [(1, "Well, that's how peaceful it is."),
+         (4, "Honestly, I still don't really know if what we did in Eithéa was right or not.")],
+        [(4, "Sometimes I miss my old world, but I'll probably never go back there again."),
+         (4, "Eithéa's future is something we'll have to carve out with our own strength.")]]),
+}
+MONO["d2", "MONO3.P"] = MONO["d2", "MONO2.P"]   # identical file
+
+
+def mono_text(ref):
+    if ":" not in ref or " " in ref:
+        return ref
+    key, idx = ref.rsplit(":", 1)
+    import json, text as T
+    r = json.loads((T.OUT / f"{key}.json").read_text(encoding="utf-8"))[int(idx)]
+    return r["en"].replace("<p>", "\n")
+
+
+def mono(only=None):
+    """replace the monologue text pages; returns {NAME.P: bytes} per disc via MONO_FILES."""
+    import numpy as np
+    out = {}
+    for (disc, name), (base, refs) in MONO.items():
+        if only and disc != only:
+            continue
+        src = (sorted((root / "work" / disc / "bind").glob(f"*_{name}"))[0]).read_bytes()
+        p = bytearray(src)
+        blocks = []
+        for o, px in mono_pages(src, base):
+            vals, cnt = np.unique(px, return_counts=True)
+            bg = int(vals[cnt.argmax()])
+            if (px != bg).sum() == 0:
+                continue
+            for box in paragraphs(px, bg):
+                if box[3] - box[1] > 3:                 # skip 1-2 row decorations
+                    blocks.append((o, px, bg, box))
+        assert len(blocks) == len(refs), f"{name}: {len(blocks)} text blocks, {len(refs)} texts"
+        jobs = []
+        for (o, px, bg, (x0, y0, x1, y1)), ref in zip(blocks, refs):
+            if isinstance(ref, list):                   # split a block by line counts
+                pitch, a = (y1 - y0) / sum(n for n, _ in ref), 0
+                for n, t in ref:
+                    ya, yb = int(y0 + a * pitch), int(y0 + (a + n) * pitch)
+                    cols = np.nonzero((px[ya:yb] != bg).any(axis=0))[0]
+                    jobs.append((o, px, bg, (int(cols.min()), ya, int(cols.max()) + 1, yb), t))
+                    a += n
+            else:
+                jobs.append((o, px, bg, (x0, y0, x1, y1), ref))
+        pages = {}
+        for o, px, bg, (x0, y0, x1, y1), ref in jobs:
+            px = pages.setdefault(o, px.copy())
+            X0, Y0, X1, Y1 = max(0, x0 - 4), max(0, y0 - 2), min(256, x1 + 4), min(256, y1 + 2)
+            lev = glow_text(X1 - X0, Y1 - Y0, mono_text(ref))
+            px[Y0:Y1, X0:X1] = bg
+            idx = lev if bg == 0 else 15 - lev
+            region = px[Y0:Y1, X0:X1]
+            region[lev > 0] = idx[lev > 0]
+        for o, px in pages.items():
+            p[o:o + 0x8000] = (px[:, 0::2] | (px[:, 1::2] << 4)).astype(np.uint8).tobytes()
+        out[name] = bytes(p)
+    return out
+
+
 def exe_patch(exe, patch):
     exe = bytearray(exe)
     for a, word in patch.items():
@@ -326,16 +493,18 @@ def exe_patch(exe, patch):
     return bytes(exe)
 
 
-def all_files():
+def all_files(disc="d1"):
+    """{NAME.TYPE: bytes} for this disc's archive, and {EXE address: word}."""
     files, patch = {}, {}
     f, p = names()
     files.update(f); patch.update(p)
     for sec in SECTIONS:
         files.update(sec())
+    files.update(mono(disc))
     return files, patch
 
 
-SECTIONS = [menu, chapters, info, result, option, buttons, album]
+SECTIONS = [menu, chapters, info, result, option, buttons, album, note]
 
 
 if __name__ == "__main__":
