@@ -362,11 +362,11 @@ def paragraphs(px, bg, gap=3):
     return out
 
 
-def glow_text(w, h, s, font="tahomabd.ttf", max_size=13):
+def glow_text(w, h, s, font="tahomabd.ttf", max_size=13, wrap=True):
     """levels 0..15: white core (15) with a soft glow (1..6), centred lines; largest size that fits."""
     import numpy as np
     from PIL import ImageFilter
-    words = s.replace("\n", " ").split()
+    words = s.replace("\n", " ").split() if wrap else [s]
     d = ImageDraw.Draw(Image.new("L", (1, 1)))
     for size in range(max_size, 6, -1):
         f = ImageFont.truetype(WIN + font, size)
@@ -486,6 +486,72 @@ def mono(only=None):
     return out
 
 
+def text_lines(m):
+    """[(y0, y1, [(x0, x1) segments])] for glyph rows of a mask; rows < 9 px tall (ruby) are skipped."""
+    import numpy as np
+    rows = m.any(axis=1)
+    out, s = [], None
+    for y, v in enumerate(list(rows) + [False]):
+        if v and s is None:
+            s = y
+        elif not v and s is not None:
+            if y - s >= 9:
+                cols = m[s:y].any(axis=0)
+                segs, t, last = [], None, None
+                for x, c in enumerate(list(cols) + [False]):
+                    if c and t is None:
+                        t = x
+                    elif not c and t is not None:
+                        if segs and t - segs[-1][1] < 10:
+                            segs[-1] = (segs[-1][0], x)
+                        else:
+                            segs.append((t, x))
+                        t = None
+                out.append((s, y, segs))
+            s = None
+    return out
+
+
+# boot prologue (PROLOG1/2.IM, drawn scaled ~0.7): English per main piece in texture order. A line's overflow piece
+# (the wrapped tail at the left of a later row) is blanked.
+PROLOG = {
+    "PROLOG1.IM": ["The Guardian, in another world,", "when the Ele Tree is in peril,",
+                   "shall come to Eithéa, led by the gun.",
+                   "In that land, after ages untold,", "one who wields dark magic rises anew.",
+                   "All the world,", "to plunge it into ruin and chaos,",
+                   "it defiles the Sacred Tree."],
+    "PROLOG2.IM": ["The prayers of the holy, made into orbs,", "sleep deep to slay the wielder of magic.",
+                   "The Guardian, with all creation's might,", "rides bullets of light at dawn.",
+                   "The Guardian, in another world,", "when the Ele Tree is in peril,",
+                   "shall come to Eithéa, led by the gun..."],
+}
+
+
+def prolog():
+    import numpy as np
+    out = {}
+    for name, texts in PROLOG.items():
+        src = orig(name)
+        ix = np.array(tim.indices(src))
+        lines = text_lines(ix > 3)
+        mains = []
+        for y0, y1, segs in lines:
+            if len(segs) > 1 and segs[0][0] < 10:
+                segs = segs[1:]                       # drop the overflow piece of an earlier line
+            if segs[-1][1] - segs[0][0] < 90 and segs[0][0] < 30:
+                continue                              # a row holding only overflow pieces
+            mains.append((y0, y1, segs[0][0], segs[-1][1]))
+        assert len(mains) == len(texts), f"{name}: {len(mains)} lines, {len(texts)} texts"
+        new = np.zeros_like(ix)
+        for (y0, y1, x0, x1), t in zip(mains, texts):
+            Y0, Y1 = max(0, y0 - 2), min(256, y1 + 2)
+            lev = glow_text(x1 - x0, Y1 - Y0, t, max_size=11, wrap=False)
+            reg = new[Y0:Y1, x0:x1]
+            reg[lev > 0] = lev[lev > 0]
+        out[name] = tim.write_indices(src, new.tolist())
+    return out
+
+
 def exe_patch(exe, patch):
     exe = bytearray(exe)
     for a, word in patch.items():
@@ -504,7 +570,7 @@ def all_files(disc="d1"):
     return files, patch
 
 
-SECTIONS = [menu, chapters, info, result, option, buttons, album, note]
+SECTIONS = [menu, chapters, info, result, option, buttons, album, note, prolog]
 
 
 if __name__ == "__main__":
@@ -512,5 +578,6 @@ if __name__ == "__main__":
         out = pathlib.Path(sys.argv[2]); out.mkdir(parents=True, exist_ok=True)
         files, patch = all_files()
         for n, b in files.items():
-            tim.to_image(b).save(out / f"{n}.png")
+            if n.endswith(".IM"):
+                tim.to_image(b).save(out / f"{n}.png")
         print(len(files), "images,", len(patch), "exe words")

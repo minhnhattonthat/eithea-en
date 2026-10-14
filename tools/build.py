@@ -52,6 +52,11 @@ def build(n, out, qa_novoice=False, overrides=(), english=False, marker=False):
         files, patch = gfx.all_files(f"d{n}")                      # English images + EXE words they need
         exe = gfx.exe_patch(exetext.apply((fb / "EITHEA.EXE").read_bytes()), patch)
         (tree / "EITHEA.EXE").write_bytes(exe)
+        import fmv                                          # opening movie with English cast captions
+        movie = root / "work" / "fmv" / "OPEN1_en.STR"
+        if not movie.exists() or movie.stat().st_mtime < (root / "tools" / "fmv.py").stat().st_mtime:
+            fmv.build(movie)
+        shutil.copy(movie, tree / "MOVIE" / "OPEN1.STR")
         gd = out / "gfx"
         gd.mkdir(exist_ok=True)
         for k, b in files.items():
