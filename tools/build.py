@@ -35,12 +35,18 @@ def edit(items, qa_novoice, overrides=()):
     return out
 
 
-def build(n, out, qa_novoice=False, overrides=()):
+def build(n, out, qa_novoice=False, overrides=(), english=False):
     w = root / "work" / f"d{n}"
     tree = out / f"tree{n}"
     if tree.exists():
         shutil.rmtree(tree)
     shutil.copytree(w / "tree", tree)
+    if english:  # pair-font hook in EITHEA.EXE + half-width font prepended to KANJI.IN/BL
+        import font
+        fb = out / "font"
+        font.build(fb)
+        shutil.copy(fb / "EITHEA.EXE", tree / "EITHEA.EXE")
+        overrides = [f"KANJI.IN={fb / 'KANJI.IN'}", f"KANJI.BL={fb / 'KANJI.BL'}", *overrides]
     cd = w / "tree" / "CD_DATA"
     items = edit(bind.split((cd / "BIND.TBL").read_bytes(), (cd / "BIND.DAT").read_bytes()), qa_novoice, overrides)
     tbl, dat = bind.join(items)
@@ -59,7 +65,8 @@ if __name__ == "__main__":
     ap.add_argument("--qa-novoice", action="store_true")
     ap.add_argument("--out", default=str(root / "work" / "build"))
     ap.add_argument("--override", action="append", default=[], help="NAME.TYPE=FILE replaces that archive file")
+    ap.add_argument("--english", action="store_true", help="apply the English font engine patch")
     a = ap.parse_args()
     o = pathlib.Path(a.out)
     o.mkdir(parents=True, exist_ok=True)
-    build(a.disc, o, a.qa_novoice, a.override)
+    build(a.disc, o, a.qa_novoice, a.override, a.english)

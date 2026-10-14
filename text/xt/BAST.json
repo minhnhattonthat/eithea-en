@@ -1,0 +1,44 @@
+[
+ {
+  "id": "BAST:0000",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "おはー",
+  "en": ""
+ },
+ {
+  "id": "BAST:0001",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "３",
+  "en": ""
+ },
+ {
+  "id": "BAST:0002",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "６",
+  "en": ""
+ },
+ {
+  "id": "BAST:0003",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "７",
+  "en": ""
+ },
+ {
+  "id": "BAST:0004",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "８",
+  "en": ""
+ },
+ {
+  "id": "BAST:0005",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "Ａパターン",
+  "en": ""
+ }
+]

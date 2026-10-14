@@ -1,0 +1,163 @@
+[
+ {
+  "id": "K_ICHIBA:0000",
+  "kind": "msg",
+  "speaker": "売り子",
+  "jp": "いらっしゃい！\nうちの品ぞろえは世界一だよ！",
+  "en": ""
+ },
+ {
+  "id": "K_ICHIBA:0001",
+  "kind": "msg",
+  "speaker": "売り子",
+  "jp": "さあ、どれも買って損はないよ！",
+  "en": ""
+ },
+ {
+  "id": "K_ICHIBA:0002",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　買い物をする　　　　　　　立ち去る\n　持っている物を売る\n　宿屋について聞く",
+  "en": ""
+ },
+ {
+  "id": "K_ICHIBA:0003",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　買い物をする\n　持っている物を売る\n　立ち去る",
+  "en": ""
+ },
+ {
+  "id": "K_ICHIBA:0004",
+  "kind": "msg",
+  "speaker": "売り子",
+  "jp": "ほいきた、さあ、どれがいい？",
+  "en": ""
+ },
+ {
+  "id": "K_ICHIBA:0005",
+  "kind": "msg",
+  "speaker": "売り子",
+  "jp": "はいよ、お買いあげ！\nありがとう！",
+  "en": ""
+ },
+ {
+  "id": "K_ICHIBA:0006",
+  "kind": "msg",
+  "speaker": "売り子",
+  "jp": "なんだい、冷やかしかい？",
+  "en": ""
+ },
+ {
+  "id": "K_ICHIBA:0007",
+  "kind": "msg",
+  "speaker": "売り子",
+  "jp": "さてさて、どんな物を持ってるんだい？\nいい取引をしようよ。",
+  "en": ""
+ },
+ {
+  "id": "K_ICHIBA:0008",
+  "kind": "msg",
+  "speaker": "売り子",
+  "jp": "ありがとよ！",
+  "en": ""
+ },
+ {
+  "id": "K_ICHIBA:0009",
+  "kind": "msg",
+  "speaker": "売り子",
+  "jp": "おいおい、頼むよ！\n取引しようぜ！",
+  "en": ""
+ },
+ {
+  "id": "K_ICHIBA:0010",
+  "kind": "msg",
+  "speaker": "売り子",
+  "jp": "……宿屋？\nそうさねえ……う～ん。\n悪いね、わかんないわ。",
+  "en": ""
+ },
+ {
+  "id": "K_ICHIBA:0011",
+  "kind": "msg",
+  "speaker": "売り子",
+  "jp": "道具屋の店員なら知ってるかもよ。",
+  "en": ""
+ },
+ {
+  "id": "K_ICHIBA:0012",
+  "kind": "msg",
+  "speaker": "売り子",
+  "jp": "ありがと、また来てね。",
+  "en": ""
+ },
+ {
+  "id": "K_ICHIBA:0013",
+  "kind": "msg",
+  "speaker": "売り子",
+  "jp": "他に何かあるかい？",
+  "en": ""
+ },
+ {
+  "id": "K_ICHIBA:0014",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "　買い物をする\n　持っている物を売る\n　立ち去る",
+  "en": ""
+ },
+ {
+  "id": "K_ICHIBA:0015",
+  "kind": "msg",
+  "speaker": "売り子",
+  "jp": "ほいきた、さあ、どれがいい？",
+  "en": ""
+ },
+ {
+  "id": "K_ICHIBA:0016",
+  "kind": "msg",
+  "speaker": "売り子",
+  "jp": "はいよ、お買いあげ！\nありがとう！",
+  "en": ""
+ },
+ {
+  "id": "K_ICHIBA:0017",
+  "kind": "msg",
+  "speaker": "売り子",
+  "jp": "なんだい、冷やかしかい？",
+  "en": ""
+ },
+ {
+  "id": "K_ICHIBA:0018",
+  "kind": "msg",
+  "speaker": "売り子",
+  "jp": "さてさて、どんな物を持ってるんだい？\nいい取引をしようよ。",
+  "en": ""
+ },
+ {
+  "id": "K_ICHIBA:0019",
+  "kind": "msg",
+  "speaker": "売り子",
+  "jp": "ありがとよ！",
+  "en": ""
+ },
+ {
+  "id": "K_ICHIBA:0020",
+  "kind": "msg",
+  "speaker": "売り子",
+  "jp": "おいおい、頼むよ！\n取引しようぜ！",
+  "en": ""
+ },
+ {
+  "id": "K_ICHIBA:0021",
+  "kind": "msg",
+  "speaker": "売り子",
+  "jp": "ありがと、また来てね。",
+  "en": ""
+ },
+ {
+  "id": "K_ICHIBA:0022",
+  "kind": "msg",
+  "speaker": "売り子",
+  "jp": "他に何かあるかい？",
+  "en": ""
+ }
+]
