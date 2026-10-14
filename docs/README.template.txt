@@ -34,8 +34,10 @@ HOW TO PATCH
 4. Check the patched CRC32 / SHA-1 against the values above.
 
 TESTING
-Played and checked in PCSX-Redux (SCPH-5500 BIOS). Start from a cold boot (not an old savestate).
-Memory card saves from the Japanese version keep working.
+Checked in PCSX-Redux (SCPH-5500 BIOS): boot, prologue, opening movie, the first chapter's opening
+scenes, field menus and a battle. Later scenes were checked with the text tools (line widths, codes),
+not played through. Start from a cold boot (not a savestate made with the Japanese game).
+Bug reports with a screenshot or savestate are welcome.
 
 CREDITS
 Translation, tools and patch: produced with AI assistance (Claude, Anthropic) under the direction of
