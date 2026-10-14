@@ -37,7 +37,7 @@ def edit(items, qa_novoice, overrides=(), scripts=None):
     return out
 
 
-def build(n, out, qa_novoice=False, overrides=(), english=False, marker=False):
+def build(n, out, qa_novoice=False, overrides=(), english=False, marker=False, keep_tree=False):
     w = root / "work" / f"d{n}"
     tree = out / f"tree{n}"
     if tree.exists():
@@ -75,7 +75,8 @@ def build(n, out, qa_novoice=False, overrides=(), english=False, marker=False):
     lay = (w / "layout.xml").read_text(encoding="utf-8").replace('source="tree"', f'source="tree{n}"').replace("tree/license_data.dat", f"tree{n}/license_data.dat")
     (out / f"layout{n}.xml").write_text(lay, encoding="utf-8")
     subprocess.run([mk, "-y", "-o", f"Eithea_disc{n}.bin", "-c", f"Eithea_disc{n}.cue", f"layout{n}.xml"], cwd=out, check=True, capture_output=True)
-    shutil.rmtree(tree)
+    if not keep_tree:
+        shutil.rmtree(tree)
     print(out / f"Eithea_disc{n}.cue")
 
 

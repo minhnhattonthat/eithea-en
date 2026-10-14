@@ -324,7 +324,9 @@ def note():
     im = img("EVCHI.IM")
     im = erase(im, (8, 8, 312, 232), lambda r, g, b: max(r, g, b) < 170, grow=2, iters=60)
     im = text(im, (20, 60, 300, 180), "Basement", font="Inkfree.ttf", size=58, fill=(40, 40, 40), halo=None, stroke=0)
-    return {"EVCHI.IM": save("EVCHI.IM", im)}
+    b = save("EVCHI.IM", im)
+    assert orig("BG061.IM") == orig("EVCHI.IM")             # identical copy under another name
+    return {"EVCHI.IM": b, "BG061.IM": b}
 
 
 def mono_pages(p, base=0x14CF0):
@@ -549,6 +551,14 @@ def prolog():
             reg = new[Y0:Y1, x0:x1]
             reg[lev > 0] = lev[lev > 0]
         out[name] = tim.write_indices(src, new.tolist())
+    # the boot program draws the copies embedded in PROLOG.NM: patch the same pixel blocks there
+    nm = bytearray(orig("PROLOG.NM"))
+    for name in PROLOG:
+        old_px, new_px = tim.read(orig(name))[3], tim.read(out[name])[3]
+        i = bytes(nm).find(old_px)
+        assert i >= 0 and bytes(nm).count(old_px) == 1, name
+        nm[i:i + len(old_px)] = new_px
+    out["PROLOG.NM"] = bytes(nm)
     return out
 
 

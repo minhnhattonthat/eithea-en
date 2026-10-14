@@ -18,15 +18,16 @@ W = root / "work" / "fmv"
 FONT = "C:/Windows/Fonts/"
 
 CAPTIONS = [  # (first, last, (x0, y0, x1, y1), line1, line2, align)
-    (316, 414, (132, 194, 304, 218), "song by Chihiro Yonekura", None, "r"),
-    (458, 500, (28, 164, 172, 218), "Shou Niimi", "cv: Yuji Ueda", "l"),
-    (563, 610, (30, 12, 172, 66), "Yuka Matsuoka", "cv: Yuka Imai", "l"),
-    (665, 706, (30, 166, 172, 218), "Lou", "cv: Kotono Mitsuishi", "l"),
-    (766, 818, (156, 146, 306, 218), "Hikaru Itou", "cv: Shiho Kikuchi", "r"),
-    (865, 907, (124, 146, 306, 218), "Akiho Yoshinaga", "cv: Sakiko Tamagawa", "r"),
-    (953, 998, (28, 164, 172, 218), "Hermie", "cv: Ikue Otani", "l"),
-    (1059, 1114, (128, 164, 306, 218), "Imul", "cv: Soichiro Hoshi", "r"),
-    (1128, 1166, (28, 164, 176, 218), "Albaijan", "cv: Fumihiko Tachiki", "l"),
+    # ranges end at the next hard cut (found by frame differencing) so a caption never leaks into the next shot
+    (316, 411, (132, 194, 304, 218), "song by Chihiro Yonekura", None, "r"),
+    (458, 496, (28, 164, 172, 218), "Shou Niimi", "cv: Yuji Ueda", "l"),
+    (563, 603, (30, 12, 172, 66), "Yuka Matsuoka", "cv: Yuka Imai", "l"),
+    (665, 702, (30, 166, 172, 218), "Lou", "cv: Kotono Mitsuishi", "l"),
+    (766, 813, (156, 146, 306, 218), "Hikaru Itou", "cv: Shiho Kikuchi", "r"),
+    (865, 903, (124, 146, 306, 218), "Akiho Yoshinaga", "cv: Sakiko Tamagawa", "r"),
+    (953, 994, (28, 164, 172, 218), "Hermie", "cv: Ikue Otani", "l"),
+    (1059, 1094, (128, 164, 306, 218), "Imul", "cv: Soichiro Hoshi", "r"),
+    (1128, 1162, (28, 164, 176, 218), "Albaijan", "cv: Fumihiko Tachiki", "l"),
 ]
 
 
