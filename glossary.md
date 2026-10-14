@@ -3,7 +3,9 @@
 ## Rulings (user, 2026-10-14)
 - Romanization: translator's choice, Hepburn-style; ルー = **Lou**.
 - Honorifics: **kept** (-san, -kun, -chan, -sensei...).
-- Name order: Western? TBD, default Given Family (e.g. Shou Niimi). Confirm if user objects.
+- Name order: **Given Family** (Shou Niimi).
+- Specs/plans: **pre-approved**. Keep going through checkpoints; report at end.
+- Saves: **none** provided. Late scenes need route/emulator input.
 - Credits: **English** (graphic credits too).
 - Full names/terms, no abbreviations; names match this file exactly; no suffix glued to variables; jokes keep punch.
 - Graphics text (titles, menus, banners) in scope.

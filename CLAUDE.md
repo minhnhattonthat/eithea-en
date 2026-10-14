@@ -21,4 +21,5 @@ Rulings and names: `glossary.md` (Lou, honorifics kept, English credits, full na
 ## Status
 - Done: Step 0 setup, original smoke boots, identity build byte-identical on both discs.
 - Next: Phase 1 recon: decode BIND.TBL entries, find text/script encoding, font, graphics text survey.
+- Rulings: specs pre-approved (report at end). No user saves. Given Family names.
 - Open: none yet.
