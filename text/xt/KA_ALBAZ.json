@@ -130,7 +130,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　寝る　　　　　　　　　　　町に行く\n　魔弾研究　　　　　　　　　売り買いする\n　地下に行く　　　　　　　　セーブする",
-  "en": "Sleep                     Go to town\nMagic Bullet Research     Buy and sell\nGo underground            Save"
+  "en": "Sleep                     Go to town\nMagic Bullet Study        Buy and sell\nGo underground            Save"
  },
  {
   "id": "KA_ALBAZ:0019",

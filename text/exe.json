@@ -3,6630 +3,6742 @@
   "addr": "800100e4",
   "size": 34,
   "jp": "ＤＩＳＣをＤＩＳＣ　２に入れ替えて",
-  "en": ""
+  "en": "Swap the disc for DISC 2 and"
  },
  {
   "addr": "80010107",
   "size": 24,
   "jp": "○ボタンを押して下さい。",
-  "en": ""
+  "en": "press the Circle button."
  },
  {
   "addr": "80010120",
   "size": 34,
   "jp": "ＤＩＳＣをＤＩＳＣ　１に入れ替えて",
-  "en": ""
+  "en": "Swap the disc for DISC 1 and"
  },
  {
   "addr": "80010143",
   "size": 24,
   "jp": "○ボタンを押して下さい。",
-  "en": ""
+  "en": "press the Circle button."
  },
  {
   "addr": "8001015c",
   "size": 86,
   "jp": "ＤＩＳＣが違います。一度ディスクカバーを開けて　正しいＤＩＳＣをセットし直して下さい。",
-  "en": ""
+  "en": "Wrong disc. Please open the disc cover and      insert the correct DISC."
  },
  {
   "addr": "800101b4",
   "size": 32,
   "jp": "ＤＩＳＣのチェックをしています。",
-  "en": ""
+  "en": "Checking the DISC..."
  },
  {
   "addr": "800101d8",
   "size": 20,
   "jp": "読み込み中です・・・",
-  "en": ""
+  "en": "Now loading..."
  },
  {
   "addr": "800101f0",
   "size": 90,
   "jp": "ＤＩＳＣが違います。もう一度正しいＤＩＳＣを　　セットし直してから○ボタンを押して下さい。",
-  "en": ""
+  "en": "Wrong disc. Insert the correct DISC again,      then press the Circle button."
  },
  {
   "addr": "8001024c",
   "size": 26,
   "jp": "ディスクカバーを閉めてから",
-  "en": ""
+  "en": "Close the disc cover and"
  },
  {
   "addr": "80010267",
   "size": 24,
   "jp": "○ボタンを押して下さい。",
-  "en": ""
+  "en": "press the Circle button."
  },
  {
   "addr": "80010e38",
   "size": 4,
   "jp": "ユカ",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80010e40",
   "size": 6,
   "jp": "ひかる",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80010e50",
   "size": 6,
   "jp": "ヒトシ",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80010e5c",
   "size": 14,
   "jp": "アルバイジャン",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80010e6c",
   "size": 4,
   "jp": "ルー",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80010e74",
   "size": 8,
   "jp": "ランドー",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80010e80",
   "size": 8,
   "jp": "ファンナ",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80010e8c",
   "size": 8,
   "jp": "エウリケ",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80010e98",
   "size": 6,
   "jp": "シャイ",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80010ea0",
   "size": 6,
   "jp": "イムル",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80010ea8",
   "size": 8,
   "jp": "マテリア",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80010ed4",
   "size": 6,
   "jp": "ピエン",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80010ee4",
   "size": 8,
   "jp": "ハーミー",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80010ef0",
   "size": 4,
   "jp": "レア",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80010ef8",
   "size": 8,
   "jp": "ナムリア",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80010f04",
   "size": 6,
   "jp": "ミュウ",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80010f0c",
   "size": 4,
   "jp": "ユン",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80010f18",
   "size": 8,
   "jp": "ポーポー",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80010f24",
   "size": 6,
   "jp": "プラダ",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80010f2c",
   "size": 6,
   "jp": "レディ",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80010f34",
   "size": 6,
   "jp": "オパス",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80010f44",
   "size": 6,
   "jp": "カレン",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80010f4c",
   "size": 8,
   "jp": "街の住人",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80010f58",
   "size": 6,
   "jp": "若い男",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80010f60",
   "size": 6,
   "jp": "若い女",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80010f90",
   "size": 6,
   "jp": "？？？",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80010f98",
   "size": 10,
   "jp": "秋穂＆ユカ",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80010fa4",
   "size": 6,
   "jp": "みんな",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80010fac",
   "size": 18,
   "jp": "ケーキ売りの女の子",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80010fd8",
   "size": 6,
   "jp": "フィノ",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80010fe0",
   "size": 12,
   "jp": "月光族の女性",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80010ff0",
   "size": 12,
   "jp": "火竜族の青年",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80011010",
   "size": 6,
   "jp": "アゼル",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80011018",
   "size": 8,
   "jp": "ドラゴン",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80011024",
   "size": 10,
   "jp": "ヴァムール",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80011030",
   "size": 12,
   "jp": "月光族の少女",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80011048",
   "size": 8,
   "jp": "店の親父",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80011054",
   "size": 10,
   "jp": "店番の少年",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80011060",
   "size": 6,
   "jp": "売り子",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80011068",
   "size": 14,
   "jp": "エレの樹の聖女",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80011078",
   "size": 18,
   "jp": "翔＆アルバイジャン",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "8001108c",
   "size": 8,
   "jp": "校内放送",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "80011098",
   "size": 8,
   "jp": "翔＆ユカ",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "speaker tag: strcmp against script 〈〉 tags"
  },
  {
   "addr": "800110c8",
   "size": 42,
   "jp": "　　　　　アイシアより愛を込めて　　　　　",
-  "en": ""
+  "en": "          From Eithéa with Love"
  },
  {
   "addr": "800110f4",
   "size": 42,
   "jp": "　ＰＲＥＳＥＮＴＥＤ　ＢＹ　ＡＴＬＵＳ　　",
-  "en": ""
+  "en": "            PRESENTED BY ATLUS"
  },
  {
   "addr": "80011120",
   "size": 42,
   "jp": "　　　制作／販売　　株式会社アトラス　　　",
-  "en": ""
+  "en": "  Production/Sales      ATLUS CO., LTD."
  },
  {
   "addr": "8001114c",
   "size": 42,
   "jp": "　　　企画／開発　　株式会社タムタム　　　",
-  "en": ""
+  "en": "  Planning/Development  TamTam Co., Ltd."
  },
  {
   "addr": "80011178",
   "size": 42,
   "jp": "　　　　　　　渡部　篤　　　　熊木　治彦　",
-  "en": ""
+  "en": "      Atsushi Watanabe  Haruhiko Kumaki"
  },
  {
   "addr": "800111a4",
   "size": 42,
   "jp": "　スーパーサブ　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "  Super Sub"
  },
  {
   "addr": "800111d0",
   "size": 42,
   "jp": "　　　　　　　灰谷　雄摩　　　遠國　隆亮　",
-  "en": ""
+  "en": "      Yuma Haitani      Ryusuke Togoku"
  },
  {
   "addr": "800111fc",
   "size": 42,
   "jp": "　　　　　　　葛西　杏子　　　坂本　公一郎",
-  "en": ""
+  "en": "      Kyoko Kasai       Koichiro Sakamoto"
  },
  {
   "addr": "80011228",
   "size": 42,
   "jp": "　　　　　　　佐藤　栄一　　　高橋　斉　　",
-  "en": ""
+  "en": "      Eiichi Sato       Hitoshi Takahashi"
  },
  {
   "addr": "80011254",
   "size": 42,
   "jp": "　　　　　　　後藤　健一　　　白水　亜矢　",
-  "en": ""
+  "en": "      Kenichi Goto      Aya Shiramizu"
  },
  {
   "addr": "80011280",
   "size": 42,
   "jp": "　　　　　　　野間　裕介　　　谷口　輝雄　",
-  "en": ""
+  "en": "      Yusuke Noma       Teruo Taniguchi"
  },
  {
   "addr": "800112ac",
   "size": 42,
   "jp": "　　　　　　　渡邊　勝　　　　高屋　雅英　",
-  "en": ""
+  "en": "      Masaru Watanabe   Masahide Takaya"
  },
  {
   "addr": "800112d8",
   "size": 42,
   "jp": "　　　　　　　平野　聖二　　　斎藤　圭　　",
-  "en": ""
+  "en": "      Seiji Hirano      Kei Saito"
  },
  {
   "addr": "80011304",
   "size": 42,
   "jp": "　デバッガ―　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "  Debugger"
  },
  {
   "addr": "80011330",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　木村　裕二　",
-  "en": ""
+  "en": "                        Yuji Kimura"
  },
  {
   "addr": "8001135c",
   "size": 42,
   "jp": "　チーフデバッガ―　　　　　　　　　　　　",
-  "en": ""
+  "en": "  Chief Debugger"
  },
  {
   "addr": "80011388",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　岩井　真麻　",
-  "en": ""
+  "en": "                        Masa Iwai"
  },
  {
   "addr": "800113b4",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　前田　真佐和",
-  "en": ""
+  "en": "                        Masakazu Maeda"
  },
  {
   "addr": "800113e0",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　松雲丹　　　",
-  "en": ""
+  "en": "                        Matsu Uni"
  },
  {
   "addr": "8001140c",
   "size": 42,
   "jp": "　ＳＰＥＣＩＡＬ　ＴＨＡＮＫＳ　ＴＯ　　　",
-  "en": ""
+  "en": "  SPECIAL THANKS TO"
  },
  {
   "addr": "80011438",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　堤　昇一　　",
-  "en": ""
+  "en": "                        Shoichi Tsutsumi"
  },
  {
   "addr": "80011464",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　佐藤　誠　　",
-  "en": ""
+  "en": "                        Makoto Sato"
  },
  {
   "addr": "80011490",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　小林　郁也　",
-  "en": ""
+  "en": "                        Fumiya Kobayashi"
  },
  {
   "addr": "800114bc",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　西　誠　　　",
-  "en": ""
+  "en": "                        Makoto Nishi"
  },
  {
   "addr": "800114e8",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　村上　薫　　",
-  "en": ""
+  "en": "                        Kaoru Murakami"
  },
  {
   "addr": "80011514",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　森田　淳　　",
-  "en": ""
+  "en": "                        Jun Morita"
  },
  {
   "addr": "80011540",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　宮本　佳和　",
-  "en": ""
+  "en": "                        Yoshikazu Miyamoto"
  },
  {
   "addr": "8001156c",
   "size": 42,
   "jp": "　ＯＴＨＥＲ　ＳＴＡＦＦＳ　　青木　新一　",
-  "en": ""
+  "en": "  OTHER STAFF           Shinichi Aoki"
  },
  {
   "addr": "80011598",
   "size": 42,
   "jp": "　テストプレイマネージャー　　本間　和文　",
-  "en": ""
+  "en": "  Test Play Manager     Kazufumi Honma"
  },
  {
   "addr": "800115c4",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　小柴　昭夫　",
-  "en": ""
+  "en": "                        Akio Koshiba"
  },
  {
   "addr": "800115f0",
   "size": 42,
   "jp": "　セールス　　　　　　　　　　雪田　幸司　",
-  "en": ""
+  "en": "  Sales                 Koji Yukita"
  },
  {
   "addr": "8001161c",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　市村　憲次　",
-  "en": ""
+  "en": "                        Kenji Ichimura"
  },
  {
   "addr": "80011648",
   "size": 42,
   "jp": "　パブリシティ　　　　　　　　相原　誠吾　",
-  "en": ""
+  "en": "  Publicity             Seigo Aihara"
  },
  {
   "addr": "80011674",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　谷口　輝雄　",
-  "en": ""
+  "en": "                        Teruo Taniguchi"
  },
  {
   "addr": "800116a0",
   "size": 42,
   "jp": "　サウンドコンポーザー　　　　　　　　　　",
-  "en": ""
+  "en": "  Sound Composer"
  },
  {
   "addr": "800116cc",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　戸部　隆一　",
-  "en": ""
+  "en": "                        Ryuichi Tobe"
  },
  {
   "addr": "800116f8",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　石井　史人　",
-  "en": ""
+  "en": "                        Fumito Ishii"
  },
  {
   "addr": "80011724",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　永島　政男　",
-  "en": ""
+  "en": "                        Masao Nagashima"
  },
  {
   "addr": "80011750",
   "size": 42,
   "jp": "　アートディレクター　　　　　　　　　　　",
-  "en": ""
+  "en": "  Art Director"
  },
  {
   "addr": "8001177c",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　塩　哲　　　",
-  "en": ""
+  "en": "                        Satoshi Shio"
  },
  {
   "addr": "800117a8",
   "size": 42,
   "jp": "　ビジュアル監修　　　　　　　　　　　　　",
-  "en": ""
+  "en": "  Visual Supervisor"
  },
  {
   "addr": "800117d4",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　中村　陽子　",
-  "en": ""
+  "en": "                        Yoko Nakamura"
  },
  {
   "addr": "80011800",
   "size": 42,
   "jp": "　ディレクター　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "  Director"
  },
  {
   "addr": "8001182c",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　富山　徳之　",
-  "en": ""
+  "en": "                        Noriyuki Tomiyama"
  },
  {
   "addr": "80011858",
   "size": 42,
   "jp": "　エグゼクティブプロデューサー　　　　　　",
-  "en": ""
+  "en": "  Executive Producer"
  },
  {
   "addr": "80011884",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　原野　直也　",
-  "en": ""
+  "en": "                        Naoya Harano"
  },
  {
   "addr": "800118b0",
   "size": 42,
   "jp": "　パブリッシャー　　　　　　　　　　　　　",
-  "en": ""
+  "en": "  Publisher"
  },
  {
   "addr": "800118dc",
   "size": 42,
   "jp": "（株）アトラス　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "ATLUS CO., LTD."
  },
  {
   "addr": "80011908",
   "size": 42,
   "jp": "制作／販売　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Production/Sales"
  },
  {
   "addr": "80011934",
   "size": 42,
   "jp": "　　　　　　　　ベルウッドレコード株式会社",
-  "en": ""
+  "en": "                Bellwood Records Co., Ltd."
  },
  {
   "addr": "80011960",
   "size": 42,
   "jp": "　制作協力　　　キングレコード株式会社　　",
-  "en": ""
+  "en": "  Cooperation   King Records Co., Ltd."
  },
  {
   "addr": "8001198c",
   "size": 42,
   "jp": "　　　　　　　　　　（ベルウッドレコード）",
-  "en": ""
+  "en": "                        (Bellwood Records)"
  },
  {
   "addr": "800119b8",
   "size": 42,
   "jp": "　アーティストマネージメント　中村　由佳　",
-  "en": ""
+  "en": "  Artist Management     Yuka Nakamura"
  },
  {
   "addr": "800119e4",
   "size": 42,
   "jp": "　　　　　　　　　　キング関口台スタジオ　",
-  "en": ""
+  "en": "                King Sekiguchidai Studio"
  },
  {
   "addr": "80011a10",
   "size": 42,
   "jp": "　レコーディングスタジオ　　　　　　　　　",
-  "en": ""
+  "en": "  Recording Studio"
  },
  {
   "addr": "80011a3c",
   "size": 42,
   "jp": "　アシスタントエンジニア　　　吉越　晋冶　",
-  "en": ""
+  "en": "  Assistant Engineer    Shinji Yoshikoshi"
  },
  {
   "addr": "80011a68",
   "size": 42,
   "jp": "　エンジニア　　　　　　　　　増田　晋　　",
-  "en": ""
+  "en": "  Engineer              Susumu Masuda"
  },
  {
   "addr": "80011a94",
   "size": 42,
   "jp": "　ディレクター　　　　　　　　鈴木　潤　　",
-  "en": ""
+  "en": "  Director              Jun Suzuki"
  },
  {
   "addr": "80011ac0",
   "size": 42,
   "jp": "　　　　　　　　　　　　（キングレコード）",
-  "en": ""
+  "en": "                            (King Records)"
  },
  {
   "addr": "80011aec",
   "size": 42,
   "jp": "　サウンドプロデューサー　　　佐藤　広春　",
-  "en": ""
+  "en": "  Sound Producer        Hiroharu Sato"
  },
  {
   "addr": "80011b18",
   "size": 42,
   "jp": "　　　　　～アルバム『ａｐｐｌｅｓ』より～",
-  "en": ""
+  "en": "                 ~From the album \"apples\"~"
  },
  {
   "addr": "80011b44",
   "size": 42,
   "jp": "　　歌　　　　米倉　千尋（キングレコード）",
-  "en": ""
+  "en": "  Vocals   Chihiro Yonekura (King Records)"
  },
  {
   "addr": "80011b70",
   "size": 42,
   "jp": "　　作・編曲　ＭＡＳＡＫＩ　　　　　　　　",
-  "en": ""
+  "en": "  Music    MASAKI"
  },
  {
   "addr": "80011b9c",
   "size": 42,
   "jp": "　　作詞　　　米倉　千尋　　　　　　　　　",
-  "en": ""
+  "en": "  Lyrics   Chihiro Yonekura"
  },
  {
   "addr": "80011bc8",
   "size": 42,
   "jp": "「ＦＬＡＭＥ」　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "\"FLAME\""
  },
  {
   "addr": "80011bf4",
   "size": 42,
   "jp": "オープニング　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Opening Theme"
  },
  {
   "addr": "80011c20",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　　（順不同）",
-  "en": ""
+  "en": "                  (In no particular order)"
  },
  {
   "addr": "80011c4c",
   "size": 42,
   "jp": "　　　　　東京自由学園　　　　　　　　　　",
-  "en": ""
+  "en": "        Tokyo Jiyu Gakuen"
  },
  {
   "addr": "80011c78",
   "size": 42,
   "jp": "　　　　（有）トリトリオフィス　　　　　　",
-  "en": ""
+  "en": "        Tori Tori Office Ltd."
  },
  {
   "addr": "80011ca4",
   "size": 42,
   "jp": "　　　　（有）アイムエンタープライズ　　　",
-  "en": ""
+  "en": "        I'm Enterprise Ltd."
  },
  {
   "addr": "80011cd0",
   "size": 42,
   "jp": "　　　　（株）マウスプロモーション　　　　",
-  "en": ""
+  "en": "        Mausu Promotion Co., Ltd."
  },
  {
   "addr": "80011cfc",
   "size": 42,
   "jp": "　　　　（株）タワーズ　　　　　　　　　　",
-  "en": ""
+  "en": "        Towers Co., Ltd."
  },
  {
   "addr": "80011d28",
   "size": 42,
   "jp": "　　　　（株）シグマセブン　　　　　　　　",
-  "en": ""
+  "en": "        Sigma Seven Co., Ltd."
  },
  {
   "addr": "80011d54",
   "size": 42,
   "jp": "　　　　（有）賢プロダクション　　　　　　",
-  "en": ""
+  "en": "        Ken Production Ltd."
  },
  {
   "addr": "80011d80",
   "size": 42,
   "jp": "　　　　　劇団ムーンライト　　　　　　　　",
-  "en": ""
+  "en": "        Theater Moonlight"
  },
  {
   "addr": "80011dac",
   "size": 42,
   "jp": "　　　　（株）８１プロデュース　　　　　　",
-  "en": ""
+  "en": "        81 Produce Co., Ltd."
  },
  {
   "addr": "80011dd8",
   "size": 42,
   "jp": "　　　　（株）大沢事務所　　　　　　　　　",
-  "en": ""
+  "en": "        Office Osawa Co., Ltd."
  },
  {
   "addr": "80011e04",
   "size": 42,
   "jp": "　　　　（株）青二プロダクション　　　　　",
-  "en": ""
+  "en": "        Aoni Production Co., Ltd."
  },
  {
   "addr": "80011e30",
   "size": 42,
   "jp": "　　　　（株）アーツビジョン　　　　　　　",
-  "en": ""
+  "en": "        Arts Vision Co., Ltd."
  },
  {
   "addr": "80011e5c",
   "size": 42,
   "jp": "　　　　　　キャスティング協力　　　　　　",
-  "en": ""
+  "en": "           Casting Cooperation"
  },
  {
   "addr": "80011e88",
   "size": 42,
   "jp": "　　　　　　　　　　　（ＴＡＣＴ　ＭＩＸ）",
-  "en": ""
+  "en": "                                (TACT MIX)"
  },
  {
   "addr": "80011eb4",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　勝田　耕史　",
-  "en": ""
+  "en": "                        Koji Katsuta"
  },
  {
   "addr": "80011ee0",
   "size": 42,
   "jp": "　音響制作エンジニア　　　　　高橋　正明　",
-  "en": ""
+  "en": "  Audio Engineer        Masaaki Takahashi"
  },
  {
   "addr": "80011f0c",
   "size": 42,
   "jp": "　　　Ｖｉｄｅｏ　ｓｕｎｍａｌｌ　　　　　",
-  "en": ""
+  "en": "      Video sunmall"
  },
  {
   "addr": "80011f38",
   "size": 42,
   "jp": "　　　鯛ｓｔｕｄｉｏ　　　　　　　　　　　",
-  "en": ""
+  "en": "      Tai studio"
  },
  {
   "addr": "80011f64",
   "size": 42,
   "jp": "　　　ｓｏｎａｔａ　ｃｌｕｂ　　　　　　　",
-  "en": ""
+  "en": "      sonata club"
  },
  {
   "addr": "80011f90",
   "size": 42,
   "jp": "　録音スタジオ　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "  Recording Studio"
  },
  {
   "addr": "80011fbc",
   "size": 42,
   "jp": "　音響ディレクター　　　　　　岩井　邦男　",
-  "en": ""
+  "en": "  Audio Director        Kunio Iwai"
  },
  {
   "addr": "80011fe8",
   "size": 42,
   "jp": "　音響監督　　　　　　　　　　西村　朋紘　",
-  "en": ""
+  "en": "  Sound Director        Tomohiro Nishimura"
  },
  {
   "addr": "80012014",
   "size": 42,
   "jp": "　　　　　　　　　　（ＳＩＳ　ＷＯＲＫＳ）",
-  "en": ""
+  "en": "                               (SIS WORKS)"
  },
  {
   "addr": "80012040",
   "size": 42,
   "jp": "　音響制作プロデューサー　　　白石　慶一　",
-  "en": ""
+  "en": "  Audio Producer        Keiichi Shiraishi"
  },
  {
   "addr": "8001206c",
   "size": 42,
   "jp": "ボイスコーディネイト　　　　　　　　　　　",
-  "en": ""
+  "en": "Voice Coordination"
  },
  {
   "addr": "80012098",
   "size": 42,
   "jp": "　　増田　逸平　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "    Ippei Masuda"
  },
  {
   "addr": "800120c4",
   "size": 42,
   "jp": "　　香月　秀教　　　　　　　田村　行政　　",
-  "en": ""
+  "en": "    Hidenori Katsuki    Yukimasa Tamura"
  },
  {
   "addr": "800120f0",
   "size": 42,
   "jp": "　　中山　徹　　　　　　　　本田　東　　　",
-  "en": ""
+  "en": "    Toru Nakayama       Azuma Honda"
  },
  {
   "addr": "8001211c",
   "size": 42,
   "jp": "　チーフ　　　　鍋谷　圭一　　　　　　　　",
-  "en": ""
+  "en": "  Chief         Keiichi Nabetani"
  },
  {
   "addr": "80012148",
   "size": 42,
   "jp": "（有）インティ・クリエイツ　　　　　　　　",
-  "en": ""
+  "en": "Inti Creates Ltd."
  },
  {
   "addr": "80012174",
   "size": 42,
   "jp": "着彩　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Coloring"
  },
  {
   "addr": "800121a0",
   "size": 42,
   "jp": "　　岩永　悦宜　　　　　　　北村　尚美　　",
-  "en": ""
+  "en": "    Yoshinori Iwanaga   Naomi Kitamura"
  },
  {
   "addr": "800121cc",
   "size": 42,
   "jp": "　　小原　辰也　　　　　　　近藤　靖尚　　",
-  "en": ""
+  "en": "    Tatsuya Ohara       Yasunao Kondo"
  },
  {
   "addr": "800121f8",
   "size": 42,
   "jp": "　　　　　　　　高津　幸央　　　　　　　　",
-  "en": ""
+  "en": "                Yukio Takatsu"
  },
  {
   "addr": "80012224",
   "size": 42,
   "jp": "（株）トランス・アーツ　　　　　　　　　　",
-  "en": ""
+  "en": "Trans Arts Co., Ltd."
  },
  {
   "addr": "80012250",
   "size": 42,
   "jp": "原画　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Original Art"
  },
  {
   "addr": "8001227c",
   "size": 42,
   "jp": "ビジュアルワークス　　　　　　　　　　　　",
-  "en": ""
+  "en": "Visual Works"
  },
  {
   "addr": "800122a8",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　小野　洋一　",
-  "en": ""
+  "en": "                        Yoichi Ono"
  },
  {
   "addr": "800122d4",
   "size": 42,
   "jp": "　シナリオ　　　　　　　　　　岩田　浩平　",
-  "en": ""
+  "en": "  Scenario              Kohei Iwata"
  },
  {
   "addr": "80012300",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　冨沢　崇仁　",
-  "en": ""
+  "en": "                        Takahito Tomizawa"
  },
  {
   "addr": "8001232c",
   "size": 42,
   "jp": "　サブプログラム　　　　　　　鎌田　新平　",
-  "en": ""
+  "en": "  Sub Program           Shinpei Kamata"
  },
  {
   "addr": "80012358",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　塙　俊一　　",
-  "en": ""
+  "en": "                        Shunichi Hanawa"
  },
  {
   "addr": "80012384",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　平川　晋太郎",
-  "en": ""
+  "en": "                        Shintaro Hirakawa"
  },
  {
   "addr": "800123b0",
   "size": 42,
   "jp": "　サウンド　　　　　　　　　　佐藤　清孝　",
-  "en": ""
+  "en": "  Sound                 Kiyotaka Sato"
  },
  {
   "addr": "800123dc",
   "size": 42,
   "jp": "　グラフィック統括　　　　　　須賀　広光　",
-  "en": ""
+  "en": "  Graphics Supervisor   Hiromitsu Suga"
  },
  {
   "addr": "80012408",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　岡野　道生　",
-  "en": ""
+  "en": "                        Michio Okano"
  },
  {
   "addr": "80012434",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　竹内　里夫　",
-  "en": ""
+  "en": "                        Satoo Takeuchi"
  },
  {
   "addr": "80012460",
   "size": 42,
   "jp": "　イメージラフ　　　　　　　　中川　雅史　",
-  "en": ""
+  "en": "  Concept Sketches      Masashi Nakagawa"
  },
  {
   "addr": "8001248c",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　深川　幸生　",
-  "en": ""
+  "en": "                        Yukio Fukagawa"
  },
  {
   "addr": "800124b8",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　古俣　達男　",
-  "en": ""
+  "en": "                        Tatsuo Komata"
  },
  {
   "addr": "800124e4",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　藤田　啓吾　",
-  "en": ""
+  "en": "                        Keigo Fujita"
  },
  {
   "addr": "80012510",
   "size": 42,
   "jp": "　キャラクターアニメーション　立野　重明　",
-  "en": ""
+  "en": "  Character Animation   Shigeaki Tateno"
  },
  {
   "addr": "8001253c",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　小泉　久仁子",
-  "en": ""
+  "en": "                        Kuniko Koizumi"
  },
  {
   "addr": "80012568",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　青木　健　　",
-  "en": ""
+  "en": "                        Ken Aoki"
  },
  {
   "addr": "80012594",
   "size": 42,
   "jp": "　モンスターアニメーション　　荒川　隆　　",
-  "en": ""
+  "en": "  Monster Animation     Takashi Arakawa"
  },
  {
   "addr": "800125c0",
   "size": 42,
   "jp": "　魔弾・ウインドウ作成　　　　伊藤　誉英　",
-  "en": ""
+  "en": " Magic Bullets/Windows  Takahide Ito"
  },
  {
   "addr": "800125ec",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　三輪　安孝　",
-  "en": ""
+  "en": "                        Yasutaka Miwa"
  },
  {
   "addr": "80012618",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　田中　唯　　",
-  "en": ""
+  "en": "                        Yui Tanaka"
  },
  {
   "addr": "80012644",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　越川　聡明　",
-  "en": ""
+  "en": "                        Toshiaki Koshikawa"
  },
  {
   "addr": "80012670",
   "size": 42,
   "jp": "　マップ作成　　　　　　　　　窪田　康彦　",
-  "en": ""
+  "en": "  Map Design            Yasuhiko Kubota"
  },
  {
   "addr": "8001269c",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　小畑　秀一　",
-  "en": ""
+  "en": "                        Shuichi Obata"
  },
  {
   "addr": "800126c8",
   "size": 42,
   "jp": "　マップ・ＯＰ作成　　　　　　平井　勝人　",
-  "en": ""
+  "en": "  Map & Opening Design  Katsuhito Hirai"
  },
  {
   "addr": "800126f4",
   "size": 42,
   "jp": "　　　　　　　　　　　　　　　島岡　一雅　",
-  "en": ""
+  "en": "                        Kazumasa Shimaoka"
  },
  {
   "addr": "80012720",
   "size": 42,
   "jp": "　プログラム　　　　　　　　　永田　潔　　",
-  "en": ""
+  "en": "  Program               Kiyoshi Nagata"
  },
  {
   "addr": "8001274c",
   "size": 42,
   "jp": "　企画・進行　　　　　　　　　金尾　淳　　",
-  "en": ""
+  "en": "  Planning/Management   Jun Kanao"
  },
  {
   "addr": "80012778",
   "size": 42,
   "jp": "（株）タムタム　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "TamTam Co., Ltd."
  },
  {
   "addr": "800127a4",
   "size": 42,
   "jp": "開発　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Development"
  },
  {
   "addr": "800127d0",
   "size": 42,
   "jp": "　　　　　　　　　　　　　銀河　万丈　　　",
-  "en": ""
+  "en": "                        Banjo Ginga"
  },
  {
   "addr": "800127fc",
   "size": 42,
   "jp": "　　　　ヴァムール　　　　　　　　　　　　",
-  "en": ""
+  "en": "        Vamur"
  },
  {
   "addr": "80012828",
   "size": 42,
   "jp": "　　　　　　　　　　　　　根谷　美智子　　",
-  "en": ""
+  "en": "                        Michiko Neya"
  },
  {
   "addr": "80012854",
   "size": 42,
   "jp": "　　　　レディ　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "        Lady"
  },
  {
   "addr": "80012880",
   "size": 42,
   "jp": "　　　　　　　　　　　　　山本　麻里安　　",
-  "en": ""
+  "en": "                        Marian Yamamoto"
  },
  {
   "addr": "800128ac",
   "size": 42,
   "jp": "　　　　ミュウ　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "        Myu"
  },
  {
   "addr": "800128d8",
   "size": 42,
   "jp": "　　　　　　　　　　　　　永田　亮子　　　",
-  "en": ""
+  "en": "                        Ryoko Nagata"
  },
  {
   "addr": "80012904",
   "size": 42,
   "jp": "　　　　プラダ　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "        Prada"
  },
  {
   "addr": "80012930",
   "size": 42,
   "jp": "　　　　シャイ　　　　　　古谷　磨美　　　",
-  "en": ""
+  "en": "        Shai            Mami Furuya"
  },
  {
   "addr": "8001295c",
   "size": 42,
   "jp": "　　　　マテリア　　　　　石松　さやか　　",
-  "en": ""
+  "en": "        Materia         Sayaka Ishimatsu"
  },
  {
   "addr": "80012988",
   "size": 42,
   "jp": "　　　　ナムリア　　　　　杉本　ゆう　　　",
-  "en": ""
+  "en": "        Namuria         Yu Sugimoto"
  },
  {
   "addr": "800129b4",
   "size": 42,
   "jp": "　　　　エウリケ　　　　　和田　みちる　　",
-  "en": ""
+  "en": "        Eurike          Michiru Wada"
  },
  {
   "addr": "800129e0",
   "size": 42,
   "jp": "　　　　ランドー　　　　　新谷　恵　　　　",
-  "en": ""
+  "en": "        Rando           Megumi Shintani"
  },
  {
   "addr": "80012a0c",
   "size": 42,
   "jp": "　　　　オパス　　　　　　永野　広一　　　",
-  "en": ""
+  "en": "        Opas            Koichi Nagano"
  },
  {
   "addr": "80012a38",
   "size": 42,
   "jp": "　　　　　　　　　　　　　高橋　広樹　　　",
-  "en": ""
+  "en": "                        Hiroki Takahashi"
  },
  {
   "addr": "80012a64",
   "size": 42,
   "jp": "　　　　斉藤　ヒトシ　　　　　　　　　　　",
-  "en": ""
+  "en": "        Hitoshi Saitou"
  },
  {
   "addr": "80012a90",
   "size": 42,
   "jp": "　　　　　　　　　　　　　高橋　直純　　　",
-  "en": ""
+  "en": "                        Naozumi Takahashi"
  },
  {
   "addr": "80012abc",
   "size": 42,
   "jp": "　　　　高木　学　　　　　　　　　　　　　",
-  "en": ""
+  "en": "        Manabu Takagi"
  },
  {
   "addr": "80012ae8",
   "size": 42,
   "jp": "　　　　　　　　　　　　　保志　総一朗　　",
-  "en": ""
+  "en": "                        Soichiro Hoshi"
  },
  {
   "addr": "80012b14",
   "size": 42,
   "jp": "　　　　イムル　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "        Imul"
  },
  {
   "addr": "80012b40",
   "size": 42,
   "jp": "　　　　　　　　　　　　　立木　文彦　　　",
-  "en": ""
+  "en": "                        Fumihiko Tachiki"
  },
  {
   "addr": "80012b6c",
   "size": 42,
   "jp": "　　　　アルバイジャン　　　　　　　　　　",
-  "en": ""
+  "en": "        Albaijan"
  },
  {
   "addr": "80012b98",
   "size": 42,
   "jp": "　　　　　　　　　　　　　大谷　育江　　　",
-  "en": ""
+  "en": "                        Ikue Otani"
  },
  {
   "addr": "80012bc4",
   "size": 42,
   "jp": "　　　　ハーミー　　　　　　　　　　　　　",
-  "en": ""
+  "en": "        Hermie"
  },
  {
   "addr": "80012bf0",
   "size": 42,
   "jp": "　　　　　　　　　　　　　三石　琴乃　　　",
-  "en": ""
+  "en": "                        Kotono Mitsuishi"
  },
  {
   "addr": "80012c1c",
   "size": 42,
   "jp": "　　　　ルー　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "        Lou"
  },
  {
   "addr": "80012c48",
   "size": 42,
   "jp": "　　　　　　　　　　　　　玉川　紗己子　　",
-  "en": ""
+  "en": "                        Sakiko Tamagawa"
  },
  {
   "addr": "80012c74",
   "size": 42,
   "jp": "　　　　吉永　秋穂　　　　　　　　　　　　",
-  "en": ""
+  "en": "        Akiho Yoshinaga"
  },
  {
   "addr": "80012ca0",
   "size": 42,
   "jp": "　　　　　　　　　　　　　菊池　志穂　　　",
-  "en": ""
+  "en": "                        Shiho Kikuchi"
  },
  {
   "addr": "80012ccc",
   "size": 42,
   "jp": "　　　　伊藤　ひかる　　　　　　　　　　　",
-  "en": ""
+  "en": "        Hikaru Itou"
  },
  {
   "addr": "80012cf8",
   "size": 42,
   "jp": "　　　　　　　　　　　　　今井　由香　　　",
-  "en": ""
+  "en": "                        Yuka Imai"
  },
  {
   "addr": "80012d24",
   "size": 42,
   "jp": "　　　　松岡　ユカ　　　　　　　　　　　　",
-  "en": ""
+  "en": "        Yuka Matsuoka"
  },
  {
   "addr": "80012d50",
   "size": 42,
   "jp": "　　　　　　　　　　　　　上田　祐司　　　",
-  "en": ""
+  "en": "                        Yuji Ueda"
  },
  {
   "addr": "80012d7c",
   "size": 42,
   "jp": "　　　　新見　翔　　　　　　　　　　　　　",
-  "en": ""
+  "en": "        Shou Niimi"
  },
  {
   "addr": "80012da8",
   "size": 42,
   "jp": "　キャスト　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "  Cast"
  },
  {
   "addr": "80012dd4",
   "size": 42,
   "jp": "　　　　　脚本監修　　　　　庄司　卓　　　",
-  "en": ""
+  "en": "    Script Supervisor   Taku Shoji"
  },
  {
   "addr": "80012e00",
   "size": 42,
   "jp": "　　キャラクターデザイン　　七瀬　葵　　　",
-  "en": ""
+  "en": "    Character Design    Aoi Nanase"
  },
  {
   "addr": "80013024",
   "size": 10,
   "jp": "イマージュ",
-  "en": ""
+  "en": "Image"
  },
  {
   "addr": "80013030",
   "size": 6,
   "jp": "スフィ",
-  "en": ""
+  "en": "Sphi"
  },
  {
   "addr": "80013038",
   "size": 6,
   "jp": "デッド",
-  "en": ""
+  "en": "Dead"
  },
  {
   "addr": "80013040",
   "size": 6,
   "jp": "エイド",
-  "en": ""
+  "en": "Aid"
  },
  {
   "addr": "80013048",
   "size": 8,
   "jp": "キューブ",
-  "en": ""
+  "en": "Cube"
  },
  {
   "addr": "80013054",
   "size": 4,
   "jp": "エア",
-  "en": ""
+  "en": "Air"
  },
  {
   "addr": "8001305c",
   "size": 6,
   "jp": "バスト",
-  "en": ""
+  "en": "Burst"
  },
  {
   "addr": "80013064",
   "size": 6,
   "jp": "ボルト",
-  "en": ""
+  "en": "Bolt"
  },
  {
   "addr": "8001306c",
   "size": 4,
   "jp": "スノ",
-  "en": ""
+  "en": "Snow"
  },
  {
   "addr": "80013074",
   "size": 6,
   "jp": "フレイ",
-  "en": ""
+  "en": "Frey"
  },
  {
   "addr": "8001307c",
   "size": 72,
   "jp": "陽神テンロウを召喚、広範囲に中ダメージ　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Summons the Sun God Tenrou: medium damage over a wide area"
  },
  {
   "addr": "800130c8",
   "size": 72,
   "jp": "陽神デカムスラを召喚、敵全体に大ダメージ＋眠らせる　　　　　　　　　　　",
-  "en": ""
+  "en": "Summons the Sun God Dekamusura: heavy damage + sleep to all enemies"
  },
  {
   "addr": "80013114",
   "size": 74,
   "jp": "敵全体に中ダメージ＋マヒを与える　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Medium damage + paralysis to all enemies"
  },
  {
   "addr": "80013160",
   "size": 72,
   "jp": "陽神デスガッデスを召喚、広範囲の敵を一撃で倒す事がある　　　　　　　　　",
-  "en": ""
+  "en": "Summons the Sun God Desgaddes: may instantly kill enemies in a wide area"
  },
  {
   "addr": "800131ac",
   "size": 72,
   "jp": "敵全体を一撃で倒す事がある　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "May instantly kill all enemies"
  },
  {
   "addr": "800131f8",
   "size": 72,
   "jp": "敵１体を一撃で倒す事がある　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "May instantly kill one enemy"
  },
  {
   "addr": "80013244",
   "size": 72,
   "jp": "陽神メヴュースを召喚、味方全員のＨＰを完全回復　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Summons the Sun God Meviuse: fully restores all allies' HP"
  },
  {
   "addr": "80013290",
   "size": 74,
   "jp": "味方全員の気絶を含むあらゆるステータス異常を回復　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Cures all status ailments for all allies, even being knocked out"
  },
  {
   "addr": "800132dc",
   "size": 72,
   "jp": "味方１人の気絶をＨＰ完全で回復　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Revives one knocked-out ally with full HP"
  },
  {
   "addr": "80013328",
   "size": 70,
   "jp": "味方１人のＨＰを中回復　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Restores a medium amount of HP to one ally"
  },
  {
   "addr": "80013370",
   "size": 72,
   "jp": "陽神ロックゴレムを召喚、敵１体に大ダメージ　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Summons the Sun God Rockgolem: heavy damage to one enemy"
  },
  {
   "addr": "800133bc",
   "size": 72,
   "jp": "土の魔弾、敵全体にダメージ　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Earth Magic Bullet: damage to all enemies"
  },
  {
   "addr": "80013408",
   "size": 74,
   "jp": "敵１体のＡＧＩを下げる　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Lowers one enemy's AGI"
  },
  {
   "addr": "80013454",
   "size": 72,
   "jp": "味方１人のＡＧＩを上げる　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Raises one ally's AGI"
  },
  {
   "addr": "800134a0",
   "size": 72,
   "jp": "土の魔弾、敵１体にダメージ　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Earth Magic Bullet: damage to one enemy"
  },
  {
   "addr": "800134ec",
   "size": 72,
   "jp": "陽神ウィンダムを召喚、敵全体に大ダメージ　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Summons the Sun God Windam: heavy damage to all enemies"
  },
  {
   "addr": "80013538",
   "size": 72,
   "jp": "風の魔弾、敵全体に大ダメージ　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Wind Magic Bullet: heavy damage to all enemies"
  },
  {
   "addr": "80013584",
   "size": 72,
   "jp": "敵１体に毒を与える　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Poisons one enemy"
  },
  {
   "addr": "800135d0",
   "size": 72,
   "jp": "味方１人の毒状態を回復　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Cures one ally's poison"
  },
  {
   "addr": "8001361c",
   "size": 72,
   "jp": "風の魔弾、敵１体にダメージ　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Wind Magic Bullet: damage to one enemy"
  },
  {
   "addr": "80013668",
   "size": 72,
   "jp": "陽神ジンを召喚、敵全体に大ダメージ　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Summons the Sun God Jinn: heavy damage to all enemies"
  },
  {
   "addr": "800136b4",
   "size": 72,
   "jp": "敵全体に中ダメージ＋毒を与える　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Medium damage + poison to all enemies"
  },
  {
   "addr": "80013700",
   "size": 72,
   "jp": "敵１体を眠らせる　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Puts one enemy to sleep"
  },
  {
   "addr": "8001374c",
   "size": 72,
   "jp": "味方１人の眠り状態を回復　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Wakes one ally from sleep"
  },
  {
   "addr": "80013798",
   "size": 72,
   "jp": "土の魔弾、広範囲にダメージ　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Earth Magic Bullet: damage over a wide area"
  },
  {
   "addr": "800137e4",
   "size": 72,
   "jp": "風の魔弾、広範囲にダメージ　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Wind Magic Bullet: damage over a wide area"
  },
  {
   "addr": "80013830",
   "size": 72,
   "jp": "広範囲の敵に中ダメージ　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Medium damage to enemies over a wide area"
  },
  {
   "addr": "8001387c",
   "size": 72,
   "jp": "陽神シデンを召喚、敵１体に大ダメージ　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Summons the Sun God Shiden: heavy damage to one enemy"
  },
  {
   "addr": "800138c8",
   "size": 72,
   "jp": "雷の魔弾、敵全体に大ダメージ　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Thunder Magic Bullet: heavy damage to all enemies"
  },
  {
   "addr": "80013914",
   "size": 72,
   "jp": "敵１体のＤＥＦを下げる　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Lowers one enemy's DEF"
  },
  {
   "addr": "80013960",
   "size": 72,
   "jp": "味方１人のＤＥＦを上げる　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Raises one ally's DEF"
  },
  {
   "addr": "800139ac",
   "size": 72,
   "jp": "雷の魔弾、広範囲にダメージ　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Thunder Magic Bullet: damage over a wide area"
  },
  {
   "addr": "800139f8",
   "size": 72,
   "jp": "雷の魔弾、敵１体にダメージ　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Thunder Magic Bullet: damage to one enemy"
  },
  {
   "addr": "80013a44",
   "size": 72,
   "jp": "陽神アクオーンを召喚、敵全体に大ダメージ　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Summons the Sun God Aquon: heavy damage to all enemies"
  },
  {
   "addr": "80013a90",
   "size": 72,
   "jp": "水の魔弾、敵全体に大ダメージ　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Water Magic Bullet: heavy damage to all enemies"
  },
  {
   "addr": "80013adc",
   "size": 72,
   "jp": "敵１体をマヒさせる　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Paralyzes one enemy"
  },
  {
   "addr": "80013b28",
   "size": 72,
   "jp": "味方１人のマヒ状態を回復　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Cures one ally's paralysis"
  },
  {
   "addr": "80013b74",
   "size": 72,
   "jp": "水の魔弾、広範囲にダメージ　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Water Magic Bullet: damage over a wide area"
  },
  {
   "addr": "80013bc0",
   "size": 72,
   "jp": "水の魔弾、敵１体に中ダメージ　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Water Magic Bullet: medium damage to one enemy"
  },
  {
   "addr": "80013c0c",
   "size": 72,
   "jp": "水の魔弾、敵１体にダメージ　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Water Magic Bullet: damage to one enemy"
  },
  {
   "addr": "80013c58",
   "size": 72,
   "jp": "陽神ボルケーノを召喚、敵１体に大ダメージ　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Summons the Sun God Volcano: heavy damage to one enemy"
  },
  {
   "addr": "80013ca4",
   "size": 72,
   "jp": "炎の魔弾、敵全体に大ダメージ　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Fire Magic Bullet: heavy damage to all enemies"
  },
  {
   "addr": "80013cf0",
   "size": 72,
   "jp": "敵１体のＳＴＲを下げる　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Lowers one enemy's STR"
  },
  {
   "addr": "80013d3c",
   "size": 72,
   "jp": "味方１人のＳＴＲを上げる　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Raises one ally's STR"
  },
  {
   "addr": "80013d88",
   "size": 72,
   "jp": "炎の魔弾、敵１体に中ダメージ　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Fire Magic Bullet: medium damage to one enemy"
  },
  {
   "addr": "80013dd4",
   "size": 72,
   "jp": "炎の魔弾、広範囲にダメージ　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Fire Magic Bullet: damage over a wide area"
  },
  {
   "addr": "80013e20",
   "size": 72,
   "jp": "この組み合わせは、作成することが出来ません　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "This combination cannot be made"
  },
  {
   "addr": "80013e6c",
   "size": 72,
   "jp": "炎の魔弾、敵１体にダメージ　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Fire Magic Bullet: damage to one enemy"
  },
  {
   "addr": "80013eb8",
   "size": 22,
   "jp": "イベント用、すごい威力",
-  "en": ""
+  "en": "For events. Huge power"
  },
  {
   "addr": "80013ed0",
   "size": 40,
   "jp": "弓専用矢、特殊な技法でＴＩＰを強化した矢",
-  "en": ""
+  "en": "Arrow for bows, specially TIP-reinforced"
  },
  {
   "addr": "80013f00",
   "size": 40,
   "jp": "銃専用弾、特殊な技法でＴＩＰを強化した弾",
-  "en": ""
+  "en": "Ammo for guns, specially TIP-reinforced"
  },
  {
   "addr": "80013f2c",
   "size": 38,
   "jp": "弓道の弓とともに入手した矢、威力は低い",
-  "en": ""
+  "en": "Came with the Archery Bow. Low power"
  },
  {
   "addr": "80013f54",
   "size": 10,
   "jp": "攻撃用の弾",
-  "en": ""
+  "en": "For attack"
  },
  {
   "addr": "80013f60",
   "size": 20,
   "jp": "イマージュアーティア",
-  "en": ""
+  "en": "Image Artia"
  },
  {
   "addr": "80013f78",
   "size": 16,
   "jp": "スフィアーティア",
-  "en": ""
+  "en": "Sphi Artia"
  },
  {
   "addr": "80013f8c",
   "size": 16,
   "jp": "デッドアーティア",
-  "en": ""
+  "en": "Dead Artia"
  },
  {
   "addr": "80013fa0",
   "size": 16,
   "jp": "エイドアーティア",
-  "en": ""
+  "en": "Aid Artia"
  },
  {
   "addr": "80013fb4",
   "size": 18,
   "jp": "キューブアーティア",
-  "en": ""
+  "en": "Cube Artia"
  },
  {
   "addr": "80013fc8",
   "size": 14,
   "jp": "エアアーティア",
-  "en": ""
+  "en": "Air Artia"
  },
  {
   "addr": "80013fd8",
   "size": 16,
   "jp": "バストアーティア",
-  "en": ""
+  "en": "Burst Artia"
  },
  {
   "addr": "80013fec",
   "size": 16,
   "jp": "ボルトアーティア",
-  "en": ""
+  "en": "Bolt Artia"
  },
  {
   "addr": "80014000",
   "size": 14,
   "jp": "スノアーティア",
-  "en": ""
+  "en": "Snow Artia"
  },
  {
   "addr": "80014010",
   "size": 16,
   "jp": "フレイアーティア",
-  "en": ""
+  "en": "Frey Artia"
  },
  {
   "addr": "80014024",
   "size": 6,
   "jp": "ブック",
-  "en": ""
+  "en": "Book"
  },
  {
   "addr": "8001402c",
   "size": 42,
   "jp": "デバッグ用　ＬＡＶが１０ダウンするのなの～",
-  "en": ""
+  "en": "For debug   LAV goes down 10~"
  },
  {
   "addr": "80014058",
   "size": 42,
   "jp": "デバッグ用　ＬＡＶが１０アップするのなの～",
-  "en": ""
+  "en": "For debug   LAV goes up 10~"
  },
  {
   "addr": "80014084",
   "size": 60,
   "jp": "銃専用弾、特殊な技法でＴＩＰを強化した弾　　　　　　　　　　",
-  "en": ""
+  "en": "Ammo for guns, specially reinforced with TIP"
  },
  {
   "addr": "800140c4",
   "size": 60,
   "jp": "学校内で見つけたパン、味方１人のＨＰを小回復　　　　　　　　",
-  "en": ""
+  "en": "Bread found at school. Restores a little HP to one ally"
  },
  {
   "addr": "80014104",
   "size": 60,
   "jp": "弓専用矢、特殊な技法でＴＩＰを強化した矢　　　　　　　　　　",
-  "en": ""
+  "en": "Arrow for bows, specially reinforced with TIP"
  },
  {
   "addr": "80014144",
   "size": 60,
   "jp": "貴重なＴＩＰ、ムダ使いに注意　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Precious TIP. Don't waste it"
  },
  {
   "addr": "80014184",
   "size": 60,
   "jp": "弓道の弓とともに入手した矢、威力は低い　　　　　　　　　　　",
-  "en": ""
+  "en": "Came with the Archery Bow. Low power"
  },
  {
   "addr": "800141c4",
   "size": 60,
   "jp": "使用するとジャームが寄ってくる　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Attracts Germs when used"
  },
  {
   "addr": "80014204",
   "size": 60,
   "jp": "一定時間ジャームの出現を抑える　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Keeps Germs away for a while"
  },
  {
   "addr": "80014244",
   "size": 60,
   "jp": "味方１人の最大ＡＧＩがアップする　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Raises one ally's max AGI"
  },
  {
   "addr": "80014284",
   "size": 60,
   "jp": "味方１人の最大ＤＥＦがアップする　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Raises one ally's max DEF"
  },
  {
   "addr": "800142c4",
   "size": 60,
   "jp": "味方１人の最大ＳＴＲがアップする　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Raises one ally's max STR"
  },
  {
   "addr": "80014304",
   "size": 60,
   "jp": "味方１人の最大ＨＰがアップする　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Raises one ally's max HP"
  },
  {
   "addr": "80014344",
   "size": 60,
   "jp": "味方１人のＤＥＦをアップさせる　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Boosts one ally's DEF"
  },
  {
   "addr": "80014384",
   "size": 60,
   "jp": "味方１人のＳＴＲをアップさせる　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Boosts one ally's STR"
  },
  {
   "addr": "800143c4",
   "size": 60,
   "jp": "味方１人のＡＧＩをアップさせる　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Boosts one ally's AGI"
  },
  {
   "addr": "80014404",
   "size": 60,
   "jp": "ダンジョン内を明るく照らす　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Lights up the dungeon"
  },
  {
   "addr": "80014484",
   "size": 60,
   "jp": "戦闘から１００％逃げ出せる　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Escape from battle 100% of the time"
  },
  {
   "addr": "800144c4",
   "size": 60,
   "jp": "味方１人を気絶以外のステータス異常から回復させる　　　　　　",
-  "en": ""
+  "en": "Cures one ally of all status ailments but knockout"
  },
  {
   "addr": "80014504",
   "size": 60,
   "jp": "味方全員を一斉に目覚めさせる　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Wakes up all allies at once"
  },
  {
   "addr": "80014544",
   "size": 60,
   "jp": "味方１人をマヒ状態から回復させる　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Cures one ally of paralysis"
  },
  {
   "addr": "80014584",
   "size": 60,
   "jp": "味方１人を目覚めさせる　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Wakes up one ally"
  },
  {
   "addr": "800145c4",
   "size": 60,
   "jp": "味方１人を毒状態から回復させる　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Cures one ally of poison"
  },
  {
   "addr": "80014604",
   "size": 60,
   "jp": "味方１人を戦闘に復帰させる　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Returns one knocked-out ally to battle"
  },
  {
   "addr": "80014644",
   "size": 60,
   "jp": "味方全員のＨＰを完全回復　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Fully restores all allies' HP"
  },
  {
   "addr": "80014684",
   "size": 60,
   "jp": "味方全員のＨＰを大回復　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Greatly restores all allies' HP"
  },
  {
   "addr": "800146c4",
   "size": 60,
   "jp": "味方全員のＨＰを中回復　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Moderately restores all allies' HP"
  },
  {
   "addr": "80014704",
   "size": 60,
   "jp": "味方全員のＨＰを小回復　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Slightly restores all allies' HP"
  },
  {
   "addr": "80014744",
   "size": 60,
   "jp": "味方１人のＨＰを完全回復　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Fully restores one ally's HP"
  },
  {
   "addr": "80014784",
   "size": 60,
   "jp": "味方１人のＨＰを大回復　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Greatly restores one ally's HP"
  },
  {
   "addr": "800147c4",
   "size": 60,
   "jp": "味方１人のＨＰを中回復　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Moderately restores one ally's HP"
  },
  {
   "addr": "80014804",
   "size": 60,
   "jp": "味方１人のＨＰを小回復　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Slightly restores one ally's HP"
  },
  {
   "addr": "80014844",
   "size": 86,
   "jp": "ルー専用アクセサリー、シャイとの友情の証　　　　ＡＧＩとＳＴＲがアップする　　　　　　",
-  "en": ""
+  "en": "Lou only. Proof of her friendship with Shai     Raises AGI and STR"
  },
  {
   "addr": "8001489c",
   "size": 86,
   "jp": "ひかる専用アクセサリー、イムルからもらった　　　ペンダント、ＤＥＦとＳＴＲがアップする",
-  "en": ""
+  "en": "Hikaru only. A pendant given to her by Imul     Raises DEF and STR"
  },
  {
   "addr": "800148f4",
   "size": 86,
   "jp": "幻のアーティア、全ての能力がアップする　　　　　最強装備のひとつ　　　　　　　　　　　",
-  "en": ""
+  "en": "A legendary Artia. Raises all stats             One of the strongest items"
  },
  {
   "addr": "8001494c",
   "size": 86,
   "jp": "ＳＴＲがアップする　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Raises STR"
  },
  {
   "addr": "800149a4",
   "size": 86,
   "jp": "ＡＧＩがアップする　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Raises AGI"
  },
  {
   "addr": "800149fc",
   "size": 86,
   "jp": "男性専用、装備すると全ての能力がアップするが　　装備していると女性のＬＡＶが下がる　　",
-  "en": ""
+  "en": "Men only. Raises all stats, but women's         LAV drops while it is equipped"
  },
  {
   "addr": "80014a54",
   "size": 84,
   "jp": "ステータス異常にかかりにくくなる　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Makes status ailments less likely"
  },
  {
   "addr": "80014aac",
   "size": 84,
   "jp": "男性専用、ステータス異常にかかりにくくなる　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Men only. Makes status ailments less likely"
  },
  {
   "addr": "80014b04",
   "size": 84,
   "jp": "女性専用、ＤＥＦが少ししかアップしないが非常に　セクシー　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Women only. Barely raises DEF, but it's         very sexy"
  },
  {
   "addr": "80014b5c",
   "size": 84,
   "jp": "女性専用、ＤＥＦとＡＧＩがアップする不思議な　　ケープ　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Women only. A mysterious cape that              raises DEF and AGI"
  },
  {
   "addr": "80014bb4",
   "size": 84,
   "jp": "ＳＴＲがアップする　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Raises STR"
  },
  {
   "addr": "80014c0c",
   "size": 84,
   "jp": "女性専用、ステータス異常にかかりにくくなる　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Women only. Makes status ailments less likely"
  },
  {
   "addr": "80014c64",
   "size": 84,
   "jp": "ＤＥＦがアップする　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Raises DEF"
  },
  {
   "addr": "80014cbc",
   "size": 84,
   "jp": "ＡＧＩがアップする　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Raises AGI"
  },
  {
   "addr": "80014d6c",
   "size": 92,
   "jp": "エレの樹のパワーが込められたリング　　　　　　　最強装備のひとつ、ステータス異常を完全に防ぐ",
-  "en": ""
+  "en": "A ring infused with the Ele Tree's power        Top-class gear. Blocks all status ailments"
  },
  {
   "addr": "80014dcc",
   "size": 86,
   "jp": "キューブ属性を持つ指輪　　　　　　　　　　　　　キューブ属性に強く、その他の属性に弱い",
-  "en": ""
+  "en": "A ring with the Cube element                    Resists Cube, weak to other elements"
  },
  {
   "addr": "80014e24",
   "size": 84,
   "jp": "男性専用、装備するとＡＧＩも若干アップするが　　魔弾を使用できなくなる　　　　　　　",
-  "en": ""
+  "en": "Men only. Also raises AGI a little, but         you can no longer use Magic Bullets"
  },
  {
   "addr": "80014e7c",
   "size": 84,
   "jp": "フレイ属性を持つリング　　　　　　　　　　　　　スノ属性に強く、ボルト属性に弱い　　",
-  "en": ""
+  "en": "A ring with the Frey element                    Resists Snow, weak to Bolt"
  },
  {
   "addr": "80014ed4",
   "size": 84,
   "jp": "女性専用、装備するとＡＧＩも若干アップする　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Women only. Also raises AGI a little"
  },
  {
   "addr": "80014f2c",
   "size": 84,
   "jp": "男性専用、パラメータ変化系の攻撃を無効にする　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Men only. Nullifies stat-altering attacks"
  },
  {
   "addr": "80014f84",
   "size": 84,
   "jp": "全ての属性攻撃によるダメージを軽減する　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Reduces damage from all elemental attacks"
  },
  {
   "addr": "80014fdc",
   "size": 84,
   "jp": "エア属性を持つ指輪　　　　　　　　　　　　　　　ボルト属性に強く、スノ属性に弱い　　",
-  "en": ""
+  "en": "A ring with the Air element                     Resists Bolt, weak to Snow"
  },
  {
   "addr": "80015034",
   "size": 84,
   "jp": "装備するとＳＴＲも若干アップする　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Also raises STR a little"
  },
  {
   "addr": "8001508c",
   "size": 84,
   "jp": "ボルト属性を持つ指輪　　　　　　　　　　　　　　フレイ属性に強く、エア属性に弱い　　",
-  "en": ""
+  "en": "A ring with the Bolt element                    Resists Frey, weak to Air"
  },
  {
   "addr": "800150e4",
   "size": 84,
   "jp": "装備していると歩く度にＨＰが１ずつ回復　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Restores 1 HP with every step while worn"
  },
  {
   "addr": "8001513c",
   "size": 84,
   "jp": "ＤＥＦがかなりアップするが　　　　　　　　　　　ＳＴＲは２分の１になる　　　　　　　",
-  "en": ""
+  "en": "Greatly raises DEF, but                         halves STR"
  },
  {
   "addr": "80015194",
   "size": 84,
   "jp": "フレイ属性を持つ指輪　　　　　　　　　　　　　　スノ属性に強く、ボルト属性に弱い　　",
-  "en": ""
+  "en": "A ring with the Frey element                    Resists Snow, weak to Bolt"
  },
  {
   "addr": "800151ec",
   "size": 84,
   "jp": "スノ属性を持つ指輪　　　　　　　　　　　　　　　エア属性に強く、フレイ属性に弱い　　",
-  "en": ""
+  "en": "A ring with the Snow element                    Resists Air, weak to Frey"
  },
  {
   "addr": "80015244",
   "size": 84,
   "jp": "騎士クラスが用いるリング　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "A ring used by the knight class"
  },
  {
   "addr": "8001529c",
   "size": 84,
   "jp": "装備しているとマヒ状態にならない　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Prevents paralysis while worn"
  },
  {
   "addr": "800152f4",
   "size": 84,
   "jp": "戦士達の間でよく使われるリング　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "A ring popular among warriors"
  },
  {
   "addr": "8001534c",
   "size": 84,
   "jp": "アイシアでもっとも普及しているリング　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "The most common ring in Eithéa"
  },
  {
   "addr": "800153a4",
   "size": 84,
   "jp": "自分の身を守る為の初歩的なリング　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "A basic ring for protecting yourself"
  },
  {
   "addr": "800153fc",
   "size": 92,
   "jp": "近接攻撃専用武器　　　　　　　　　　　　　　　　装備しているとＨＰが徐々に回復する　　　　　",
-  "en": ""
+  "en": "Melee weapon                                    Slowly restores HP while equipped"
  },
  {
   "addr": "8001545c",
   "size": 84,
   "jp": "近接攻撃専用武器、まれに敵に毒を与える　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Melee weapon. Sometimes poisons enemies"
  },
  {
   "addr": "800154b4",
   "size": 92,
   "jp": "イムル専用剣　　　　　　　　　　　　　　　　　　ユーロリア王子のみ使用する事が出来る　　　　",
-  "en": ""
+  "en": "Imul-only sword                                 Only the Prince of Eurolia can wield it"
  },
  {
   "addr": "80015514",
   "size": 84,
   "jp": "近接攻撃専用武器、装備するとＤＥＦが若干アップ　龍型ジャームに特効　　　　　　　　　",
-  "en": ""
+  "en": "Melee weapon. Also raises DEF a little          Strong vs. dragon-type Germs"
  },
  {
   "addr": "8001556c",
   "size": 84,
   "jp": "近接攻撃専用武器、装備するとＡＧＩが若干アップ　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Melee weapon. Also raises AGI a little"
  },
  {
   "addr": "800155c4",
   "size": 84,
   "jp": "近接攻撃専用武器、まれに敵をマヒさせる　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Melee weapon. Sometimes paralyzes enemies"
  },
  {
   "addr": "8001561c",
   "size": 84,
   "jp": "近接攻撃専用武器、まれに敵を眠らせる　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Melee weapon. Sometimes puts enemies to sleep"
  },
  {
   "addr": "80015674",
   "size": 84,
   "jp": "エレの樹の力が宿った神爪、最強装備のひとつ　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "A divine claw holding the Ele Tree's power      One of the strongest items"
  },
  {
   "addr": "800156cc",
   "size": 84,
   "jp": "魔弾：ロックゴレムを使用時に効果１０％アップ　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Magic Bullet Rockgolem is 10% stronger"
  },
  {
   "addr": "80015724",
   "size": 84,
   "jp": "龍の牙から作り出された物らしい　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Said to be made from a dragon's fang"
  },
  {
   "addr": "8001577c",
   "size": 84,
   "jp": "自分のＨＰを消費し、まれに敵を一撃で倒す　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Uses your HP. Rarely fells a foe in one hit"
  },
  {
   "addr": "800157d4",
   "size": 84,
   "jp": "敵に与えたダメージの一部を吸収　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Absorbs part of the damage dealt to enemies"
  },
  {
   "addr": "8001582c",
   "size": 84,
   "jp": "強固な作りの突起付きグローブ　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "A sturdy spiked glove"
  },
  {
   "addr": "80015884",
   "size": 84,
   "jp": "鋭利な切れ味を誇る　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Boasts a razor-sharp edge"
  },
  {
   "addr": "800158dc",
   "size": 84,
   "jp": "力を込めやすいビョウ付きグローブ　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "A studded glove that lends power to punches"
  },
  {
   "addr": "80015934",
   "size": 84,
   "jp": "熊のような鋭い爪で切り裂く　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Slashes with sharp, bear-like claws"
  },
  {
   "addr": "8001598c",
   "size": 84,
   "jp": "文化祭で使われた演劇部の小道具　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "A drama club prop used at the school festival"
  },
  {
   "addr": "800159e4",
   "size": 84,
   "jp": "ハーミー専用弓、ピエンの愛情がつまった至高の一品　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Hermie-only bow. A supreme piece filled         with Pien's love"
  },
  {
   "addr": "80015a3c",
   "size": 96,
   "jp": "エレの樹から削り出されたとされる弓　　　　　　　最強装備のひとつ　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "A bow said to be carved from the Ele Tree       One of the strongest items"
  },
  {
   "addr": "80015aa0",
   "size": 84,
   "jp": "三日月をかたどった弓、月光族の至宝　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "A crescent-moon bow. Moonlight Clan treasure"
  },
  {
   "addr": "80015af8",
   "size": 84,
   "jp": "聖なる加護を受けた弓　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "A bow blessed with holy protection"
  },
  {
   "addr": "80015b50",
   "size": 84,
   "jp": "装備するとＤＥＦも若干アップ　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Also raises DEF a little"
  },
  {
   "addr": "80015ba8",
   "size": 84,
   "jp": "装備すると敵に狙われにくくなる　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Makes enemies less likely to target you"
  },
  {
   "addr": "80015c00",
   "size": 84,
   "jp": "イマージュの魔弾使用時に効果が１０％アップ　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Image Magic Bullets are 10% more effective"
  },
  {
   "addr": "80015c58",
   "size": 84,
   "jp": "装備者は多く経験値がもらえる　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "The wielder gains extra EXP"
  },
  {
   "addr": "80015cb0",
   "size": 84,
   "jp": "２方向同時攻撃が可能　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Can attack in 2 directions at once"
  },
  {
   "addr": "80015d08",
   "size": 84,
   "jp": "狩人が用いる弓、装備するとＡＧＩも若干アップ　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "A hunter's bow. Also raises AGI a little"
  },
  {
   "addr": "80015d60",
   "size": 84,
   "jp": "弦を交差させる事で破壊力を高めた弓　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "A bow with crossed strings for extra power"
  },
  {
   "addr": "80015db8",
   "size": 84,
   "jp": "３方向同時攻撃が可能　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Can attack in 3 directions at once"
  },
  {
   "addr": "80015e10",
   "size": 84,
   "jp": "ベテラン戦士が用いる弓　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "A bow used by veteran warriors"
  },
  {
   "addr": "80015e68",
   "size": 84,
   "jp": "魔弾使用時に効果が１０％アップ　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Magic Bullets are 10% more effective"
  },
  {
   "addr": "80015ec0",
   "size": 84,
   "jp": "一般的な戦闘用の弓　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "A standard combat bow"
  },
  {
   "addr": "80015f18",
   "size": 84,
   "jp": "ハーミー専用弓　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Hermie-only bow"
  },
  {
   "addr": "80015f70",
   "size": 84,
   "jp": "月光族が一般的に用いる弓、扱いやすい　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "A common Moonlight Clan bow. Easy to use"
  },
  {
   "addr": "80015fc8",
   "size": 84,
   "jp": "弓道部の部活で使う弓　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "The bow used in Archery Club practice"
  },
  {
   "addr": "80016020",
   "size": 96,
   "jp": "カスタムパーツ、魔弾以外の攻撃で、　　　　　　　たまに敵を一撃で倒す、倒せない時はダメージ無し　",
-  "en": ""
+  "en": "Custom part. Non-Magic Bullet attacks may       kill in one hit; if not, they deal no damage"
  },
  {
   "addr": "80016084",
   "size": 96,
   "jp": "装備者は多く経験値がもらえる　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "The wielder gains extra EXP"
  },
  {
   "addr": "800160e8",
   "size": 96,
   "jp": "クリティカルしか出なくなる　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "All attacks become critical hits"
  },
  {
   "addr": "8001614c",
   "size": 96,
   "jp": "月光の銃専用、文献を元にマテリアが開発したパーツルー用のパーツで最高の威力　　　　　　　　　　　",
-  "en": ""
+  "en": "Moonlight Gun only. Made by Materia from        old texts. Lou's most powerful part"
  },
  {
   "addr": "800161b0",
   "size": 96,
   "jp": "カスタムパーツ、魔弾以外を２連射　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Custom part. Double-fires all but Magic Bullets"
  },
  {
   "addr": "80016214",
   "size": 96,
   "jp": "伝説の銃専用、古に作られた最強パーツ　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Legendary Gun only. An ancient ultimate part"
  },
  {
   "addr": "80016278",
   "size": 96,
   "jp": "カスタムパーツ、魔弾以外を４連射　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Custom part. Quad-fires all but Magic Bullets"
  },
  {
   "addr": "800162dc",
   "size": 96,
   "jp": "カスタムパーツ、敵に与えたダメージの一部を吸収　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Custom part. Absorbs part of damage dealt"
  },
  {
   "addr": "80016340",
   "size": 96,
   "jp": "カスタムパーツ、魔弾以外を３連射　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Custom part. Triple-fires all but Magic Bullets"
  },
  {
   "addr": "800163a4",
   "size": 96,
   "jp": "装備していると、戦闘終了時の入手ＣＡＮがアップ　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Raises CAN earned at the end of battle"
  },
  {
   "addr": "80016408",
   "size": 96,
   "jp": "カスタムパーツ　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Custom part"
  },
  {
   "addr": "8001646c",
   "size": 96,
   "jp": "月光の銃専用　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Moonlight Gun only"
  },
  {
   "addr": "800164d0",
   "size": 96,
   "jp": "伝説の銃専用　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Legendary Gun only"
  },
  {
   "addr": "8001653c",
   "size": 12,
   "jp": "<9>ステータス",
-  "en": ""
+  "en": "<9>Status"
  },
  {
   "addr": "80016549",
   "size": 12,
   "jp": "アイテム　　",
-  "en": ""
+  "en": "Items"
  },
  {
   "addr": "80016556",
   "size": 10,
   "jp": "装備　　　",
-  "en": ""
+  "en": "Equip"
  },
  {
   "addr": "80016561",
   "size": 10,
   "jp": "オプション",
-  "en": ""
+  "en": "Options"
  },
  {
   "addr": "8001656c",
   "size": 12,
   "jp": "<9>ステータス",
-  "en": ""
+  "en": "<9>Status"
  },
  {
   "addr": "80016579",
   "size": 12,
   "jp": "アイテム　　",
-  "en": ""
+  "en": "Items"
  },
  {
   "addr": "80016586",
   "size": 10,
   "jp": "装備　　　",
-  "en": ""
+  "en": "Equip"
  },
  {
   "addr": "80016591",
   "size": 10,
   "jp": "フォーム　",
-  "en": ""
+  "en": "Formation"
  },
  {
   "addr": "8001659c",
   "size": 10,
   "jp": "オプション",
-  "en": ""
+  "en": "Options"
  },
  {
   "addr": "800165a8",
   "size": 12,
   "jp": "<9>ステータス",
-  "en": ""
+  "en": "<9>Status"
  },
  {
   "addr": "800165b5",
   "size": 12,
   "jp": "アイテム　　",
-  "en": ""
+  "en": "Items"
  },
  {
   "addr": "800165c2",
   "size": 10,
   "jp": "装備　　　",
-  "en": ""
+  "en": "Equip"
  },
  {
   "addr": "800165cd",
   "size": 10,
   "jp": "魔弾作成　",
-  "en": ""
+  "en": "Bullets"
  },
  {
   "addr": "800165d8",
   "size": 10,
   "jp": "フォーム　",
-  "en": ""
+  "en": "Formation"
  },
  {
   "addr": "800165e3",
   "size": 10,
   "jp": "オプション",
-  "en": ""
+  "en": "Options"
  },
  {
   "addr": "800165f0",
   "size": 48,
   "jp": "　　魔弾作成　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "    Make Magic Bullet"
  },
  {
   "addr": "80016624",
   "size": 22,
   "jp": "<9>魔弾　　　　　　所持",
-  "en": ""
+  "en": "<9>Magic Bullet    Held"
  },
  {
   "addr": "80016654",
   "size": 16,
   "jp": "作れません　　　",
-  "en": ""
+  "en": "Can't make"
  },
  {
   "addr": "80016668",
   "size": 16,
   "jp": "未研究　　　　　",
-  "en": ""
+  "en": "Not studied"
  },
  {
   "addr": "80016680",
   "size": 22,
   "jp": "<9>必要なアーティア　　",
-  "en": ""
+  "en": "<9>Required Artia"
  },
  {
   "addr": "800166c4",
   "size": 18,
   "jp": "<9>ＴＩＰ　　　　　",
-  "en": ""
+  "en": "<9>TIP"
  },
  {
   "addr": "800166d8",
   "size": 18,
   "jp": "<9>所持ＴＩＰ　　　",
-  "en": ""
+  "en": "<9>TIP Held"
  },
  {
   "addr": "800166eb",
   "size": 16,
   "jp": "消費ＴＩＰ　　　",
-  "en": ""
+  "en": "TIP Cost"
  },
  {
   "addr": "800166fc",
   "size": 16,
   "jp": "弾の作成数　　　",
-  "en": ""
+  "en": "Bullets Made"
  },
  {
   "addr": "8001670d",
   "size": 16,
   "jp": "残りＴＩＰ　　個",
-  "en": ""
+  "en": "TIP Left"
  },
  {
   "addr": "80016720",
   "size": 96,
   "jp": "作成しますか？　　　　はい　　　いいえ　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Make bullets?         Yes         No"
  },
  {
   "addr": "80016784",
   "size": 14,
   "jp": "ゴールドＴＩＰ",
-  "en": ""
+  "en": "Gold TIP"
  },
  {
   "addr": "8001679c",
   "size": 18,
   "jp": "では、作れません！",
-  "en": ""
+  "en": " won't work here!"
  },
  {
   "addr": "800167b0",
   "size": 28,
   "jp": "まだ研究を行なっていません。",
-  "en": ""
+  "en": "You haven't studied it yet."
  },
  {
   "addr": "8001681c",
   "size": 48,
   "jp": "　　ステータス　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "    Status"
  },
  {
   "addr": "80016850",
   "size": 48,
   "jp": "　　アイテム　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "    Items"
  },
  {
   "addr": "80016884",
   "size": 48,
   "jp": "　　装備　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "    Equipment"
  },
  {
   "addr": "80016904",
   "size": 16,
   "jp": "<9>新見　翔　　　",
-  "en": ""
+  "en": "<9>Shou Niimi"
  },
  {
   "addr": "80016918",
   "size": 16,
   "jp": "<9>松岡　ユカ　　",
-  "en": ""
+  "en": "<9>Yuka Matsuoka"
  },
  {
   "addr": "8001692c",
   "size": 16,
   "jp": "<9>伊藤　ひかる　",
-  "en": ""
+  "en": "<9>Hikaru Itou"
  },
  {
   "addr": "80016940",
   "size": 16,
   "jp": "<9>吉永　秋穂　　",
-  "en": ""
+  "en": "<9>Akiho-sensei"
  },
  {
   "addr": "80016954",
   "size": 16,
   "jp": "<9>ルー　　　　　",
-  "en": ""
+  "en": "<9>Lou"
  },
  {
   "addr": "80016968",
   "size": 16,
   "jp": "<9>イムル　　　　",
-  "en": ""
+  "en": "<9>Imul"
  },
  {
   "addr": "8001697c",
   "size": 16,
   "jp": "<9>ハーミー　　　",
-  "en": ""
+  "en": "<9>Hermie"
  },
  {
   "addr": "80016990",
   "size": 16,
   "jp": "持っていません　",
-  "en": ""
+  "en": "None"
  },
  {
   "addr": "800169a4",
   "size": 16,
   "jp": "持っていません　",
-  "en": ""
+  "en": "None"
  },
  {
   "addr": "800169b8",
   "size": 20,
   "jp": "毒にかかっています。",
-  "en": ""
+  "en": "Poisoned."
  },
  {
   "addr": "800169d0",
   "size": 16,
   "jp": "マヒしています。",
-  "en": ""
+  "en": "Paralyzed."
  },
  {
   "addr": "800169e4",
   "size": 24,
   "jp": "明神高校２年生。主人公。",
-  "en": ""
+  "en": "2nd-year student. Hero."
  },
  {
   "addr": "80016a00",
   "size": 34,
   "jp": "明神高校２年生。明朗活発な女の子。",
-  "en": ""
+  "en": "2nd-year. A cheerful, lively girl."
  },
  {
   "addr": "80016a24",
   "size": 34,
   "jp": "明神高校２年生。おとなしい女の子。",
-  "en": ""
+  "en": "2nd-year. A quiet, gentle girl."
  },
  {
   "addr": "80016a48",
   "size": 44,
   "jp": "明神高校の英語教師。弓道部の顧問もつとめる。",
-  "en": ""
+  "en": "English teacher. Archery Club advisor."
  },
  {
   "addr": "80016a78",
   "size": 32,
   "jp": "月光族の娘。優秀な狩人でもある。",
-  "en": ""
+  "en": "Moonlight Clan girl. Top hunter."
  },
  {
   "addr": "80016a9c",
   "size": 30,
   "jp": "火竜族の王子。つかめない性格。",
-  "en": ""
+  "en": "Fire Dragon Clan prince. Sly."
  },
  {
   "addr": "80016abc",
   "size": 36,
   "jp": "夜夢族の少女。人の心を読む力がある。",
-  "en": ""
+  "en": "Night Dream Clan girl. Reads minds."
  },
  {
   "addr": "80016ae4",
   "size": 46,
   "jp": "アイテムを９９個持っているので、はずせません。",
-  "en": ""
+  "en": "You hold 99 of this item. Can't unequip."
  },
  {
   "addr": "80016b2c",
   "size": 22,
   "jp": "<9>　　　武　器　　　　",
-  "en": ""
+  "en": "<9>       Weapon"
  },
  {
   "addr": "80016b44",
   "size": 22,
   "jp": "<9>　　　リング　　　　",
-  "en": ""
+  "en": "<9>        Ring"
  },
  {
   "addr": "80016b5c",
   "size": 22,
   "jp": "<9>　　アクセサリー　　",
-  "en": ""
+  "en": "<9>     Accessory"
  },
  {
   "addr": "80016b74",
   "size": 10,
   "jp": "<9>所有　　",
-  "en": ""
+  "en": "<9>Owned"
  },
  {
   "addr": "80016bcc",
   "size": 8,
   "jp": "伝説の銃",
-  "en": ""
+  "en": "Legend"
  },
  {
   "addr": "80016bd8",
   "size": 8,
   "jp": "月光の銃",
-  "en": ""
+  "en": "Moonlit"
  },
  {
   "addr": "80016be4",
   "size": 8,
   "jp": "Ｓ　　　",
-  "en": ""
+  "en": "S"
  },
  {
   "addr": "80016bfc",
   "size": 8,
   "jp": "ＭＲ　　",
-  "en": ""
+  "en": "MR"
  },
  {
   "addr": "80016c08",
   "size": 8,
   "jp": "ＢⅠ　　",
-  "en": ""
+  "en": "BI"
  },
  {
   "addr": "80016c14",
   "size": 8,
   "jp": "ＶＴ　　",
-  "en": ""
+  "en": "VT"
  },
  {
   "addr": "80016c20",
   "size": 8,
   "jp": "ＣＳ　　",
-  "en": ""
+  "en": "CS"
  },
  {
   "addr": "80016c2c",
   "size": 8,
   "jp": "ＴＳ　　",
-  "en": ""
+  "en": "TS"
  },
  {
   "addr": "80016c38",
   "size": 8,
   "jp": "ＳＢ　　",
-  "en": ""
+  "en": "SB"
  },
  {
   "addr": "80016c44",
   "size": 8,
   "jp": "ＰＳ　　",
-  "en": ""
+  "en": "PS"
  },
  {
   "addr": "80016c50",
   "size": 8,
   "jp": "ＱＳ　　",
-  "en": ""
+  "en": "QS"
  },
  {
   "addr": "80016c5c",
   "size": 8,
   "jp": "ＢⅢ　　",
-  "en": ""
+  "en": "BIII"
  },
  {
   "addr": "80016c68",
   "size": 8,
   "jp": "ＨＡ　　",
-  "en": ""
+  "en": "HA"
  },
  {
   "addr": "80016c74",
   "size": 8,
   "jp": "ＰＯＥ　",
-  "en": ""
+  "en": "POE"
  },
  {
   "addr": "80016c80",
   "size": 8,
   "jp": "Ｇ　　　",
-  "en": ""
+  "en": "G"
  },
  {
   "addr": "80016c8c",
   "size": 8,
   "jp": "ＣＧ　　",
-  "en": ""
+  "en": "CG"
  },
  {
   "addr": "80016c98",
   "size": 8,
   "jp": "ＤＳ　　",
-  "en": ""
+  "en": "DS"
  },
  {
   "addr": "80016ca4",
   "size": 8,
   "jp": "ＭＰＨ　",
-  "en": ""
+  "en": "MPH"
  },
  {
   "addr": "80016cb0",
   "size": 8,
   "jp": "ＢⅡ　　",
-  "en": ""
+  "en": "BII"
  },
  {
   "addr": "80016cbc",
   "size": 8,
   "jp": "ＣＢ　　",
-  "en": ""
+  "en": "CB"
  },
  {
   "addr": "80016cc8",
   "size": 8,
   "jp": "ＥＳ　　",
-  "en": ""
+  "en": "ES"
  },
  {
   "addr": "80016cd4",
   "size": 8,
   "jp": "ＦＮ　　",
-  "en": ""
+  "en": "FN"
  },
  {
   "addr": "80016dd0",
   "size": 94,
   "jp": "メモリーカード差込口１のメモリーカードをチェックしています。メモリーカードを抜かないで下さい。",
-  "en": ""
+  "en": "Checking the MEMORY CARD in MEMORY CARD slot 1.             Do not remove the MEMORY CARD."
  },
  {
   "addr": "80016e30",
   "size": 26,
   "jp": "セーブの準備をしています。",
-  "en": ""
+  "en": "Preparing to save."
  },
  {
   "addr": "80016e4b",
   "size": 34,
   "jp": "メモリーカードを抜かないで下さい。",
-  "en": ""
+  "en": "Do not remove the MEMORY CARD."
  },
  {
   "addr": "80016e70",
   "size": 26,
   "jp": "ロードの準備をしています。",
-  "en": ""
+  "en": "Preparing to load."
  },
  {
   "addr": "80016e8b",
   "size": 34,
   "jp": "メモリーカードを抜かないで下さい。",
-  "en": ""
+  "en": "Do not remove the MEMORY CARD."
  },
  {
   "addr": "80016eb0",
   "size": 40,
   "jp": "メモリーカード差込口１のメモリーカードが",
-  "en": ""
+  "en": "The MEMORY CARD in MEMORY CARD slot 1"
  },
  {
   "addr": "80016ed9",
   "size": 28,
   "jp": "フォーマットされていません。",
-  "en": ""
+  "en": "is not formatted."
  },
  {
   "addr": "80016ef8",
   "size": 30,
   "jp": "フォーマットしてもいいですか？",
-  "en": ""
+  "en": "Is it OK to format it?"
  },
  {
   "addr": "80016f17",
   "size": 18,
   "jp": "　はい　　　いいえ",
-  "en": ""
+  "en": "  Yes       No"
  },
  {
   "addr": "80016f2c",
   "size": 36,
   "jp": "メモリーカードをフォーマットしないと",
-  "en": ""
+  "en": "Without formatting the MEMORY CARD,"
  },
  {
   "addr": "80016f51",
   "size": 28,
   "jp": "セーブすることができません。",
-  "en": ""
+  "en": "you cannot save."
  },
  {
   "addr": "80016f70",
   "size": 40,
   "jp": "メモリーカード差込口１のメモリーカードを",
-  "en": ""
+  "en": "Please replace the MEMORY CARD in"
  },
  {
   "addr": "80016f99",
   "size": 38,
   "jp": "他のメモリーカードに取り替えて下さい。",
-  "en": ""
+  "en": "MEMORY CARD slot 1 with another one."
  },
  {
   "addr": "80016fc0",
   "size": 20,
   "jp": "フォーマット中です。",
-  "en": ""
+  "en": "Formatting..."
  },
  {
   "addr": "80016fd5",
   "size": 34,
   "jp": "メモリーカードを抜かないで下さい。",
-  "en": ""
+  "en": "Do not remove the MEMORY CARD."
  },
  {
   "addr": "80016ff8",
   "size": 28,
   "jp": "フォーマットに失敗しました。",
-  "en": ""
+  "en": "Formatting failed."
  },
  {
   "addr": "80017015",
   "size": 24,
   "jp": "○ボタンを押して下さい。",
-  "en": ""
+  "en": "Press the Circle button."
  },
  {
   "addr": "80017030",
   "size": 28,
   "jp": "フォーマットが終了しました。",
-  "en": ""
+  "en": "Formatting complete."
  },
  {
   "addr": "8001704d",
   "size": 24,
   "jp": "○ボタンを押して下さい。",
-  "en": ""
+  "en": "Press the Circle button."
  },
  {
   "addr": "80017068",
   "size": 32,
   "jp": "セーブする場所を選択して下さい。",
-  "en": ""
+  "en": "Choose where to save."
  },
  {
   "addr": "80017089",
   "size": 48,
   "jp": "セーブする為には１ヶ所につき４ブロック必要です。",
-  "en": ""
+  "en": "Saving requires 4 blocks per slot."
  },
  {
   "addr": "800170bc",
   "size": 20,
   "jp": "データが壊れています",
-  "en": ""
+  "en": "Data is corrupted"
  },
  {
   "addr": "800170d4",
   "size": 32,
   "jp": "ロードする場所を選択して下さい。",
-  "en": ""
+  "en": "Choose where to load from."
  },
  {
   "addr": "800170f8",
   "size": 22,
   "jp": "データのロード中です。",
-  "en": ""
+  "en": "Loading data..."
  },
  {
   "addr": "8001710f",
   "size": 34,
   "jp": "メモリーカードを抜かないで下さい。",
-  "en": ""
+  "en": "Do not remove the MEMORY CARD."
  },
  {
   "addr": "80017134",
   "size": 22,
   "jp": "ロードに失敗しました。",
-  "en": ""
+  "en": "Load failed."
  },
  {
   "addr": "8001714b",
   "size": 24,
   "jp": "○ボタンを押して下さい。",
-  "en": ""
+  "en": "Press the Circle button."
  },
  {
   "addr": "80017164",
   "size": 42,
   "jp": "データがこわれているのでロード出来ません。",
-  "en": ""
+  "en": "Data is corrupted and cannot be loaded."
  },
  {
   "addr": "8001718f",
   "size": 24,
   "jp": "○ボタンを押して下さい。",
-  "en": ""
+  "en": "Press the Circle button."
  },
  {
   "addr": "800171a8",
   "size": 40,
   "jp": "セーブする為の空き容量が不足しています。",
-  "en": ""
+  "en": "Not enough free space to save."
  },
  {
   "addr": "800171d1",
   "size": 48,
   "jp": "セーブする為には１ヶ所につき４ブロック必要です。",
-  "en": ""
+  "en": "Saving requires 4 blocks per slot."
  },
  {
   "addr": "80017204",
   "size": 32,
   "jp": "データを上書きしてもいいですか？",
-  "en": ""
+  "en": "Overwrite this data?"
  },
  {
   "addr": "80017225",
   "size": 18,
   "jp": "　はい　　　いいえ",
-  "en": ""
+  "en": "  Yes       No"
  },
  {
   "addr": "80017238",
   "size": 22,
   "jp": "データのセーブ中です。",
-  "en": ""
+  "en": "Saving data..."
  },
  {
   "addr": "8001724f",
   "size": 34,
   "jp": "メモリーカードを抜かないで下さい。",
-  "en": ""
+  "en": "Do not remove the MEMORY CARD."
  },
  {
   "addr": "80017274",
   "size": 22,
   "jp": "セーブは終了しました。",
-  "en": ""
+  "en": "Save complete."
  },
  {
   "addr": "8001728b",
   "size": 24,
   "jp": "○ボタンを押して下さい。",
-  "en": ""
+  "en": "Press the Circle button."
  },
  {
   "addr": "800172a4",
   "size": 30,
   "jp": "データのセーブに失敗しました。",
-  "en": ""
+  "en": "Failed to save data."
  },
  {
   "addr": "800172c3",
   "size": 24,
   "jp": "○ボタンを押して下さい。",
-  "en": ""
+  "en": "Press the Circle button."
  },
  {
   "addr": "800172dc",
   "size": 34,
   "jp": "メモリーカード差込口１のチェックに",
-  "en": ""
+  "en": "The check of MEMORY CARD slot 1"
  },
  {
   "addr": "800172ff",
   "size": 14,
   "jp": "失敗しました。",
-  "en": ""
+  "en": "failed."
  },
  {
   "addr": "80017310",
   "size": 24,
   "jp": "メモリーカード差込口１に",
-  "en": ""
+  "en": "No MEMORY CARD is"
  },
  {
   "addr": "80017329",
   "size": 34,
   "jp": "メモリーカードが差されていません。",
-  "en": ""
+  "en": "inserted in MEMORY CARD slot 1."
  },
  {
   "addr": "8001734c",
   "size": 32,
   "jp": "セーブされたデータがありません。",
-  "en": ""
+  "en": "No saved data found."
  },
  {
   "addr": "800177c8",
   "size": 48,
   "jp": "　　ショップ　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "    Shop"
  },
  {
   "addr": "800177fc",
   "size": 10,
   "jp": "<9>購入　　",
-  "en": ""
+  "en": "<9>Buy"
  },
  {
   "addr": "80017808",
   "size": 10,
   "jp": "<9>売却　　",
-  "en": ""
+  "en": "<9>Sell"
  },
  {
   "addr": "8001781c",
   "size": 22,
   "jp": "<9>　　　商　品　　　　",
-  "en": ""
+  "en": "<9>       Goods"
  },
  {
   "addr": "80017834",
   "size": 22,
   "jp": "<9>　　　所持品　　　　",
-  "en": ""
+  "en": "<9>     Inventory"
  },
  {
   "addr": "800178b4",
   "size": 10,
   "jp": "<9>値段　　",
-  "en": ""
+  "en": "<9>Price"
  },
  {
   "addr": "800178c0",
   "size": 10,
   "jp": "<9>売値　　",
-  "en": ""
+  "en": "<9>Value"
  },
  {
   "addr": "800178cc",
   "size": 12,
   "jp": "<9>装　備　　",
-  "en": ""
+  "en": "<9>Equip"
  },
  {
   "addr": "800178dc",
   "size": 22,
   "jp": "<9>合計　　　　　所持金",
-  "en": ""
+  "en": "<9>Total         Funds"
  },
  {
   "addr": "800178f4",
   "size": 40,
   "jp": "売る事が出来るアイテムを持っていません。",
-  "en": ""
+  "en": "You have no items you can sell."
  },
  {
   "addr": "80017920",
   "size": 96,
   "jp": "これでいいですか？　　はい　　　いいえ　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "Is this OK?           Yes         No"
  },
  {
   "addr": "8001799c",
   "size": 22,
   "jp": "<9>　　　アイテム　　　",
-  "en": ""
+  "en": "<9>       Items"
  },
  {
   "addr": "800179b4",
   "size": 12,
   "jp": "<9>パーティー",
-  "en": ""
+  "en": "<9>Party"
  },
  {
   "addr": "800179c4",
   "size": 12,
   "jp": "<9>ステータス",
-  "en": ""
+  "en": "<9>Status"
  },
  {
   "addr": "800179d4",
   "size": 32,
   "jp": "使えるアイテムを持っていません。",
-  "en": ""
+  "en": "You have no usable items."
  },
  {
   "addr": "800179f8",
   "size": 14,
   "jp": "を使いました。",
-  "en": ""
+  "en": " was used."
  },
  {
   "addr": "80017a08",
   "size": 48,
   "jp": "　　魔弾研究　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "    Magic Bullet Study"
  },
  {
   "addr": "80017a7c",
   "size": 30,
   "jp": "どのアーティアを研究するんだ？",
-  "en": ""
+  "en": "Which Artia will you study?"
  },
  {
   "addr": "80017a9c",
   "size": 34,
   "jp": "どのアーティアと組み合わせるんだ？",
-  "en": ""
+  "en": "Combine it with which Artia?"
  },
  {
   "addr": "80017ac0",
   "size": 12,
   "jp": "この研究は、",
-  "en": ""
+  "en": "This costs"
  },
  {
   "addr": "80017ad0",
   "size": 12,
   "jp": "ＣＡＮ必要だ",
-  "en": ""
+  "en": " CAN."
  },
  {
   "addr": "80017add",
   "size": 28,
   "jp": "　　研究する　　　研究しない",
-  "en": ""
+  "en": "    Study         Never mind"
  },
  {
   "addr": "80017afc",
   "size": 28,
   "jp": "ＣＡＮが足りないみたいだな！",
-  "en": ""
+  "en": "Not enough CAN, I'm afraid!"
  },
  {
   "addr": "80017b1c",
   "size": 16,
   "jp": "研究中です・・・",
-  "en": ""
+  "en": "Studying..."
  },
  {
   "addr": "80017b30",
   "size": 64,
   "jp": "研究が終了したぜ！　　　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "The study's complete!"
  },
  {
   "addr": "80017b74",
   "size": 30,
   "jp": "この研究は、もう終わってるぜ！",
-  "en": ""
+  "en": "We've already done this study!"
  },
  {
   "addr": "80017b94",
   "size": 42,
   "jp": "残念だが、この組み合わせは出来ないようだ！",
-  "en": ""
+  "en": "Sorry, this combination just won't work!"
  },
  {
   "addr": "80017bc0",
   "size": 46,
   "jp": "注意：メモリーカード差込口１にメモリーカードが",
-  "en": ""
+  "en": "Note: No MEMORY CARD is in MEMORY CARD slot 1,"
  },
  {
   "addr": "80017bef",
   "size": 44,
   "jp": "　　　差し込まれてないのでセーブ出来ません。",
-  "en": ""
+  "en": "      so saving is not possible."
  },
  {
   "addr": "80017c1c",
   "size": 48,
   "jp": "注意：メモリーカード差込口１のメモリーカードは、",
-  "en": ""
+  "en": "Note: The MEMORY CARD in MEMORY CARD slot 1"
  },
  {
   "addr": "80017c4d",
   "size": 48,
   "jp": "　　　空き容量が足らないのでセーブは出来ません。",
-  "en": ""
+  "en": "      lacks free space, so you cannot save."
  },
  {
   "addr": "80017c80",
   "size": 36,
   "jp": "メモリーカードをチェック中です・・・",
-  "en": ""
+  "en": "Checking MEMORY CARD..."
  },
  {
   "addr": "80017ca8",
   "size": 28,
   "jp": "<9>データが壊れています　　　",
-  "en": ""
+  "en": "<9>Data is corrupted"
  },
  {
   "addr": "80017ce8",
   "size": 28,
   "jp": "<9>　ユカ　　エピローグ　　　",
-  "en": ""
+  "en": "<9>   Yuka   Epilogue"
  },
  {
   "addr": "80017d08",
   "size": 28,
   "jp": "<9>　ひかる　エピローグ　　　",
-  "en": ""
+  "en": "<9>  Hikaru  Epilogue"
  },
  {
   "addr": "80017d28",
   "size": 28,
   "jp": "<9>　秋穂　　エピローグ　　　",
-  "en": ""
+  "en": "<9>  Akiho   Epilogue"
  },
  {
   "addr": "80017d48",
   "size": 28,
   "jp": "<9>　ルー　　エピローグ　　　",
-  "en": ""
+  "en": "<9>   Lou    Epilogue"
  },
  {
   "addr": "80017d68",
   "size": 28,
   "jp": "<9>ハーミー　エピローグ　　　",
-  "en": ""
+  "en": "<9>  Hermie  Epilogue"
  },
  {
   "addr": "80017d88",
   "size": 28,
   "jp": "<9>　　　　　エピローグ　　　",
-  "en": ""
+  "en": "<9>          Epilogue"
  },
  {
   "addr": "80017da8",
   "size": 28,
   "jp": "<9>　　　　　翔のレベル　　１",
-  "en": ""
+  "en": "<9>          Shou's Level  1"
  },
  {
   "addr": "80017de4",
   "size": 28,
   "jp": "<9>データがありません　　　　",
-  "en": ""
+  "en": "<9>No Data"
  },
  {
   "addr": "80017e34",
   "size": 28,
   "jp": "<9>第１章　それは突然に　　　",
-  "en": ""
+  "en": "<9>Ch.1 It Came Suddenly"
  },
  {
   "addr": "80017e54",
   "size": 28,
   "jp": "<9>第２章　月光の塔　　　　　",
-  "en": ""
+  "en": "<9>Ch.2 The Moonlight Tower"
  },
  {
   "addr": "80017e74",
   "size": 28,
   "jp": "<9>第３章　神秘のアーティア　",
-  "en": ""
+  "en": "<9>Ch.3 The Mysterious Artia"
  },
  {
   "addr": "80017e94",
   "size": 28,
   "jp": "<9>第４章　中立都市カーライル",
-  "en": ""
+  "en": "<9>Ch.4 Neutral City Carlyle"
  },
  {
   "addr": "80017eb4",
   "size": 28,
   "jp": "<9>第５章　明かされた過去　　",
-  "en": ""
+  "en": "<9>Ch.5 The Past Revealed"
  },
  {
   "addr": "80017ed4",
   "size": 28,
   "jp": "<9>第６章　飛竜の牙　　　　　",
-  "en": ""
+  "en": "<9>Ch.6 The Wyvern's Fang"
  },
  {
   "addr": "80017ef4",
   "size": 28,
   "jp": "<9>第７章　ユーロリアの炎　　",
-  "en": ""
+  "en": "<9>Ch.7 The Flames of Eurolia"
  },
  {
   "addr": "80017f14",
   "size": 28,
   "jp": "<9>第８章　聖地ヤムヤム　　　",
-  "en": ""
+  "en": "<9>Ch.8 Yamyam, the Holy Land"
  },
  {
   "addr": "80017f34",
   "size": 28,
   "jp": "<9>第９章　過ちの代償　　　　",
-  "en": ""
+  "en": "<9>Ch.9 The Price of Mistakes"
  },
  {
   "addr": "80017f54",
   "size": 28,
   "jp": "<9>初めから　　　　　　　　　",
-  "en": ""
+  "en": "<9>From the Beginning"
  },
  {
   "addr": "80017f74",
   "size": 28,
   "jp": "<9>第１０章　三人の魔女　　　",
-  "en": ""
+  "en": "<9>Ch.10 The Three Witches"
  },
  {
   "addr": "80017f94",
   "size": 48,
   "jp": "　　フォーム　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "    Formation"
  },
  {
   "addr": "80017fc8",
   "size": 10,
   "jp": "<9>デルタ　",
-  "en": ""
+  "en": "<9>Delta"
  },
  {
   "addr": "80017fd3",
   "size": 16,
   "jp": "バリアレベル：Ｂ",
-  "en": ""
+  "en": " Barrier: B"
  },
  {
   "addr": "80017fe4",
   "size": 16,
   "jp": "　　必要人数：３",
-  "en": ""
+  "en": " Members: 3"
  },
  {
   "addr": "80017ff5",
   "size": 16,
   "jp": "　　警戒範囲：大",
-  "en": ""
+  "en": "Coverage: Large"
  },
  {
   "addr": "80018008",
   "size": 10,
   "jp": "<9>ダブル　",
-  "en": ""
+  "en": "<9>Double"
  },
  {
   "addr": "80018013",
   "size": 16,
   "jp": "バリアレベル：Ｄ",
-  "en": ""
+  "en": " Barrier: D"
  },
  {
   "addr": "80018024",
   "size": 16,
   "jp": "　　必要人数：４",
-  "en": ""
+  "en": " Members: 4"
  },
  {
   "addr": "80018035",
   "size": 16,
   "jp": "　　警戒範囲：小",
-  "en": ""
+  "en": "Coverage: Small"
  },
  {
   "addr": "80018048",
   "size": 10,
   "jp": "<9>アーチ　",
-  "en": ""
+  "en": "<9>Arch"
  },
  {
   "addr": "80018053",
   "size": 16,
   "jp": "バリアレベル：Ｂ",
-  "en": ""
+  "en": " Barrier: B"
  },
  {
   "addr": "80018064",
   "size": 16,
   "jp": "　　必要人数：３",
-  "en": ""
+  "en": " Members: 3"
  },
  {
   "addr": "80018075",
   "size": 16,
   "jp": "　　警戒範囲：中",
-  "en": ""
+  "en": "Coverage: Medium"
  },
  {
   "addr": "80018088",
   "size": 10,
   "jp": "<9>トリプル",
-  "en": ""
+  "en": "<9>Triple"
  },
  {
   "addr": "80018093",
   "size": 16,
   "jp": "バリアレベル：Ｅ",
-  "en": ""
+  "en": " Barrier: E"
  },
  {
   "addr": "800180a4",
   "size": 16,
   "jp": "　　必要人数：３",
-  "en": ""
+  "en": " Members: 3"
  },
  {
   "addr": "800180b5",
   "size": 16,
   "jp": "　　警戒範囲：中",
-  "en": ""
+  "en": "Coverage: Medium"
  },
  {
   "addr": "800180c8",
   "size": 10,
   "jp": "<9>ラウンド",
-  "en": ""
+  "en": "<9>Round"
  },
  {
   "addr": "800180d3",
   "size": 16,
   "jp": "バリアレベル：Ｄ",
-  "en": ""
+  "en": " Barrier: D"
  },
  {
   "addr": "800180e4",
   "size": 16,
   "jp": "　　必要人数：４",
-  "en": ""
+  "en": " Members: 4"
  },
  {
   "addr": "800180f5",
   "size": 16,
   "jp": "　　警戒範囲：大",
-  "en": ""
+  "en": "Coverage: Large"
  },
  {
   "addr": "80018108",
   "size": 10,
   "jp": "<9>ライン　",
-  "en": ""
+  "en": "<9>Line"
  },
  {
   "addr": "80018113",
   "size": 16,
   "jp": "バリアレベル：Ａ",
-  "en": ""
+  "en": " Barrier: A"
  },
  {
   "addr": "80018124",
   "size": 16,
   "jp": "　　必要人数：２",
-  "en": ""
+  "en": " Members: 2"
  },
  {
   "addr": "80018135",
   "size": 16,
   "jp": "　　警戒範囲：小",
-  "en": ""
+  "en": "Coverage: Small"
  },
  {
   "addr": "80018148",
   "size": 10,
   "jp": "<9>ボックス",
-  "en": ""
+  "en": "<9>Box"
  },
  {
   "addr": "80018153",
   "size": 16,
   "jp": "バリアレベル：Ｅ",
-  "en": ""
+  "en": " Barrier: E"
  },
  {
   "addr": "80018164",
   "size": 16,
   "jp": "　　必要人数：４",
-  "en": ""
+  "en": " Members: 4"
  },
  {
   "addr": "80018175",
   "size": 16,
   "jp": "　　警戒範囲：大",
-  "en": ""
+  "en": "Coverage: Large"
  },
  {
   "addr": "80018188",
   "size": 10,
   "jp": "<9>センター",
-  "en": ""
+  "en": "<9>Center"
  },
  {
   "addr": "80018193",
   "size": 16,
   "jp": "バリアレベル：Ｃ",
-  "en": ""
+  "en": " Barrier: C"
  },
  {
   "addr": "800181a4",
   "size": 16,
   "jp": "　　必要人数：６",
-  "en": ""
+  "en": " Members: 6"
  },
  {
   "addr": "800181b5",
   "size": 16,
   "jp": "　　警戒範囲：大",
-  "en": ""
+  "en": "Coverage: Large"
  },
  {
   "addr": "800181c8",
   "size": 10,
   "jp": "<9>ハイド　",
-  "en": ""
+  "en": "<9>Hide"
  },
  {
   "addr": "800181d3",
   "size": 16,
   "jp": "バリアレベル：Ｄ",
-  "en": ""
+  "en": " Barrier: D"
  },
  {
   "addr": "800181e4",
   "size": 16,
   "jp": "　　必要人数：６",
-  "en": ""
+  "en": " Members: 6"
  },
  {
   "addr": "800181f5",
   "size": 16,
   "jp": "　　警戒範囲：中",
-  "en": ""
+  "en": "Coverage: Medium"
  },
  {
   "addr": "80018208",
   "size": 10,
   "jp": "<9>マックス",
-  "en": ""
+  "en": "<9>Max"
  },
  {
   "addr": "80018213",
   "size": 16,
   "jp": "バリアレベル：－",
-  "en": ""
+  "en": " Barrier: -"
  },
  {
   "addr": "80018224",
   "size": 16,
   "jp": "　　必要人数：６",
-  "en": ""
+  "en": " Members: 6"
  },
  {
   "addr": "80018235",
   "size": 16,
   "jp": "　　警戒範囲：小",
-  "en": ""
+  "en": "Coverage: Small"
  },
  {
   "addr": "80018248",
   "size": 8,
   "jp": "<9>属性：",
-  "en": ""
+  "en": "<9>Type:"
  },
  {
   "addr": "80018254",
   "size": 40,
   "jp": "フォームの再設定を終了してもいいですか？",
-  "en": ""
+  "en": "Finish resetting your Formation?"
  },
  {
   "addr": "8001827d",
   "size": 40,
   "jp": "　　　　　　　　　　　はい　　　いいえ　",
-  "en": ""
+  "en": "                      Yes       No"
  },
  {
   "addr": "800182a8",
   "size": 32,
   "jp": "設定するフォームを決めて下さい。",
-  "en": ""
+  "en": "Choose a Formation to set."
  },
  {
   "addr": "800182cc",
   "size": 24,
   "jp": "前方に強めのバリアがつく",
-  "en": ""
+  "en": "Strong Barrier in front."
  },
  {
   "addr": "800182e8",
   "size": 40,
   "jp": "前後の敵に有効だが、左右からの攻撃に弱い",
-  "en": ""
+  "en": "Covers front and back; weak at sides."
  },
  {
   "addr": "80018314",
   "size": 24,
   "jp": "前方を広範囲にカバーする",
-  "en": ""
+  "en": "Wide coverage in front."
  },
  {
   "addr": "80018330",
   "size": 48,
   "jp": "３方向をカバーする。しかし、後方からの接近が弱点",
-  "en": ""
+  "en": "Covers three sides. Weak point: the rear."
  },
  {
   "addr": "80018364",
   "size": 36,
   "jp": "前方から左右までをまんべんなくカバー",
-  "en": ""
+  "en": "Evenly covers the front and sides."
  },
  {
   "addr": "8001838c",
   "size": 42,
   "jp": "攻撃主体の形。全員の攻撃力が１．５倍になる",
-  "en": ""
+  "en": "Offensive form. Everyone's attack x1.5"
  },
  {
   "addr": "800183b8",
   "size": 14,
   "jp": "防御主体の形。",
-  "en": ""
+  "en": "Defense-first."
  },
  {
   "addr": "800183c7",
   "size": 28,
   "jp": "全員の防御力が１．５倍になる",
-  "en": ""
+  "en": "Everyone's defense x1.5"
  },
  {
   "addr": "800183e4",
   "size": 28,
   "jp": "全方向からの攻撃に対処できる",
-  "en": ""
+  "en": "Protects on every side."
  },
  {
   "addr": "80018404",
   "size": 32,
   "jp": "６人いないと威力を発揮できない。",
-  "en": ""
+  "en": "Only effective with 6 members."
  },
  {
   "addr": "80018425",
   "size": 28,
   "jp": "全員の防御力が１．５倍になる",
-  "en": ""
+  "en": "Everyone's defense x1.5"
  },
  {
   "addr": "80018444",
   "size": 26,
   "jp": "防御を捨てた攻撃のみの形。",
-  "en": ""
+  "en": "All offense, no defense."
  },
  {
   "addr": "8001845f",
   "size": 44,
   "jp": "攻撃力は２倍になるが、防御力が１／２に下がる",
-  "en": ""
+  "en": "Attack is doubled, but defense is halved."
  },
  {
   "addr": "8001848c",
   "size": 22,
   "jp": "の位置を決めて下さい。",
-  "en": ""
+  "en": ": choose a position."
  },
  {
   "addr": "80018500",
   "size": 20,
   "jp": "所持ＴＩＰ　　　　　",
-  "en": ""
+  "en": "TIP Held"
  },
  {
   "addr": "80018534",
   "size": 20,
   "jp": "所持金　　　　　　　",
-  "en": ""
+  "en": "Money"
  },
  {
   "addr": "80018580",
   "size": 20,
   "jp": "交換するＴＩＰ　　　",
-  "en": ""
+  "en": "TIP to Exchange"
  },
  {
   "addr": "80018650",
   "size": 64,
   "jp": "アイシアのセーブデータ　　　　　　　　　　　　　　　　　　　　　",
-  "en": ""
+  "en": "raw:ＥＩＴＨＥＡ　ＳＡＶＥ　ＤＡＴＡ"
  },
  {
   "addr": "800186c0",
   "size": 14,
   "jp": "どうしますか？",
-  "en": ""
+  "en": "What now?"
  },
  {
   "addr": "800186d0",
   "size": 30,
   "jp": "のコマンドを選択して下さい！！",
-  "en": ""
+  "en": ", choose a command!"
  },
  {
   "addr": "800186f0",
   "size": 18,
   "jp": "逃げられなかった！",
-  "en": ""
+  "en": "Couldn't escape!"
  },
  {
   "addr": "80018704",
   "size": 20,
   "jp": "戦闘から逃げ出した！",
-  "en": ""
+  "en": "Escaped the battle!"
  },
  {
   "addr": "8001871c",
   "size": 22,
   "jp": "は、気絶から回復した！",
-  "en": ""
+  "en": " came to!"
  },
  {
   "addr": "80018734",
   "size": 20,
   "jp": "のＳＴＲが上がった！",
-  "en": ""
+  "en": "'s STR rose!"
  },
  {
   "addr": "8001874c",
   "size": 20,
   "jp": "のＳＴＲが下がった！",
-  "en": ""
+  "en": "'s STR fell!"
  },
  {
   "addr": "80018764",
   "size": 20,
   "jp": "のＤＥＦが上がった！",
-  "en": ""
+  "en": "'s DEF rose!"
  },
  {
   "addr": "8001877c",
   "size": 20,
   "jp": "のＤＥＦが下がった！",
-  "en": ""
+  "en": "'s DEF fell!"
  },
  {
   "addr": "80018794",
   "size": 20,
   "jp": "のＡＧＩが上がった！",
-  "en": ""
+  "en": "'s AGI rose!"
  },
  {
   "addr": "800187ac",
   "size": 20,
   "jp": "のＡＧＩが下がった！",
-  "en": ""
+  "en": "'s AGI fell!"
  },
  {
   "addr": "800187c4",
   "size": 24,
   "jp": "攻撃出来ないキャラです！",
-  "en": ""
+  "en": "This one can't attack!"
  },
  {
   "addr": "800187e0",
   "size": 26,
   "jp": "攻撃方法を選択して下さい！",
-  "en": ""
+  "en": "Choose how to attack!"
  },
  {
   "addr": "800187fc",
   "size": 32,
   "jp": "使用可能な魔弾を持っていません！",
-  "en": ""
+  "en": "No Magic Bullets you can use!"
  },
  {
   "addr": "80018820",
   "size": 28,
   "jp": "使用する弾を選択して下さい！",
-  "en": ""
+  "en": "Choose a bullet to use!"
  },
  {
   "addr": "80018840",
   "size": 30,
   "jp": "攻撃する相手を選択して下さい！",
-  "en": ""
+  "en": "Choose a target to attack!"
  },
  {
   "addr": "80018860",
   "size": 16,
   "jp": "誰に使いますか？",
-  "en": ""
+  "en": "Use on whom?"
  },
  {
   "addr": "80018874",
   "size": 26,
   "jp": "攻撃出来る相手がいません！",
-  "en": ""
+  "en": "No one you can attack!"
  },
  {
   "addr": "80018890",
   "size": 28,
   "jp": "気絶している仲間がいません！",
-  "en": ""
+  "en": "No allies are knocked out!"
  },
  {
   "addr": "800188b0",
   "size": 32,
   "jp": "フォームの向きを指定して下さい！",
-  "en": ""
+  "en": "Choose a direction to face!"
  },
  {
   "addr": "800188d4",
   "size": 28,
   "jp": "使えるアイテムがありません！",
-  "en": ""
+  "en": "You have no items to use!"
  },
  {
   "addr": "800188f4",
   "size": 34,
   "jp": "使用するアイテムを選択して下さい！",
-  "en": ""
+  "en": "Choose an item to use!"
  },
  {
   "addr": "80018918",
   "size": 20,
   "jp": "戦闘中は使えません！",
-  "en": ""
+  "en": "Can't use in battle!"
  },
  {
   "addr": "80018930",
   "size": 12,
   "jp": "何かいる！！",
-  "en": ""
+  "en": "Watch out!!"
  },
  {
   "addr": "80018940",
   "size": 10,
   "jp": "が現れた！",
-  "en": ""
+  "en": " appeared!"
  },
  {
   "addr": "8001894c",
   "size": 20,
   "jp": "は、ガードしている！",
-  "en": ""
+  "en": " is guarding!"
  },
  {
   "addr": "80018964",
   "size": 16,
   "jp": "は、逃げ出した！",
-  "en": ""
+  "en": " ran away!"
  },
  {
   "addr": "80018e60",
   "size": 12,
   "jp": "<9>戦う　　　",
-  "en": ""
+  "en": "<9>Fight"
  },
  {
   "addr": "80018e6d",
   "size": 8,
   "jp": "逃げる　",
-  "en": ""
+  "en": "Escape"
  },
  {
   "addr": "80018e76",
   "size": 8,
   "jp": "オート　",
-  "en": ""
+  "en": "Auto"
  },
  {
   "addr": "80018e80",
   "size": 12,
   "jp": "<9>戦う　　　",
-  "en": ""
+  "en": "<9>Fight"
  },
  {
   "addr": "80018e8d",
   "size": 8,
   "jp": "フォーム",
-  "en": ""
+  "en": "Form"
  },
  {
   "addr": "80018e96",
   "size": 8,
   "jp": "逃げる　",
-  "en": ""
+  "en": "Escape"
  },
  {
   "addr": "80018e9f",
   "size": 8,
   "jp": "オート　",
-  "en": ""
+  "en": "Auto"
  },
  {
   "addr": "80018ea8",
   "size": 10,
   "jp": "<9>アタック",
-  "en": ""
+  "en": "<9>Attack"
  },
  {
   "addr": "80018eb3",
   "size": 8,
   "jp": "ガード　",
-  "en": ""
+  "en": "Guard"
  },
  {
   "addr": "80018ebc",
   "size": 8,
   "jp": "アイテム",
-  "en": ""
+  "en": "Item"
  },
  {
   "addr": "80018ec5",
   "size": 8,
   "jp": "やり直し",
-  "en": ""
+  "en": "Redo"
  },
  {
   "addr": "80018ed0",
   "size": 12,
   "jp": "<9>クロー攻撃",
-  "en": ""
+  "en": "<9>Claw"
  },
  {
   "addr": "80018edd",
   "size": 12,
   "jp": "魔弾攻撃　　",
-  "en": ""
+  "en": "Magic Bullet"
  },
  {
   "addr": "80018f00",
   "size": 10,
   "jp": "<9>デルタ　",
-  "en": ""
+  "en": "<9>Delta"
  },
  {
   "addr": "80018f0b",
   "size": 8,
   "jp": "ダブル　",
-  "en": ""
+  "en": "Double"
  },
  {
   "addr": "80018f14",
   "size": 8,
   "jp": "アーチ　",
-  "en": ""
+  "en": "Arch"
  },
  {
   "addr": "80018f1d",
   "size": 8,
   "jp": "トリプル",
-  "en": ""
+  "en": "Triple"
  },
  {
   "addr": "80018f26",
   "size": 8,
   "jp": "ラウンド",
-  "en": ""
+  "en": "Round"
  },
  {
   "addr": "80018f2f",
   "size": 8,
   "jp": "ライン　",
-  "en": ""
+  "en": "Line"
  },
  {
   "addr": "80018f38",
   "size": 8,
   "jp": "ボックス",
-  "en": ""
+  "en": "Box"
  },
  {
   "addr": "80018f41",
   "size": 8,
   "jp": "センター",
-  "en": ""
+  "en": "Center"
  },
  {
   "addr": "80018f4a",
   "size": 8,
   "jp": "ハイド　",
-  "en": ""
+  "en": "Hide"
  },
  {
   "addr": "80018f53",
   "size": 8,
   "jp": "マックス",
-  "en": ""
+  "en": "Max"
  },
  {
   "addr": "800192a4",
   "size": 4,
   "jp": "ユカ",
-  "en": ""
+  "en": "Yuka"
  },
  {
   "addr": "800192ac",
   "size": 6,
   "jp": "ひかる",
-  "en": ""
+  "en": "Hikaru"
  },
  {
   "addr": "800192bc",
   "size": 4,
   "jp": "ルー",
-  "en": ""
+  "en": "Lou"
  },
  {
   "addr": "800192c4",
   "size": 6,
   "jp": "イムル",
-  "en": ""
+  "en": "Imul"
  },
  {
   "addr": "800192cc",
   "size": 8,
   "jp": "ハーミー",
-  "en": ""
+  "en": "Hermie"
  },
  {
   "addr": "800192fc",
   "size": 12,
   "jp": "が倒された！",
-  "en": ""
+  "en": " went down!"
  },
  {
   "addr": "8001930c",
   "size": 10,
   "jp": "を倒した！",
-  "en": ""
+  "en": " defeated!"
  },
  {
   "addr": "80019334",
   "size": 16,
   "jp": "<8>を手に入れた！",
-  "en": ""
+  "en": "<8> obtained!"
  },
  {
   "addr": "80019348",
   "size": 10,
   "jp": "は、レベル",
-  "en": ""
+  "en": " is Level "
  },
  {
   "addr": "80019354",
   "size": 10,
   "jp": "になった！",
-  "en": ""
+  "en": " now!"
  },
  {
   "addr": "80019361",
   "size": 24,
   "jp": "新しいフォームを覚えた！",
-  "en": ""
+  "en": "Learned a new Formation!"
  },
  {
   "addr": "800193c0",
   "size": 4,
   "jp": "は、",
-  "en": ""
+  "en": ": "
  },
  {
   "addr": "800193c8",
   "size": 10,
   "jp": "を使った！",
-  "en": ""
+  "en": " used!"
  },
  {
   "addr": "800193dc",
   "size": 22,
   "jp": "には、効果がなかった！",
-  "en": ""
+  "en": " was unaffected!"
  },
  {
   "addr": "800193f4",
   "size": 18,
   "jp": "のＨＰが回復した！",
-  "en": ""
+  "en": "'s HP recovered!"
  },
  {
   "addr": "80019408",
   "size": 22,
   "jp": "全員のＨＰが回復した！",
-  "en": ""
+  "en": "Party's HP recovered!"
  },
  {
   "addr": "80019420",
   "size": 22,
   "jp": "のＨＰが完全回復した！",
-  "en": ""
+  "en": "'s HP fully recovered!"
  },
  {
   "addr": "80019438",
   "size": 22,
   "jp": "は、気絶から回復した！",
-  "en": ""
+  "en": " came to!"
  },
  {
   "addr": "80019450",
   "size": 22,
   "jp": "全員気絶から回復した！",
-  "en": ""
+  "en": "Everyone came to!"
  },
  {
   "addr": "80019468",
   "size": 20,
   "jp": "の体から毒が消えた！",
-  "en": ""
+  "en": " is cured of poison!"
  },
  {
   "addr": "80019480",
   "size": 24,
   "jp": "全員の体から毒が消えた！",
-  "en": ""
+  "en": "Party cured of poison!"
  },
  {
   "addr": "8001949c",
   "size": 18,
   "jp": "は眠りからさめた！",
-  "en": ""
+  "en": " woke up!"
  },
  {
   "addr": "800194b0",
   "size": 22,
   "jp": "全員は眠りから覚めた！",
-  "en": ""
+  "en": "Everyone woke up!"
  },
  {
   "addr": "800194c8",
   "size": 16,
   "jp": "のマヒが消えた！",
-  "en": ""
+  "en": " can move again!"
  },
  {
   "addr": "800194dc",
   "size": 20,
   "jp": "全員のマヒが消えた！",
-  "en": ""
+  "en": "All paralysis cured!"
  },
  {
   "addr": "800194f4",
   "size": 28,
   "jp": "のステータスが全部回復した！",
-  "en": ""
+  "en": "'s ailments are all cured!"
  },
  {
   "addr": "80019514",
   "size": 32,
   "jp": "全員のステータスが全部回復した！",
-  "en": ""
+  "en": "Everyone's ailments all cured!"
  },
  {
   "addr": "80019538",
   "size": 20,
   "jp": "のＬＡＶが上がった！",
-  "en": ""
+  "en": "'s LAV rose!"
  },
  {
   "addr": "80019550",
   "size": 20,
   "jp": "のＬＡＶが下がった！",
-  "en": ""
+  "en": "'s LAV fell!"
  },
  {
   "addr": "80019568",
   "size": 22,
   "jp": "の最大ＨＰが上がった！",
-  "en": ""
+  "en": "'s maximum HP rose!"
  },
  {
   "addr": "80019580",
   "size": 24,
   "jp": "の最大ＳＴＲが上がった！",
-  "en": ""
+  "en": "'s maximum STR rose!"
  },
  {
   "addr": "8001959c",
   "size": 24,
   "jp": "の最大ＤＥＦが上がった！",
-  "en": ""
+  "en": "'s maximum DEF rose!"
  },
  {
   "addr": "800195b8",
   "size": 24,
   "jp": "の最大ＡＧＩが上がった！",
-  "en": ""
+  "en": "'s maximum AGI rose!"
  },
  {
   "addr": "80019788",
   "size": 8,
   "jp": "翔　　　",
-  "en": ""
+  "en": "Shou"
  },
  {
   "addr": "80019794",
   "size": 8,
   "jp": "ユカ　　",
-  "en": ""
+  "en": "Yuka"
  },
  {
   "addr": "800197a0",
   "size": 8,
   "jp": "ひかる　",
-  "en": ""
+  "en": "Hikaru"
  },
  {
   "addr": "800197ac",
   "size": 8,
   "jp": "秋穂　　",
-  "en": ""
+  "en": "Akiho"
  },
  {
   "addr": "800197b8",
   "size": 8,
   "jp": "ルー　　",
-  "en": ""
+  "en": "Lou"
  },
  {
   "addr": "800197d0",
   "size": 8,
   "jp": "イムル　",
-  "en": ""
+  "en": "Imul"
  },
  {
   "addr": "800197dc",
   "size": 8,
   "jp": "ハーミー",
-  "en": ""
+  "en": "Hermie"
  },
  {
   "addr": "80029366",
   "size": 4,
   "jp": "ぐ反",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "not text"
  },
  {
   "addr": "8002957a",
   "size": 4,
   "jp": "ぐ反",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "not text"
  },
  {
   "addr": "80048888",
   "size": 4,
   "jp": "劇レ",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "not text"
  },
  {
   "addr": "80068ded",
   "size": 8,
   "jp": "呼仕窪己",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "not text"
  },
  {
   "addr": "8008dae8",
   "size": 16,
   "jp": "ドギー　　　　　",
-  "en": ""
+  "en": "Doggy"
  },
  {
   "addr": "8008db1c",
   "size": 16,
   "jp": "エッジウエア　　",
-  "en": ""
+  "en": "Edgeware"
  },
  {
   "addr": "8008db50",
   "size": 16,
   "jp": "ネズバッド　　　",
-  "en": ""
+  "en": "Ratbat"
  },
  {
   "addr": "8008db84",
   "size": 16,
   "jp": "エレボタル　　　",
-  "en": ""
+  "en": "Ele Firefly"
  },
  {
   "addr": "8008dbb8",
   "size": 16,
   "jp": "ポイズンクローラ",
-  "en": ""
+  "en": "Poison Crawler"
  },
  {
   "addr": "8008dbec",
   "size": 16,
   "jp": "グレイハウンド　",
-  "en": ""
+  "en": "Greyhound"
  },
  {
   "addr": "8008dc20",
   "size": 16,
   "jp": "テキサスブロンコ",
-  "en": ""
+  "en": "Texas Bronco"
  },
  {
   "addr": "8008dc54",
   "size": 16,
   "jp": "ボウファイター　",
-  "en": ""
+  "en": "Bow Fighter"
  },
  {
   "addr": "8008dc88",
   "size": 16,
   "jp": "クレイマン　　　",
-  "en": ""
+  "en": "Clayman"
  },
  {
   "addr": "8008dcbc",
   "size": 16,
   "jp": "スケタウロス　　",
-  "en": ""
+  "en": "Skeletaurus"
  },
  {
   "addr": "8008dcf0",
   "size": 16,
   "jp": "デスマスク　　　",
-  "en": ""
+  "en": "Death Mask"
  },
  {
   "addr": "8008dd24",
   "size": 16,
   "jp": "エテスロー　　　",
-  "en": ""
+  "en": "Ape Thrower"
  },
  {
   "addr": "8008dd58",
   "size": 16,
   "jp": "テンタソルジャー",
-  "en": ""
+  "en": "Tenta Soldier"
  },
  {
   "addr": "8008dd8c",
   "size": 16,
   "jp": "ハイーザイ　　　",
-  "en": ""
+  "en": "Hyzai"
  },
  {
   "addr": "8008ddc0",
   "size": 16,
   "jp": "ウイップメン　　",
-  "en": ""
+  "en": "Whipmen"
  },
  {
   "addr": "8008ddf4",
   "size": 16,
   "jp": "ファイヤーボーン",
-  "en": ""
+  "en": "Firebone"
  },
  {
   "addr": "8008de28",
   "size": 16,
   "jp": "オードリー　　　",
-  "en": ""
+  "en": "Audrey"
  },
  {
   "addr": "8008de5c",
   "size": 16,
   "jp": "ニョロホーン　　",
-  "en": ""
+  "en": "Nyoro Horn"
  },
  {
   "addr": "8008de90",
   "size": 16,
   "jp": "噴火ガメ　　　　",
-  "en": ""
+  "en": "Erupturtle"
  },
  {
   "addr": "8008dec4",
   "size": 16,
   "jp": "キラーバイト　　",
-  "en": ""
+  "en": "Killer Bite"
  },
  {
   "addr": "8008def8",
   "size": 16,
   "jp": "デスジャンク　　",
-  "en": ""
+  "en": "Death Junk"
  },
  {
   "addr": "8008df2c",
   "size": 16,
   "jp": "キラースラッシュ",
-  "en": ""
+  "en": "Killer Slash"
  },
  {
   "addr": "8008df60",
   "size": 16,
   "jp": "キラーゴールド　",
-  "en": ""
+  "en": "Killer Gold"
  },
  {
   "addr": "8008df94",
   "size": 16,
   "jp": "食人花　　　　　",
-  "en": ""
+  "en": "Maneater Flower"
  },
  {
   "addr": "8008dfc8",
   "size": 16,
   "jp": "ボルモロイ　　　",
-  "en": ""
+  "en": "Bolmoroi"
  },
  {
   "addr": "8008dffc",
   "size": 16,
   "jp": "トカゲッソー　　",
-  "en": ""
+  "en": "Lizard Gesso"
  },
  {
   "addr": "8008e030",
   "size": 16,
   "jp": "ツノゲッソー　　",
-  "en": ""
+  "en": "Horn Gesso"
  },
  {
   "addr": "8008e064",
   "size": 16,
   "jp": "大噴火ガメ　　　",
-  "en": ""
+  "en": "Big Erupturtle"
  },
  {
   "addr": "8008e098",
   "size": 16,
   "jp": "ブレスドラゴン　",
-  "en": ""
+  "en": "Breath Dragon"
  },
  {
   "addr": "8008e0cc",
   "size": 16,
   "jp": "ユニドラゴン　　",
-  "en": ""
+  "en": "Unidragon"
  },
  {
   "addr": "8008e100",
   "size": 16,
   "jp": "ウイングドラゴン",
-  "en": ""
+  "en": "Wing Dragon"
  },
  {
   "addr": "8008e134",
   "size": 16,
   "jp": "ゴリスロー　　　",
-  "en": ""
+  "en": "Gorilla Thrower"
  },
  {
   "addr": "8008e168",
   "size": 16,
   "jp": "ビッグベア　　　",
-  "en": ""
+  "en": "Big Bear"
  },
  {
   "addr": "8008e19c",
   "size": 16,
   "jp": "イノブー　　　　",
-  "en": ""
+  "en": "Inoboo"
  },
  {
   "addr": "8008e1d0",
   "size": 16,
   "jp": "ヤムボタル　　　",
-  "en": ""
+  "en": "Yam Firefly"
  },
  {
   "addr": "8008e204",
   "size": 16,
   "jp": "ソニックバット　",
-  "en": ""
+  "en": "Sonic Bat"
  },
  {
   "addr": "8008e238",
   "size": 16,
   "jp": "アルファディアン",
-  "en": ""
+  "en": "Alphadian"
  },
  {
   "addr": "8008e26c",
   "size": 16,
   "jp": "ベータディアン　",
-  "en": ""
+  "en": "Betadian"
  },
  {
   "addr": "8008e2a0",
   "size": 16,
   "jp": "量産型ゴウジン　",
-  "en": ""
+  "en": "Mass-Made Goujin"
  },
  {
   "addr": "8008e2d4",
   "size": 16,
   "jp": "ビッグフット　　",
-  "en": ""
+  "en": "Bigfoot"
  },
  {
   "addr": "8008e308",
   "size": 16,
   "jp": "マスタークロス　",
-  "en": ""
+  "en": "Master Cross"
  },
  {
   "addr": "8008e33c",
   "size": 16,
   "jp": "ガンマディアン　",
-  "en": ""
+  "en": "Gammadian"
  },
  {
   "addr": "8008e370",
   "size": 16,
   "jp": "ガンマディアン弐",
-  "en": ""
+  "en": "Gammadian II"
  },
  {
   "addr": "8008e3a4",
   "size": 16,
   "jp": "グレートテキサン",
-  "en": ""
+  "en": "Great Texan"
  },
  {
   "addr": "8008e3d8",
   "size": 16,
   "jp": "クラッシュドリル",
-  "en": ""
+  "en": "Crash Drill"
  },
  {
   "addr": "8008e40c",
   "size": 16,
   "jp": "クラッシュビット",
-  "en": ""
+  "en": "Crash Bit"
  },
  {
   "addr": "8008e440",
   "size": 16,
   "jp": "シールドエッグ　",
-  "en": ""
+  "en": "Shield Egg"
  },
  {
   "addr": "8008e474",
   "size": 16,
   "jp": "クシザシマシン　",
-  "en": ""
+  "en": "Skewer Machine"
  },
  {
   "addr": "8008e4a8",
   "size": 16,
   "jp": "ボスボタル　　　",
-  "en": ""
+  "en": "Boss Firefly"
  },
  {
   "addr": "8008e4dc",
   "size": 16,
   "jp": "イオガード　　　",
-  "en": ""
+  "en": "Io Guard"
  },
  {
   "addr": "8008e510",
   "size": 16,
   "jp": "デミドラゴン　　",
-  "en": ""
+  "en": "Demidragon"
  },
  {
   "addr": "8008e544",
   "size": 16,
   "jp": "ゴウジン　　　　",
-  "en": ""
+  "en": "Goujin"
  },
  {
   "addr": "8008e578",
   "size": 16,
   "jp": "ゴウジンＭＫ２　",
-  "en": ""
+  "en": "Goujin Mk-II"
  },
  {
   "addr": "8008e5ac",
   "size": 16,
   "jp": "偽りの彫像　　　",
-  "en": ""
+  "en": "False Statue"
  },
  {
   "addr": "8008e5e0",
   "size": 16,
   "jp": "魔女ミュウ　　　",
-  "en": ""
+  "en": "Witch Myu"
  },
  {
   "addr": "8008e614",
   "size": 16,
   "jp": "魔女プラダ　　　",
-  "en": ""
+  "en": "Witch Prada"
  },
  {
   "addr": "8008e648",
   "size": 16,
   "jp": "レディ　　　　　",
-  "en": ""
+  "en": "Lady"
  },
  {
   "addr": "8008e67c",
   "size": 16,
   "jp": "ファイナルレディ",
-  "en": ""
+  "en": "Final Lady"
  },
  {
   "addr": "8008e73c",
   "size": 16,
   "jp": "ＴＩＰ　　　　　",
-  "en": ""
+  "en": "TIP"
  },
  {
   "addr": "8008e760",
   "size": 16,
   "jp": "ゴールドＴＩＰ　",
-  "en": ""
+  "en": "Gold TIP"
  },
  {
   "addr": "8008e784",
   "size": 16,
   "jp": "弓道の矢　　　　",
-  "en": ""
+  "en": "Archery Arrow"
  },
  {
   "addr": "8008e7a8",
   "size": 16,
   "jp": "ソニック弾　　　",
-  "en": ""
+  "en": "Sonic Bullet"
  },
  {
   "addr": "8008e7cc",
   "size": 16,
   "jp": "Ｈソニック弾　　",
-  "en": ""
+  "en": "H-Sonic Bullet"
  },
  {
   "addr": "8008e7f0",
   "size": 16,
   "jp": "ストロング弾　　",
-  "en": ""
+  "en": "Strong Bullet"
  },
  {
   "addr": "8008e814",
   "size": 16,
   "jp": "ポイズンクロー用",
-  "en": ""
+  "en": "Poison Crawler's"
  },
  {
   "addr": "8008e838",
   "size": 16,
   "jp": "ウイップメン用　",
-  "en": ""
+  "en": "Whipmen's"
  },
  {
   "addr": "8008e85c",
   "size": 16,
   "jp": "噴火ガメ用　　　",
-  "en": ""
+  "en": "Erupturtle's"
  },
  {
   "addr": "8008e880",
   "size": 16,
   "jp": "デスジャンク用　",
-  "en": ""
+  "en": "Death Junk's"
  },
  {
   "addr": "8008e8a4",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "8008e8c8",
   "size": 16,
   "jp": "大噴火ガメ用　　",
-  "en": ""
+  "en": "Big Erupturtle's"
  },
  {
   "addr": "8008e8ec",
   "size": 16,
   "jp": "ヤムボタル用　　",
-  "en": ""
+  "en": "Yam Firefly's"
  },
  {
   "addr": "8008e910",
   "size": 16,
   "jp": "ベータディアン用",
-  "en": ""
+  "en": "Betadian's"
  },
  {
   "addr": "8008e934",
   "size": 16,
   "jp": "マスタークロス用",
-  "en": ""
+  "en": "Master Cross's"
  },
  {
   "addr": "8008e958",
   "size": 16,
   "jp": "名前未定敵用　　",
-  "en": ""
+  "en": "Unnamed Enemy's"
  },
  {
   "addr": "8008e97c",
   "size": 16,
   "jp": "シールドエッグ用",
-  "en": ""
+  "en": "Shield Egg's"
  },
  {
   "addr": "8008e9a0",
   "size": 16,
   "jp": "ボスボタル　　　",
-  "en": ""
+  "en": "Boss Firefly"
  },
  {
   "addr": "8008e9c4",
   "size": 16,
   "jp": "イオガード　　　",
-  "en": ""
+  "en": "Io Guard"
  },
  {
   "addr": "8008e9e8",
   "size": 16,
   "jp": "デミドラゴン　　",
-  "en": ""
+  "en": "Demidragon"
  },
  {
   "addr": "8008ea0c",
   "size": 16,
   "jp": "ゴウジン　　　　",
-  "en": ""
+  "en": "Goujin"
  },
  {
   "addr": "8008ea30",
   "size": 16,
   "jp": "ゴウジンＭＫ２　",
-  "en": ""
+  "en": "Goujin Mk-II"
  },
  {
   "addr": "8008ea54",
   "size": 16,
   "jp": "偽りの彫像　　　",
-  "en": ""
+  "en": "False Statue"
  },
  {
   "addr": "8008ea78",
   "size": 16,
   "jp": "魔女ミュウ　　　",
-  "en": ""
+  "en": "Witch Myu"
  },
  {
   "addr": "8008ea9c",
   "size": 16,
   "jp": "魔女プラダ　　　",
-  "en": ""
+  "en": "Witch Prada"
  },
  {
   "addr": "8008eac0",
   "size": 16,
   "jp": "レディ　　　　　",
-  "en": ""
+  "en": "Lady"
  },
  {
   "addr": "8008eae4",
   "size": 16,
   "jp": "ファイナルレディ",
-  "en": ""
+  "en": "Final Lady"
  },
  {
   "addr": "8008eb08",
   "size": 16,
   "jp": "ウイングドラゴン",
-  "en": ""
+  "en": "Wing Dragon"
  },
  {
   "addr": "8008eb2c",
   "size": 14,
   "jp": "ブレスドラゴン",
-  "en": ""
+  "en": "Breath Dragon"
  },
  {
   "addr": "8008eb50",
   "size": 16,
   "jp": "スケタウロス　　",
-  "en": ""
+  "en": "Skeletaurus"
  },
  {
   "addr": "8008eb74",
   "size": 16,
   "jp": "ソニックアロー　",
-  "en": ""
+  "en": "Sonic Arrow"
  },
  {
   "addr": "8008eb98",
   "size": 16,
   "jp": "Ｈソニックアロー",
-  "en": ""
+  "en": "H-Sonic Arrow"
  },
  {
   "addr": "8008ebbc",
   "size": 16,
   "jp": "ストロングアロー",
-  "en": ""
+  "en": "Strong Arrow"
  },
  {
   "addr": "8008ebe0",
   "size": 16,
   "jp": "敵用　　　　　　",
-  "en": ""
+  "en": "Enemy's"
  },
  {
   "addr": "8008ec04",
   "size": 16,
   "jp": "敵用　　　　　　",
-  "en": ""
+  "en": "Enemy's"
  },
  {
   "addr": "8008ec28",
   "size": 16,
   "jp": "敵用　　　　　　",
-  "en": ""
+  "en": "Enemy's"
  },
  {
   "addr": "8008ec4c",
   "size": 16,
   "jp": "敵用　　　　　　",
-  "en": ""
+  "en": "Enemy's"
  },
  {
   "addr": "8008ec70",
   "size": 16,
   "jp": "敵用　　　　　　",
-  "en": ""
+  "en": "Enemy's"
  },
  {
   "addr": "8008ec94",
   "size": 16,
   "jp": "敵用　　　　　　",
-  "en": ""
+  "en": "Enemy's"
  },
  {
   "addr": "8008ecb8",
   "size": 16,
   "jp": "敵用　　　　　　",
-  "en": ""
+  "en": "Enemy's"
  },
  {
   "addr": "8008ecdc",
   "size": 16,
   "jp": "敵用　　　　　　",
-  "en": ""
+  "en": "Enemy's"
  },
  {
   "addr": "8008ed00",
   "size": 16,
   "jp": "敵用　　　　　　",
-  "en": ""
+  "en": "Enemy's"
  },
  {
   "addr": "8008ed24",
   "size": 16,
   "jp": "敵用　　　　　　",
-  "en": ""
+  "en": "Enemy's"
  },
  {
   "addr": "8008ed48",
   "size": 16,
   "jp": "翔が最初に撃つ弾",
-  "en": ""
+  "en": "Shou's 1st Shot"
  },
  {
   "addr": "8008ee8c",
   "size": 16,
   "jp": "フレイ　　　　　",
-  "en": ""
+  "en": "Frey"
  },
  {
   "addr": "8008eeb0",
   "size": 16,
   "jp": "研究失敗　　　　",
-  "en": ""
+  "en": "Failed Research"
  },
  {
   "addr": "8008eed4",
   "size": 16,
   "jp": "研究失敗　　　　",
-  "en": ""
+  "en": "Failed Research"
  },
  {
   "addr": "8008eef8",
   "size": 16,
   "jp": "ガフレイ　　　　",
-  "en": ""
+  "en": "Gafrey"
  },
  {
   "addr": "8008ef1c",
   "size": 16,
   "jp": "フレイザー　　　",
-  "en": ""
+  "en": "Freyzer"
  },
  {
   "addr": "8008ef40",
   "size": 16,
   "jp": "研究失敗　　　　",
-  "en": ""
+  "en": "Failed Research"
  },
  {
   "addr": "8008ef64",
   "size": 16,
   "jp": "タックウェッジ　",
-  "en": ""
+  "en": "Tack Wedge"
  },
  {
   "addr": "8008ef88",
   "size": 16,
   "jp": "ルタックウェッジ",
-  "en": ""
+  "en": "Ru-Tack Wedge"
  },
  {
   "addr": "8008efac",
   "size": 16,
   "jp": "デフレイド　　　",
-  "en": ""
+  "en": "Defraid"
  },
  {
   "addr": "8008efd0",
   "size": 16,
   "jp": "ボルケーノ　　　",
-  "en": ""
+  "en": "Volcano"
  },
  {
   "addr": "8008eff4",
   "size": 16,
   "jp": "スノアロー　　　",
-  "en": ""
+  "en": "Snow Arrow"
  },
  {
   "addr": "8008f018",
   "size": 16,
   "jp": "スノーザーカノン",
-  "en": ""
+  "en": "Snowzer Cannon"
  },
  {
   "addr": "8008f03c",
   "size": 16,
   "jp": "ガスノの矢　　　",
-  "en": ""
+  "en": "Gasnow Arrow"
  },
  {
   "addr": "8008f060",
   "size": 16,
   "jp": "研究失敗　　　　",
-  "en": ""
+  "en": "Failed Research"
  },
  {
   "addr": "8008f084",
   "size": 16,
   "jp": "研究失敗　　　　",
-  "en": ""
+  "en": "Failed Research"
  },
  {
   "addr": "8008f0a8",
   "size": 16,
   "jp": "パラケアの矢　　",
-  "en": ""
+  "en": "Paracare Arrow"
  },
  {
   "addr": "8008f0cc",
   "size": 16,
   "jp": "パライングの矢　",
-  "en": ""
+  "en": "Paraing Arrow"
  },
  {
   "addr": "8008f0f0",
   "size": 16,
   "jp": "スレイドシュート",
-  "en": ""
+  "en": "Slade Shot"
  },
  {
   "addr": "8008f114",
   "size": 16,
   "jp": "アクオーン　　　",
-  "en": ""
+  "en": "Aquon"
  },
  {
   "addr": "8008f138",
   "size": 16,
   "jp": "ボルトアロー　　",
-  "en": ""
+  "en": "Bolt Arrow"
  },
  {
   "addr": "8008f15c",
   "size": 16,
   "jp": "ガボルトの矢　　",
-  "en": ""
+  "en": "Gabolt Arrow"
  },
  {
   "addr": "8008f180",
   "size": 16,
   "jp": "研究失敗　　　　",
-  "en": ""
+  "en": "Failed Research"
  },
  {
   "addr": "8008f1a4",
   "size": 16,
   "jp": "研究失敗　　　　",
-  "en": ""
+  "en": "Failed Research"
  },
  {
   "addr": "8008f1c8",
   "size": 16,
   "jp": "ガードウェッジ　",
-  "en": ""
+  "en": "Guard Wedge"
  },
  {
   "addr": "8008f1ec",
   "size": 16,
   "jp": "ルガードウェッジ",
-  "en": ""
+  "en": "Ru-Guard Wedge"
  },
  {
   "addr": "8008f210",
   "size": 16,
   "jp": "ボレイドシュート",
-  "en": ""
+  "en": "Bolade Shot"
  },
  {
   "addr": "8008f234",
   "size": 16,
   "jp": "シデン　　　　　",
-  "en": ""
+  "en": "Shiden"
  },
  {
   "addr": "8008f258",
   "size": 16,
   "jp": "ガバースト　　　",
-  "en": ""
+  "en": "Gaburst"
  },
  {
   "addr": "8008f27c",
   "size": 16,
   "jp": "ガエア　　　　　",
-  "en": ""
+  "en": "Gaea"
  },
  {
   "addr": "8008f2a0",
   "size": 16,
   "jp": "ガキューブ　　　",
-  "en": ""
+  "en": "Gacube"
  },
  {
   "addr": "8008f2c4",
   "size": 16,
   "jp": "モーニンアロー　",
-  "en": ""
+  "en": "Morning Arrow"
  },
  {
   "addr": "8008f2e8",
   "size": 16,
   "jp": "ナイトメア　　　",
-  "en": ""
+  "en": "Nightmare"
  },
  {
   "addr": "8008f30c",
   "size": 16,
   "jp": "バスレイシュート",
-  "en": ""
+  "en": "Busray Shot"
  },
  {
   "addr": "8008f330",
   "size": 16,
   "jp": "ジン　　　　　　",
-  "en": ""
+  "en": "Jinn"
  },
  {
   "addr": "8008f354",
   "size": 16,
   "jp": "エア　　　　　　",
-  "en": ""
+  "en": "Air"
  },
  {
   "addr": "8008f378",
   "size": 16,
   "jp": "研究失敗　　　　",
-  "en": ""
+  "en": "Failed Research"
  },
  {
   "addr": "8008f39c",
   "size": 16,
   "jp": "ポイケア　　　　",
-  "en": ""
+  "en": "Poicare"
  },
  {
   "addr": "8008f3c0",
   "size": 16,
   "jp": "ポイーング　　　",
-  "en": ""
+  "en": "Poiing"
  },
  {
   "addr": "8008f3e4",
   "size": 16,
   "jp": "エアレイド　　　",
-  "en": ""
+  "en": "Air Raid"
  },
  {
   "addr": "8008f408",
   "size": 16,
   "jp": "ウィンダム　　　",
-  "en": ""
+  "en": "Windam"
  },
  {
   "addr": "8008f42c",
   "size": 16,
   "jp": "キューザー　　　",
-  "en": ""
+  "en": "Cubezer"
  },
  {
   "addr": "8008f450",
   "size": 16,
   "jp": "ハヤーウェッジ　",
-  "en": ""
+  "en": "Haste Wedge"
  },
  {
   "addr": "8008f474",
   "size": 16,
   "jp": "ルハヤーウェッジ",
-  "en": ""
+  "en": "Ru-Haste Wedge"
  },
  {
   "addr": "8008f498",
   "size": 16,
   "jp": "キューバード　　",
-  "en": ""
+  "en": "Cube Bird"
  },
  {
   "addr": "8008f4bc",
   "size": 16,
   "jp": "ロックゴレム　　",
-  "en": ""
+  "en": "Rockgolem"
  },
  {
   "addr": "8008f4e0",
   "size": 16,
   "jp": "エイドアロー　　",
-  "en": ""
+  "en": "Aid Arrow"
  },
  {
   "addr": "8008f504",
   "size": 16,
   "jp": "リーンエイド　　",
-  "en": ""
+  "en": "Lean Aid"
  },
  {
   "addr": "8008f528",
   "size": 16,
   "jp": "ミナエイド　　　",
-  "en": ""
+  "en": "Mina Aid"
  },
  {
   "addr": "8008f54c",
   "size": 16,
   "jp": "メヴュース　　　",
-  "en": ""
+  "en": "Meviuse"
  },
  {
   "addr": "8008f570",
   "size": 16,
   "jp": "デッドエンアロー",
-  "en": ""
+  "en": "Dead End Arrow"
  },
  {
   "addr": "8008f594",
   "size": 16,
   "jp": "グラビティ　　　",
-  "en": ""
+  "en": "Gravity"
  },
  {
   "addr": "8008f5b8",
   "size": 16,
   "jp": "デスガッデス　　",
-  "en": ""
+  "en": "Desgaddes"
  },
  {
   "addr": "8008f5dc",
   "size": 16,
   "jp": "メガビティ　　　",
-  "en": ""
+  "en": "Megavity"
  },
  {
   "addr": "8008f600",
   "size": 16,
   "jp": "デカムスラ　　　",
-  "en": ""
+  "en": "Dekamusura"
  },
  {
   "addr": "8008f624",
   "size": 16,
   "jp": "テンロウ　　　　",
-  "en": ""
+  "en": "Tenrou"
  },
  {
   "addr": "8008f670",
   "size": 16,
   "jp": "スナイパーズ　　",
-  "en": ""
+  "en": "Snipers"
  },
  {
   "addr": "8008f692",
   "size": 16,
   "jp": "なくなる銃　　　",
-  "en": ""
+  "en": "Vanishing Gun"
  },
  {
   "addr": "8008f6b4",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "8008f6d6",
   "size": 16,
   "jp": "ムーンラビット　",
-  "en": ""
+  "en": "Moon Rabbit"
  },
  {
   "addr": "8008f6f8",
   "size": 16,
   "jp": "ビルドⅠ　　　　",
-  "en": ""
+  "en": "Build I"
  },
  {
   "addr": "8008f71a",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "8008f73c",
   "size": 16,
   "jp": "ボルテックス　　",
-  "en": ""
+  "en": "Vortex"
  },
  {
   "addr": "8008f75e",
   "size": 16,
   "jp": "ＣＡＮスチール　",
-  "en": ""
+  "en": "CAN Steal"
  },
  {
   "addr": "8008f780",
   "size": 16,
   "jp": "トロワシュート　",
-  "en": ""
+  "en": "Trois Shot"
  },
  {
   "addr": "8008f7a2",
   "size": 16,
   "jp": "シェルブリッド　",
-  "en": ""
+  "en": "Shell Bullet"
  },
  {
   "addr": "8008f7c4",
   "size": 16,
   "jp": "パワーストライク",
-  "en": ""
+  "en": "Power Strike"
  },
  {
   "addr": "8008f7e6",
   "size": 16,
   "jp": "クワトロシュート",
-  "en": ""
+  "en": "Quattro Shot"
  },
  {
   "addr": "8008f808",
   "size": 16,
   "jp": "ビルドⅢ　　　　",
-  "en": ""
+  "en": "Build III"
  },
  {
   "addr": "8008f82a",
   "size": 16,
   "jp": "ヘヴィアームズ　",
-  "en": ""
+  "en": "Heavy Arms"
  },
  {
   "addr": "8008f84c",
   "size": 16,
   "jp": "プレイオブエレ　",
-  "en": ""
+  "en": "Pray of Ele"
  },
  {
   "addr": "8008f86e",
   "size": 16,
   "jp": "ガンナーズ　　　",
-  "en": ""
+  "en": "Gunners"
  },
  {
   "addr": "8008f890",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "8008f8b2",
   "size": 16,
   "jp": "カスタムグランツ",
-  "en": ""
+  "en": "Custom Grants"
  },
  {
   "addr": "8008f8d4",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "8008f8f6",
   "size": 16,
   "jp": "デュオシュート　",
-  "en": ""
+  "en": "Duo Shot"
  },
  {
   "addr": "8008f918",
   "size": 16,
   "jp": "ＭＰＨ　　　　　",
-  "en": ""
+  "en": "MPH"
  },
  {
   "addr": "8008f93a",
   "size": 16,
   "jp": "ビルドⅡ　　　　",
-  "en": ""
+  "en": "Build II"
  },
  {
   "addr": "8008f95c",
   "size": 16,
   "jp": "クリティビュート",
-  "en": ""
+  "en": "Critibute"
  },
  {
   "addr": "8008f97e",
   "size": 16,
   "jp": "ＥＸＰスチール　",
-  "en": ""
+  "en": "EXP Steal"
  },
  {
   "addr": "8008f9a0",
   "size": 16,
   "jp": "ファイナルノヴァ",
-  "en": ""
+  "en": "Final Nova"
  },
  {
   "addr": "8008f9c2",
   "size": 16,
   "jp": "弓道の弓　　　　",
-  "en": ""
+  "en": "Archery Bow"
  },
  {
   "addr": "8008f9e4",
   "size": 16,
   "jp": "月光族の弓　　　",
-  "en": ""
+  "en": "Moonlight Bow"
  },
  {
   "addr": "8008fa06",
   "size": 16,
   "jp": "ハーミーの弓　　",
-  "en": ""
+  "en": "Hermie's Bow"
  },
  {
   "addr": "8008fa28",
   "size": 16,
   "jp": "ロングボウ　　　",
-  "en": ""
+  "en": "Longbow"
  },
  {
   "addr": "8008fa4a",
   "size": 16,
   "jp": "マジカルボウ　　",
-  "en": ""
+  "en": "Magical Bow"
  },
  {
   "addr": "8008fa6c",
   "size": 16,
   "jp": "エルダーボウ　　",
-  "en": ""
+  "en": "Elder Bow"
  },
  {
   "addr": "8008fa8e",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "8008fab0",
   "size": 16,
   "jp": "三頭魔犬の弓　　",
-  "en": ""
+  "en": "Cerberus Bow"
  },
  {
   "addr": "8008fad2",
   "size": 16,
   "jp": "クロスボウ　　　",
-  "en": ""
+  "en": "Crossbow"
  },
  {
   "addr": "8008faf4",
   "size": 16,
   "jp": "ハンターボウ　　",
-  "en": ""
+  "en": "Hunter Bow"
  },
  {
   "addr": "8008fb16",
   "size": 16,
   "jp": "ダブルスナイプ　",
-  "en": ""
+  "en": "Double Snipe"
  },
  {
   "addr": "8008fb38",
   "size": 16,
   "jp": "ＥＸＰの弓　　　",
-  "en": ""
+  "en": "EXP Bow"
  },
  {
   "addr": "8008fb5a",
   "size": 16,
   "jp": "幻想の弓　　　　",
-  "en": ""
+  "en": "Illusion Bow"
  },
  {
   "addr": "8008fb7c",
   "size": 16,
   "jp": "輝きの弓　　　　",
-  "en": ""
+  "en": "Radiant Bow"
  },
  {
   "addr": "8008fb9e",
   "size": 16,
   "jp": "守りの弓　　　　",
-  "en": ""
+  "en": "Guard Bow"
  },
  {
   "addr": "8008fbc0",
   "size": 16,
   "jp": "クルセイダーズ　",
-  "en": ""
+  "en": "Crusaders"
  },
  {
   "addr": "8008fbe2",
   "size": 16,
   "jp": "ヒドラの弓　　　",
-  "en": ""
+  "en": "Hydra Bow"
  },
  {
   "addr": "8008fc04",
   "size": 16,
   "jp": "ツインドラゴン　",
-  "en": ""
+  "en": "Twin Dragon"
  },
  {
   "addr": "8008fc26",
   "size": 16,
   "jp": "クレッセントボウ",
-  "en": ""
+  "en": "Crescent Bow"
  },
  {
   "addr": "8008fc48",
   "size": 16,
   "jp": "エレの聖弓　　　",
-  "en": ""
+  "en": "Ele Holy Bow"
  },
  {
   "addr": "8008fc6a",
   "size": 16,
   "jp": "ピエンの魂　　　",
-  "en": ""
+  "en": "Pien's Soul"
  },
  {
   "addr": "8008fc8c",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "8008fcae",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "8008fcd0",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "8008fcf2",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "8008fd14",
   "size": 16,
   "jp": "フレディの爪　　",
-  "en": ""
+  "en": "Freddy's Claw"
  },
  {
   "addr": "8008fd36",
   "size": 16,
   "jp": "ベア－クロー　　",
-  "en": ""
+  "en": "Bear Claw"
  },
  {
   "addr": "8008fd58",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "8008fd7a",
   "size": 16,
   "jp": "パワーナックル　",
-  "en": ""
+  "en": "Power Knuckle"
  },
  {
   "addr": "8008fd9c",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "8008fdbe",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "8008fde0",
   "size": 16,
   "jp": "シザーハンド　　",
-  "en": ""
+  "en": "Scissorhands"
  },
  {
   "addr": "8008fe02",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "8008fe24",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "8008fe46",
   "size": 16,
   "jp": "カイザーナックル",
-  "en": ""
+  "en": "Kaiser Knuckle"
  },
  {
   "addr": "8008fe68",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "8008fe8a",
   "size": 16,
   "jp": "コークスクリュー",
-  "en": ""
+  "en": "Corkscrew"
  },
  {
   "addr": "8008feac",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "8008fece",
   "size": 16,
   "jp": "ガッデスネイル　",
-  "en": ""
+  "en": "Goddess Nail"
  },
  {
   "addr": "8008fef0",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "8008ff12",
   "size": 16,
   "jp": "Ｇ・マグナム　　",
-  "en": ""
+  "en": "G-Magnum"
  },
  {
   "addr": "8008ff34",
   "size": 16,
   "jp": "ドラゴンファング",
-  "en": ""
+  "en": "Dragon Fang"
  },
  {
   "addr": "8008ff56",
   "size": 16,
   "jp": "ＥＸＰクロー　　",
-  "en": ""
+  "en": "EXP Claw"
  },
  {
   "addr": "8008ff78",
   "size": 16,
   "jp": "ロックハンド　　",
-  "en": ""
+  "en": "Rock Hand"
  },
  {
   "addr": "8008ff9a",
   "size": 16,
   "jp": "エレの神爪　　　",
-  "en": ""
+  "en": "Ele Divine Claw"
  },
  {
   "addr": "8008ffbc",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "8008ffde",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "80090000",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "80090022",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "80090044",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "80090066",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "80090088",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "800900aa",
   "size": 16,
   "jp": "スリーピンソード",
-  "en": ""
+  "en": "Sleeping Sword"
  },
  {
   "addr": "800900cc",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "800900ee",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "80090110",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "80090132",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "80090154",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "80090176",
   "size": 16,
   "jp": "ガリアンズソード",
-  "en": ""
+  "en": "Galian's Sword"
  },
  {
   "addr": "80090198",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "800901ba",
   "size": 16,
   "jp": "スワロウテール　",
-  "en": ""
+  "en": "Swallowtail"
  },
  {
   "addr": "800901dc",
   "size": 16,
   "jp": "斬龍破砕刀　　　",
-  "en": ""
+  "en": "Dragon Crusher"
  },
  {
   "addr": "800901fe",
   "size": 16,
   "jp": "火竜紋長船　　　",
-  "en": ""
+  "en": "Fire Dragon Edge"
  },
  {
   "addr": "80090220",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "80090242",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "80090264",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "80090286",
   "size": 16,
   "jp": "キングスブレード",
-  "en": ""
+  "en": "King's Blade"
  },
  {
   "addr": "800902a8",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "800902ca",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "800902ec",
   "size": 16,
   "jp": "エクスカリバー　",
-  "en": ""
+  "en": "Excalibur"
  },
  {
   "addr": "8009030e",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "80090330",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "80090352",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "80090374",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "80090396",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "800903b8",
   "size": 16,
   "jp": "ガードリング　　",
-  "en": ""
+  "en": "Guard Ring"
  },
  {
   "addr": "800903da",
   "size": 16,
   "jp": "シールドリング　",
-  "en": ""
+  "en": "Shield Ring"
  },
  {
   "addr": "800903fc",
   "size": 16,
   "jp": "プロテクトリング",
-  "en": ""
+  "en": "Protect Ring"
  },
  {
   "addr": "8009041e",
   "size": 16,
   "jp": "アンチパラリング",
-  "en": ""
+  "en": "Anti-Para Ring"
  },
  {
   "addr": "80090440",
   "size": 16,
   "jp": "ワイドリング　　",
-  "en": ""
+  "en": "Wide Ring"
  },
  {
   "addr": "80090462",
   "size": 16,
   "jp": "氷の指輪　　　　",
-  "en": ""
+  "en": "Ice Ring"
  },
  {
   "addr": "80090484",
   "size": 16,
   "jp": "炎の指輪　　　　",
-  "en": ""
+  "en": "Fire Ring"
  },
  {
   "addr": "800904a6",
   "size": 16,
   "jp": "アーマーリング　",
-  "en": ""
+  "en": "Armor Ring"
  },
  {
   "addr": "800904c8",
   "size": 16,
   "jp": "回復の指輪　　　",
-  "en": ""
+  "en": "Healing Ring"
  },
  {
   "addr": "800904ea",
   "size": 16,
   "jp": "雷の指輪　　　　",
-  "en": ""
+  "en": "Thunder Ring"
  },
  {
   "addr": "8009050c",
   "size": 16,
   "jp": "闘士の指輪　　　",
-  "en": ""
+  "en": "Warrior's Ring"
  },
  {
   "addr": "8009052e",
   "size": 16,
   "jp": "風の指輪　　　　",
-  "en": ""
+  "en": "Wind Ring"
  },
  {
   "addr": "80090550",
   "size": 16,
   "jp": "幻想の指輪　　　",
-  "en": ""
+  "en": "Illusion Ring"
  },
  {
   "addr": "80090572",
   "size": 16,
   "jp": "アーティリング　",
-  "en": ""
+  "en": "Artia Ring"
  },
  {
   "addr": "80090594",
   "size": 16,
   "jp": "ブレスリング　　",
-  "en": ""
+  "en": "Bless Ring"
  },
  {
   "addr": "800905b6",
   "size": 16,
   "jp": "プリンセスリング",
-  "en": ""
+  "en": "Princess Ring"
  },
  {
   "addr": "800905d8",
   "size": 16,
   "jp": "セイントリング　",
-  "en": ""
+  "en": "Saint Ring"
  },
  {
   "addr": "800905fa",
   "size": 16,
   "jp": "ソロモンリング　",
-  "en": ""
+  "en": "Solomon Ring"
  },
  {
   "addr": "8009061c",
   "size": 16,
   "jp": "土の指輪　　　　",
-  "en": ""
+  "en": "Earth Ring"
  },
  {
   "addr": "8009063e",
   "size": 16,
   "jp": "リングオブエレ　",
-  "en": ""
+  "en": "Ring of Ele"
  },
  {
   "addr": "80090660",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "80090682",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "800906a4",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "800906c6",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "800906e8",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "8009070a",
   "size": 16,
   "jp": "風のバンダナ　　",
-  "en": ""
+  "en": "Wind Bandana"
  },
  {
   "addr": "8009072c",
   "size": 16,
   "jp": "真赤なスカーフ　",
-  "en": ""
+  "en": "Crimson Scarf"
  },
  {
   "addr": "8009074e",
   "size": 16,
   "jp": "ガラスのティアラ",
-  "en": ""
+  "en": "Glass Tiara"
  },
  {
   "addr": "80090770",
   "size": 16,
   "jp": "勇気のバンテージ",
-  "en": ""
+  "en": "Courage Bandage"
  },
  {
   "addr": "80090792",
   "size": 16,
   "jp": "マジカルケープ　",
-  "en": ""
+  "en": "Magical Cape"
  },
  {
   "addr": "800907b4",
   "size": 16,
   "jp": "魅惑のガーター　",
-  "en": ""
+  "en": "Charming Garter"
  },
  {
   "addr": "800907d6",
   "size": 16,
   "jp": "いばらの腕輪　　",
-  "en": ""
+  "en": "Thorn Bracelet"
  },
  {
   "addr": "800907f8",
   "size": 16,
   "jp": "高速のマント　　",
-  "en": ""
+  "en": "Swift Mantle"
  },
  {
   "addr": "8009081a",
   "size": 16,
   "jp": "護りのピアス　　",
-  "en": ""
+  "en": "Guard Earrings"
  },
  {
   "addr": "8009083c",
   "size": 16,
   "jp": "毛皮のコート　　",
-  "en": ""
+  "en": "Fur Coat"
  },
  {
   "addr": "8009085e",
   "size": 16,
   "jp": "力の腕輪　　　　",
-  "en": ""
+  "en": "Power Bracelet"
  },
  {
   "addr": "80090880",
   "size": 16,
   "jp": "七色のブローチ　",
-  "en": ""
+  "en": "Rainbow Brooch"
  },
  {
   "addr": "800908a2",
   "size": 16,
   "jp": "金色の冠　　　　",
-  "en": ""
+  "en": "Golden Crown"
  },
  {
   "addr": "800908c4",
   "size": 16,
   "jp": "疾風の帽子　　　",
-  "en": ""
+  "en": "Gale Hat"
  },
  {
   "addr": "800908e6",
   "size": 16,
   "jp": "ミラクルゴーグル",
-  "en": ""
+  "en": "Miracle Goggles"
  },
  {
   "addr": "80090908",
   "size": 16,
   "jp": "ガードクリスタル",
-  "en": ""
+  "en": "Guard Crystal"
  },
  {
   "addr": "8009092a",
   "size": 16,
   "jp": "情熱エッチュー　",
-  "en": ""
+  "en": "Passion Fundoshi"
  },
  {
   "addr": "8009094c",
   "size": 16,
   "jp": "マッハクリスタル",
-  "en": ""
+  "en": "Mach Crystal"
  },
  {
   "addr": "8009096e",
   "size": 16,
   "jp": "パワークリスタル",
-  "en": ""
+  "en": "Power Crystal"
  },
  {
   "addr": "80090990",
   "size": 16,
   "jp": "エレーティア　　",
-  "en": ""
+  "en": "Eletia"
  },
  {
   "addr": "800909b2",
   "size": 16,
   "jp": "王家のペンダント",
-  "en": ""
+  "en": "Royal Pendant"
  },
  {
   "addr": "800909d4",
   "size": 16,
   "jp": "約束のペンダント",
-  "en": ""
+  "en": "Promise Pendant"
  },
  {
   "addr": "800909f6",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "80090a18",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "80090a3a",
   "size": 16,
   "jp": "予備　　　　　　",
-  "en": ""
+  "en": "Spare"
  },
  {
   "addr": "80090a5c",
   "size": 16,
   "jp": "傷薬　　　　　　",
-  "en": ""
+  "en": "Salve"
  },
  {
   "addr": "80090a7e",
   "size": 16,
   "jp": "回復薬　　　　　",
-  "en": ""
+  "en": "Restorative"
  },
  {
   "addr": "80090aa0",
   "size": 16,
   "jp": "長寿薬　　　　　",
-  "en": ""
+  "en": "Longevity Potion"
  },
  {
   "addr": "80090ac2",
   "size": 16,
   "jp": "特効薬　　　　　",
-  "en": ""
+  "en": "Wonder Drug"
  },
  {
   "addr": "80090ae4",
   "size": 16,
   "jp": "エレの樹の雫　　",
-  "en": ""
+  "en": "Ele Tree Dew"
  },
  {
   "addr": "80090b06",
   "size": 16,
   "jp": "エレの樹の葉　　",
-  "en": ""
+  "en": "Ele Tree Leaf"
  },
  {
   "addr": "80090b28",
   "size": 16,
   "jp": "エレの樹の実　　",
-  "en": ""
+  "en": "Ele Tree Fruit"
  },
  {
   "addr": "80090b4a",
   "size": 16,
   "jp": "エレの樹の秘薬　",
-  "en": ""
+  "en": "Ele Tree Elixir"
  },
  {
   "addr": "80090b6c",
   "size": 16,
   "jp": "復活の宝珠　　　",
-  "en": ""
+  "en": "Revival Orb"
  },
  {
   "addr": "80090b8e",
   "size": 16,
   "jp": "毒消し草　　　　",
-  "en": ""
+  "en": "Antidote Herb"
  },
  {
   "addr": "80090bb0",
   "size": 16,
   "jp": "目覚めの粉　　　",
-  "en": ""
+  "en": "Waking Powder"
  },
  {
   "addr": "80090bd2",
   "size": 16,
   "jp": "ウサギの尻尾　　",
-  "en": ""
+  "en": "Rabbit's Tail"
  },
  {
   "addr": "80090bf4",
   "size": 16,
   "jp": "目覚めの露　　　",
-  "en": ""
+  "en": "Waking Dew"
  },
  {
   "addr": "80090c16",
   "size": 16,
   "jp": "万能薬　　　　　",
-  "en": ""
+  "en": "Panacea"
  },
  {
   "addr": "80090c38",
   "size": 16,
   "jp": "ケムケム草　　　",
-  "en": ""
+  "en": "Kemukemu Herb"
  },
  {
   "addr": "80090c7c",
   "size": 16,
   "jp": "光跡　　　　　　",
-  "en": ""
+  "en": "Light Trail"
  },
  {
   "addr": "80090c9e",
   "size": 16,
   "jp": "音速の砂時計　　",
-  "en": ""
+  "en": "Sonic Hourglass"
  },
  {
   "addr": "80090cc0",
   "size": 16,
   "jp": "力の水　　　　　",
-  "en": ""
+  "en": "Power Water"
  },
  {
   "addr": "80090ce2",
   "size": 16,
   "jp": "守りの水　　　　",
-  "en": ""
+  "en": "Guard Water"
  },
  {
   "addr": "80090d04",
   "size": 16,
   "jp": "命の秘薬　　　　",
-  "en": ""
+  "en": "Life Elixir"
  },
  {
   "addr": "80090d26",
   "size": 16,
   "jp": "力の秘薬　　　　",
-  "en": ""
+  "en": "Power Elixir"
  },
  {
   "addr": "80090d48",
   "size": 16,
   "jp": "守りの秘薬　　　",
-  "en": ""
+  "en": "Guard Elixir"
  },
  {
   "addr": "80090d6a",
   "size": 16,
   "jp": "速さの秘薬　　　",
-  "en": ""
+  "en": "Speed Elixir"
  },
  {
   "addr": "80090d8c",
   "size": 16,
   "jp": "ムスラの結晶　　",
-  "en": ""
+  "en": "Musra Crystal"
  },
  {
   "addr": "80090dae",
   "size": 16,
   "jp": "腕試しの鐘　　　",
-  "en": ""
+  "en": "Challenge Bell"
  },
  {
   "addr": "80090dd0",
   "size": 16,
   "jp": "弓道の矢　　　　",
-  "en": ""
+  "en": "Archery Arrow"
  },
  {
   "addr": "80090df2",
   "size": 16,
   "jp": "ゴールドＴＩＰ　",
-  "en": ""
+  "en": "Gold TIP"
  },
  {
   "addr": "80090e14",
   "size": 16,
   "jp": "ゴールドＴＩＰ　",
-  "en": ""
+  "en": "Gold TIP"
  },
  {
   "addr": "80090e58",
   "size": 16,
   "jp": "ソニックアロー　",
-  "en": ""
+  "en": "Sonic Arrow"
  },
  {
   "addr": "80090e7a",
   "size": 16,
   "jp": "Ｈソニックアロー",
-  "en": ""
+  "en": "H-Sonic Arrow"
  },
  {
   "addr": "80090e9c",
   "size": 16,
   "jp": "ストロングアロー",
-  "en": ""
+  "en": "Strong Arrow"
  },
  {
   "addr": "80090ebe",
   "size": 16,
   "jp": "学食のパン　　　",
-  "en": ""
+  "en": "Cafeteria Bread"
  },
  {
   "addr": "80090ee0",
   "size": 16,
   "jp": "ソニック弾　　　",
-  "en": ""
+  "en": "Sonic Bullet"
  },
  {
   "addr": "80090f02",
   "size": 16,
   "jp": "Ｈソニック弾　　",
-  "en": ""
+  "en": "H-Sonic Bullet"
  },
  {
   "addr": "80090f24",
   "size": 16,
   "jp": "ストロング弾　　",
-  "en": ""
+  "en": "Strong Bullet"
  },
  {
   "addr": "80090f46",
   "size": 16,
   "jp": "ラブアップなの　",
-  "en": ""
+  "en": "Love Up~"
  },
  {
   "addr": "80090f68",
   "size": 16,
   "jp": "ラブダウンなの　",
-  "en": ""
+  "en": "Love Down~"
  },
  {
   "addr": "80090f8a",
   "size": 16,
   "jp": "ブック　　　　　",
-  "en": ""
+  "en": "Book"
  },
  {
   "addr": "80090fac",
   "size": 16,
   "jp": "フレイ　　　　　",
-  "en": ""
+  "en": "Frey"
  },
  {
   "addr": "80090fce",
   "size": 16,
   "jp": "スノ　　　　　　",
-  "en": ""
+  "en": "Snow"
  },
  {
   "addr": "80090ff0",
   "size": 16,
   "jp": "ボルト　　　　　",
-  "en": ""
+  "en": "Bolt"
  },
  {
   "addr": "80091012",
   "size": 16,
   "jp": "バスト　　　　　",
-  "en": ""
+  "en": "Burst"
  },
  {
   "addr": "80091034",
   "size": 16,
   "jp": "エア　　　　　　",
-  "en": ""
+  "en": "Air"
  },
  {
   "addr": "80091056",
   "size": 16,
   "jp": "キューブ　　　　",
-  "en": ""
+  "en": "Cube"
  },
  {
   "addr": "80091078",
   "size": 16,
   "jp": "エイド　　　　　",
-  "en": ""
+  "en": "Aid"
  },
  {
   "addr": "8009109a",
   "size": 16,
   "jp": "デッド　　　　　",
-  "en": ""
+  "en": "Dead"
  },
  {
   "addr": "800910bc",
   "size": 16,
   "jp": "スフィ　　　　　",
-  "en": ""
+  "en": "Sphi"
  },
  {
   "addr": "800910de",
   "size": 16,
   "jp": "イマージュ　　　",
-  "en": ""
+  "en": "Image"
  },
  {
   "addr": "80092af0",
   "size": 10,
   "jp": "１２３４５",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "not text"
  },
  {
   "addr": "80095bd3",
   "size": 8,
   "jp": "５ＤＳｂ",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "not text"
  },
  {
   "addr": "80095bdd",
   "size": 12,
   "jp": "あけだはまろ",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "not text"
  },
  {
   "addr": "80095bf3",
   "size": 4,
   "jp": "ェザ",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "not text"
  },
  {
   "addr": "80095bf9",
   "size": 4,
   "jp": "フャ",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "not text"
  },
  {
   "addr": "80096213",
   "size": 8,
   "jp": "５ＤＳｂ",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "not text"
  },
  {
   "addr": "8009621d",
   "size": 12,
   "jp": "あけだはまろ",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "not text"
  },
  {
   "addr": "80096233",
   "size": 4,
   "jp": "ェザ",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "not text"
  },
  {
   "addr": "80096239",
   "size": 4,
   "jp": "フャ",
-  "en": ""
+  "en": "",
+  "status": "skip",
+  "note": "not text"
  }
 ]

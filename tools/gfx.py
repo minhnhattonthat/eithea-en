@@ -132,7 +132,8 @@ def text(im, box, s, font="tahoma.ttf", size=11, fill=(48, 48, 48), halo=(248, 2
     if not aa:
         d.fontmode = "1"
     x0, y0, x1, y1 = box
-    bb = d.multiline_textbbox((0, 0), s, font=f, spacing=spacing, stroke_width=stroke, align=align[0] if align != "c" else "center")
+    bb = d.multiline_textbbox((0, 0), s, font=f, spacing=spacing, stroke_width=stroke,
+                              align={"c": "center", "l": "left", "r": "right"}[align])
     w, h = bb[2] - bb[0], bb[3] - bb[1]
     x = x0 + ((x1 - x0 - w) // 2 if align == "c" else 0 if align == "l" else x1 - x0 - w) - bb[0]
     y = y0 + (y1 - y0 - h) // 2 - bb[1]
@@ -270,6 +271,54 @@ def result():
     return {"RESULT.IM": save("RESULT.IM", im)}
 
 
+def fit_text(im, box, s, font, fill, halo, max_size=12, min_size=7, align="l", stroke=1):
+    """largest size (<= max_size) whose text fits the box."""
+    for size in range(max_size, min_size - 1, -1):
+        f = ImageFont.truetype(WIN + font, size)
+        bb = f.getbbox(s, stroke_width=stroke)
+        if bb[2] - bb[0] <= box[2] - box[0] and bb[3] - bb[1] <= box[3] - box[1] + 2:
+            break
+    return text(im, box, s, font=font, size=size, fill=fill, halo=halo, align=align, stroke=stroke)
+
+
+def option():
+    """OPTION.IM option-menu labels (sprite rects = the original label bounding boxes)."""
+    im = img("OPTION.IM")
+    ink, glow = (32, 32, 32), (236, 236, 236)
+    labels = [((0, 27, 49, 40), "Sound"), ((0, 43, 49, 56), "Vibration"), ((0, 59, 85, 72), "Window Opacity"),
+              ((0, 106, 26, 120), "Voice"), ((0, 123, 85, 136), "Memory Album"),
+              ((1, 138, 50, 151), "Stereo"), ((59, 138, 108, 151), "Mono")]
+    im = clear(im, (3, 2, 93, 21))
+    im = fit_text(im, (3, 2, 93, 21), "Options", "arialbd.ttf", (120, 232, 96), (24, 72, 24), max_size=18, align="c", stroke=2)
+    for box, s in labels:
+        im = clear(im, box)
+        im = fit_text(im, box, s, "ARIALNB.TTF", ink, glow, max_size=13)
+    return {"OPTION.IM": save("OPTION.IM", im)}
+
+
+def buttons():
+    """FONT.IM top row: button-legend words (ケッテイ キャンセル セツメイ センタク, TIP◆センタク)."""
+    im = img("FONT.IM")
+    bold = [((0, 0, 40, 10), "OK"), ((40, 0, 87, 10), "Cancel"), ((88, 0, 128, 10), "Info")]
+    for box, s in bold:
+        im = clear(im, box)
+        im = fit_text(im, box, s, "tahomabd.ttf", (240, 240, 240), (40, 40, 40), max_size=10, align="c")
+    for box in ((129, 0, 165, 10), (193, 0, 230, 10)):
+        im = clear(im, box)
+        im = fit_text(im, box, "Select", "tahoma.ttf", (230, 230, 230), None, max_size=10, align="c", stroke=0)
+    return {"FONT.IM": save("FONT.IM", im)}
+
+
+def album():
+    """OMOI1.IM memory-album menu: heroine names + その他 (others)."""
+    im = img("OMOI1.IM")
+    for (a, b), s in zip(((4, 21), (26, 45), (51, 70), (75, 93), (99, 117), (122, 141)),
+                         ("Yuka", "Hikaru", "Akiho", "Lou", "Hermie", "Others")):
+        im = clear(im, (0, a, 60, b))
+        im = fit_text(im, (0, a, 54, b), s, "tahomabd.ttf", (255, 236, 244), (176, 0, 24), max_size=12, align="c", stroke=2)
+    return {"OMOI1.IM": save("OMOI1.IM", im)}
+
+
 def exe_patch(exe, patch):
     exe = bytearray(exe)
     for a, word in patch.items():
@@ -286,7 +335,7 @@ def all_files():
     return files, patch
 
 
-SECTIONS = [menu, chapters, info, result]
+SECTIONS = [menu, chapters, info, result, option, buttons, album]
 
 
 if __name__ == "__main__":

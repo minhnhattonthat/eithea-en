@@ -18,7 +18,7 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "ただ今族長の家にて重要会議中。\nご用の方は族長の家まで。",
-  "en": "Important meeting now in progress at the\nchief's house. Visitors, please come to\nthe chief's house."
+  "en": "Important meeting now in progress at the\nchief's house. Visitors, please come to\nthe Chief's house."
  },
  {
   "id": "GEURIKE:0003",
@@ -151,7 +151,7 @@
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "ご神木であるエレの樹から送られてくる、神の力。",
-  "en": "The divine power sent from the Ele Tree,\nour sacred tree."
+  "en": "The divine power sent from the Ele Tree,\nour Sacred Tree."
  },
  {
   "id": "GEURIKE:0022",
@@ -172,7 +172,7 @@
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "私たち神官は、\n族長ランドー様の相談役でございます。",
-  "en": "We priests serve as advisors\nto our chief, Rando-sama."
+  "en": "We priests serve as advisors\nto our Chief, Rando-sama."
  },
  {
   "id": "GEURIKE:0025",
@@ -312,7 +312,7 @@
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "彼らは神木であるエレの樹を傷つけ、\nそこから力を得る、恐ろしくも強力な一族です！！",
-  "en": "They wound the Ele Tree, a sacred tree,\nand draw power from it -- a fearsome and\nmighty clan!!"
+  "en": "They wound the Ele Tree, a Sacred Tree,\nand draw power from it -- a fearsome and\nmighty clan!!"
  },
  {
   "id": "GEURIKE:0045",
@@ -354,7 +354,7 @@
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "エレの樹は、私たちを守護する神木です。",
-  "en": "The Ele Tree is the sacred tree that\nprotects us."
+  "en": "The Ele Tree is the Sacred Tree that\nprotects us."
  },
  {
   "id": "GEURIKE:0051",

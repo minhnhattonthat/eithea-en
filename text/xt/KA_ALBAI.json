@@ -249,7 +249,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　フィノばあさんと話す　　　休む\n　地下に行く　　　　　　　　魔弾研究\n　町に行く　　　　　　　　　セーブする",
-  "en": "Talk to Granny Fino       Rest\nGo underground            Study Magic Bullets\nGo to town                Save"
+  "en": "Talk to Granny Fino       Rest\nGo underground            Magic Bullet Study\nGo to town                Save"
  },
  {
   "id": "KA_ALBAI:0036",
@@ -312,7 +312,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　フィノばあさんと話す　　　休む\n　地下に行く　　　　　　　　魔弾研究\n　町に行く　　　　　　　　　セーブする",
-  "en": "Talk to Granny Fino       Rest\nGo underground            Study Magic Bullets\nGo to town                Save"
+  "en": "Talk to Granny Fino       Rest\nGo underground            Magic Bullet Study\nGo to town                Save"
  },
  {
   "id": "KA_ALBAI:0045",

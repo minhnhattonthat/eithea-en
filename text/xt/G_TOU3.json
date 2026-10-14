@@ -32,21 +32,21 @@
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "村にいた神官のエウリケってさ、\nなんかヤな感じだよね。",
-  "en": "That priest back in the village, Eurike...\nThere's something creepy about him, right?"
+  "en": "That priest back in the village, Eurike...\nThere's something creepy about her, right?"
  },
  {
   "id": "G_TOU3:0005",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "翔はあの人のこと、どう思う？",
-  "en": "What do you think of him, Shou?"
+  "en": "What do you think of her, Shou?"
  },
  {
   "id": "G_TOU3:0006",
   "kind": "choice",
   "speaker": "",
   "jp": "　俺も気になる\n　別に……",
-  "en": "He bugs me too\nNot really..."
+  "en": "She bugs me too\nNot really..."
  },
  {
   "id": "G_TOU3:0007",
@@ -60,7 +60,7 @@
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "だからさ、早くエレボタルを倒して、\nあいつを悔しがらせてやろうよ！",
-  "en": "So let's hurry up and beat the Ele Fireflies\nand make him eat his words!"
+  "en": "So let's hurry up and beat the Ele Fireflies\nand make her eat her words!"
  },
  {
   "id": "G_TOU3:0009",

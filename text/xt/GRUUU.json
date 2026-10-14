@@ -249,14 +249,14 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "それには<1>イオピロスの塔<8>にある文献が必要なんだ。",
-  "en": "And for that, I need the records kept in the\n<1>Tower of Iopiros<8>."
+  "en": "And for that, I need the records kept in the\n<1>Iopiros Tower<8>."
  },
  {
   "id": "GRUUU:0036",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "それにはイオピロスの塔にある文献が必要なんだ。",
-  "en": "And for that, I need the records kept in the\nTower of Iopiros."
+  "en": "And for that, I need the records kept in the\nIopiros Tower."
  },
  {
   "id": "GRUUU:0037",
@@ -270,7 +270,7 @@
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "……イオピロスの塔？",
-  "en": "...The Tower of Iopiros?"
+  "en": "...The Iopiros Tower?"
  },
  {
   "id": "GRUUU:0039",

@@ -18,7 +18,7 @@
   "kind": "msg",
   "speaker": "ルー",
   "jp": "さあ？\n何かは聞いてないわ。",
-  "en": "Who knows?\nHe didn't say what."
+  "en": "Who knows?\nI didn't hear what."
  },
  {
   "id": "IVENT09:0003",
@@ -74,7 +74,7 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "俺のことさ。\n商人のアルバイジャンだ。\nよろしくな。",
-  "en": "That'd be me.\nThe name's Albaijan, merchant.\nNice to meet ya."
+  "en": "That'd be me.\nAlbaijan, merchant by trade.\nNice to meet ya."
  },
  {
   "id": "IVENT09:0011",
@@ -165,7 +165,7 @@
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "勉強のためなの？\nなら、貸してあげれば？",
-  "en": "It's for studying?\nThen why not just lend it to him?"
+  "en": "It's for studying?\nThen why not lend him the texts?"
  },
  {
   "id": "IVENT09:0024",

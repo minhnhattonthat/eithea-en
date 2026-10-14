@@ -36,3 +36,5 @@ b035: 回復の指輪 Healing Ring; 力の水 Power Water; 開ける/やめる O
 b036: リングオブエレ Ring of Ele; エクスカリバー Excalibur; パワークリスタル Power Crystal; エレの神爪 Ele Divine Claw; 何もないな Nothing here...; カイスイヨク beach trip
 b042: 情熱エッチュー Passion Loincloth; ミラクルゴーグル Miracle Goggles; Ｇ・マグナム G-Magnum; 守りの水 Guard Water; クワトロシュート Quattro Shot; スワロウテール Swallowtail; ブレスリング Bless Ring; shop menu wording inconsistent -> polish
 b043: 迷いの森 the Lost Forest
+exe1: credits laid out; 気絶 knocked out; 土/風/雷/水/炎の魔弾 Earth/Wind/Thunder/Water/Fire Magic Bullet; 陽神X Sun God X; staff readings best-guess (Togoku, Masa Iwai, Matsu Uni...)
+exe4: 斬龍破砕刀 Dragon Crusher; 情熱エッチュー Passion Fundoshi; 火竜紋長船 Fire Dragon Edge; 三頭魔犬の弓 Cerberus Bow; 腕試しの鐘 Challenge Bell; 月光族の弓 Moonlight Bow (16-char limit)

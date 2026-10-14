@@ -18,7 +18,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　買い物をする　　　　　　　セーブする\n　持っている物を売る　　　　休む\n　魔弾研究　　　　　　　　　出発する",
-  "en": "Buy                       Save\nSell items                Rest\nMagic Bullet Research     Set out"
+  "en": "Buy                       Save\nSell items                Rest\nMagic Bullet Study        Set out"
  },
  {
   "id": "SHIN01:0003",
