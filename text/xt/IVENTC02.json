@@ -4,356 +4,356 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "ううん……ん？\nまだ誰か起きてるのかな？",
-  "en": ""
+  "en": "Mmm... Hm?\nIs someone still up?"
  },
  {
   "id": "IVENTC02:0001",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ふう……",
-  "en": ""
+  "en": "Phew..."
  },
  {
   "id": "IVENTC02:0002",
   "kind": "msg",
   "speaker": "翔",
   "jp": "どうしたんだ、ルー？\nため息なんかついて。",
-  "en": ""
+  "en": "What's wrong, Lou?\nWhat's with the sigh?"
  },
  {
   "id": "IVENTC02:0003",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "翔？\nちょっと、わからなくなっててさ……",
-  "en": ""
+  "en": "Shou?\nI'm just... kind of confused..."
  },
  {
   "id": "IVENTC02:0004",
   "kind": "msg",
   "speaker": "翔",
   "jp": "わからないって、なにが？",
-  "en": ""
+  "en": "Confused about what?"
  },
  {
   "id": "IVENTC02:0005",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "カーライルにいた火竜族たち……",
-  "en": ""
+  "en": "The Fire Dragon Clan people in Carlyle..."
  },
  {
   "id": "IVENTC02:0006",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "あいつらを見て、\nわからなくなっちゃったのよ。",
-  "en": ""
+  "en": "Seeing them got me\nall confused."
  },
  {
   "id": "IVENTC02:0007",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "わたしが思っていたのと、\nぜんぜんちがってたから……",
-  "en": ""
+  "en": "They were nothing like\nwhat I'd imagined..."
  },
  {
   "id": "IVENTC02:0008",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "もっと、悪いやつらばかりだって思ってたの。",
-  "en": ""
+  "en": "I thought they'd all be bad guys."
  },
  {
   "id": "IVENTC02:0009",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そうだな。\n大家のおばさんとか、いい人たちが多かったよな。",
-  "en": ""
+  "en": "Yeah.\nThe landlady and lots of other people there\nwere good people."
  },
  {
   "id": "IVENTC02:0010",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "うん……",
-  "en": ""
+  "en": "Yeah..."
  },
  {
   "id": "IVENTC02:0011",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "でも、ここにいる奴らが\n樹の力を奪っているのも事実なのよ。",
-  "en": ""
+  "en": "But it's also a fact that the ones here\nare stealing the Tree's power."
  },
  {
   "id": "IVENTC02:0012",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "それは、許せることじゃないわ。",
-  "en": ""
+  "en": "That's not something I can forgive."
  },
  {
   "id": "IVENTC02:0013",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "正直に言うとね、ちょっと不安なんだ。",
-  "en": ""
+  "en": "To be honest, I'm a little worried."
  },
  {
   "id": "IVENTC02:0014",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "カーライルの火竜族が、\n今までわたしが思っていたのと、\n全然ちがってたから。",
-  "en": ""
+  "en": "The Fire Dragon Clan in Carlyle\nwere totally different from\nwhat I'd always believed."
  },
  {
   "id": "IVENTC02:0015",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "わたしが思っていたことって、\n間違っていたんじゃないかなって……",
-  "en": ""
+  "en": "So I'm wondering if everything I believed\nwas wrong..."
  },
  {
   "id": "IVENTC02:0016",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ねえ翔、どう思う？",
-  "en": ""
+  "en": "Hey, Shou, what do you think?"
  },
  {
   "id": "IVENTC02:0017",
   "kind": "msg",
   "speaker": "翔",
   "jp": "どうって……",
-  "en": ""
+  "en": "What do I think..."
  },
  {
   "id": "IVENTC02:0018",
   "kind": "choice",
   "speaker": "",
   "jp": "　考えすぎじゃないのか？\n　わかんないよ",
-  "en": ""
+  "en": "Aren't you overthinking it?\nI dunno"
  },
  {
   "id": "IVENTC02:0019",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そう？",
-  "en": ""
+  "en": "You think?"
  },
  {
   "id": "IVENTC02:0020",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ああ。\nごく単純なことだ。",
-  "en": ""
+  "en": "Yeah.\nIt's really simple."
  },
  {
   "id": "IVENTC02:0021",
   "kind": "msg",
   "speaker": "翔",
   "jp": "火竜族にも、\nいい人と悪い人がいるってことじゃないのか？",
-  "en": ""
+  "en": "Isn't it just that the Fire Dragon Clan\nhas good people and bad people too?"
  },
  {
   "id": "IVENTC02:0022",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ナントカ族って\nひとくくりにするんじゃなくて、",
-  "en": ""
+  "en": "Instead of lumping everyone together\nas \"the So-and-so Clan,\""
  },
  {
   "id": "IVENTC02:0023",
   "kind": "msg",
   "speaker": "翔",
   "jp": "それぞれの人間ごとに考えるようにすれば\nいいんじゃないのか？",
-  "en": ""
+  "en": "why not just think about each person\non their own?"
  },
  {
   "id": "IVENTC02:0024",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "うん、そうだよね。",
-  "en": ""
+  "en": "Yeah, you're right."
  },
  {
   "id": "IVENTC02:0025",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "月光族だって、みんながみんな、\nいい人だって限らないわけだし……",
-  "en": ""
+  "en": "It's not like everyone in the Moonlight Clan\nis a good person, either..."
  },
  {
   "id": "IVENTC02:0026",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そういうことさ。\nたとえば……エウリケとかな。",
-  "en": ""
+  "en": "Exactly.\nTake... Eurike, for instance."
  },
  {
   "id": "IVENTC02:0027",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ふふふっ、確かにね。",
-  "en": ""
+  "en": "Hehe, fair point."
  },
  {
   "id": "IVENTC02:0028",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "……ありがとう、翔。\nすこし、楽になったよ。",
-  "en": ""
+  "en": "...Thanks, Shou.\nI feel a little better."
  },
  {
   "id": "IVENTC02:0029",
   "kind": "msg",
   "speaker": "翔",
   "jp": "別にいいさ。",
-  "en": ""
+  "en": "Don't mention it."
  },
  {
   "id": "IVENTC02:0030",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "……そうだよね。\nやっぱり、わかんないよね。\nごめん、翔。",
-  "en": ""
+  "en": "...Right.\nOf course you don't know either.\nSorry, Shou."
  },
  {
   "id": "IVENTC02:0031",
   "kind": "msg",
   "speaker": "翔",
   "jp": "あっいや、俺のほうこそ……",
-  "en": ""
+  "en": "Ah, no, I'm the one who should..."
  },
  {
   "id": "IVENTC02:0032",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "……あ～あ、\nわからないことだらけだわ。\nこれから、どうなるのかしら？",
-  "en": ""
+  "en": "...Ugh,\nthere's so much I don't understand.\nWhat's going to happen to us?"
  },
  {
   "id": "IVENTC02:0033",
   "kind": "msg",
   "speaker": "翔",
   "jp": "なるようになるんじゃないか？",
-  "en": ""
+  "en": "I guess things'll work out somehow?"
  },
  {
   "id": "IVENTC02:0034",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ずいぶん気楽なのね。もう……\nなんだか、悩むのがばからしくなっちゃった。",
-  "en": ""
+  "en": "You're awfully carefree. Geez...\nNow worrying about it just feels stupid."
  },
  {
   "id": "IVENTC02:0035",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そういえば、前から気になっていたんだけど……\n月光族に男はいないのか？",
-  "en": ""
+  "en": "Come to think of it, I've been wondering...\nAre there no men in the Moonlight Clan?"
  },
  {
   "id": "IVENTC02:0036",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "オトコ？\nそれって、アルバイジャンみたいなの？",
-  "en": ""
+  "en": "Men?\nYou mean like Albaijan?"
  },
  {
   "id": "IVENTC02:0037",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "月光族にああいうのはいないわ。",
-  "en": ""
+  "en": "There's nothing like that\nin the Moonlight Clan."
  },
  {
   "id": "IVENTC02:0038",
   "kind": "msg",
   "speaker": "翔",
   "jp": "やっぱり、そうなのか。",
-  "en": ""
+  "en": "I figured as much."
  },
  {
   "id": "IVENTC02:0039",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "翔はオトコなのよね？",
-  "en": ""
+  "en": "You're a man, right, Shou?"
  },
  {
   "id": "IVENTC02:0040",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ああ。",
-  "en": ""
+  "en": "Yeah."
  },
  {
   "id": "IVENTC02:0041",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ふうん……だからなのかな？",
-  "en": ""
+  "en": "Hmm... Maybe that's why?"
  },
  {
   "id": "IVENTC02:0042",
   "kind": "msg",
   "speaker": "翔",
   "jp": "だからって？",
-  "en": ""
+  "en": "Why what?"
  },
  {
   "id": "IVENTC02:0043",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "前にも言ったでしょ。",
-  "en": ""
+  "en": "I told you before, didn't I?"
  },
  {
   "id": "IVENTC02:0044",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "わたしが、おまえやユカのことで、\nわからなくなるときがあるって。",
-  "en": ""
+  "en": "That sometimes I just don't get you\nor Yuka."
  },
  {
   "id": "IVENTC02:0045",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "それって、オトコがいるからかなって思ってさ……",
-  "en": ""
+  "en": "I was thinking maybe it's because\nthere's a man around..."
  },
  {
   "id": "IVENTC02:0046",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そうか？\nそうは思えないけどな……",
-  "en": ""
+  "en": "You think so?\nI don't really see it..."
  },
  {
   "id": "IVENTC02:0047",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "わたしには、そう思えるんだけどな。\nあ、そういえばさ、翔……",
-  "en": ""
+  "en": "Well, that's how it seems to me.\nOh, by the way, Shou..."
  },
  {
   "id": "IVENTC02:0048",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "あ……",
-  "en": ""
+  "en": "Ah..."
  },
  {
   "id": "IVENTC02:0049",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "翔……それに、ルー……\nなに話してるんだろ……？",
-  "en": ""
+  "en": "Shou... and Lou...\nWhat are they talking about...?"
  },
  {
   "id": "IVENTC02:0050",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "…………",
-  "en": ""
+  "en": "........."
  }
 ]

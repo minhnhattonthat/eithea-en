@@ -4,335 +4,335 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "よお、ひさしぶりだな。\n俺のこと、おぼえてるか？",
-  "en": ""
+  "en": "Hey, long time no see.\nRemember me?"
  },
  {
   "id": "IVENT71:0001",
   "kind": "msg",
   "speaker": "警備兵",
   "jp": "おまえは……この前来た火竜族の商人じゃない！\n何の用なの？",
-  "en": ""
+  "en": "You're... that Fire Dragon Clan merchant\nfrom before! What do you want?"
  },
  {
   "id": "IVENT71:0002",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "族長に大事な話があってな。\n通してくれねえか？",
-  "en": ""
+  "en": "Got important business with the Chief.\nMind letting us through?"
  },
  {
   "id": "IVENT71:0003",
   "kind": "msg",
   "speaker": "警備兵",
   "jp": "追放された者をいれることはできないわ。",
-  "en": ""
+  "en": "I can't let exiles in."
  },
  {
   "id": "IVENT71:0004",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ちっ、やっぱ無理かよ。\n……おいルー！\n何かいい手はないのか？",
-  "en": ""
+  "en": "Tch, figures.\n...Hey, Lou!\nGot any bright ideas?"
  },
  {
   "id": "IVENT71:0005",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "だまって、ついてきて……",
-  "en": ""
+  "en": "Just be quiet and follow me..."
  },
  {
   "id": "IVENT71:0006",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "で、どうするんだ？\n入る方法はあんのか？",
-  "en": ""
+  "en": "So, what's the plan?\nYou got a way in?"
  },
  {
   "id": "IVENT71:0007",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "あせらないで。\n今向かっているところよ。",
-  "en": ""
+  "en": "Don't rush me.\nWe're on our way there now."
  },
  {
   "id": "IVENT71:0008",
   "kind": "msg",
   "speaker": "学",
   "jp": "……あれ？　翔？\nヒトシ！　ほら、翔がいるよ！",
-  "en": ""
+  "en": "...Huh? Shou?\nHitoshi! Look, it's Shou!"
  },
  {
   "id": "IVENT71:0009",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "おおっ、ホンマや！\n翔！　無事やったんか！\nよかったわ～……",
-  "en": ""
+  "en": "Whoa, it really is!\nShou! You made it out okay!\nMan, am I glad~..."
  },
  {
   "id": "IVENT71:0010",
   "kind": "msg",
   "speaker": "翔",
   "jp": "どうしたんだ？\nそんなにボロボロになって……",
-  "en": ""
+  "en": "What happened?\nYou guys are all beat up..."
  },
  {
   "id": "IVENT71:0011",
   "kind": "msg",
   "speaker": "学",
   "jp": "どうしたも何も、\nカーライルにユーロリアが\n攻めてきたんだよ！",
-  "en": ""
+  "en": "What happened? What do you think?\nEurolia attacked Carlyle!"
  },
  {
   "id": "IVENT71:0012",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "ひどいモンやったでえ……\n命からがら、逃げてきたんや。",
-  "en": ""
+  "en": "It was nasty, man...\nWe barely got outta there alive."
  },
  {
   "id": "IVENT71:0013",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "フィノばあさんはどうした？",
-  "en": ""
+  "en": "What about Granny Fino?"
  },
  {
   "id": "IVENT71:0014",
   "kind": "msg",
   "speaker": "学",
   "jp": "それが、わからないんだ。\n途中ではぐれちゃって……",
-  "en": ""
+  "en": "That's the thing, we don't know.\nWe got separated along the way..."
  },
  {
   "id": "IVENT71:0015",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "そうか……\nまあ、あのバアサンのことだ、\nなんとかやってるだろ……",
-  "en": ""
+  "en": "I see...\nWell, knowing that old lady,\nshe's getting by somehow..."
  },
  {
   "id": "IVENT71:0016",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ついたわ。\nここから中に入れるわよ！",
-  "en": ""
+  "en": "We're here.\nWe can get inside from here!"
  },
  {
   "id": "IVENT71:0017",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ルー、ここになにがあるのよ？",
-  "en": ""
+  "en": "Lou, what's even here?"
  },
  {
   "id": "IVENT71:0018",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ちゃんとよく見て。\nほら、そこよ。",
-  "en": ""
+  "en": "Look closely.\nSee, right there."
  },
  {
   "id": "IVENT71:0019",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ここは族長の家の裏に通じてるの。\n子供のころ、これを使って、よく二人で遊んだわ。",
-  "en": ""
+  "en": "This leads around to the back of the Chief's\nhouse. When we were kids, the two of us used\nit to play all the time."
  },
  {
   "id": "IVENT71:0020",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "二人でって……誰と？",
-  "en": ""
+  "en": "The two of you... you and who?"
  },
  {
   "id": "IVENT71:0021",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "シャイよ……",
-  "en": ""
+  "en": "Shai..."
  },
  {
   "id": "IVENT71:0022",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "あの頃はまだ、仲がよかったから……",
-  "en": ""
+  "en": "Back then, we still got along..."
  },
  {
   "id": "IVENT71:0023",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "あ、ごめん……思い出させちゃって……",
-  "en": ""
+  "en": "Oh, sorry... I brought back memories..."
  },
  {
   "id": "IVENT71:0024",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "いいよ、気にしてないから。\nそれより早く行こう。",
-  "en": ""
+  "en": "It's fine, I don't mind.\nNever mind that, let's hurry."
  },
  {
   "id": "IVENT71:0025",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "わたしが先に行くから、ついてきて。",
-  "en": ""
+  "en": "I'll go first, so follow me."
  },
  {
   "id": "IVENT71:0026",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "アルバイジャン、\nあなたは最後だからね。",
-  "en": ""
+  "en": "Albaijan,\nyou're going last."
  },
  {
   "id": "IVENT71:0027",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "へいへい、わかってるさ。",
-  "en": ""
+  "en": "Yeah, yeah, I know."
  },
  {
   "id": "IVENT71:0028",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "やっぱり今だと、ちょっと小さいわね……",
-  "en": ""
+  "en": "Guess it's a bit small for us now..."
  },
  {
   "id": "IVENT71:0029",
   "kind": "msg",
   "speaker": "翔",
   "jp": "………そうだな。",
-  "en": ""
+  "en": "......Yeah."
  },
  {
   "id": "IVENT71:0030",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "小枝もひっかかって痛いし……\nこんなに枝があったかなあ？",
-  "en": ""
+  "en": "And the twigs keep catching on me, ow...\nWere there always this many branches?"
  },
  {
   "id": "IVENT71:0031",
   "kind": "msg",
   "speaker": "翔",
   "jp": "………………",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "IVENT71:0032",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "……？\nどうしたの、翔？\nさっきから静かだけど。",
-  "en": ""
+  "en": "...?\nWhat's wrong, Shou?\nYou've been quiet for a while."
  },
  {
   "id": "IVENT71:0033",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……いや、ちょっと目のやり場に……",
-  "en": ""
+  "en": "...Nothing, I just don't know where to look..."
  },
  {
   "id": "IVENT71:0034",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "目のやり場がどうしたの？\nヘンな人ね……あれ？",
-  "en": ""
+  "en": "Where to look? What about it?\nYou're weird... Huh?"
  },
  {
   "id": "IVENT71:0035",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "これって……！\nよかった、こんなところにあったんだ……",
-  "en": ""
+  "en": "This is...!\nThank goodness, so this is where it was..."
  },
  {
   "id": "IVENT71:0036",
   "kind": "msg",
   "speaker": "翔",
   "jp": "それが、どうかしたのか？",
-  "en": ""
+  "en": "What's that? Something important?"
  },
  {
   "id": "IVENT71:0037",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ううん、なんでもないわ。\nさ、行きましょ。",
-  "en": ""
+  "en": "Nah, it's nothing.\nCome on, let's go."
  },
  {
   "id": "IVENT71:0038",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ふう……\nなんとか、出てこられたわね。",
-  "en": ""
+  "en": "Phew...\nWe made it out, somehow."
  },
  {
   "id": "IVENT71:0039",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "確かに、族長の家のすぐ近くじゃねえか。\nこいつは、ちょうどいいな。",
-  "en": ""
+  "en": "Sure enough, we're right by the Chief's house.\nCouldn't ask for better."
  },
  {
   "id": "IVENT71:0040",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "ルー！\nそれに、みなさんも……なぜ、ここに？",
-  "en": ""
+  "en": "Lou!\nAnd everyone else too...\nWhat are you doing here?"
  },
  {
   "id": "IVENT71:0041",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ちょいとヤボ用でな。\n族長に会いたいんだが……",
-  "en": ""
+  "en": "Just a little errand.\nWe'd like to see the Chief..."
  },
  {
   "id": "IVENT71:0042",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "もしかして……\nヤムヤムのことですか？",
-  "en": ""
+  "en": "Could it be...\nabout Yamyam?"
  },
  {
   "id": "IVENT71:0043",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "わかってんなら話は早いぜ。\nで、族長はどこにいる？",
-  "en": ""
+  "en": "If you know, that saves us time.\nSo, where's the Chief?"
  },
  {
   "id": "IVENT71:0044",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "族長は、お告げを聞きに行っています。",
-  "en": ""
+  "en": "The Chief has gone to hear the oracle."
  },
  {
   "id": "IVENT71:0045",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "今は、エウリケの家で\n相談をしているはずですわ。",
-  "en": ""
+  "en": "Right now she should be at Eurike's house,\ndiscussing it."
  },
  {
   "id": "IVENT71:0046",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "そうか。\nじゃ、そっちへ行かせてもらうぜ。",
-  "en": ""
+  "en": "I see.\nThen we'll head over there."
  },
  {
   "id": "IVENT71:0047",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "おい翔！",
-  "en": ""
+  "en": "Hey, Shou!"
  }
 ]

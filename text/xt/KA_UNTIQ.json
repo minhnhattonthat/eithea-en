@@ -4,70 +4,70 @@
   "kind": "msg",
   "speaker": "店員",
   "jp": "あ、こんにちはあ。\n今日は、なんにしますかあ？",
-  "en": ""
+  "en": "Oh, hellooo.\nWhat'll it be todaaay?"
  },
  {
   "id": "KA_UNTIQ:0001",
   "kind": "msg",
   "speaker": "翔",
   "jp": "客じゃないんです。\nショートカットの女の子が来ませんでしたか？",
-  "en": ""
+  "en": "I'm not a customer.\nHas a girl with short hair come by here?"
  },
  {
   "id": "KA_UNTIQ:0002",
   "kind": "msg",
   "speaker": "店員",
   "jp": "ショートカットの女の子？\n……え～とぉ、来なかったような……",
-  "en": ""
+  "en": "A girl with short hair?\n...Ummm, I don't think she did..."
  },
  {
   "id": "KA_UNTIQ:0003",
   "kind": "msg",
   "speaker": "店員",
   "jp": "あれ？\n来たのかな？",
-  "en": ""
+  "en": "Huh?\nMaybe she did?"
  },
  {
   "id": "KA_UNTIQ:0004",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ええ！？　来たんですか！\nその子がどこに行ったか、わかりませんか？",
-  "en": ""
+  "en": "What?! She was here?!\nDo you know where she went?"
  },
  {
   "id": "KA_UNTIQ:0005",
   "kind": "msg",
   "speaker": "店員",
   "jp": "……でもお、来なかったよおな……",
-  "en": ""
+  "en": "...Buuut, I don't think she came..."
  },
  {
   "id": "KA_UNTIQ:0006",
   "kind": "msg",
   "speaker": "翔",
   "jp": "――え？\nほんとうはどっちなんですか？",
-  "en": ""
+  "en": "--Huh?\nWhich is it, really?"
  },
  {
   "id": "KA_UNTIQ:0007",
   "kind": "msg",
   "speaker": "店員",
   "jp": "……えっと、やっぱり来てません。\nごめんなさい……あははははは。",
-  "en": ""
+  "en": "...Um, she didn't come after all.\nSorry... Ahahahaha."
  },
  {
   "id": "KA_UNTIQ:0008",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……それじゃあ。",
-  "en": ""
+  "en": "...Well then."
  },
  {
   "id": "KA_UNTIQ:0009",
   "kind": "msg",
   "speaker": "店員",
   "jp": "あ、こんにちはあ。\n今日はなんにしますか？",
-  "en": ""
+  "en": "Oh, hellooo.\nWhat'll it be today?"
  },
  {
   "id": "KA_UNTIQ:0010",
@@ -81,69 +81,69 @@
   "kind": "msg",
   "speaker": "店員",
   "jp": "さあ、どれでも好きなものを選んでください。",
-  "en": ""
+  "en": "Go ahead, pick whatever you like."
  },
  {
   "id": "KA_UNTIQ:0012",
   "kind": "msg",
   "speaker": "店員",
   "jp": "……でも、\n使い方は聞かないでくださいね……あははは。",
-  "en": ""
+  "en": "...But please don't ask me\nhow to use them... Ahahaha."
  },
  {
   "id": "KA_UNTIQ:0013",
   "kind": "msg",
   "speaker": "店員",
   "jp": "ありがとうございます。\n他にもなにか、いりますよね？",
-  "en": ""
+  "en": "Thank you very much.\nYou need something else too, right?"
  },
  {
   "id": "KA_UNTIQ:0014",
   "kind": "msg",
   "speaker": "店員",
   "jp": "……もしかして、ひやかし？",
-  "en": ""
+  "en": "...Are you just window-shopping?"
  },
  {
   "id": "KA_UNTIQ:0015",
   "kind": "msg",
   "speaker": "店員",
   "jp": "欲しいときには売ってあげませんからね。\n……あははは、ウソですよ。",
-  "en": ""
+  "en": "Then I won't sell you anything when you\nactually want it. ...Ahahaha, just kidding."
  },
  {
   "id": "KA_UNTIQ:0016",
   "kind": "msg",
   "speaker": "店員",
   "jp": "なあに？\nどんなものを売ってくれるの？",
-  "en": ""
+  "en": "Whaaat?\nWhat are you going to sell me?"
  },
  {
   "id": "KA_UNTIQ:0017",
   "kind": "msg",
   "speaker": "店員",
   "jp": "あら？\nもう、売ってくれないの？\nまだ、欲しいものがあったのに……",
-  "en": ""
+  "en": "Oh?\nYou're done selling?\nThere were still things I wanted..."
  },
  {
   "id": "KA_UNTIQ:0018",
   "kind": "msg",
   "speaker": "店員",
   "jp": "あら？\n欲しいものがあったのに……",
-  "en": ""
+  "en": "Oh?\nAnd there were things I wanted..."
  },
  {
   "id": "KA_UNTIQ:0019",
   "kind": "msg",
   "speaker": "店員",
   "jp": "さよならぁ、また来てくださいね。",
-  "en": ""
+  "en": "Byeee, come again!"
  },
  {
   "id": "KA_UNTIQ:0020",
   "kind": "msg",
   "speaker": "翔",
   "jp": "（一度、アルバイジャンの家に戻ってみるか……\nもしかしたら、伊藤さんが\n見つかってるかもしれないからな）",
-  "en": ""
+  "en": "(Maybe I should stop by Albaijan's house...\nThere's a chance someone's found\nItou-san by now.)"
  }
 ]

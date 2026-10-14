@@ -4,63 +4,63 @@
   "kind": "msg",
   "speaker": "",
   "jp": "　地下廃墟　　地下３階",
-  "en": ""
+  "en": "Underground Ruins - Basement 3"
  },
  {
   "id": "K_CHI03:0001",
   "kind": "choice",
   "speaker": "",
   "jp": "　開ける\n　やめる",
-  "en": ""
+  "en": "Open\nLeave it"
  },
  {
   "id": "K_CHI03:0002",
   "kind": "choice",
   "speaker": "",
   "jp": "　開ける\n　やめる",
-  "en": ""
+  "en": "Open\nLeave it"
  },
  {
   "id": "K_CHI03:0003",
   "kind": "choice",
   "speaker": "",
   "jp": "　開ける\n　やめる",
-  "en": ""
+  "en": "Open\nLeave it"
  },
  {
   "id": "K_CHI03:0004",
   "kind": "msg",
   "speaker": "翔",
   "jp": "やっぱり開かないな………",
-  "en": ""
+  "en": "Still won't open..."
  },
  {
   "id": "K_CHI03:0005",
   "kind": "choice",
   "speaker": "",
   "jp": "　開ける\n　やめる",
-  "en": ""
+  "en": "Open\nLeave it"
  },
  {
   "id": "K_CHI03:0006",
   "kind": "msg",
   "speaker": "翔",
   "jp": "何もないな………",
-  "en": ""
+  "en": "Nothing here..."
  },
  {
   "id": "K_CHI03:0007",
   "kind": "choice",
   "speaker": "",
   "jp": "　開ける\n　やめる",
-  "en": ""
+  "en": "Open\nLeave it"
  },
  {
   "id": "K_CHI03:0008",
   "kind": "msg",
   "speaker": "翔",
   "jp": "<1>復活の宝珠<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>Revival Orb<8>!"
  },
  {
   "id": "K_CHI03:0009",
@@ -74,48 +74,48 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "<1>長寿薬<8>を手に入れた！",
-  "en": ""
+  "en": "Got a <1>Longevity Potion<8>!"
  },
  {
   "id": "K_CHI03:0011",
   "kind": "msg",
   "speaker": "翔",
   "jp": "<1>回復の指輪<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>Healing Ring<8>!"
  },
  {
   "id": "K_CHI03:0012",
   "kind": "msg",
   "speaker": "翔",
   "jp": "<1>ケムケム草<8>を手に入れた！",
-  "en": ""
+  "en": "Got a <1>Kemukemu Herb<8>!"
  },
  {
   "id": "K_CHI03:0013",
   "kind": "msg",
   "speaker": "翔",
   "jp": "<1>力の水<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>Power Water<8>!"
  },
  {
   "id": "K_CHI03:0014",
   "kind": "choice",
   "speaker": "",
   "jp": "　開ける\n　やめる",
-  "en": ""
+  "en": "Open\nLeave it"
  },
  {
   "id": "K_CHI03:0015",
   "kind": "msg",
   "speaker": "翔",
   "jp": "何もないな………",
-  "en": ""
+  "en": "Nothing here..."
  },
  {
   "id": "K_CHI03:0016",
   "kind": "msg",
   "speaker": "翔",
   "jp": "<1>ケムケム草<8>を手に入れた！",
-  "en": ""
+  "en": "Got a <1>Kemukemu Herb<8>!"
  }
 ]

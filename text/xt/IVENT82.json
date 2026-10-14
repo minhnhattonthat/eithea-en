@@ -4,69 +4,69 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "何を話してるんだ？",
-  "en": ""
+  "en": "What are you guys talking about?"
  },
  {
   "id": "IVENT82:0001",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "いやな、カーライルに侵入する方法なんやけど。",
-  "en": ""
+  "en": "Well, it's about how to sneak into Carlyle."
  },
  {
   "id": "IVENT82:0002",
   "kind": "msg",
   "speaker": "翔",
   "jp": "何か知ってるのか！？",
-  "en": ""
+  "en": "You know a way?!"
  },
  {
   "id": "IVENT82:0003",
   "kind": "msg",
   "speaker": "学",
   "jp": "さっきは忘れてたんだけど、\n一つだけ方法があるんだ。",
-  "en": ""
+  "en": "I forgot earlier, but\nthere's one way in."
  },
  {
   "id": "IVENT82:0004",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "前にな、オレ達を助けてくれたナルシーな\n兄ちゃんに、抜け穴を教えてもろうたんや。",
-  "en": ""
+  "en": "A while back, that narcissistic pretty boy\nwho saved us told us 'bout a secret passage."
  },
  {
   "id": "IVENT82:0005",
   "kind": "msg",
   "speaker": "学",
   "jp": "ただ、もう塞がれてるかも知れないんだけどね。",
-  "en": ""
+  "en": "Though it might be blocked off by now."
  },
  {
   "id": "IVENT82:0006",
   "kind": "msg",
   "speaker": "翔",
   "jp": "でも、使えるかも知れないんだろ？",
-  "en": ""
+  "en": "But it might still work, right?"
  },
  {
   "id": "IVENT82:0007",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "どやろうな。\nまあ、行ってみなわからんけどな。",
-  "en": ""
+  "en": "Who knows.\nCan't tell till we go look, anyhow."
  },
  {
   "id": "IVENT82:0008",
   "kind": "msg",
   "speaker": "翔",
   "jp": "どっちにしても、\nそのことをアルバイジャンに話してみよう。",
-  "en": ""
+  "en": "Either way,\nlet's tell Albaijan about it."
  },
  {
   "id": "IVENT82:0009",
   "kind": "msg",
   "speaker": "学",
   "jp": "わかったよ。\nじゃあ、ルーの家でまってるから。",
-  "en": ""
+  "en": "Okay.\nWe'll be waiting at Lou's house, then."
  }
 ]

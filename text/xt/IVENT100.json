@@ -4,251 +4,251 @@
   "kind": "msg",
   "speaker": "ポーポー",
   "jp": "わぁい！　きれい……きれいな光だなあ！",
-  "en": ""
+  "en": "Wow! So pretty... What a pretty light!"
  },
  {
   "id": "IVENT100:0001",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "これは……？\nいったい、何が起きたのですか？",
-  "en": ""
+  "en": "What is this...?\nWhat on earth has happened?"
  },
  {
   "id": "IVENT100:0002",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "……終わったのじゃよ。",
-  "en": ""
+  "en": "...It is over."
  },
  {
   "id": "IVENT100:0003",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "それはどういう……ま、まさか……",
-  "en": ""
+  "en": "What do you mean... N-No, could it be..."
  },
  {
   "id": "IVENT100:0004",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "やっと終わったのじゃよ……\nアイシアが救われたのじゃ。",
-  "en": ""
+  "en": "It is finally over...\nEithéa has been saved."
  },
  {
   "id": "IVENT100:0005",
   "kind": "msg",
   "speaker": "ナムリア",
   "jp": "またユーロリアに戻ることができるのですね……\nお母様、私たち……",
-  "en": ""
+  "en": "So we can return to Eurolia once more...\nMother, we're..."
  },
  {
   "id": "IVENT100:0006",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "翔、みんな……ありがとう……！",
-  "en": ""
+  "en": "Shou, everyone... thank you...!"
  },
  {
   "id": "IVENT100:0007",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……ここは……ルーの家？",
-  "en": ""
+  "en": "...This is... Lou's house?"
  },
  {
   "id": "IVENT100:0008",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……にぎやかだな。\n何をやってるんだ？",
-  "en": ""
+  "en": "...It's lively in here.\nWhat's going on?"
  },
  {
   "id": "IVENT100:0009",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "おお、翔！　やっと目を覚ましたか！",
-  "en": ""
+  "en": "Oh, Shou! You're finally awake!"
  },
  {
   "id": "IVENT100:0010",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "どうだ、だいじょうぶか？\nどっか痛むか？",
-  "en": ""
+  "en": "Well, you all right?\nSomethin' hurt?"
  },
  {
   "id": "IVENT100:0011",
   "kind": "msg",
   "speaker": "翔",
   "jp": "どうしたんだ？\nこれは……？",
-  "en": ""
+  "en": "What's going on?\nWhat is all this...?"
  },
  {
   "id": "IVENT100:0012",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "魔女たちを倒した祝宴さ！\nほら、翔も飲めよ！",
-  "en": ""
+  "en": "A feast for beatin' the Witches!\nHere, Shou, have a drink!"
  },
  {
   "id": "IVENT100:0013",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そんなことより、あの後、俺たちはどうなったんだ？",
-  "en": ""
+  "en": "Never mind that.\nWhat happened to us after all that?"
  },
  {
   "id": "IVENT100:0014",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ユカの身体が聖女と共に消えた後……\n俺もそっからの記憶がねえ。",
-  "en": ""
+  "en": "After Yuka's body vanished with the Saint...\nafter that, my memory's a blank too."
  },
  {
   "id": "IVENT100:0015",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ひかるの身体が聖女と共に消えた後……\n俺もそっからの記憶がねえ。",
-  "en": ""
+  "en": "After Hikaru's body vanished with the Saint...\nafter that, my memory's a blank too."
  },
  {
   "id": "IVENT100:0016",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "センセイの身体が聖女と共に消えた後……\n俺もそっからの記憶がねえ。",
-  "en": ""
+  "en": "After Sensei's body vanished with the Saint...\nafter that, my memory's a blank too."
  },
  {
   "id": "IVENT100:0017",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ルーの身体が聖女と共に消えた後……\n俺もそっからの記憶がねえ。",
-  "en": ""
+  "en": "After Lou's body vanished with the Saint...\nafter that, my memory's a blank too."
  },
  {
   "id": "IVENT100:0018",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "視界が真っ白になって、気付いたらここにいたんだ。\n助けてくれた村の奴はよ、俺たち全員が\nセレネの丘で倒れていたって言ってたな。",
-  "en": ""
+  "en": "Everything went white, and next I knew,\nI was here. The villager who helped us out\nsaid we were all out cold on Selene Hill."
  },
  {
   "id": "IVENT100:0019",
   "kind": "msg",
   "speaker": "翔",
   "jp": "みんなは？　他のみんなは？",
-  "en": ""
+  "en": "Where's everyone? What about everyone else?"
  },
  {
   "id": "IVENT100:0020",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "いっしょさ。　みんな戻ってきてるぜ。",
-  "en": ""
+  "en": "They're all here. Everyone made it back."
  },
  {
   "id": "IVENT100:0021",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……そうか。",
-  "en": ""
+  "en": "...I see."
  },
  {
   "id": "IVENT100:0022",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "な、なあ、腹へってねえか？\n酒も食い物もうめえぞ！",
-  "en": ""
+  "en": "S-Say, aren't ya hungry?\nThe drinks and food are top-notch!"
  },
  {
   "id": "IVENT100:0023",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "それに今日は記念日なんだ！\n見ろよ、月光族の村に火竜族がいるんだぜ！\nこれでもう、部族同士で争う必要はないんだ！",
-  "en": ""
+  "en": "Plus, today's a day to remember!\nLook, Fire Dragon Clan folks right here in\nthe Moonlight Clan's village!<p>Now the tribes don't need to fight anymore!"
  },
  {
   "id": "IVENT100:0024",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……それに翔、おまえがいなきゃ\n宴は始まらねえんだ。\nなんたって、魔女を倒した英雄さまなんだからな！",
-  "en": ""
+  "en": "...And Shou, the party can't start without\nyou. After all, you're the big hero who\ntook down the Witches!"
  },
  {
   "id": "IVENT100:0025",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……それに、もとの世界に帰るんだろ？\nほら、みんなのとこに行って、あいさつしてこいよ。",
-  "en": ""
+  "en": "...And you're headin' back to your own world,\nright? Go on, go see everyone and say your\ngoodbyes."
  },
  {
   "id": "IVENT100:0026",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……元気だせよ、な？",
-  "en": ""
+  "en": "...Cheer up, huh?"
  },
  {
   "id": "IVENT100:0027",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そんなことより、あの後、俺たちはどうなったんだ？",
-  "en": ""
+  "en": "Never mind that.\nWhat happened to us after all that?"
  },
  {
   "id": "IVENT100:0028",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "視界が真っ白になって、気付いたらここにいたんだ。\n助けてくれた村の奴はよ、俺たち全員が\nセレネの丘で倒れていたって言ってたな。",
-  "en": ""
+  "en": "Everything went white, and next I knew,\nI was here. The villager who helped us out\nsaid we were all out cold on Selene Hill."
  },
  {
   "id": "IVENT100:0029",
   "kind": "msg",
   "speaker": "翔",
   "jp": "みんなは？　他のみんなは？",
-  "en": ""
+  "en": "Where's everyone? What about everyone else?"
  },
  {
   "id": "IVENT100:0030",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "いっしょさ。　みんな戻ってきてるぜ。",
-  "en": ""
+  "en": "They're all here. Everyone made it back."
  },
  {
   "id": "IVENT100:0031",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "フィノばあさんは\n家の片づけがあるって帰っちまったけどな！",
-  "en": ""
+  "en": "Granny Fino went home, though,\nsaid she had to tidy up her house!"
  },
  {
   "id": "IVENT100:0032",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "今日ぐらいみんなと\nバカ騒ぎすりゃあいいじゃねえか、なぁ！\nハハハハハハハハハハハ！",
-  "en": ""
+  "en": "But today, ya oughta just go wild\nwith everybody, right?!\nHahahahahahahahahahaha!"
  },
  {
   "id": "IVENT100:0033",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "みんなに会って、ちゃんと礼を言えよ。\n誰も彼もおまえのことを心配してたんだからな。",
-  "en": ""
+  "en": "Go see everyone and thank 'em properly.\nEvery last one of 'em was worried about you."
  },
  {
   "id": "IVENT100:0034",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "それに翔、おまえがいなきゃ宴は始まらねえんだ。\nなんたって、魔女を倒した英雄さまなんだからな！",
-  "en": ""
+  "en": "And Shou, the party can't start without you.\nAfter all, you're the big hero who took down\nthe Witches!"
  },
  {
   "id": "IVENT100:0035",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……それに、もとの世界に帰るんだろ？\nだったら、みんなにあいさつしてこいよ。",
-  "en": ""
+  "en": "...And you're headin' back to your own world,\nright? Then go say your goodbyes to everyone."
  }
 ]

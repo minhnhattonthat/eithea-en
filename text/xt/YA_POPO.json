@@ -4,265 +4,265 @@
   "kind": "msg",
   "speaker": "ポーポー",
   "jp": "あ、翔だ。\nどうしたの？",
-  "en": ""
+  "en": "Oh, it's Shou.\nWhat's up?"
  },
  {
   "id": "YA_POPO:0001",
   "kind": "choice",
   "speaker": "",
   "jp": "　ポーポーと話す　　　　　　立ち去る\n　イムルと話す\n　ナムリアと話す",
-  "en": ""
+  "en": "Talk to Popo              Leave\nTalk to Imul\nTalk to Namuria"
  },
  {
   "id": "YA_POPO:0002",
   "kind": "msg",
   "speaker": "ポーポー",
   "jp": "……すごく、悲しいの……\nここにいると……\nすごく悲しくなるの。",
-  "en": ""
+  "en": "...It's so sad...\nBeing here...\nmakes me feel so sad."
  },
  {
   "id": "YA_POPO:0003",
   "kind": "msg",
   "speaker": "ポーポー",
   "jp": "イムルも……ナムリアも……\nそれが、すごくわかるから……",
-  "en": ""
+  "en": "Because I can feel it so much\nfrom Imul... and Namuria..."
  },
  {
   "id": "YA_POPO:0004",
   "kind": "msg",
   "speaker": "ポーポー",
   "jp": "……ポーポーも、\n悲しくなっちゃうよお……",
-  "en": ""
+  "en": "...Popo's getting\nsad too..."
  },
  {
   "id": "YA_POPO:0005",
   "kind": "msg",
   "speaker": "ポーポー",
   "jp": "イムルとナムリアが元気になったよ。",
-  "en": ""
+  "en": "Imul and Namuria are feeling better now."
  },
  {
   "id": "YA_POPO:0006",
   "kind": "msg",
   "speaker": "ポーポー",
   "jp": "けど、知りあいの人が、\nここに攻めてくるって聞いて、\nまた少し落ちこんでたの……",
-  "en": ""
+  "en": "But they heard someone they know\nis coming to attack here,\nso they got a little down again..."
  },
  {
   "id": "YA_POPO:0007",
   "kind": "msg",
   "speaker": "ポーポー",
   "jp": "翔、なんとかしてあげて！\n翔だったら、できるよね？\nそうだよね？",
-  "en": ""
+  "en": "Shou, please do something for them!\nYou can do it, right, Shou?\nRight?"
  },
  {
   "id": "YA_POPO:0008",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "……ああ、翔か。\nすこし疲れてるんだ。",
-  "en": ""
+  "en": "...Ah, Shou.\nI'm a little tired."
  },
  {
   "id": "YA_POPO:0009",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "悪いけど、あとにしてもらえるかな……？",
-  "en": ""
+  "en": "Sorry, but could we do this later...?"
  },
  {
   "id": "YA_POPO:0010",
   "kind": "msg",
   "speaker": "翔",
   "jp": "調子はどうだ？",
-  "en": ""
+  "en": "How are you feeling?"
  },
  {
   "id": "YA_POPO:0011",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "僕はもうだいじょうぶさ。\nけど、姉さんが、ね……",
-  "en": ""
+  "en": "I'm fine now.\nBut my sister, well..."
  },
  {
   "id": "YA_POPO:0012",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "まだ、ショックから立ち直れないんだ。\n無理もないけど……",
-  "en": ""
+  "en": "She still hasn't gotten over the shock.\nI can't blame her..."
  },
  {
   "id": "YA_POPO:0013",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そうか……\n……すまない。",
-  "en": ""
+  "en": "I see...\n...I'm sorry."
  },
  {
   "id": "YA_POPO:0014",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "翔が謝ることはないよ。\nこの話はもうよさないかい？",
-  "en": ""
+  "en": "You don't have to apologize, Shou.\nCan we drop this subject?"
  },
  {
   "id": "YA_POPO:0015",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……そうだな。\nありがとう、イムル。",
-  "en": ""
+  "en": "...Yeah.\nThanks, Imul."
  },
  {
   "id": "YA_POPO:0016",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "どうせなら、かわいいベイベーに礼を言われたいね。\nひかるとか、そう、ユカとかね。",
-  "en": ""
+  "en": "If I'm going to be thanked, I'd rather it be\nby a cute babe. Like Hikaru, or yes, Yuka."
  },
  {
   "id": "YA_POPO:0017",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "今度、あの子を紹介してくれる？",
-  "en": ""
+  "en": "Next time, would you introduce me to her?"
  },
  {
   "id": "YA_POPO:0018",
   "kind": "msg",
   "speaker": "翔",
   "jp": "あ、ああ、いいけど……\nでも、あいつ、性格キツいぞ。",
-  "en": ""
+  "en": "Uh, yeah, sure, but...\nshe's got a nasty temper, you know."
  },
  {
   "id": "YA_POPO:0019",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "キミは何もわかってないよ。\nそれがベイベーの魅力なのさ！",
-  "en": ""
+  "en": "You don't understand a thing.\nThat's exactly what makes a babe so charming!"
  },
  {
   "id": "YA_POPO:0020",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そーゆーもんか？",
-  "en": ""
+  "en": "Is that how it works?"
  },
  {
   "id": "YA_POPO:0021",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "ああん、マイハニー、ユカ！\nキミの笑顔をもっと近くで見せておくれ！",
-  "en": ""
+  "en": "Ahh, my honey, Yuka!\nLet me see that smile of yours up close!"
  },
  {
   "id": "YA_POPO:0022",
   "kind": "msg",
   "speaker": "翔",
   "jp": "やれやれ…。",
-  "en": ""
+  "en": "Good grief..."
  },
  {
   "id": "YA_POPO:0023",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "調子はどうだい？\nいろいろと迷惑かけて、ほんとうにすまない。",
-  "en": ""
+  "en": "How are you holding up?\nI'm really sorry for all the trouble I caused."
  },
  {
   "id": "YA_POPO:0024",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "手伝えることがあったら、何でも言ってくれよ。",
-  "en": ""
+  "en": "If there's anything I can help with,\njust say the word."
  },
  {
   "id": "YA_POPO:0025",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "ベイベーたちのためにがんばらせてもらうからさ！",
-  "en": ""
+  "en": "I'll give it my all for the sake of my babes!"
  },
  {
   "id": "YA_POPO:0026",
   "kind": "msg",
   "speaker": "翔",
   "jp": "あの……ナムリアさん。\nあの……",
-  "en": ""
+  "en": "Um... Namuria-san.\nUm..."
  },
  {
   "id": "YA_POPO:0027",
   "kind": "msg",
   "speaker": "ナムリア",
   "jp": "…………………",
-  "en": ""
+  "en": "........."
  },
  {
   "id": "YA_POPO:0028",
   "kind": "msg",
   "speaker": "翔",
   "jp": "…………？",
-  "en": ""
+  "en": "......?"
  },
  {
   "id": "YA_POPO:0029",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "ごめん、翔。\n姉さんは疲れているんだ。",
-  "en": ""
+  "en": "Sorry, Shou.\nMy sister's tired."
  },
  {
   "id": "YA_POPO:0030",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "悪いけど、今は静かにしてもらえないかな？",
-  "en": ""
+  "en": "Sorry, but could you let her rest for now?"
  },
  {
   "id": "YA_POPO:0031",
   "kind": "msg",
   "speaker": "ナムリア",
   "jp": "翔……さん。\nいろいろご迷惑をおかけして申しわけありません。",
-  "en": ""
+  "en": "Shou...-san.\nPlease forgive all the trouble we've caused."
  },
  {
   "id": "YA_POPO:0032",
   "kind": "msg",
   "speaker": "ナムリア",
   "jp": "ピエン様からカレンのことを聞きました……",
-  "en": ""
+  "en": "I heard about Karen from Pien-sama..."
  },
  {
   "id": "YA_POPO:0033",
   "kind": "msg",
   "speaker": "ナムリア",
   "jp": "今の私たちに彼女を止める力はありません。",
-  "en": ""
+  "en": "We no longer have the strength to stop her."
  },
  {
   "id": "YA_POPO:0034",
   "kind": "msg",
   "speaker": "ナムリア",
   "jp": "ユーロリア王家の者としてお願いします。",
-  "en": ""
+  "en": "As one of Eurolia's royal family,\nI have a request."
  },
  {
   "id": "YA_POPO:0035",
   "kind": "msg",
   "speaker": "ナムリア",
   "jp": "家臣の暴挙を止めてください。\nどうか、お願いします……！",
-  "en": ""
+  "en": "Please stop our retainer's madness.\nPlease, I'm begging you...!"
  },
  {
   "id": "YA_POPO:0036",
   "kind": "msg",
   "speaker": "ポーポー",
   "jp": "もう行くの？　また、おいでよ。\nそれじゃあね。",
-  "en": ""
+  "en": "Leaving already? Come again soon.\nBye-bye."
  },
  {
   "id": "YA_POPO:0037",
   "kind": "msg",
   "speaker": "翔",
   "jp": "あれ！？\n誰もいないな、どこにいったんだろう……",
-  "en": ""
+  "en": "Huh?!\nNobody's here. Where'd everyone go...?"
  }
 ]

@@ -4,48 +4,48 @@
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "なにこれ？\nすっごく大きいなあ。",
-  "en": ""
+  "en": "What's this?\nIt's huge!"
  },
  {
   "id": "IVENT24:0001",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "これは、<1>コンテナ<8>なのかしら？\nルー、これが何か知ってる？",
-  "en": ""
+  "en": "Is this a <1>container<8>, I wonder?\nLou, do you know what it is?"
  },
  {
   "id": "IVENT24:0002",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "わかんないわ。\nでも、もしかしたら火竜族のものかもね。",
-  "en": ""
+  "en": "No idea.\nBut maybe it belongs to the Fire Dragon Clan."
  },
  {
   "id": "IVENT24:0003",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "どうして？",
-  "en": ""
+  "en": "Why do you say that?"
  },
  {
   "id": "IVENT24:0004",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "月光族のものじゃないからよ。\nイオピロスでこんなもの、見たことないしね。",
-  "en": ""
+  "en": "'Cause it's not Moonlight Clan.\nI've never seen anything like it in Iopiros."
  },
  {
   "id": "IVENT24:0005",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "この中にアーティアが入っているかもしれないわね。",
-  "en": ""
+  "en": "There might be Artia inside these."
  },
  {
   "id": "IVENT24:0006",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "見つけたら、開けていきましょう。",
-  "en": ""
+  "en": "If we find any, let's open them up."
  }
 ]

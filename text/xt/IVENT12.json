@@ -4,83 +4,83 @@
   "kind": "msg",
   "speaker": "シャイ",
   "jp": "……相手の動きを読むの。\n予測して、そこに当てる。\nそれが基本で、すべてよ。",
-  "en": ""
+  "en": "...Read your opponent's movements.\nPredict them, and hit where they'll be.\nThat's the basics, and that's everything."
  },
  {
   "id": "IVENT12:0001",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……練習中か。\n声をかけるのも、悪いな。",
-  "en": ""
+  "en": "...She's practicing.\nWouldn't be right to interrupt."
  },
  {
   "id": "IVENT12:0002",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ねえ、シャイ……",
-  "en": ""
+  "en": "Say, Shai..."
  },
  {
   "id": "IVENT12:0003",
   "kind": "msg",
   "speaker": "シャイ",
   "jp": "なに？",
-  "en": ""
+  "en": "What?"
  },
  {
   "id": "IVENT12:0004",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "あなたとルーなんだけど、何があったの？",
-  "en": ""
+  "en": "About you and Lou... what happened?"
  },
  {
   "id": "IVENT12:0005",
   "kind": "msg",
   "speaker": "シャイ",
   "jp": "何でそんなことを聞くの？",
-  "en": ""
+  "en": "Why do you ask?"
  },
  {
   "id": "IVENT12:0006",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "気になるのよ。\nルーは私たちの仲間だし。",
-  "en": ""
+  "en": "I'm curious.\nLou is one of our companions."
  },
  {
   "id": "IVENT12:0007",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "あなたとルーは、友達じゃないの？",
-  "en": ""
+  "en": "Aren't you and Lou friends?"
  },
  {
   "id": "IVENT12:0008",
   "kind": "msg",
   "speaker": "シャイ",
   "jp": "仲間に、友達か……昔のことよ。\n話す気はないわ。",
-  "en": ""
+  "en": "Companions and friends, huh...\nThat's all in the past.\nI'm not going to talk about it."
  },
  {
   "id": "IVENT12:0009",
   "kind": "msg",
   "speaker": "シャイ",
   "jp": "それより練習よ。\nそんなことで\n時間をつぶしているヒマはないんだから。",
-  "en": ""
+  "en": "Never mind that, let's practice.\nWe don't have time to waste\non things like that."
  },
  {
   "id": "IVENT12:0010",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "<10>……ええ、わかったわ。",
-  "en": ""
+  "en": "<10>...Yes, all right."
  },
  {
   "id": "IVENT12:0011",
   "kind": "msg",
   "speaker": "翔",
   "jp": "<10>……やっぱり、話しかけなくて\n正解だったかもしれないな。",
-  "en": ""
+  "en": "<10>...Guess it was the right call\nnot to talk to them after all."
  }
 ]

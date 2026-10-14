@@ -4,251 +4,251 @@
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "来たか……",
-  "en": ""
+  "en": "So you've come..."
  },
  {
   "id": "IVENT62:0001",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ピエン！\nやっかいなことになったぜ。",
-  "en": ""
+  "en": "Pien!\nWe've got ourselves a real mess."
  },
  {
   "id": "IVENT62:0002",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "わかっておる。\n何十年もあの樹を見てきたんじゃ。",
-  "en": ""
+  "en": "I know.\nI've watched over that Tree for decades."
  },
  {
   "id": "IVENT62:0003",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "なにが起こったか、こちらでもわかる。",
-  "en": ""
+  "en": "I can tell what's happened, even from here."
  },
  {
   "id": "IVENT62:0004",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ここのエレの樹は、もうヤバイ。",
-  "en": ""
+  "en": "The Ele Tree here is in serious trouble."
  },
  {
   "id": "IVENT62:0005",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "しかも、\nセンセイやユカたちが怪我して、\n気絶したまんまだ。",
-  "en": ""
+  "en": "On top of that,\nSensei, Yuka and the rest got hurt\nand they're still out cold."
  },
  {
   "id": "IVENT62:0006",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "なんとかしねえと、\n爆発に巻き込まれてみんなあの世行きだ！",
-  "en": ""
+  "en": "If we don't do something, the blast's gonna\nsend every one of 'em to the next world!"
  },
  {
   "id": "IVENT62:0007",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "ああ、わかっておる。\n案内するから、みんなを連れて来い……",
-  "en": ""
+  "en": "Aye, I know.\nI'll lead the way, so bring everyone along..."
  },
  {
   "id": "IVENT62:0008",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ここは……？",
-  "en": ""
+  "en": "Where are we...?"
  },
  {
   "id": "IVENT62:0009",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "<1>転送機<8>……過去の遺産さ。\nなるほど、これで\n逃げようってわけだな？",
-  "en": ""
+  "en": "A <1>Transporter<8>... a relic of the past.\nI get it, so we're gonna\nescape with this, huh?"
  },
  {
   "id": "IVENT62:0010",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "そのとおりじゃ。\nこれで、お主らをイオピロスまで転送する。",
-  "en": ""
+  "en": "Just so.\nWith this, I'll send you all to Iopiros."
  },
  {
   "id": "IVENT62:0011",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "イオピロス？\nなんでまた、あそこなんだよ？",
-  "en": ""
+  "en": "Iopiros?\nWhy there, of all places?"
  },
  {
   "id": "IVENT62:0012",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "火竜族にあいつがいたということは、\n月光族のほうにも、なにかあるはず……",
-  "en": ""
+  "en": "If that one was among the Fire Dragon Clan,\nthen something must be going on with the\nMoonlight Clan too..."
  },
  {
   "id": "IVENT62:0013",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "そう思うのが、自然じゃろう？",
-  "en": ""
+  "en": "It's only natural to think so, no?"
  },
  {
   "id": "IVENT62:0014",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "待てよ！\nここにいる全員を転送することは無理なはずだ。",
-  "en": ""
+  "en": "Hold on!\nThere's no way it can send everyone here."
  },
  {
   "id": "IVENT62:0015",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "おまえらはどうするんだ？",
-  "en": ""
+  "en": "What about you guys?"
  },
  {
   "id": "IVENT62:0016",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "だいじょうぶじゃ。\nこんなこともあろうかと、備えはしてある。",
-  "en": ""
+  "en": "Don't worry.\nI've made preparations for just such a day."
  },
  {
   "id": "IVENT62:0017",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "避難場所の一つや二つは、確保しとるわい。",
-  "en": ""
+  "en": "I've got a shelter or two set aside."
  },
  {
   "id": "IVENT62:0018",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "ところで……すまんが、\nハーミーも連れて行ってくれんか？",
-  "en": ""
+  "en": "By the way... I'm sorry to ask,\nbut would you take Hermie with you?"
  },
  {
   "id": "IVENT62:0019",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "これから先、きっと\nこの子の力が必要になるじゃろう。",
-  "en": ""
+  "en": "From here on, I'm sure\nyou'll be needing that child's power."
  },
  {
   "id": "IVENT62:0020",
   "kind": "msg",
   "speaker": "翔",
   "jp": "わかった。",
-  "en": ""
+  "en": "All right."
  },
  {
   "id": "IVENT62:0021",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "よし。\nそれでは、そろそろ行ったほうがいいじゃろう。",
-  "en": ""
+  "en": "Good.\nNow then, you'd best be on your way."
  },
  {
   "id": "IVENT62:0022",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ああ、頼むぜ。",
-  "en": ""
+  "en": "Yeah, we're counting on you."
  },
  {
   "id": "IVENT62:0023",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "よし……いくぞっ！",
-  "en": ""
+  "en": "Right... here goes!"
  },
  {
   "id": "IVENT62:0024",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "行ったか……",
-  "en": ""
+  "en": "They're gone..."
  },
  {
   "id": "IVENT62:0025",
   "kind": "msg",
   "speaker": "ナムリア",
   "jp": "ええ……",
-  "en": ""
+  "en": "Yes..."
  },
  {
   "id": "IVENT62:0026",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "彼らには悪いことをしたな。\nイムル、ナムリア、すまん……",
-  "en": ""
+  "en": "I've done them wrong.\nImul, Namuria, forgive me..."
  },
  {
   "id": "IVENT62:0027",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "しかたないですよ。\n本当のことを言う時間なんて、なかったんですから。",
-  "en": ""
+  "en": "It couldn't be helped.\nThere was no time to tell them the truth."
  },
  {
   "id": "IVENT62:0028",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "僕は、ひかるが助かっただけでも十分さ。",
-  "en": ""
+  "en": "For me, it's enough that Hikaru was saved."
  },
  {
   "id": "IVENT62:0029",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "すまぬ……\nポーポー、おまえにも悪いことをしたな。",
-  "en": ""
+  "en": "Forgive me...\nPopo, I've wronged you as well."
  },
  {
   "id": "IVENT62:0030",
   "kind": "msg",
   "speaker": "ポーポー",
   "jp": "ううん、いいよ。",
-  "en": ""
+  "en": "Nah, it's okay."
  },
  {
   "id": "IVENT62:0031",
   "kind": "msg",
   "speaker": "ポーポー",
   "jp": "あの人たちは助からないといけないんだ。\nそんな気がする……",
-  "en": ""
+  "en": "Those people have to be saved.\nI just have that feeling..."
  },
  {
   "id": "IVENT62:0032",
   "kind": "msg",
   "speaker": "ナムリア",
   "jp": "……私も、そう思います。",
-  "en": ""
+  "en": "...I feel the same way."
  },
  {
   "id": "IVENT62:0033",
   "kind": "msg",
   "speaker": "ナムリア",
   "jp": "あの方たちは、この世界にとって必要な人……\nそんな気がします。",
-  "en": ""
+  "en": "They're people this world needs...\nThat's the feeling I have."
  },
  {
   "id": "IVENT62:0034",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "そうじゃな……\nあとは、彼らに任せよう。",
-  "en": ""
+  "en": "Indeed...\nThe rest we'll leave to them."
  },
  {
   "id": "IVENT62:0035",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "頼んだぞ、アルバイジャン……",
-  "en": ""
+  "en": "I'm counting on you, Albaijan..."
  }
 ]

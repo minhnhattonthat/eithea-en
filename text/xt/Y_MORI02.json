@@ -4,7 +4,7 @@
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "お兄ちゃん<8>、次を右に行くの。",
-  "en": ""
+  "en": "Big brother<8>, go right at the next one~."
  },
  {
   "id": "Y_MORI02:0001",
@@ -18,13 +18,13 @@
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "<1>金色の冠<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>Golden Crown<8>!"
  },
  {
   "id": "Y_MORI02:0003",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "<1>特効薬<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>Wonder Drug<8>!"
  }
 ]

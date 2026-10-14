@@ -4,244 +4,244 @@
   "kind": "msg",
   "speaker": "イムル",
   "jp": "姉さん！　無事だったのか！",
-  "en": ""
+  "en": "Sis! You're safe!"
  },
  {
   "id": "IVENT42:0001",
   "kind": "msg",
   "speaker": "ナムリア",
   "jp": "私はだいじょうぶよ。\nでも、叔父上が……",
-  "en": ""
+  "en": "I'm all right.\nBut Uncle is..."
  },
  {
   "id": "IVENT42:0002",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ヴァムール<8>！？\n誰にやられた！？",
-  "en": ""
+  "en": "Vamur<8>?!\nWho did this to you?!"
  },
  {
   "id": "IVENT42:0003",
   "kind": "msg",
   "speaker": "ヴァムール",
   "jp": "ふっ……他のドラゴンたちにやられたのさ。",
-  "en": ""
+  "en": "Heh... The other dragons did."
  },
  {
   "id": "IVENT42:0004",
   "kind": "msg",
   "speaker": "ヴァムール",
   "jp": "すべての火竜族が誇り高いというわけでは\nなかったということだ。",
-  "en": ""
+  "en": "It turns out not every member of the\nFire Dragon Clan has their pride."
  },
  {
   "id": "IVENT42:0005",
   "kind": "msg",
   "speaker": "ヴァムール",
   "jp": "アゼル<8>とかいったか？",
-  "en": ""
+  "en": "Azel<8>, was it?"
  },
  {
   "id": "IVENT42:0006",
   "kind": "msg",
   "speaker": "ヴァムール",
   "jp": "あの小娘にたきつけられて、\nほとんどのドラゴンたちは行ってしまった。",
-  "en": ""
+  "en": "That little wench egged them on,\nand most of the dragons went off with her."
  },
  {
   "id": "IVENT42:0007",
   "kind": "msg",
   "speaker": "ヴァムール",
   "jp": "残った奴らは皆、このとおりさ……",
-  "en": ""
+  "en": "And the ones who stayed\nall ended up like this..."
  },
  {
   "id": "IVENT42:0008",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "そんな……ひどいです！\nなんで、どうしてこんなことに……",
-  "en": ""
+  "en": "No... That's horrible!\nWhy... How could this happen..."
  },
  {
   "id": "IVENT42:0009",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "わたしが、アルバイジャン<8>を\n助けに行けなんて言い出さなければ……",
-  "en": ""
+  "en": "If only I hadn't said we should go\nhelp Albaijan<8>..."
  },
  {
   "id": "IVENT42:0010",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "そんな……そんなことないよ！\nそれなら私だって……",
-  "en": ""
+  "en": "No... that's not true!\nIf that's the case, then I'm to blame too..."
  },
  {
   "id": "IVENT42:0011",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……誰のせいでもない。",
-  "en": ""
+  "en": "...It's nobody's fault."
  },
  {
   "id": "IVENT42:0012",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "え……？",
-  "en": ""
+  "en": "Huh...?"
  },
  {
   "id": "IVENT42:0013",
   "kind": "msg",
   "speaker": "翔",
   "jp": "あるとしたら、\nそれは俺たちみんなの責任さ。",
-  "en": ""
+  "en": "If it's anyone's,\nit's on all of us."
  },
  {
   "id": "IVENT42:0014",
   "kind": "msg",
   "speaker": "翔",
   "jp": "この世界に干渉してしまった\n俺たちみんなの責任なんだ！",
-  "en": ""
+  "en": "It's on all of us,\nfor meddling in this world!"
  },
  {
   "id": "IVENT42:0015",
   "kind": "msg",
   "speaker": "翔",
   "jp": "自分だけで抱え込まないでくれ。\n俺たちは、仲間だろ？",
-  "en": ""
+  "en": "Don't carry it all by yourself.\nWe're friends, aren't we?"
  },
  {
   "id": "IVENT42:0016",
   "kind": "msg",
   "speaker": "翔",
   "jp": "なにか苦しいことがあったら、\nみんなで分けあえばいい。\nそうじゃないか？",
-  "en": ""
+  "en": "If something's weighing on you,\nwe can all share the load.\nRight?"
  },
  {
   "id": "IVENT42:0017",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "なか、ま……？",
-  "en": ""
+  "en": "Fri...ends...?"
  },
  {
   "id": "IVENT42:0018",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そうさ。\n俺たちは仲間だ。ちがうか？",
-  "en": ""
+  "en": "That's right.\nWe're friends. Aren't we?"
  },
  {
   "id": "IVENT42:0019",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そう……仲間、か……\nそうだよね……ありがとう、翔……",
-  "en": ""
+  "en": "Yeah... friends, huh...\nYou're right... Thanks, Shou..."
  },
  {
   "id": "IVENT42:0020",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……さてと。\nこれからどうする？",
-  "en": ""
+  "en": "...Well then.\nWhat now?"
  },
  {
   "id": "IVENT42:0021",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ナムリア<8>と会うことはできたが、\nこのぶんだと、アゼル<8>の勝ちは確実だな。",
-  "en": ""
+  "en": "We got to see Namuria<8>, but at this\nrate, Azel<8>'s victory is a sure thing."
  },
  {
   "id": "IVENT42:0022",
   "kind": "msg",
   "speaker": "ヴァムール",
   "jp": "うむ。流れは向こうにある。\nここは退いたほうが正解だろう。",
-  "en": ""
+  "en": "Indeed. The tide is with them.\nRetreat is the wise choice here."
  },
  {
   "id": "IVENT42:0023",
   "kind": "msg",
   "speaker": "ヴァムール",
   "jp": "アルバイジャン<8>……\nナムリア<8>たちを連れて逃げてくれぬか？",
-  "en": ""
+  "en": "Albaijan<8>...\nWould you take Namuria<8> and the\nothers and flee?"
  },
  {
   "id": "IVENT42:0024",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "なんだって？\n逃げるったって、\nどこに逃げりゃいいんだよ？",
-  "en": ""
+  "en": "What?\nFlee? Flee where,\nexactly?"
  },
  {
   "id": "IVENT42:0025",
   "kind": "msg",
   "speaker": "ヴァムール",
   "jp": "<1>ヤムヤムの森<8>がいいだろう。\nあそこなら、安全だ。",
-  "en": ""
+  "en": "<1>Yamyam Forest<8> would be best.\nYou'll be safe there."
  },
  {
   "id": "IVENT42:0026",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ヤムヤムの森ィ！？\nおいおい、遠すぎるぜ！",
-  "en": ""
+  "en": "Yamyam Forest?!\nWhoa, whoa, that's way too far!"
  },
  {
   "id": "IVENT42:0027",
   "kind": "msg",
   "speaker": "ヴァムール",
   "jp": "私が、おまえたちをのせて飛べばいい。\nそれならすぐだ……",
-  "en": ""
+  "en": "I can fly there with you all on my back.\nThen it won't take long..."
  },
  {
   "id": "IVENT42:0028",
   "kind": "msg",
   "speaker": "ナムリア",
   "jp": "叔父上！？\n無茶です！\nそんな身体で飛ぶなんて！！",
-  "en": ""
+  "en": "Uncle?!\nThat's reckless!\nFlying in your condition?!"
  },
  {
   "id": "IVENT42:0029",
   "kind": "msg",
   "speaker": "ヴァムール",
   "jp": "なあに、心配はいらんよ。\n多少の手傷は負ったが、\nたいしたものではない。",
-  "en": ""
+  "en": "Now, now, no need to worry.\nI've taken a few wounds,\nbut nothing serious."
  },
  {
   "id": "IVENT42:0030",
   "kind": "msg",
   "speaker": "ヴァムール",
   "jp": "急げ。時間が迫っておる……",
-  "en": ""
+  "en": "Hurry. Time is short..."
  },
  {
   "id": "IVENT42:0031",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……わかった。\nおまえら！　とっとと行くぞ！！",
-  "en": ""
+  "en": "...Fine.\nYou lot! Let's get moving!!"
  },
  {
   "id": "IVENT42:0032",
   "kind": "msg",
   "speaker": "ヴァムール",
   "jp": "全員のったな？",
-  "en": ""
+  "en": "Is everyone aboard?"
  },
  {
   "id": "IVENT42:0033",
   "kind": "msg",
   "speaker": "ヴァムール",
   "jp": "落ちたくなければ、\nしっかりつかまっておくのだぞ。",
-  "en": ""
+  "en": "If you don't want to fall,\nhold on tight."
  },
  {
   "id": "IVENT42:0034",
   "kind": "msg",
   "speaker": "ヴァムール",
   "jp": "では、行くぞ！！",
-  "en": ""
+  "en": "Then, here we go!!"
  }
 ]

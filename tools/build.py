@@ -47,8 +47,17 @@ def build(n, out, qa_novoice=False, overrides=(), english=False, marker=False):
         import font
         fb = out / "font"
         font.build(fb)
-        shutil.copy(fb / "EITHEA.EXE", tree / "EITHEA.EXE")
-        overrides = [f"KANJI.IN={fb / 'KANJI.IN'}", f"KANJI.BL={fb / 'KANJI.BL'}", *overrides]
+        import exetext
+        import gfx
+        files, patch = gfx.all_files()                      # English images + EXE words they need
+        exe = gfx.exe_patch(exetext.apply((fb / "EITHEA.EXE").read_bytes()), patch)
+        (tree / "EITHEA.EXE").write_bytes(exe)
+        gd = out / "gfx"
+        gd.mkdir(exist_ok=True)
+        for k, b in files.items():
+            (gd / k).write_bytes(b)
+        overrides = [f"KANJI.IN={fb / 'KANJI.IN'}", f"KANJI.BL={fb / 'KANJI.BL'}",
+                     *(f"{k}={gd / k}" for k in files), *overrides]
     cd = w / "tree" / "CD_DATA"
     scripts = None
     if english:  # translated XT scripts (text/xt/*.json); mode "marker" shows ids instead

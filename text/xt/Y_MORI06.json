@@ -4,7 +4,7 @@
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "お兄ちゃん<8>、次を左に行くの。",
-  "en": ""
+  "en": "Big brother<8>, go left at the next one~."
  },
  {
   "id": "Y_MORI06:0001",
@@ -18,7 +18,7 @@
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "<1>速さの秘薬<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>Speed Elixir<8>!"
  },
  {
   "id": "Y_MORI06:0003",
@@ -39,56 +39,56 @@
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "あなたとハーミー、\n並んで歩いていると、本物の兄妹のようね。",
-  "en": ""
+  "en": "Watching you and Hermie walk side by side,\nyou look just like real siblings."
  },
  {
   "id": "Y_MORI06:0006",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "私とあなたが並んで歩いていたら、\nどう見えるのかしら？",
-  "en": ""
+  "en": "If you and I were walking side by side,\nwhat would we look like, I wonder?"
  },
  {
   "id": "Y_MORI06:0007",
   "kind": "choice",
   "speaker": "",
   "jp": "　恋人どうし\n　親子でしょう",
-  "en": ""
+  "en": "A couple\nMother and son"
  },
  {
   "id": "Y_MORI06:0008",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "からかわないで。\n……でも、本当にそう見える？",
-  "en": ""
+  "en": "Don't tease me.\n...But do we really look like that?"
  },
  {
   "id": "Y_MORI06:0009",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "親子ですって……！？",
-  "en": ""
+  "en": "Mother and son...?!"
  },
  {
   "id": "Y_MORI06:0010",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "新見くん、あのね、私はまだ２５なの。\nわかる？　２５よ！",
-  "en": ""
+  "en": "Niimi-kun, listen. I'm only 25.\nGot that? 25!"
  },
  {
   "id": "Y_MORI06:0011",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "私には、あなたみたいな子供はいません！\n……ったくもぉ、失礼しちゃうわ！",
-  "en": ""
+  "en": "I don't have a child your age!\n...Honestly, how rude!"
  },
  {
   "id": "Y_MORI06:0012",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "お兄ちゃ～ん、聞いてなのお。",
-  "en": ""
+  "en": "Big brotherrr~, listen~."
  },
  {
   "id": "Y_MORI06:0013",
@@ -102,84 +102,84 @@
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "あのね、おじいちゃんなの。\n最近、おじいちゃん、ずっと考えこんでるの。",
-  "en": ""
+  "en": "Um, it's about Grandpa~.\nLately, Grandpa's been thinking hard all the\ntime~."
  },
  {
   "id": "Y_MORI06:0015",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "心配なの……どうしていいか、わからないの……",
-  "en": ""
+  "en": "Hermie's worried~... Hermie doesn't know what\nto do~..."
  },
  {
   "id": "Y_MORI06:0016",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "お兄ちゃん、どうすればいいの……？",
-  "en": ""
+  "en": "Big brother, what should Hermie do~...?"
  },
  {
   "id": "Y_MORI06:0017",
   "kind": "choice",
   "speaker": "",
   "jp": "　ピエンを信用しろ\n　子供が口出しするな",
-  "en": ""
+  "en": "Trust Pien\nKids shouldn't butt in"
  },
  {
   "id": "Y_MORI06:0018",
   "kind": "msg",
   "speaker": "翔",
   "jp": "落ちつけ。\nおじいちゃんを信用しろよ。",
-  "en": ""
+  "en": "Calm down.\nTrust your grandpa."
  },
  {
   "id": "Y_MORI06:0019",
   "kind": "msg",
   "speaker": "翔",
   "jp": "言わなきゃならないことがあったら、\nハーミーにも言ってくれるはずさ。",
-  "en": ""
+  "en": "If there's something he needs to tell you,\nI'm sure he'll tell you, Hermie."
  },
  {
   "id": "Y_MORI06:0020",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "わかったなの……ツラいけど、がまんするの……",
-  "en": ""
+  "en": "Okay~... It's hard, but Hermie'll be\npatient~..."
  },
  {
   "id": "Y_MORI06:0021",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ハーミー……おじいちゃんを信じるの……",
-  "en": ""
+  "en": "Hermie... will believe in Grandpa~..."
  },
  {
   "id": "Y_MORI06:0022",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "やなのお！\nハーミー、おじいちゃんが心配なの！",
-  "en": ""
+  "en": "No~!\nHermie's worried about Grandpa~!"
  },
  {
   "id": "Y_MORI06:0023",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "おじいちゃんがいなくなったらハーミー、一人に……\n一人になるの……！",
-  "en": ""
+  "en": "If Grandpa goes away, Hermie'll be\nall alone...\nAll alone~...!"
  },
  {
   "id": "Y_MORI06:0024",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "だから、それはいやなのお……",
-  "en": ""
+  "en": "That's why Hermie doesn't want that~..."
  },
  {
   "id": "Y_MORI06:0025",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "お兄ちゃん、あのねなのお。",
-  "en": ""
+  "en": "Big brother, y'know what~?"
  },
  {
   "id": "Y_MORI06:0026",
@@ -193,63 +193,63 @@
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ねえねえ、お兄ちゃんって大人？",
-  "en": ""
+  "en": "Hey, hey, big brother, are you a grown-up~?"
  },
  {
   "id": "Y_MORI06:0028",
   "kind": "choice",
   "speaker": "",
   "jp": "　大人だよ\n　まだ子供かな",
-  "en": ""
+  "en": "I'm a grown-up\nStill a kid, I guess"
  },
  {
   "id": "Y_MORI06:0029",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "じゃあ、すなおじゃないの？\n秋穂みたいに……ウミュミュ！",
-  "en": ""
+  "en": "Then you're not honest~?\nLike Akiho... Mmmph!"
  },
  {
   "id": "Y_MORI06:0030",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "なんでもないのよ！\n新見くん、何でもないの。",
-  "en": ""
+  "en": "It's nothing!\nNiimi-kun, it's really nothing."
  },
  {
   "id": "Y_MORI06:0031",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ハーミーったら、\nわけのわからないこと言い出すから、もう……\nおほほほほ、いやだ。",
-  "en": ""
+  "en": "Honestly, Hermie,\nsaying such nonsense out of nowhere...\nOh ho ho ho, goodness."
  },
  {
   "id": "Y_MORI06:0032",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "じゃあ、まだすなおなの。\nハーミーといっしょなの。",
-  "en": ""
+  "en": "Then you're still honest~\nJust like Hermie~"
  },
  {
   "id": "Y_MORI06:0033",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "だから、言えるの……\nお兄ちゃん、だあい好きなの！",
-  "en": ""
+  "en": "That's why I can say it...\nBig brother, I lo~ve you~!"
  },
  {
   "id": "Y_MORI06:0034",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "お兄ちゃんもハーミーのこと、\nずっと好きでいてなの。",
-  "en": ""
+  "en": "Big brother, you have to keep liking\nHermie forever too, okay~?"
  },
  {
   "id": "Y_MORI06:0035",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "新見くん、ちょっと……",
-  "en": ""
+  "en": "Niimi-kun, a moment..."
  },
  {
   "id": "Y_MORI06:0036",
@@ -263,41 +263,41 @@
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "アゼルがここに向かっているようね……",
-  "en": ""
+  "en": "It seems Azel is heading this way..."
  },
  {
   "id": "Y_MORI06:0038",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ええ、ピエンさんから聞きました。",
-  "en": ""
+  "en": "Yes, I heard from Pien-san."
  },
  {
   "id": "Y_MORI06:0039",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ここもユーロリアみたいになるんでしょうか……？",
-  "en": ""
+  "en": "Is this place going to end up like Eurolia...?"
  },
  {
   "id": "Y_MORI06:0040",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "それよりも、もっと別の何かが起きる気がするわ。",
-  "en": ""
+  "en": "More than that, I sense something else\nentirely is going to happen."
  },
  {
   "id": "Y_MORI06:0041",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "それが何であるかはわからないけど、\n悪いことであるのは確かよ。",
-  "en": ""
+  "en": "I don't know what it is,\nbut I'm sure it's something bad."
  },
  {
   "id": "Y_MORI06:0042",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "新見くん、気をひきしめて\nがんばりましょう……！",
-  "en": ""
+  "en": "Niimi-kun, let's stay on our toes\nand do our best...!"
  }
 ]

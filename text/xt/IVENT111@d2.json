@@ -4,154 +4,154 @@
   "kind": "mono",
   "speaker": "",
   "jp": "こうして俺たちは異世界アイシアでの冒険を終えて\n元の世界へ戻ってきた。\nドラゴンもいなけりゃ、妙ちくりんな王子さまも\nいない世界へとだ。",
-  "en": ""
+  "en": "And so, our adventure in the other world of\nEithéa ended, and we came back to our own world.\nA world without dragons, and without any\noddball princes, either."
  },
  {
   "id": "IVENT111@d2:0001",
   "kind": "mono",
   "speaker": "",
   "jp": "今ではあの世界の出来事がすべて夢じゃなかったのか\nと思うこともある。\nだけど皆、あそこで起きた事は覚えてるし、ヒトシや\n学は居心地がいいと見えてまだ帰ってきやしない。",
-  "en": ""
+  "en": "Sometimes I even wonder if everything that\nhappened in that world was just a dream.\nBut we all remember what happened there, and\nHitoshi and Manabu seem to like it so much they\nstill haven't come back."
  },
  {
   "id": "IVENT111@d2:0002",
   "kind": "mono",
   "speaker": "",
   "jp": "こっちの世界へ帰ってきてから判ったんだが、俺たち\nが姿を消していたのは、ものの数時間だったようだ。\nあの地震の直後、学校全体が一瞬にしてボロボロに\nなってしまい、大パニックになったらしい。",
-  "en": ""
+  "en": "After we got back, I found out we'd only been\nmissing for a few hours.\nRight after the earthquake, the whole school was\nsuddenly reduced to ruins, and there was total\npanic, apparently."
  },
  {
   "id": "IVENT111@d2:0003",
   "kind": "mono",
   "speaker": "",
   "jp": "どうやら俺たちはその騒ぎで\n行方不明扱いされていたらしいな。\n俺たちを呼んだ……、『エレの樹の聖女』だと思うけ\nど、学校だけを先に送り返したんじゃないだろうか。",
-  "en": ""
+  "en": "It seems we'd been listed as missing in all\nthe commotion.\nWhoever summoned us... I'd guess the\n\"Saint of the Ele Tree\"... must have sent just\nthe school back ahead of us."
  },
  {
   "id": "IVENT111@d2:0004",
   "kind": "mono",
   "speaker": "",
   "jp": "俺たちがアイシアでやった事が正しかったのか\nどうか、正直、今でもよくわからない。\nただ俺は自分が正しいと思った事だけをやってきた\nつもりだし、所詮、俺に出来るのはその程度の事だ。\nアイシアの事は懐かしく思う事もあるけど、\nもう二度とあそこへ戻る事はないだろう。",
-  "en": ""
+  "en": "Honestly, I still don't really know if what we\ndid in Eithéa was right or not.\nBut I only ever did what I believed was right,\nand in the end, that's about all I can do.\nSometimes I get nostalgic about Eithéa, but\nI don't think I'll ever go back there again."
  },
  {
   "id": "IVENT111@d2:0005",
   "kind": "mono",
   "speaker": "",
   "jp": "アイシアの未来はアイシアに生きるみんなで\n切り開いていくべきなんだ。\n　\n俺たちの世界の未来がそうであるように……。",
-  "en": ""
+  "en": "The future of Eithéa is for the people who live\nthere to carve out together.\n \nJust like the future of our own world..."
  },
  {
   "id": "IVENT111@d2:0006",
   "kind": "mono",
   "speaker": "",
   "jp": "そうだよな、ルー……",
-  "en": ""
+  "en": "Right, Lou...?"
  },
  {
   "id": "IVENT111@d2:0007",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "やっぱり、フラれちゃったか…。",
-  "en": ""
+  "en": "Guess I got turned down after all..."
  },
  {
   "id": "IVENT111@d2:0008",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……ごめん。",
-  "en": ""
+  "en": "...Sorry."
  },
  {
   "id": "IVENT111@d2:0009",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ううん、なんとなくわかってたんだ。\n今の翔の中に、私はいないって…",
-  "en": ""
+  "en": "No, I kinda knew already.\nThat I'm not in your heart right now..."
  },
  {
   "id": "IVENT111@d2:0010",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "私は、だいじょうぶだよ。\nそれよりも、今みたいに落ち込んでる翔を見たら\nルーだってさびしがるよ。",
-  "en": ""
+  "en": "I'll be fine.\nBesides, if Lou saw you moping like this,\nshe'd be sad too."
  },
  {
   "id": "IVENT111@d2:0011",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "じゃあね、翔。\n今日はつきあってくれてありがとう。",
-  "en": ""
+  "en": "See you, Shou.\nThanks for hanging out with me today."
  },
  {
   "id": "IVENT111@d2:0012",
   "kind": "msg",
   "speaker": "ケーキ売りの女の子",
   "jp": "クリスマスケーキはいかがですか？\n大切な人と過ごすイブに\nおいしいケーキはいかがですか……",
-  "en": ""
+  "en": "Would you like a Christmas cake?\nA delicious cake for Christmas Eve\nwith someone special...?"
  },
  {
   "id": "IVENT111@d2:0013",
   "kind": "msg",
   "speaker": "翔",
   "jp": "クリスマス・イブか……みんな幸せそうだな……",
-  "en": ""
+  "en": "Christmas Eve, huh...\nEveryone looks so happy..."
  },
  {
   "id": "IVENT111@d2:0014",
   "kind": "msg",
   "speaker": "ケーキ売りの女の子",
   "jp": "そこの、お兄さ～ん。\nおみやげにケーキは…ああっ！",
-  "en": ""
+  "en": "Hey there, mi~ster!\nHow about a cake to take home... Whoa!"
  },
  {
   "id": "IVENT111@d2:0015",
   "kind": "msg",
   "speaker": "ケーキ売りの女の子",
   "jp": "いったーーーい！",
-  "en": ""
+  "en": "Owwwwww!"
  },
  {
   "id": "IVENT111@d2:0016",
   "kind": "msg",
   "speaker": "翔",
   "jp": "あっ…だいじょうぶか……",
-  "en": ""
+  "en": "Ah... Are you okay...?"
  },
  {
   "id": "IVENT111@d2:0017",
   "kind": "msg",
   "speaker": "ケーキ売りの女の子",
   "jp": "あっ、どうもありがと。",
-  "en": ""
+  "en": "Oh, thanks a lot."
  },
  {
   "id": "IVENT111@d2:0018",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……え？ル、ルー！？",
-  "en": ""
+  "en": "...Huh? L-Lou?!"
  },
  {
   "id": "IVENT111@d2:0019",
   "kind": "msg",
   "speaker": "ケーキ売りの女の子",
   "jp": "わたしの顔、何かついてるの？",
-  "en": ""
+  "en": "Is there something on my face?"
  },
  {
   "id": "IVENT111@d2:0020",
   "kind": "msg",
   "speaker": "翔",
   "jp": "えっ、いや……ちょっと……\n知りあいに似てたんだ……",
-  "en": ""
+  "en": "Huh? No... it's just...\nYou looked like someone I knew..."
  },
  {
   "id": "IVENT111@d2:0021",
   "kind": "msg",
   "speaker": "ケーキ売りの女の子",
   "jp": "ふう～ん……ねえ、名前なんていうの？",
-  "en": ""
+  "en": "Hmm~... Hey, what's your name?"
  },
  {
   "id": "IVENT111@d2:0022",
@@ -165,63 +165,63 @@
   "kind": "msg",
   "speaker": "ケーキ売りの女の子",
   "jp": "ニイミ……？\n何か言いにくいなぁ。\n翔でいいよね。",
-  "en": ""
+  "en": "Niimi...?\nThat's kinda hard to say.\nI'll just call you Shou, okay?"
  },
  {
   "id": "IVENT111@d2:0024",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ムスラ……！？",
-  "en": ""
+  "en": "Musra...?!"
  },
  {
   "id": "IVENT111@d2:0025",
   "kind": "msg",
   "speaker": "ケーキ売りの女の子",
   "jp": "わぁ……きれい……",
-  "en": ""
+  "en": "Wow... so pretty..."
  },
  {
   "id": "IVENT111@d2:0026",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ルー…",
-  "en": ""
+  "en": "Lou..."
  },
  {
   "id": "IVENT111@d2:0027",
   "kind": "msg",
   "speaker": "ケーキ売りの女の子",
   "jp": "……わたし、どうしたんだろ？",
-  "en": ""
+  "en": "...What's happening to me?"
  },
  {
   "id": "IVENT111@d2:0028",
   "kind": "msg",
   "speaker": "ケーキ売りの女の子",
   "jp": "なんで、なんでなの……？",
-  "en": ""
+  "en": "Why... why is this happening...?"
  },
  {
   "id": "IVENT111@d2:0029",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "……魔……女……神の樹……まもる……月光族……\nわたしは……るー……月光族のルー…………\n翔……翔だ。　やっと会えた……！",
-  "en": ""
+  "en": "...Witch... divine tree... protect...\nMoonlight Clan... I'm... Lou...\nLou of the Moonlight Clan...<p>Shou... It's Shou. I finally found you...!"
  },
  {
   "id": "IVENT111@d2:0030",
   "kind": "msg",
   "speaker": "翔",
   "jp": "俺も……やっと会えた……",
-  "en": ""
+  "en": "Me too... I finally found you..."
  },
  {
   "id": "IVENT111@d2:0031",
   "kind": "msg",
   "speaker": "翔",
   "jp": "クリア情報をセーブします。\nセーブしますか？",
-  "en": ""
+  "en": "I'll save your clear data.\nWould you like to save?"
  },
  {
   "id": "IVENT111@d2:0032",
@@ -235,27 +235,27 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "セーブを終了しますか？",
-  "en": ""
+  "en": "Quit the save menu?"
  },
  {
   "id": "IVENT111@d2:0034",
   "kind": "choice",
   "speaker": "",
   "jp": "　はい\n　いいえ",
-  "en": ""
+  "en": "Yes\nNo"
  },
  {
   "id": "IVENT111@d2:0035",
   "kind": "msg",
   "speaker": "翔",
   "jp": "クリア情報をセーブしないと『思いでアルバム』を\n鑑賞することが出来ません。\nこのまま終了しますか？",
-  "en": ""
+  "en": "Without saving your clear data, you can't\nview the \"Memory Album.\"\nQuit anyway?"
  },
  {
   "id": "IVENT111@d2:0036",
   "kind": "choice",
   "speaker": "",
   "jp": "　はい\n　いいえ",
-  "en": ""
+  "en": "Yes\nNo"
  }
 ]

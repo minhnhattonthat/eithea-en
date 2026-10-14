@@ -4,237 +4,237 @@
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "翔！\nそれにアルバイジャンも……なぜ、ここに？",
-  "en": ""
+  "en": "Shou!\nAnd Albaijan too... What are you doing here?"
  },
  {
   "id": "IVENT72:0001",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "単刀直入に言うぜ。\n俺たちを村においてほしい。\nそれを言いに来たんだ。",
-  "en": ""
+  "en": "I'll get straight to the point.\nWe want you to let us stay in the village.\nThat's what we came to say."
  },
  {
   "id": "IVENT72:0002",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ヤムヤムのエレの樹が爆発したのは知ってるだろ？",
-  "en": ""
+  "en": "You know Yamyam's Ele Tree\nblew up, right?"
  },
  {
   "id": "IVENT72:0003",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "アイシアに残っているのは、\n実質的にはここの神木だけだ。",
-  "en": ""
+  "en": "For all practical purposes, the only one left\nin Eithéa is the Sacred Tree here."
  },
  {
   "id": "IVENT72:0004",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "奴らはきっと、ここを狙ってくる。\nそれを防ぎたいんだ。",
-  "en": ""
+  "en": "They're bound to come after this place.\nI wanna stop that."
  },
  {
   "id": "IVENT72:0005",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "信じちゃくれねえと思うが、族長、頼む……！",
-  "en": ""
+  "en": "I doubt you'll believe me,\nbut please, Chief...!"
  },
  {
   "id": "IVENT72:0006",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "ふむ……いいでしょう。\n村への滞在を許可します。",
-  "en": ""
+  "en": "Hmm... very well.\nI grant you permission to stay in the village."
  },
  {
   "id": "IVENT72:0007",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "ななななっ！\nなぜでございます、族長！！\nこいつらはオキテを破った……",
-  "en": ""
+  "en": "Wh-Wh-Wh-What?!\nBut why, Chief?!\nThese people broke the Law..."
  },
  {
   "id": "IVENT72:0008",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "オキテなど、\nアイシアの運命に比べれば取るにたりません。",
-  "en": ""
+  "en": "The Law is a trifle\ncompared to the fate of Eithéa."
  },
  {
   "id": "IVENT72:0009",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "ですが……",
-  "en": ""
+  "en": "But..."
  },
  {
   "id": "IVENT72:0010",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "だいじょうぶなの！\nみんないい人なの。\n悪いことなんてしないの。",
-  "en": ""
+  "en": "It's okay~!\nThey're all good people.\nThey won't do anything bad~."
  },
  {
   "id": "IVENT72:0011",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "おや……？\nこの子供は……？",
-  "en": ""
+  "en": "Oh my...?\nAnd who is this child...?"
  },
  {
   "id": "IVENT72:0012",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ハーミーなの！\nよろしくなの、オバサン！",
-  "en": ""
+  "en": "I'm Hermie~!\nNice to meet you, Auntie~!"
  },
  {
   "id": "IVENT72:0013",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "そうなの、ハーミー、夜夢族なのぉ！",
-  "en": ""
+  "en": "That's right, Hermie's Night Dream Clan~!"
  },
  {
   "id": "IVENT72:0014",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "オ、オバサンって………………………へ！？\nわ、私の考えを……",
-  "en": ""
+  "en": "A-Auntie, you say..................Huh?!\nSh-She read my thoughts..."
  },
  {
   "id": "IVENT72:0015",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "それに、夜夢族！？\nそ、そんなことが……！！",
-  "en": ""
+  "en": "And of the Night Dream Clan?!\nH-How can this be...!!"
  },
  {
   "id": "IVENT72:0016",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "これは何かの兆しかも……\nしかし、吉兆か、それとも……",
-  "en": ""
+  "en": "This may be some sort of omen...\nBut is it a good one, or..."
  },
  {
   "id": "IVENT72:0017",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "どうしたの？\n何があったの？",
-  "en": ""
+  "en": "What's wrong?\nWhat happened?"
  },
  {
   "id": "IVENT72:0018",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "……神託がおりなかったのです。",
-  "en": ""
+  "en": "...We received no oracle."
  },
  {
   "id": "IVENT72:0019",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "それどころか、\n女神様の存在自体が感じられないのです。",
-  "en": ""
+  "en": "Worse still,\nI cannot sense the Goddess's presence at all."
  },
  {
   "id": "IVENT72:0020",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "まるで、どこかに消え失せたように……",
-  "en": ""
+  "en": "It is as if she has vanished somewhere..."
  },
  {
   "id": "IVENT72:0021",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "私たちは、\n今からそのことで話しあわなければなりません。",
-  "en": ""
+  "en": "We must now\ndiscuss that very matter."
  },
  {
   "id": "IVENT72:0022",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "これ以上用事がないのなら、\n席を外してもらいたいのですが……",
-  "en": ""
+  "en": "If you have no further business,\nI would ask that you excuse us..."
  },
  {
   "id": "IVENT72:0023",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ありがとよ。\n感謝するぜ、族長。",
-  "en": ""
+  "en": "Thanks.\nI owe ya one, Chief."
  },
  {
   "id": "IVENT72:0024",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "ファンナに、\n私が許可を出したと伝えてください。\nそれでは……",
-  "en": ""
+  "en": "Please tell Fanna\nthat I have given my permission.\nNow then..."
  },
  {
   "id": "IVENT72:0025",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "みなさん、どうでした？",
-  "en": ""
+  "en": "Everyone, how did it go?"
  },
  {
   "id": "IVENT72:0026",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ばっちりもらってきたぜ。",
-  "en": ""
+  "en": "Got the go-ahead, no problem."
  },
  {
   "id": "IVENT72:0027",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "まあ、それはよかったですね。\nでは、わたしから、村の皆に伝えておきましょう。",
-  "en": ""
+  "en": "Oh, that's wonderful.\nThen I'll let everyone in the village know."
  },
  {
   "id": "IVENT72:0028",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "じゃあ、わたしたちは……\nいったん家に戻りましょうか？\nお風呂にも入りたいし。",
-  "en": ""
+  "en": "Then should we...\nhead home for now?\nI want a bath, too."
  },
  {
   "id": "IVENT72:0029",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "さんせーいっ！\nもう、泥だらけだもん。",
-  "en": ""
+  "en": "Seconded!\nI'm covered in mud."
  },
  {
   "id": "IVENT72:0030",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "あ、オレはその前に、\nちょっとアイサツせなあかんとこあるから……",
-  "en": ""
+  "en": "Oh, before that, I gotta stop by\nand say hi to somebody real quick..."
  },
  {
   "id": "IVENT72:0031",
   "kind": "msg",
   "speaker": "学",
   "jp": "僕も……",
-  "en": ""
+  "en": "Me too..."
  },
  {
   "id": "IVENT72:0032",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そうか。\nそれじゃあ、先に行ってるぜ。",
-  "en": ""
+  "en": "Okay.\nThen I'll go on ahead."
  },
  {
   "id": "IVENT72:0033",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "おお、またな。翔！",
-  "en": ""
+  "en": "Yeah, see ya, Shou!"
  }
 ]

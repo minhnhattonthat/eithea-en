@@ -4,132 +4,132 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ふぅ、これで一段落だ。\nあとはブックの解析だけだな。",
-  "en": ""
+  "en": "Phew, that's one thing done.\nNow all that's left is analyzing the Book."
  },
  {
   "id": "IVENT13:0001",
   "kind": "msg",
   "speaker": "翔",
   "jp": "どれくらいかかりそうだ？",
-  "en": ""
+  "en": "How long do you think that'll take?"
  },
  {
   "id": "IVENT13:0002",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……解析してみなけりゃわかんねえな。",
-  "en": ""
+  "en": "...Can't say till I actually try analyzing it."
  },
  {
   "id": "IVENT13:0003",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "俺は、明日にでも<1>カーライル<8>へ戻る。",
-  "en": ""
+  "en": "I'm heading back to <1>Carlyle<8>\nas soon as tomorrow."
  },
  {
   "id": "IVENT13:0004",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "あそこじゃないと解析はできねえんだ。\nおまえらも来るか？",
-  "en": ""
+  "en": "That's the only place I can analyze it.\nYou guys wanna come along?"
  },
  {
   "id": "IVENT13:0005",
   "kind": "choice",
   "speaker": "",
   "jp": "　よし、行こう\n　いや、行かない",
-  "en": ""
+  "en": "Sure, let's go\nNo, I'm not going"
  },
  {
   "id": "IVENT13:0006",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そうだな。\nそのほうが、結果もはやくわかるし……",
-  "en": ""
+  "en": "Yeah.\nThat way we'll get the results faster, too..."
  },
  {
   "id": "IVENT13:0007",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "まって、新見くん。",
-  "en": ""
+  "en": "Wait, Niimi-kun."
  },
  {
   "id": "IVENT13:0008",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "私たちにはまだ、\n族長に調べてもらってるものがあるのよ？",
-  "en": ""
+  "en": "We still have something\nthe Chief is looking into for us, remember?"
  },
  {
   "id": "IVENT13:0009",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "それが終わらないうちに\nよそへ行くのはいけないんじゃないかしら？",
-  "en": ""
+  "en": "Don't you think it'd be wrong to go off\nsomewhere else before that's done?"
  },
  {
   "id": "IVENT13:0010",
   "kind": "msg",
   "speaker": "翔",
   "jp": "確かに、そうですね……",
-  "en": ""
+  "en": "You're right..."
  },
  {
   "id": "IVENT13:0011",
   "kind": "msg",
   "speaker": "翔",
   "jp": "すまない、アルバイジャン。\n俺たちはもう少しここにいるよ。",
-  "en": ""
+  "en": "Sorry, Albaijan.\nWe're going to stay here a little longer."
  },
  {
   "id": "IVENT13:0012",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "そうか、それはしかたねえな。\nま、なんかわかったら教えてやるよ。",
-  "en": ""
+  "en": "I see. Well, can't be helped.\nI'll let you know if I figure anything out."
  },
  {
   "id": "IVENT13:0013",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "それじゃ、後から来いよ！",
-  "en": ""
+  "en": "Well then, catch up with me later!"
  },
  {
   "id": "IVENT13:0014",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "……さあ、私たちも休みましょうか。",
-  "en": ""
+  "en": "...Well, shall we get some rest too?"
  },
  {
   "id": "IVENT13:0015",
   "kind": "msg",
   "speaker": "翔",
   "jp": "俺たちは行けないよ。\n族長に調べてもらってることも終わってないしな。",
-  "en": ""
+  "en": "We can't go. The Chief hasn't finished\nlooking into that thing for us yet."
  },
  {
   "id": "IVENT13:0016",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "そうか、それはしかたねえな。\nま、なんかわかったら教えてやるよ。",
-  "en": ""
+  "en": "I see. Well, can't be helped.\nI'll let you know if I figure anything out."
  },
  {
   "id": "IVENT13:0017",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "それじゃ、後から来いよ！",
-  "en": ""
+  "en": "Well then, catch up with me later!"
  },
  {
   "id": "IVENT13:0018",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "……さて、私たちも休みましょうか。",
-  "en": ""
+  "en": "...Well then, shall we get some rest too?"
  }
 ]

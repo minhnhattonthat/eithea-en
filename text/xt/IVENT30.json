@@ -4,405 +4,405 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "よし、あの扉をくぐれば火竜城の中だ。",
-  "en": ""
+  "en": "Okay, through that door and we're inside\nFire Dragon Castle."
  },
  {
   "id": "IVENT30:0001",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "だがな、ここで焦っちゃダメだ。\nワナがあるんだ……",
-  "en": ""
+  "en": "But we can't rush it here.\nThere's a trap..."
  },
  {
   "id": "IVENT30:0002",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "翔、アイツを倒してくれ。",
-  "en": ""
+  "en": "Shou, take that thing down for me."
  },
  {
   "id": "IVENT30:0003",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ただし、そいつの胸には\nアーティアが埋め込まれてる。",
-  "en": ""
+  "en": "Only, there's an Artia embedded\nin its chest."
  },
  {
   "id": "IVENT30:0004",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "攻撃するときは注意してくれよ。",
-  "en": ""
+  "en": "So be careful when you attack."
  },
  {
   "id": "IVENT30:0005",
   "kind": "msg",
   "speaker": "翔",
   "jp": "アルバイジャン、\n何でそんなことを知ってるんだ！？",
-  "en": ""
+  "en": "Albaijan,\nhow do you know that?!"
  },
  {
   "id": "IVENT30:0006",
   "kind": "msg",
   "speaker": "翔",
   "jp": "まさか、おまえ……",
-  "en": ""
+  "en": "Don't tell me you're..."
  },
  {
   "id": "IVENT30:0007",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "翔、あぶない！\nジャームがくるわよ！",
-  "en": ""
+  "en": "Shou, look out!\nHere comes a Germ!"
  },
  {
   "id": "IVENT30:0008",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "翔、ほら、アーティアだ。\nおまえが持っとけよ。",
-  "en": ""
+  "en": "Here, Shou, an Artia.\nYou hang on to it."
  },
  {
   "id": "IVENT30:0009",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "<1>アーティアキューブ<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>Artia Cube<8>!"
  },
  {
   "id": "IVENT30:0010",
   "kind": "msg",
   "speaker": "翔",
   "jp": "あ、ああ……でも、なんで……？",
-  "en": ""
+  "en": "Y-Yeah... but why...?"
  },
  {
   "id": "IVENT30:0011",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "説明はあとだ。\nもたもたしてるヒマはねえからな。",
-  "en": ""
+  "en": "Explanations later.\nWe ain't got time to dawdle."
  },
  {
   "id": "IVENT30:0012",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "あの扉の中に入ろうぜ。\nあそこの中は確か実験室だったはずだ。",
-  "en": ""
+  "en": "Let's go through that door.\nIf I remember right, that's the lab in there."
  },
  {
   "id": "IVENT30:0013",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "それなら、エレの樹への実験を止めることが\nできるじゃない！\n……話が早いわ、あそこをブッ潰してやる！",
-  "en": ""
+  "en": "Then we can stop the experiments\non the Ele Tree!\n...Perfect. I'm gonna smash that place!"
  },
  {
   "id": "IVENT30:0014",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ルー、まてよ。焦るな。\nブッ潰すにしても、\n中の様子を見てからでも遅くはないだろ？",
-  "en": ""
+  "en": "Hold on, Lou. Don't rush.\nEven if we smash it, it won't hurt to see\nwhat's inside first, right?"
  },
  {
   "id": "IVENT30:0015",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そうね、なら翔、つきあってよ。\n翔がいっしょなら心強いわ。",
-  "en": ""
+  "en": "Fine, then you're coming with me, Shou.\nI feel safer with you around."
  },
  {
   "id": "IVENT30:0016",
   "kind": "msg",
   "speaker": "翔",
   "jp": "わかった。\nじゃあ、俺とルーで偵察に行ってくる。",
-  "en": ""
+  "en": "Okay.\nThen Lou and I will go scout it out."
  },
  {
   "id": "IVENT30:0017",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "翔、私も行く！\nいっしょにいかせて。",
-  "en": ""
+  "en": "Shou, I'm coming too!\nLet me go with you."
  },
  {
   "id": "IVENT30:0018",
   "kind": "msg",
   "speaker": "翔",
   "jp": "おまえはここにいてくれ。\nすぐに戻ってくるから。\nそれじゃあルー、行こう……",
-  "en": ""
+  "en": "I need you to stay here.\nI'll be right back.\nOkay, Lou, let's go..."
  },
  {
   "id": "IVENT30:0019",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ちょっとまってよ！",
-  "en": ""
+  "en": "Hold on a minute!"
  },
  {
   "id": "IVENT30:0020",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ユカ、どうしたんだ？",
-  "en": ""
+  "en": "Yuka, what's wrong?"
  },
  {
   "id": "IVENT30:0021",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "なんで……なんで、いつもルーといっしょなの？",
-  "en": ""
+  "en": "Why... why are you always with Lou?"
  },
  {
   "id": "IVENT30:0022",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "なんで、いつもルーなのよ！？\n私だって、いっしょにいたいのに！",
-  "en": ""
+  "en": "Why is it always Lou?!\nI want to be with you too!"
  },
  {
   "id": "IVENT30:0023",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "う……ううっ……\nうわあああああん！！",
-  "en": ""
+  "en": "Ugh... Uuugh...\nWaaaaaaah!!"
  },
  {
   "id": "IVENT30:0024",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "松岡さん、どうしたの？\nしっかりなさい。",
-  "en": ""
+  "en": "Matsuoka-san, what's wrong?\nPull yourself together."
  },
  {
   "id": "IVENT30:0025",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "うっ、うっ……",
-  "en": ""
+  "en": "*sob*, *sob*..."
  },
  {
   "id": "IVENT30:0026",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "いったい、どうしたのよ！？\n突然、泣きだしたりしてさ。\nワケわかんないわ！",
-  "en": ""
+  "en": "What on earth is wrong with you?!\nBursting into tears out of nowhere.\nI don't get it!"
  },
  {
   "id": "IVENT30:0027",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "わたしたちに泣いてるヒマなんてないのよ。",
-  "en": ""
+  "en": "We don't have time to sit around crying."
  },
  {
   "id": "IVENT30:0028",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "とっとと先に進まなきゃならないんだから！",
-  "en": ""
+  "en": "We've got to keep moving, and fast!"
  },
  {
   "id": "IVENT30:0029",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "これ以上、ここにいるのはヤバいな。\nとっとと先……なにぃ！？",
-  "en": ""
+  "en": "Hanging around here any longer is bad news.\nLet's get moving... Whaaat?!"
  },
  {
   "id": "IVENT30:0030",
   "kind": "msg",
   "speaker": "兵士",
   "jp": "おまえたち！何をしている！？\nおとなしくしろ！",
-  "en": ""
+  "en": "You there! What are you doing?!\nDon't move!"
  },
  {
   "id": "IVENT30:0031",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ヒイ、フウ、ミイ……\nこりゃ多すぎるな。",
-  "en": ""
+  "en": "One, two, three...\nThat's way too many."
  },
  {
   "id": "IVENT30:0032",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "勝ち目はないわね。\nへたに逆らっても、意味がないわ。",
-  "en": ""
+  "en": "We can't win this.\nResisting would be pointless."
  },
  {
   "id": "IVENT30:0033",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "新見くん、ここはおとなしくしましょう。",
-  "en": ""
+  "en": "Niimi-kun, let's go quietly for now."
  },
  {
   "id": "IVENT30:0034",
   "kind": "msg",
   "speaker": "兵士",
   "jp": "よし、こいつらを捕らえるんだ。\n……さあ、こっちに来い！",
-  "en": ""
+  "en": "Right, seize them.\n...Now, come with us!"
  },
  {
   "id": "IVENT30:0035",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……アルバイジャン。\nこれからどうなるんだ？",
-  "en": ""
+  "en": "...Albaijan.\nWhat happens to us now?"
  },
  {
   "id": "IVENT30:0036",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……………",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "IVENT30:0037",
   "kind": "msg",
   "speaker": "翔",
   "jp": "だまってないで答えろよ。\nぜんぶ知ってるんだろ！？",
-  "en": ""
+  "en": "Don't just stay quiet, answer me.\nYou know everything, don't you?!"
  },
  {
   "id": "IVENT30:0038",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "残念ね。\nこの展開は彼が予測してなかったものよ。",
-  "en": ""
+  "en": "Too bad.\nHe never saw this turn of events coming."
  },
  {
   "id": "IVENT30:0039",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "アルバイジャン！？\nまさか、おまえ……",
-  "en": ""
+  "en": "Albaijan?!\nDon't tell me you..."
  },
  {
   "id": "IVENT30:0040",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "かんちがいするな。\n俺はこいつの仲間じゃない。",
-  "en": ""
+  "en": "Don't get the wrong idea.\nI'm not on her side."
  },
  {
   "id": "IVENT30:0041",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "そう、今ではね。",
-  "en": ""
+  "en": "That's right. Not anymore."
  },
  {
   "id": "IVENT30:0042",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "裏切りもののあなたに、\nまた会えるとは思わなかったわ。",
-  "en": ""
+  "en": "I never thought I'd see you again,\nyou traitor."
  },
  {
   "id": "IVENT30:0043",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "裏切りもの？",
-  "en": ""
+  "en": "Traitor?"
  },
  {
   "id": "IVENT30:0044",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "あら……あなたたち、なにも知らないの？",
-  "en": ""
+  "en": "Oh my... You don't know anything, do you?"
  },
  {
   "id": "IVENT30:0045",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "彼は裏切りものなのよ。\n私たち火竜族のね。",
-  "en": ""
+  "en": "He's a traitor.\nA traitor to us, the Fire Dragon Clan."
  },
  {
   "id": "IVENT30:0046",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "……昔、私と彼はある研究をしていたの。",
-  "en": ""
+  "en": "...Long ago, he and I were doing\nresearch together."
  },
  {
   "id": "IVENT30:0047",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "そう。\nエレの樹を制御する方法のね。",
-  "en": ""
+  "en": "Yes.\nResearch into a way to control the Ele Tree."
  },
  {
   "id": "IVENT30:0048",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "研究の末、私たちは３個のアーティアを用いて\n神木を制御する方法を発見したわ。",
-  "en": ""
+  "en": "In the end, we discovered a way to control\nthe Sacred Tree using three Artia."
  },
  {
   "id": "IVENT30:0049",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "けれど、それからしばらくして、\nアルバイジャンはアーティアを奪い、\nこの国から逃げ出した…",
-  "en": ""
+  "en": "But some time after that,\nAlbaijan stole the Artia\nand fled this country..."
  },
  {
   "id": "IVENT30:0050",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "こいつは、私たちに力を渡したくなかったのよ！",
-  "en": ""
+  "en": "He didn't want us to have that power!"
  },
  {
   "id": "IVENT30:0051",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "……けれど、残念だったわね。\nアーティアは１０個あるの。",
-  "en": ""
+  "en": "...But too bad for you.\nThere are ten Artia in all."
  },
  {
   "id": "IVENT30:0052",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "あなたに奪われても、かわりはすぐに見つかったわ。",
-  "en": ""
+  "en": "Even after you stole them,\nwe soon found others."
  },
  {
   "id": "IVENT30:0053",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "今度は、ここを破壊しようとでも\n考えていたのかしら？",
-  "en": ""
+  "en": "So this time, were you thinking of\ndestroying this place?"
  },
  {
   "id": "IVENT30:0054",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "おあいにくさま。\n今度はあなたの思いどおりにはならないわよ。",
-  "en": ""
+  "en": "Sorry to disappoint you.\nThis time, things won't go the way you want."
  },
  {
   "id": "IVENT30:0055",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ちがう、ちがうんだ！\n<3>カレン<8>、俺があのときユーロリアから出たのは……！",
-  "en": ""
+  "en": "No, that's not it!\n<3>Karen<8>, the reason I left Eurolia back then...!"
  },
  {
   "id": "IVENT30:0056",
   "kind": "msg",
   "speaker": "カレン",
   "jp": "聞く耳もたないわ。\n衛兵、連れていきなさい！！",
-  "en": ""
+  "en": "I won't hear it.\nSentries, take him away!!"
  },
  {
   "id": "IVENT30:0057",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "カレン、まて！聞いてくれ！\n俺は、俺は……！",
-  "en": ""
+  "en": "Karen, wait! Listen to me!\nI... I...!"
  }
 ]

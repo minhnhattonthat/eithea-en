@@ -65,6 +65,31 @@
 | 職員室 | faculty room |
 | 文献 | old texts |
 | アザ (Shou's mark) | mark |
+| ベイベー (Imul) | baby |
+| フィノばあさん | Granny Fino |
+| 思いでアルバム | Memory Album |
+| お兄ちゃん (Hermie to Shou) | big brother |
+| 聖女 | the Saint |
+| 火竜城 | Fire Dragon Castle |
+| 女王 | the Queen |
+| 黒の間 | Black Chamber |
+| ヤムヤムの森 | Yamyam Forest |
+| 魔弾研究 (menu) | Magic Bullet Study |
+| 赤竜亭 | Red Dragon Tavern |
+| 地下廃墟 | Underground Ruins |
+| 地下牢 | dungeon |
+| ＴＩＰ交換屋 | TIP Exchange |
+| レジィ | Reggie |
+| エレーティア | Eletia |
+| プレイオブエレ | Pray of Ele |
+| エレの聖弓 | Ele Holy Bow |
+| ほこら | shrine |
+| 聖地 | holy land |
+| オヤジ (Hermie for Albaijan) | Old Man |
+| 飛竜の牙 | Wyvern's Fang |
+| 王家のペンダント | Royal Pendant |
+| メガネ・ベイベー (Imul for Akiho) | Glasses Baby |
+| 魔弾作成 (menu) | Make Magic Bullet |
 
 ## Elements and Artia (not lint-enforced; use exactly)
 | JP | EN |
@@ -203,5 +228,7 @@
 - Hermie: 12, childlike, ends lines with なのぉ → soft trailing "~" ("It's here~").
 - Imul: flirtatious Fire Dragon prince, smooth talker.
 - Albaijan: worldly merchant/researcher, wry, a bit theatrical.
+- Genders (from the cast credits): Eurike, Rando, Shai, Materia, Fanna, Namuria, Rea, Karen = female (she/her);
+  Azel = female (rebel leader; secretly the witch Prada). Opas, Imul, Vamur, Albaijan = male. Rando is Fanna's mother and turns into a rough delinquent when angry.
 
 ## Decisions from earlier batches

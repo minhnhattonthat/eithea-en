@@ -4,118 +4,118 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "……準備はいいぞ。\nさあ、ほこらに案内してくれ。",
-  "en": ""
+  "en": "...I'm all set.\nOkay, take me to the shrine."
  },
  {
   "id": "IVENT54:0001",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "わかったの。\nでもね、朝、いないと、みんな心配するの。",
-  "en": ""
+  "en": "Okay~.\nBut if we're gone in the morning,\neveryone will worry~."
  },
  {
   "id": "IVENT54:0002",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "だから、朝になる前にもどるの。\n約束なの。",
-  "en": ""
+  "en": "So we'll come back before morning~.\nPromise~."
  },
  {
   "id": "IVENT54:0003",
   "kind": "msg",
   "speaker": "翔",
   "jp": "わかったよ。\nなら、テントはいらないな。\n……これでよしと。",
-  "en": ""
+  "en": "Got it.\nThen I won't need the tent.\n...There, all set."
  },
  {
   "id": "IVENT54:0004",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "じゃあ、行くの。\nお兄ちゃん、こっちなの。",
-  "en": ""
+  "en": "Let's go, then~.\nBig brother, this way~."
  },
  {
   "id": "IVENT54:0005",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "待ちなさい！！",
-  "en": ""
+  "en": "Hold it right there!!"
  },
  {
   "id": "IVENT54:0006",
   "kind": "msg",
   "speaker": "翔",
   "jp": "せ、先生<8>……\nなんでここに……？",
-  "en": ""
+  "en": "S-Sensei<8>...\nWhat are you doing here...?"
  },
  {
   "id": "IVENT54:0007",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ハーミー<8>のあとをつけたのよ。",
-  "en": ""
+  "en": "I followed Hermie<8>."
  },
  {
   "id": "IVENT54:0008",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "この子がこっそりと出ていくなんて、\n何かあると思わない？",
-  "en": ""
+  "en": "When this girl sneaks out in secret,\ndon't you think something's going on?"
  },
  {
   "id": "IVENT54:0009",
   "kind": "msg",
   "speaker": "翔",
   "jp": "先生<8>、止めないでください。\n今戦えるのは俺しかいないんです。",
-  "en": ""
+  "en": "Sensei<8>, please don't stop me.\nI'm the only one who can fight right now."
  },
  {
   "id": "IVENT54:0010",
   "kind": "msg",
   "speaker": "翔",
   "jp": "こうしないと……\nまた、みんなが……",
-  "en": ""
+  "en": "If I don't do this...\neveryone will end up..."
  },
  {
   "id": "IVENT54:0011",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "まったく、新見くんには困ったものね。",
-  "en": ""
+  "en": "Honestly, Niimi-kun, you're a handful."
  },
  {
   "id": "IVENT54:0012",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "どうせ止めても聞かないんでしょう？\n私もついていくわよ。",
-  "en": ""
+  "en": "You won't listen even if I try to stop you,\nwill you? Then I'm coming along."
  },
  {
   "id": "IVENT54:0013",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……先生。",
-  "en": ""
+  "en": "...Sensei."
  },
  {
   "id": "IVENT54:0014",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "先生もいっしょに行くの？\n多いほうが楽しくていいの。",
-  "en": ""
+  "en": "Sensei's coming too~?\nThe more the merrier~."
  },
  {
   "id": "IVENT54:0015",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "それじゃあ、\nしゅっぱ～つ！！　なのお。",
-  "en": ""
+  "en": "Okay then,\nlet's gooo~!!"
  },
  {
   "id": "IVENT54:0016",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ハーミーと秋穂が仲間になった！",
-  "en": ""
+  "en": "Hermie and Akiho joined the party!"
  }
 ]

@@ -4,286 +4,286 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "あれがカーライルだ。\nにぎやかそうな町だろ？",
-  "en": ""
+  "en": "That's Carlyle.\nLively-looking town, huh?"
  },
  {
   "id": "IVENT20:0001",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ホントだ！\nすごく楽しそう！\nねえ、早く行こうよ！",
-  "en": ""
+  "en": "It really is!\nIt looks like so much fun!\nHey, let's hurry up and go!"
  },
  {
   "id": "IVENT20:0002",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "どういうこと！？\nなんで月光族と火竜族がいっしょにいるの？",
-  "en": ""
+  "en": "What's going on?!\nWhy are Moonlight Clan and Fire Dragon Clan\npeople together?"
  },
  {
   "id": "IVENT20:0003",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "カーライルは中立都市なんだ。\n住むものに部族は関係ない。",
-  "en": ""
+  "en": "Carlyle is a neutral city.\nNobody living here cares about clans."
  },
  {
   "id": "IVENT20:0004",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "町の話なら、あとでゆっくりしてやるよ。",
-  "en": ""
+  "en": "I'll tell you all about the town later."
  },
  {
   "id": "IVENT20:0005",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "よお、お二人さん。\nひさしぶりだなあ。",
-  "en": ""
+  "en": "Hey there, you two.\nLong time no see."
  },
  {
   "id": "IVENT20:0006",
   "kind": "msg",
   "speaker": "月光族の女性",
   "jp": "アルバイジャンじゃない。\n今度はどんなあやしい商売をしてきたの？",
-  "en": ""
+  "en": "Well, if it isn't Albaijan.\nWhat shady deal were you up to this time?"
  },
  {
   "id": "IVENT20:0007",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "誤解もいいとこだ。\n俺はいつも誠実をモットーに商売してるのによお！",
-  "en": ""
+  "en": "You've got me all wrong.\nI always do business with honesty as my motto!"
  },
  {
   "id": "IVENT20:0008",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "町に戻りたいんだ。\nそこを通してもらえるか？",
-  "en": ""
+  "en": "I wanna get back into town.\nMind letting us through?"
  },
  {
   "id": "IVENT20:0009",
   "kind": "msg",
   "speaker": "火竜族の青年",
   "jp": "だめだな。\nよそものといっしょじゃ通すわけにはいかない。",
-  "en": ""
+  "en": "No way.\nNot with outsiders in tow."
  },
  {
   "id": "IVENT20:0010",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "かたいこと言うなよ。\nこいつらは俺の仲間だ。",
-  "en": ""
+  "en": "Don't be so uptight.\nThese folks are my pals."
  },
  {
   "id": "IVENT20:0011",
   "kind": "msg",
   "speaker": "火竜族の青年",
   "jp": "なおさらだ。\nよっぽど信用できないな。",
-  "en": ""
+  "en": "All the more reason.\nThat makes them even less trustworthy."
  },
  {
   "id": "IVENT20:0012",
   "kind": "msg",
   "speaker": "火竜族の青年",
   "jp": "<10>…<10>…おまえは月光族だな？",
-  "en": ""
+  "en": "<10>..<10>...You're Moonlight Clan, aren't you?"
  },
  {
   "id": "IVENT20:0013",
   "kind": "msg",
   "speaker": "月光族の女性",
   "jp": "あら、ほんと……イオピロスから来たの？",
-  "en": ""
+  "en": "Oh, so she is... Did you come from Iopiros?"
  },
  {
   "id": "IVENT20:0014",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ええ、そうだけど。",
-  "en": ""
+  "en": "Yeah, that's right."
  },
  {
   "id": "IVENT20:0015",
   "kind": "msg",
   "speaker": "月光族の女性",
   "jp": "なら信用できるわ。\nねえ、通してあげようよ。",
-  "en": ""
+  "en": "Then she's trustworthy.\nCome on, let's let them through."
  },
  {
   "id": "IVENT20:0016",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "頼むからよ。\n後で一杯おごるから、<10>な？",
-  "en": ""
+  "en": "C'mon, I'm asking nicely.\nI'll buy you a drink later,<10> okay?"
  },
  {
   "id": "IVENT20:0017",
   "kind": "msg",
   "speaker": "火竜族の青年",
   "jp": "しかたないなあ。\n面倒なことは起こすなよ。",
-  "en": ""
+  "en": "Fine, fine.\nJust don't cause any trouble."
  },
  {
   "id": "IVENT20:0018",
   "kind": "msg",
   "speaker": "火竜族の青年",
   "jp": "それにしても、\nアルバイジャンの仲間か……やっぱり気になるな。",
-  "en": ""
+  "en": "Still...\nfriends of Albaijan, huh...\nI've got my doubts."
  },
  {
   "id": "IVENT20:0019",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "人を疑うのもいいかげんにしろよ。",
-  "en": ""
+  "en": "Enough with the suspicion already."
  },
  {
   "id": "IVENT20:0020",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "どっから見ても、俺はまっとうな商人だって。",
-  "en": ""
+  "en": "Any way you look at it,\nI'm an honest merchant."
  },
  {
   "id": "IVENT20:0021",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "カガミ、見たほうがいいよ。",
-  "en": ""
+  "en": "Maybe you should look in a mirror."
  },
  {
   "id": "IVENT20:0022",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "な、なんてこと言いやがる！？\n人を外見だけで判断するとだなあ！",
-  "en": ""
+  "en": "Wh-What did you just say?!\nJudging people by their looks is--"
  },
  {
   "id": "IVENT20:0023",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "さあ、みんな、町に入りましょう。",
-  "en": ""
+  "en": "Come on, everyone, let's go into town."
  },
  {
   "id": "IVENT20:0024",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "おいおいおいコラ！\n人の話を最後まで聞けよ！\nったく、ちっくしょおッ！",
-  "en": ""
+  "en": "Hey hey hey, c'mon!\nLet me finish what I'm saying!\nGeez, dammiiit!"
  },
  {
   "id": "IVENT20:0025",
   "kind": "msg",
   "speaker": "翔",
   "jp": "なあ、アルバイジャン。\nおまえ、普段はいったい、どんな商売をしてるんだ？",
-  "en": ""
+  "en": "Hey, Albaijan.\nWhat kind of business are you actually in?"
  },
  {
   "id": "IVENT20:0026",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ん？　ああ、さっきのことか。\nいろいろと誤解されてるのさ。\nま、気にすんな。",
-  "en": ""
+  "en": "Hm? Oh, about earlier.\nPeople get the wrong idea about me a lot.\nDon't worry about it."
  },
  {
   "id": "IVENT20:0027",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "それより、疲れてんだ。\nとっとと俺の家に行くぞ。\n迷わずについて来いよ。",
-  "en": ""
+  "en": "More importantly, I'm beat.\nLet's get to my place already.\nKeep up and don't get lost."
  },
  {
   "id": "IVENT20:0028",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "おおい、何してんだ！？\n早く来いよ！",
-  "en": ""
+  "en": "Hey, what are you doing?!\nHurry up!"
  },
  {
   "id": "IVENT20:0029",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "なにやってるの？",
-  "en": ""
+  "en": "What are you doing?"
  },
  {
   "id": "IVENT20:0030",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "あうううう。\nお金おとしちゃったのよお！",
-  "en": ""
+  "en": "Waaah.\nI dropped my money!"
  },
  {
   "id": "IVENT20:0031",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "あれえ、どこ行ったのかなあ……？",
-  "en": ""
+  "en": "Huh, where'd it go...?"
  },
  {
   "id": "IVENT20:0032",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "あいかわらずね。\nこれだからツリギョロ<8>は……",
-  "en": ""
+  "en": "Same as always.\nThat's Googly-Glare<8> for you..."
  },
  {
   "id": "IVENT20:0033",
   "kind": "msg",
   "speaker": "翔",
   "jp": "しかし、ほんとに入り組んだ町だな。",
-  "en": ""
+  "en": "Man, this town really is a maze."
  },
  {
   "id": "IVENT20:0034",
   "kind": "msg",
   "speaker": "翔",
   "jp": "あれ？\nあの建物から見えているのは何だろう……？",
-  "en": ""
+  "en": "Huh?\nWhat's that I can see from that building...?"
  },
  {
   "id": "IVENT20:0035",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "新見くん、何をしてるの！？",
-  "en": ""
+  "en": "Niimi-kun, what are you doing?!"
  },
  {
   "id": "IVENT20:0036",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "団体行動を乱す子は、あとでみっちりお説教よ！",
-  "en": ""
+  "en": "Anyone who strays from the group gets a good\nlong lecture later!"
  },
  {
   "id": "IVENT20:0037",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "みんな、そろそろ行きますよ！",
-  "en": ""
+  "en": "Everyone, it's time to go!"
  },
  {
   "id": "IVENT20:0038",
   "kind": "msg",
   "speaker": "みんな",
   "jp": "はーい！",
-  "en": ""
+  "en": "Okaaay!"
  },
  {
   "id": "IVENT20:0039",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "遅いぞ！\nなにやってたんだ！？",
-  "en": ""
+  "en": "You're late!\nWhat were you doing?!"
  },
  {
   "id": "IVENT20:0040",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "とりあえず中に入れよ。\nこれからどうするかは、落ちついてから話そうぜ。",
-  "en": ""
+  "en": "Come on in for now.\nWe'll talk about what's next once we've\nsettled in."
  }
 ]

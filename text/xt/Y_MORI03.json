@@ -4,7 +4,7 @@
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ねえ新見くん、ちょっといい？",
-  "en": ""
+  "en": "Niimi-kun, do you have a moment?"
  },
  {
   "id": "Y_MORI03:0001",
@@ -18,28 +18,28 @@
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "松岡さんと伊藤さん、\n身体の具合はだいじょうぶかしら？",
-  "en": ""
+  "en": "Matsuoka-san and Itou-san...\nI wonder if they're feeling all right."
  },
  {
   "id": "Y_MORI03:0003",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "伊藤さんはともかく、\n松岡さんはいつも元気だから余計に心配なのよ。",
-  "en": ""
+  "en": "Itou-san aside, Matsuoka-san is always so\nenergetic, which worries me all the more."
  },
  {
   "id": "Y_MORI03:0004",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "大したことないといいのだけれど……",
-  "en": ""
+  "en": "I hope it's nothing serious..."
  },
  {
   "id": "Y_MORI03:0005",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ねえねえ、お兄ちゃん。",
-  "en": ""
+  "en": "Hey hey, big brother."
  },
  {
   "id": "Y_MORI03:0006",
@@ -53,56 +53,56 @@
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ハーミーとお兄ちゃんね、ほんとの兄妹に見えるの？",
-  "en": ""
+  "en": "Do Hermie and big brother look like a real\nbrother and sister~?"
  },
  {
   "id": "Y_MORI03:0008",
   "kind": "choice",
   "speaker": "",
   "jp": "　見えるよ\n　どうだろう？",
-  "en": ""
+  "en": "Sure you do\nWho knows?"
  },
  {
   "id": "Y_MORI03:0009",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "わぁいなのお！\nえへへへへ、ハーミー、すっごくうれしいの！",
-  "en": ""
+  "en": "Yaaay~!\nEhehehehe, Hermie's super happy~!"
  },
  {
   "id": "Y_MORI03:0010",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ねえ、お兄ちゃん。\nほんとの兄妹になれないの？",
-  "en": ""
+  "en": "Hey, big brother.\nCan't we be a real brother and sister~?"
  },
  {
   "id": "Y_MORI03:0011",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "なれるんだったら、\nハーミー、お兄ちゃんに何でもしたげるの。",
-  "en": ""
+  "en": "If we could,\nHermie would do anything for you~."
  },
  {
   "id": "Y_MORI03:0012",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "なんでなのお！\nなんでヤなこと、言うの！？",
-  "en": ""
+  "en": "Why~?!\nWhy would you say something so mean~?!"
  },
  {
   "id": "Y_MORI03:0013",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "もう、知らないの！\nお兄ちゃん、きらいなのお！",
-  "en": ""
+  "en": "Hmph, Hermie doesn't care anymore~!\nBig brother, Hermie hates you~!"
  },
  {
   "id": "Y_MORI03:0014",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "新見くん、聞きたいことがあるんだけど。",
-  "en": ""
+  "en": "Niimi-kun, there's something I'd like to ask."
  },
  {
   "id": "Y_MORI03:0015",
@@ -116,90 +116,90 @@
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "なぜ、伊藤さんのことを\n名前で呼ばないのかしら？",
-  "en": ""
+  "en": "Why don't you call Itou-san\nby her first name?"
  },
  {
   "id": "Y_MORI03:0017",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "松岡さんはユカって呼ぶのに、どうしてなの？",
-  "en": ""
+  "en": "You call Matsuoka-san \"Yuka,\" so why not her?"
  },
  {
   "id": "Y_MORI03:0018",
   "kind": "choice",
   "speaker": "",
   "jp": "　特に理由はない\n　照れくさいから",
-  "en": ""
+  "en": "No particular reason\nIt's embarrassing"
  },
  {
   "id": "Y_MORI03:0019",
   "kind": "msg",
   "speaker": "翔",
   "jp": "特に理由はないですよ。",
-  "en": ""
+  "en": "No particular reason."
  },
  {
   "id": "Y_MORI03:0020",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ヒトシとか学が言ってるから、\nそう呼んでるだけです。",
-  "en": ""
+  "en": "Hitoshi and Manabu call her that,\nso I just do too."
  },
  {
   "id": "Y_MORI03:0021",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "そうなの？\n……それはよしたほうがいいわよ。",
-  "en": ""
+  "en": "Is that so?\n...Then you'd better stop that."
  },
  {
   "id": "Y_MORI03:0022",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "人をどう呼ぶかは、すごく大切なことよ。",
-  "en": ""
+  "en": "How you address someone is very important."
  },
  {
   "id": "Y_MORI03:0023",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "それでお互いの関係もわかるわけだから……ね？",
-  "en": ""
+  "en": "It shows what kind of relationship\nyou have... see?"
  },
  {
   "id": "Y_MORI03:0024",
   "kind": "msg",
   "speaker": "翔",
   "jp": "呼びたいんですけど、その……照れくさいんです。",
-  "en": ""
+  "en": "I'd like to, but, um... it's embarrassing."
  },
  {
   "id": "Y_MORI03:0025",
   "kind": "msg",
   "speaker": "翔",
   "jp": "それに、キッカケもありませんし。",
-  "en": ""
+  "en": "Besides, I haven't had the chance."
  },
  {
   "id": "Y_MORI03:0026",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "……うふ。\n新見くんらしいわね。",
-  "en": ""
+  "en": "...Ufu.\nThat's so like you, Niimi-kun."
  },
  {
   "id": "Y_MORI03:0027",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "でも、できることなら、\nちゃんと名前を呼んであげたほうがいいわよ。",
-  "en": ""
+  "en": "But if you can,\nyou really should call her by her name."
  },
  {
   "id": "Y_MORI03:0028",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "伊藤さん以外の仲間にもね。\n期待してるわよ。",
-  "en": ""
+  "en": "That goes for your other companions, too.\nI'm counting on you."
  }
 ]

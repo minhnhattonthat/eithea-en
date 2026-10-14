@@ -4,272 +4,272 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "フィノ婆さん！\nおい、婆さんよお！\n……いねえのか？",
-  "en": ""
+  "en": "Granny Fino!\nHey, Granny!\n...She's not here?"
  },
  {
   "id": "KA_ALBAZ:0001",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "部屋を荒らされた跡はないわ。\n……町の人たちは、どこに行ったのかしら？",
-  "en": ""
+  "en": "There's no sign the room was ransacked.\n...Where did all the townspeople go?"
  },
  {
   "id": "KA_ALBAZ:0002",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "……お兄ちゃん。\n……怖いの。\n……怖いのお……！",
-  "en": ""
+  "en": "...Big brother.\n...I'm scared.\n...I'm scared~...!"
  },
  {
   "id": "KA_ALBAZ:0003",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ハーミー、どうしたんだ？",
-  "en": ""
+  "en": "Hermie, what's wrong?"
  },
  {
   "id": "KA_ALBAZ:0004",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "この先からなの……\nこの先にまっ暗い穴があるの。\nそこが……怖いのお……！",
-  "en": ""
+  "en": "It's coming from up ahead...\nThere's a pitch-black hole up ahead~\nIt's... it's scary~...!"
  },
  {
   "id": "KA_ALBAZ:0005",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "この先って……確か廃墟への入り口だよね？",
-  "en": ""
+  "en": "Up ahead... That's the entrance to the ruins,\nisn't it?"
  },
  {
   "id": "KA_ALBAZ:0006",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "あそこに何かあるらしいな。\n……いやな予感がするぜ。",
-  "en": ""
+  "en": "Looks like something's down there.\n...I've got a bad feeling about this."
  },
  {
   "id": "KA_ALBAZ:0007",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……魔女がいるってことか？",
-  "en": ""
+  "en": "...You mean the Witch is there?"
  },
  {
   "id": "KA_ALBAZ:0008",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ああ、たぶんな……さあ、正念場だぜ。\n……翔、準備はいいか？",
-  "en": ""
+  "en": "Yeah, probably... Well, this is it.\n...Shou, you ready?"
  },
  {
   "id": "KA_ALBAZ:0009",
   "kind": "choice",
   "speaker": "",
   "jp": "　だいじょうぶだ\n　まだだめだ",
-  "en": ""
+  "en": "I'm ready\nNot yet"
  },
  {
   "id": "KA_ALBAZ:0010",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "よし、なら廃墟に行くぞ。\nいっしょには戦えないが、\n今度は俺もいっしょに行くぜ。",
-  "en": ""
+  "en": "Alright, then let's head for the ruins.\nI can't fight alongside you,\nbut this time I'm coming too."
  },
  {
   "id": "KA_ALBAZ:0011",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "オレらはここでまっとるわ。\nなんかあったら知らせに行くからな。",
-  "en": ""
+  "en": "We'll wait here.\nIf somethin' comes up, we'll come tell ya."
  },
  {
   "id": "KA_ALBAZ:0012",
   "kind": "msg",
   "speaker": "学",
   "jp": "みんな、気をつけてね。\n……ほんとに気をつけてね！",
-  "en": ""
+  "en": "Be careful, everyone.\n...Really, really careful!"
  },
  {
   "id": "KA_ALBAZ:0013",
   "kind": "msg",
   "speaker": "翔",
   "jp": "おまえらこそな。\n……それじゃあ、行くか！",
-  "en": ""
+  "en": "You guys too.\n...Alright, let's go!"
  },
  {
   "id": "KA_ALBAZ:0014",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……そうだな。\nじゃあ、少し休むか。",
-  "en": ""
+  "en": "...Fair enough.\nLet's rest a bit, then."
  },
  {
   "id": "KA_ALBAZ:0015",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "寝るんだったら、奥にあるベッドを使えよ。",
-  "en": ""
+  "en": "If you're gonna sleep, use the bed in back."
  },
  {
   "id": "KA_ALBAZ:0016",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……ああ、それからな。\n少しで悪いんだが、アイテムを仕入れてあるんだ。",
-  "en": ""
+  "en": "...Oh, and one more thing.\nIt's not much, but I stocked up on some items."
  },
  {
   "id": "KA_ALBAZ:0017",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "いるんだったら言えよ。\nもちろん、代金はもらうがな。",
-  "en": ""
+  "en": "Just say the word if you need any.\nNot for free, of course."
  },
  {
   "id": "KA_ALBAZ:0018",
   "kind": "choice",
   "speaker": "",
   "jp": "　寝る　　　　　　　　　　　町に行く\n　魔弾研究　　　　　　　　　売り買いする\n　地下に行く　　　　　　　　セーブする",
-  "en": ""
+  "en": "Sleep                     Go to town\nMagic Bullet Research     Buy and sell\nGo underground            Save"
  },
  {
   "id": "KA_ALBAZ:0019",
   "kind": "msg",
   "speaker": "翔",
   "jp": "じゃあ、でかけるか。",
-  "en": ""
+  "en": "Well, guess I'll head out."
  },
  {
   "id": "KA_ALBAZ:0020",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "わかった。\nじゃあ、ゆっくり休めよ。",
-  "en": ""
+  "en": "Got it.\nGet some good rest, then."
  },
  {
   "id": "KA_ALBAZ:0021",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "疲れはとれたか？\n無理すんなよ。",
-  "en": ""
+  "en": "Feel rested?\nDon't push yourself."
  },
  {
   "id": "KA_ALBAZ:0022",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "よし、さて、どうするんだ？",
-  "en": ""
+  "en": "Alright, so what's it gonna be?"
  },
  {
   "id": "KA_ALBAZ:0023",
   "kind": "choice",
   "speaker": "",
   "jp": "　買い物をする\n　持っている物を売る\n　やめる",
-  "en": ""
+  "en": "Buy\nSell items\nNever mind"
  },
  {
   "id": "KA_ALBAZ:0024",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "まいどあり。\nいい買い物したぜ！",
-  "en": ""
+  "en": "Pleasure doing business.\nThat was a good buy!"
  },
  {
   "id": "KA_ALBAZ:0025",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "そうか。\nま、気が変わったら\n言ってくれ。",
-  "en": ""
+  "en": "I see.\nWell, if you change your mind,\nlet me know."
  },
  {
   "id": "KA_ALBAZ:0026",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "まいどあり。\n次は、もっと役に立つものを\n仕入れとくぜ。",
-  "en": ""
+  "en": "Pleasure doing business.\nNext time I'll stock up on\nsomething even more useful."
  },
  {
   "id": "KA_ALBAZ:0027",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "なにもいらねえのか？\nそいつは残念だな……",
-  "en": ""
+  "en": "Nothing you need?\nThat's a shame..."
  },
  {
   "id": "KA_ALBAZ:0028",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "まいどあり！\n戦いが終わったら、ちゃんと店を出してえな。",
-  "en": ""
+  "en": "Pleasure doin' business!\nOnce the fighting's over, I wanna open\na proper shop."
  },
  {
   "id": "KA_ALBAZ:0029",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "おう、ちょっとまってな！",
-  "en": ""
+  "en": "Sure, hang on a sec!"
  },
  {
   "id": "KA_ALBAZ:0030",
   "kind": "msg",
   "speaker": "翔",
   "jp": "じゃあ、でかけるか。",
-  "en": ""
+  "en": "Well, guess I'll head out."
  },
  {
   "id": "KA_ALBAZ:0031",
   "kind": "msg",
   "speaker": "翔",
   "jp": "じゃあ、でかけるか。",
-  "en": ""
+  "en": "Well, guess I'll head out."
  },
  {
   "id": "KA_ALBAZ:0032",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……なんだ、これは？\n何か雰囲気がちがうな。",
-  "en": ""
+  "en": "...What's this?\nThe air feels different."
  },
  {
   "id": "KA_ALBAZ:0033",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ああ……あ……\n暗いのお…………すごく……怖いの……！",
-  "en": ""
+  "en": "Ah... ah...\nIt's dark~... So... so scary~...!"
  },
  {
   "id": "KA_ALBAZ:0034",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ハーミー、だいじょうぶよ。\nみんないるから、落ちつきなさい！",
-  "en": ""
+  "en": "Hermie, it's all right.\nWe're all here, so calm down!"
  },
  {
   "id": "KA_ALBAZ:0035",
   "kind": "msg",
   "speaker": "翔",
   "jp": "どうしたんだ？\nなんでこんなに怖がるんだ……？",
-  "en": ""
+  "en": "What's wrong?\nWhy is she so scared...?"
  },
  {
   "id": "KA_ALBAZ:0036",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ハーミーは感じてるんだ。\nここで何かが、\n何かの災厄が起きようとしてることをな。",
-  "en": ""
+  "en": "Hermie can sense it.\nSomething here...\nsome kind of disaster is about to happen."
  },
  {
   "id": "KA_ALBAZ:0037",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "急いだほうがいい。\n先に進もうぜ。",
-  "en": ""
+  "en": "We'd better hurry.\nLet's keep moving."
  },
  {
   "id": "KA_ALBAZ:0038",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "よし。　翔、どうする？",
-  "en": ""
+  "en": "Alright. Shou, what'll it be?"
  }
 ]

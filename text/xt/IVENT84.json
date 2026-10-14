@@ -4,97 +4,97 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……おかしいな。\nプラダの兵士がいると思ったんだが……",
-  "en": ""
+  "en": "...That's odd.\nI figured Prada's soldiers would be here..."
  },
  {
   "id": "IVENT84:0001",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "……怖いの\n……すごく怖いのお。",
-  "en": ""
+  "en": "...Scary~\n...It's really scary~"
  },
  {
   "id": "IVENT84:0002",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "どうしたの、ハーミー？",
-  "en": ""
+  "en": "What's wrong, Hermie?"
  },
  {
   "id": "IVENT84:0003",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "あそこ……何もないの……\n暗い穴があって……すごく怖いのお……",
-  "en": ""
+  "en": "Over there... there's nothing~...\nJust a dark hole... it's really scary~..."
  },
  {
   "id": "IVENT84:0004",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "なんかマズいことになってるようだな……\n門まで行ってみようぜ。",
-  "en": ""
+  "en": "Looks like something's gone wrong...\nLet's head to the gate."
  },
  {
   "id": "IVENT84:0005",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "門が閉まってる………それに人の気配がしねえ。\nどういうことなんだ？",
-  "en": ""
+  "en": "The gate's closed... and nobody's around.\nWhat's going on here?"
  },
  {
   "id": "IVENT84:0006",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……静かすぎます。\n人の声が聞こえてきません。",
-  "en": ""
+  "en": "...It's too quiet.\nI can't hear anyone's voices."
  },
  {
   "id": "IVENT84:0007",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……ほんとだ。\nどうしたんだろう？",
-  "en": ""
+  "en": "...You're right.\nWhat happened?"
  },
  {
   "id": "IVENT84:0008",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ヒトシ<8>、学<8>、抜け穴に案内してくれ。",
-  "en": ""
+  "en": "Hitoshi<8>, Manabu<8>, show us the secret passage."
  },
  {
   "id": "IVENT84:0009",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "ああ、ほな、こっちや。\nまだありますように……",
-  "en": ""
+  "en": "Yeah, this way.\nPlease still be there..."
  },
  {
   "id": "IVENT84:0010",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……あんなところに抜け穴があったとはな。\nそれにしても、町の奴らはどこにいったんだ？",
-  "en": ""
+  "en": "...Can't believe the passage was there.\nStill, where'd everyone in town go?"
  },
  {
   "id": "IVENT84:0011",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……何か気味が悪いよお。",
-  "en": ""
+  "en": "...This is kinda creepy..."
  },
  {
   "id": "IVENT84:0012",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "いったい何があったのかしら？\n兵士の姿も見えないし……",
-  "en": ""
+  "en": "What on earth happened?\nThere are no soldiers around, either..."
  },
  {
   "id": "IVENT84:0013",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ばあさんに聞けば、何かわかるかも知れんな。\n俺の家に行ってみようぜ。",
-  "en": ""
+  "en": "Granny might know something.\nLet's go to my place."
  }
 ]

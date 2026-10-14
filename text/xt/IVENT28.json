@@ -4,1133 +4,1133 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "伊藤さん、頼むよ。",
-  "en": ""
+  "en": "Itou-san, it's up to you."
  },
  {
   "id": "IVENT28:0001",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "はい……\nでも、どうやって<10>…<10>…<10>え？",
-  "en": ""
+  "en": "Okay...\nBut how am I supposed to<10>...<10>...<10>huh?"
  },
  {
   "id": "IVENT28:0002",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "ひ、開いちゃった……！",
-  "en": ""
+  "en": "I-It opened...!"
  },
  {
   "id": "IVENT28:0003",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "やったあ！\nひかる、スゴいじゃん！",
-  "en": ""
+  "en": "Yay!\nHikaru, that's amazing!"
  },
  {
   "id": "IVENT28:0004",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "コンテナが開いてよかったんだけど……",
-  "en": ""
+  "en": "I'm glad the container opened, but..."
  },
  {
   "id": "IVENT28:0005",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "伊藤さんにペンダントを\nくれた人というのは、やっぱり……",
-  "en": ""
+  "en": "The person who gave\nItou-san that pendant must be..."
  },
  {
   "id": "IVENT28:0006",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "…<10>…イムル、あなたはいったい……",
-  "en": ""
+  "en": "...<10>...Imul, who are you, really...?"
  },
  {
   "id": "IVENT28:0007",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "考えこんでいても、しかたないわね。",
-  "en": ""
+  "en": "No point brooding over it, I suppose."
  },
  {
   "id": "IVENT28:0008",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "みんな、注意して！\nジャームがいるわ！",
-  "en": ""
+  "en": "Everyone, watch out!\nThere's a Germ here!"
  },
  {
   "id": "IVENT28:0009",
   "kind": "msg",
   "speaker": "翔",
   "jp": "気をつけろ！\n<10><10>くるぞッ！！！",
-  "en": ""
+  "en": "Look out!\n<10><10>Here it comes!!!"
  },
  {
   "id": "IVENT28:0010",
   "kind": "msg",
   "speaker": "翔",
   "jp": "みんな、だいじょうぶか？\nさてと<10>…<10>…あったぞ！\nアーティアだ！",
-  "en": ""
+  "en": "Everyone okay?\nNow then<10>...<10>...there it is!\nAn Artia!"
  },
  {
   "id": "IVENT28:0011",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ブックはあるかしら？",
-  "en": ""
+  "en": "Is there a Book here?"
  },
  {
   "id": "IVENT28:0012",
   "kind": "msg",
   "speaker": "翔",
   "jp": "それらしいものは……見あたらないな。",
-  "en": ""
+  "en": "Nothing that looks like one... I don't see it."
  },
  {
   "id": "IVENT28:0013",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "そう、残念ね……\nここにいる必要もないわね。",
-  "en": ""
+  "en": "I see, that's too bad...\nThen there's no need to stay here."
  },
  {
   "id": "IVENT28:0014",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "アルバイジャンの家に戻りましょう。",
-  "en": ""
+  "en": "Let's go back to Albaijan's house."
  },
  {
   "id": "IVENT28:0015",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "<1>アーティアエイド<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>Artia Aid<8>!"
  },
  {
   "id": "IVENT28:0016",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "みんな、おつかれさん！\nこれでアーティアは３個目だな。",
-  "en": ""
+  "en": "Good work, everyone!\nThat makes three Artia now."
  },
  {
   "id": "IVENT28:0017",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "さてと、これからどうする？\n時間だけはあるしな。\n疲れてるんなら……",
-  "en": ""
+  "en": "So, what's next?\nWe've got nothing but time.\nIf you're tired..."
  },
  {
   "id": "IVENT28:0018",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "先生、ユカ、会いたかったでえ！",
-  "en": ""
+  "en": "Sensei! Yuka! Man, I missed ya!"
  },
  {
   "id": "IVENT28:0019",
   "kind": "msg",
   "speaker": "学",
   "jp": "よかったあ。\n今度こそ、もう会えないかと思ったから……",
-  "en": ""
+  "en": "Thank goodness. This time I thought\nwe'd never see you again..."
  },
  {
   "id": "IVENT28:0020",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "二人ともどうしたの？\nこんなに汚れちゃって……",
-  "en": ""
+  "en": "What happened to you two?\nYou're filthy..."
  },
  {
   "id": "IVENT28:0021",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "それより、どうやってここまで来たの？",
-  "en": ""
+  "en": "More importantly, how did you get here?"
  },
  {
   "id": "IVENT28:0022",
   "kind": "msg",
   "speaker": "学",
   "jp": "ヒトシのケガが早くよくなってね。",
-  "en": ""
+  "en": "Hitoshi's injury healed quickly, see."
  },
  {
   "id": "IVENT28:0023",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "翔たちがイオピロスを出てからしばらくしてからな、\nまってるのも退屈やから、すぐに\n翔たちを追ったんや。今なら追いつける思うてな。",
-  "en": ""
+  "en": "A while after you guys left Iopiros, Shou,\nwaitin' around got borin', so we came right\nafter ya. Figured we could still catch up."
  },
  {
   "id": "IVENT28:0024",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "そんなやったら、また学が道を……",
-  "en": ""
+  "en": "But then Manabu goes and gets us lost again..."
  },
  {
   "id": "IVENT28:0025",
   "kind": "msg",
   "speaker": "学",
   "jp": "ひどいなあ！\n今度は西って言ったじゃん！",
-  "en": ""
+  "en": "That's mean!\nThis time I said west!"
  },
  {
   "id": "IVENT28:0026",
   "kind": "msg",
   "speaker": "学",
   "jp": "……それでね、森の中に迷いこんじゃってさ。",
-  "en": ""
+  "en": "...So anyway, we got lost in the forest."
  },
  {
   "id": "IVENT28:0027",
   "kind": "msg",
   "speaker": "学",
   "jp": "熊みたいなジャームに襲われちゃったんだ。",
-  "en": ""
+  "en": "And a bear-like Germ attacked us."
  },
  {
   "id": "IVENT28:0028",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "あかん！\nコラもう終わりや！",
-  "en": ""
+  "en": "That's it!\nWe're done for!"
  },
  {
   "id": "IVENT28:0029",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "マジにそう思うたとき、\n二枚目っぽい妙にナルシーなニイちゃんが\n助けてくれたんや。",
-  "en": ""
+  "en": "Right when I really thought that, this\nweirdly narcissistic pretty-boy type\nshowed up and saved us."
  },
  {
   "id": "IVENT28:0030",
   "kind": "msg",
   "speaker": "学",
   "jp": "ほんと、ラッキーだったよ。",
-  "en": ""
+  "en": "We were really lucky."
  },
  {
   "id": "IVENT28:0031",
   "kind": "msg",
   "speaker": "翔",
   "jp": "二枚目っぽいナルシー？",
-  "en": ""
+  "en": "A narcissistic pretty boy?"
  },
  {
   "id": "IVENT28:0032",
   "kind": "msg",
   "speaker": "学",
   "jp": "それからぼくたち、\nその人といっしょにこの町に来たんだ。",
-  "en": ""
+  "en": "After that, we came\nto this town together with him."
  },
  {
   "id": "IVENT28:0033",
   "kind": "msg",
   "speaker": "翔",
   "jp": "その人は、今どこなんだ？",
-  "en": ""
+  "en": "Where is he now?"
  },
  {
   "id": "IVENT28:0034",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "それがなあ……いつのまにか消えてたんや。",
-  "en": ""
+  "en": "Thing is... he just up and vanished on us."
  },
  {
   "id": "IVENT28:0035",
   "kind": "msg",
   "speaker": "学",
   "jp": "どうしたんだろね？\n用事でもあったのかなあ？",
-  "en": ""
+  "en": "I wonder what happened?\nMaybe he had somewhere to be?"
  },
  {
   "id": "IVENT28:0036",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "そやな……まあ、そんなことはええんや。",
-  "en": ""
+  "en": "Yeah... Well, never mind that."
  },
  {
   "id": "IVENT28:0037",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "でその後、町の人にアルバイジャンの家の場所を\n聞いて、今に至るというわけや。結構有名なんやな、\nあのオッチャン。　すぐわかったわ。",
-  "en": ""
+  "en": "Then we asked folks in town where Albaijan's\nplace was, and here we are. Old guy's pretty\nfamous, huh? Found it in no time."
  },
  {
   "id": "IVENT28:0038",
   "kind": "msg",
   "speaker": "翔",
   "jp": "たいへんだったな。\nそういえば、イオピロスのみんなは元気なのか？",
-  "en": ""
+  "en": "Sounds rough.\nBy the way, how's everyone in Iopiros?"
  },
  {
   "id": "IVENT28:0039",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "おお、せやせや！　そのことなんや！\nアルバイジャンはどこや？",
-  "en": ""
+  "en": "Oh, right, right! That's the thing!\nWhere's Albaijan?"
  },
  {
   "id": "IVENT28:0040",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "大声を出すなって。\nここにいるぜ。\nどうしたんだ、いったい？",
-  "en": ""
+  "en": "Don't shout.\nI'm right here.\nWhat's gotten into you?"
  },
  {
   "id": "IVENT28:0041",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "ノンビリしてる場合ちゃうで！\nエウリケにな、神さんからのお告げがあったんや！",
-  "en": ""
+  "en": "This ain't no time to be lazin' around!\nEurike got an oracle from the gods!"
  },
  {
   "id": "IVENT28:0042",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "なんやったけ、ええとな……学、頼むわ。",
-  "en": ""
+  "en": "What was it again, uh... Manabu, you take it."
  },
  {
   "id": "IVENT28:0043",
   "kind": "msg",
   "speaker": "学",
   "jp": "近き日、火竜の民に動きの兆しあり。\n聖なる樹、魔に転ず。",
-  "en": ""
+  "en": "\"In days near, the Fire Dragon folk shall\nstir. The holy tree shall turn to evil.\""
  },
  {
   "id": "IVENT28:0044",
   "kind": "msg",
   "speaker": "学",
   "jp": "古えの御技、彼の地に蘇り、\n大いなる力、破滅を導かん。\n……ねえ、意味わかる？",
-  "en": ""
+  "en": "\"The ancient arts shall revive in that land,\nand great power shall bring ruin.\"\n...Hey, get what it means?"
  },
  {
   "id": "IVENT28:0045",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "あっきれたあ。\n意味もわからないで騒いでたの？",
-  "en": ""
+  "en": "Unbelievable.\nYou made all that fuss without knowing\nwhat it even means?"
  },
  {
   "id": "IVENT28:0046",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "……神のお告げ……火竜の民……樹が魔に……\n古えの御技……？",
-  "en": ""
+  "en": "...A message from the gods... the Fire Dragon\npeople... the tree turning to evil...\nthe ancient arts...?"
  },
  {
   "id": "IVENT28:0047",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "どういうことなの？",
-  "en": ""
+  "en": "What's that supposed to mean?"
  },
  {
   "id": "IVENT28:0048",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……たぶん、古代の技術を使った実験だろう。",
-  "en": ""
+  "en": "...Probably an experiment\nusing ancient technology."
  },
  {
   "id": "IVENT28:0049",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "火竜族のヤツらは、\nエレの樹からもっと力を吸い取るつもりなのさ。",
-  "en": ""
+  "en": "Those Fire Dragon Clan types are plannin' to\nsuck even more power out of the Ele Tree."
  },
  {
   "id": "IVENT28:0050",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "あのやろう、しょうこりもなく……！",
-  "en": ""
+  "en": "That jerk... he never learns...!"
  },
  {
   "id": "IVENT28:0051",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……あのやろう？\nアルバイジャン、何か知ってるのか？",
-  "en": ""
+  "en": "...\"That jerk\"?\nAlbaijan, do you know something?"
  },
  {
   "id": "IVENT28:0052",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "…<10>…そのうち話すさ。\nこうなると、イオピロスが心配だな。",
-  "en": ""
+  "en": "...<10>...I'll tell ya eventually.\nThe way things are, I'm worried about Iopiros."
  },
  {
   "id": "IVENT28:0053",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "どういうこと！？",
-  "en": ""
+  "en": "What do you mean?!"
  },
  {
   "id": "IVENT28:0054",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "考えてみろよ。",
-  "en": ""
+  "en": "Think about it."
  },
  {
   "id": "IVENT28:0055",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "実験が成功するにしろ失敗するにしろ……",
-  "en": ""
+  "en": "Whether the experiment works or fails..."
  },
  {
   "id": "IVENT28:0056",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "奴らがそれで満足するはずがない。\nユーロリアはイオピロスの\nエレの樹を手に入れようとするはずだ。",
-  "en": ""
+  "en": "there's no way they'll be satisfied.\nEurolia's gonna try to get its hands on\nthe Ele Tree in Iopiros."
  },
  {
   "id": "IVENT28:0057",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "じゃあ、ユーロリアはイオピロスに……\nわたし、村に戻る！",
-  "en": ""
+  "en": "Then Eurolia's going after Iopiros...\nI'm going back to the village!"
  },
  {
   "id": "IVENT28:0058",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "まてよ、ルー。\n村に帰ったって、何もならないだろ？",
-  "en": ""
+  "en": "Hold on, Lou.\nHeading home won't do any good, will it?"
  },
  {
   "id": "IVENT28:0059",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "もっと根本的なところを考えてみろよ。",
-  "en": ""
+  "en": "Think about the root of the problem."
  },
  {
   "id": "IVENT28:0060",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "根本的なところ？\nどうしろって言うの？",
-  "en": ""
+  "en": "The root of the problem?\nWhat are you telling me to do?"
  },
  {
   "id": "IVENT28:0061",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "決まってるだろ？\nユーロリアに行き、実験をぶっつぶす！",
-  "en": ""
+  "en": "Isn't it obvious?\nWe go to Eurolia and smash that experiment!"
  },
  {
   "id": "IVENT28:0062",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そんな無茶な！\nそれに族長が、なんて言うか……",
-  "en": ""
+  "en": "That's crazy!\nBesides, who knows what the Chief would say..."
  },
  {
   "id": "IVENT28:0063",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "わかってる。\nこんな問題だ。\nすぐに結論を出せとは言わん。",
-  "en": ""
+  "en": "I know.\nIt's a big question.\nI won't ask you to decide right away."
  },
  {
   "id": "IVENT28:0064",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "少し時間をやるから、その間に答えを出してくれ。",
-  "en": ""
+  "en": "I'll give ya a little time.\nHave an answer for me by then."
  },
  {
   "id": "IVENT28:0065",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ああ、翔たちはいいぞ。\nこれはアイシアの問題だ。\nおまえたちに関係ないからな。",
-  "en": ""
+  "en": "Oh, and Shou, you guys are off the hook.\nThis is Eithéa's problem.\nIt's got nothin' to do with you."
  },
  {
   "id": "IVENT28:0066",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ただ、力を貸してくれるって言うんなら、\nありがたいな。\n俺だけじゃあ心細くてよ。",
-  "en": ""
+  "en": "Still, if you're offerin' to lend a hand,\nI'd be grateful.\nI'm feelin' a little uneasy on my own."
  },
  {
   "id": "IVENT28:0067",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "なんにせよ、答えが決まったら教えてくれ。",
-  "en": ""
+  "en": "Either way, let me know once you've decided."
  },
  {
   "id": "IVENT28:0068",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "なんか、なにげに要求してるわね。",
-  "en": ""
+  "en": "Well, he's sure sneaking in a request, huh?"
  },
  {
   "id": "IVENT28:0069",
   "kind": "msg",
   "speaker": "翔",
   "jp": "先生、どうしましょう……？",
-  "en": ""
+  "en": "Sensei, what should we do...?"
  },
  {
   "id": "IVENT28:0070",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "新見くんの好きになさい。\n私は、あなたを信頼するわ。",
-  "en": ""
+  "en": "Do whatever you think best, Niimi-kun.\nI trust you."
  },
  {
   "id": "IVENT28:0071",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "答えが決まらないんだったら、\nみんなに話しかけてみたら？",
-  "en": ""
+  "en": "If you can't decide,\nwhy not try talking to everyone?"
  },
  {
   "id": "IVENT28:0072",
   "kind": "choice",
   "speaker": "",
   "jp": "　仲間と話す\n　アルバイジャンに答えを言う",
-  "en": ""
+  "en": "Talk to your friends\nGive Albaijan an answer"
  },
  {
   "id": "IVENT28:0073",
   "kind": "choice",
   "speaker": "",
   "jp": "　秋穂と話す　　　　　　　　ルーと話す\n　ユカと話す　　　　　　　　戻る\n　ひかると話す",
-  "en": ""
+  "en": "Talk to Akiho             Talk to Lou\nTalk to Yuka              Back\nTalk to Hikaru"
  },
  {
   "id": "IVENT28:0074",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "私は、あなたを信頼してるわ。\n自分の信じたとおりに行動しなさい。",
-  "en": ""
+  "en": "I trust you.\nDo what you believe is right."
  },
  {
   "id": "IVENT28:0075",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "私も翔の答えを信じるよ。\nいっしょにいられるんなら、それでいいからさ。",
-  "en": ""
+  "en": "I trust your answer too, Shou.\nAs long as we're together, that's fine by me."
  },
  {
   "id": "IVENT28:0076",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "新見くん、わたし……\nわたし、ユーロリアに行きたいです……！",
-  "en": ""
+  "en": "Niimi-kun, I...\nI want to go to Eurolia...!"
  },
  {
   "id": "IVENT28:0077",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ど、どうしたんだ！？\n……今度はかなり危険なんだぞ。",
-  "en": ""
+  "en": "Wh-What's gotten into you?!\n...This time it's really dangerous, you know."
  },
  {
   "id": "IVENT28:0078",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "わかっています……けど……けど、\n行きたいんです……",
-  "en": ""
+  "en": "I know... but... but,\nI want to go..."
  },
  {
   "id": "IVENT28:0079",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "このペンダントは、\n勇気の出るお守りなんだそうです。",
-  "en": ""
+  "en": "This pendant is supposed to be\na charm that gives you courage."
  },
  {
   "id": "IVENT28:0080",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "これをくれた人は、\nわたしにそう言ってくれました……",
-  "en": ""
+  "en": "That's what the person who gave it\nto me told me..."
  },
  {
   "id": "IVENT28:0081",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "悩んでいたわたしを\n元気づけるために、勇気づけるために……",
-  "en": ""
+  "en": "To cheer me up when I was troubled,\nto give me courage..."
  },
  {
   "id": "IVENT28:0082",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "わたし、このペンダントを返したいんです。",
-  "en": ""
+  "en": "I want to give this pendant back."
  },
  {
   "id": "IVENT28:0083",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "もう一度会って、お礼を言いたいんです。",
-  "en": ""
+  "en": "I want to see them once more,\nand say thank you."
  },
  {
   "id": "IVENT28:0084",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "今度は、笑顔で会いたいんです。",
-  "en": ""
+  "en": "And this time, I want to meet them smiling."
  },
  {
   "id": "IVENT28:0085",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "わたしは、だいじょうぶだよって。",
-  "en": ""
+  "en": "To tell them I'm all right now."
  },
  {
   "id": "IVENT28:0086",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "わたしは、強くなれるからって……",
-  "en": ""
+  "en": "That I can become strong..."
  },
  {
   "id": "IVENT28:0087",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "ペンダントを返したとき、\n笑ってそう言いたいんです。",
-  "en": ""
+  "en": "When I give the pendant back,\nI want to tell them that with a smile."
  },
  {
   "id": "IVENT28:0088",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "そうじゃないと……悔いが残るから……",
-  "en": ""
+  "en": "Otherwise... I'll always regret it..."
  },
  {
   "id": "IVENT28:0089",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "だから、わたし……アルバイジャンといっしょに、\nユーロリアに行きます……",
-  "en": ""
+  "en": "So I... I'm going to Eurolia\nwith Albaijan..."
  },
  {
   "id": "IVENT28:0090",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "一度だけわがままを許してください……",
-  "en": ""
+  "en": "Please, just this once, let me be selfish..."
  },
  {
   "id": "IVENT28:0091",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "新見くん、\nわがままを言ってごめんなさい……",
-  "en": ""
+  "en": "Niimi-kun,\nI'm sorry for being so selfish..."
  },
  {
   "id": "IVENT28:0092",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "ああ、せやせや。\n忘れるとこやったわ。",
-  "en": ""
+  "en": "Oh, right, right.\nI almost forgot."
  },
  {
   "id": "IVENT28:0093",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "ルー、ファンナから手紙を預かっとるんやけど。",
-  "en": ""
+  "en": "Lou, Fanna gave me a letter for ya."
  },
  {
   "id": "IVENT28:0094",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "手紙？　見せてよ。\n<10>…<10>…<10>え、……そんな……！",
-  "en": ""
+  "en": "A letter? Let me see.\n<10>...<10>...<10>Huh... no way...!"
  },
  {
   "id": "IVENT28:0095",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "…<10>…わかったわ…<10>…ありがとう……",
-  "en": ""
+  "en": "...<10>...Got it...<10>...thanks..."
  },
  {
   "id": "IVENT28:0096",
   "kind": "msg",
   "speaker": "翔",
   "jp": "なんて書いてあったんだ？",
-  "en": ""
+  "en": "What did it say?"
  },
  {
   "id": "IVENT28:0097",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "……ファンナがね、村には帰ってくるなって。",
-  "en": ""
+  "en": "...Fanna says not to come back to the village."
  },
  {
   "id": "IVENT28:0098",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ええ！？\nどういうことだ！？",
-  "en": ""
+  "en": "What?!\nWhat does that mean?!"
  },
  {
   "id": "IVENT28:0099",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "族長はね、すべてを予測していたの。",
-  "en": ""
+  "en": "The Chief saw it all coming."
  },
  {
   "id": "IVENT28:0100",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ユーロリアの実験のことも……\nイオピロスが危険にさらされることも……",
-  "en": ""
+  "en": "The experiment in Eurolia...\nand Iopiros being put in danger..."
  },
  {
   "id": "IVENT28:0101",
   "kind": "msg",
   "speaker": "翔",
   "jp": "じゃあ、戦士が、ルーの力が必要じゃないか。\nなのに、どうして……？",
-  "en": ""
+  "en": "Then they need a warrior--they need you, Lou!\nSo why...?"
  },
  {
   "id": "IVENT28:0102",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "村は、ファンナたちが守るからって。",
-  "en": ""
+  "en": "She says Fanna and the others will protect\nthe village."
  },
  {
   "id": "IVENT28:0103",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "自分たちが守ってみせるからって。",
-  "en": ""
+  "en": "That they'll protect it themselves, no matter\nwhat."
  },
  {
   "id": "IVENT28:0104",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "……だから、わたしはエレの樹を守れってさ。",
-  "en": ""
+  "en": "...So I'm to protect the Ele Tree, she says."
  },
  {
   "id": "IVENT28:0105",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "いつだって、あなたの味方だから……",
-  "en": ""
+  "en": "She'll always be on my side, she said..."
  },
  {
   "id": "IVENT28:0106",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "わたしのこと、信じてるからって……",
-  "en": ""
+  "en": "Because she believes in me..."
  },
  {
   "id": "IVENT28:0107",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そう書いてあったよ……",
-  "en": ""
+  "en": "That's what she wrote..."
  },
  {
   "id": "IVENT28:0108",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ルー、よかったな。",
-  "en": ""
+  "en": "Lou, I'm glad for you."
  },
  {
   "id": "IVENT28:0109",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "……うん。\n翔、わたし、決めた。",
-  "en": ""
+  "en": "...Yeah.\nShou, I've made up my mind."
  },
  {
   "id": "IVENT28:0110",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "アルバイジャンといっしょに、\nユーロリアに行ってくる。",
-  "en": ""
+  "en": "I'm going to Eurolia\nwith Albaijan."
  },
  {
   "id": "IVENT28:0111",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "それが月光族を……\nエレの樹を救うためだから！",
-  "en": ""
+  "en": "It's to save the Moonlight Clan...\nto save the Ele Tree!"
  },
  {
   "id": "IVENT28:0112",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ファンナ、族長……\nありがとう……",
-  "en": ""
+  "en": "Fanna, Chief...\nthank you..."
  },
  {
   "id": "IVENT28:0113",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "お、答えが出たか？\nいい返事を期待してるぜ。",
-  "en": ""
+  "en": "Oh, made up your minds?\nI'm hopin' for a good answer."
  },
  {
   "id": "IVENT28:0114",
   "kind": "choice",
   "speaker": "",
   "jp": "　いっしょに行く\n　ここで別れる",
-  "en": ""
+  "en": "Go with Albaijan\nPart ways here"
  },
  {
   "id": "IVENT28:0115",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ああッ！？\nうれしいけど、いいのか？",
-  "en": ""
+  "en": "Whoa?!\nI'm glad, but are you sure?"
  },
  {
   "id": "IVENT28:0116",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "頼んでおいてこんな事いうのも何だが、\nわかってるとは思うが、今回は危険なんだぞ。\n生命の保障はできない…<10>…死ぬかもしれねえ。",
-  "en": ""
+  "en": "Funny thing to say after I'm the one askin',\nbut you know this one's dangerous, right?\nNo promises you'll live...<10> You could die."
  },
  {
   "id": "IVENT28:0117",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "それに、おまえたちには何のメリットもねえ。\nそれでも、いいのか？",
-  "en": ""
+  "en": "And there's nothin' in it for you guys.\nYou still sure?"
  },
  {
   "id": "IVENT28:0118",
   "kind": "msg",
   "speaker": "翔",
   "jp": "いいとは思わない。\nけど、こんな状況であるのをほってはおけないんだ！",
-  "en": ""
+  "en": "I wouldn't call it fine.\nBut I can't leave things the way they are!"
  },
  {
   "id": "IVENT28:0119",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "アルバイジャン、\n今まで助けてくれたお礼がしたいの。",
-  "en": ""
+  "en": "Albaijan,\nI want to thank you for all your help so far."
  },
  {
   "id": "IVENT28:0120",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "いっしょにユーロリアに行きましょう……ね？",
-  "en": ""
+  "en": "Let's go to Eurolia together... all right?"
  },
  {
   "id": "IVENT28:0121",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "翔、センセイ、ありがとよ。\nなら、善は急げだ。\nとっとと行こうぜ！",
-  "en": ""
+  "en": "Shou, Sensei, thanks.\nThen there's no time like the present.\nLet's get movin'!"
  },
  {
   "id": "IVENT28:0122",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "善は急げや、俺も今回は派手にやったるでェ！！",
-  "en": ""
+  "en": "No time like the present! This time I'm gonna\ngo all out too!!"
  },
  {
   "id": "IVENT28:0123",
   "kind": "msg",
   "speaker": "学",
   "jp": "みんなの活躍はちゃんとカメラにおさめるよ！！",
-  "en": ""
+  "en": "I'll capture everyone's heroics on camera!!"
  },
  {
   "id": "IVENT28:0124",
   "kind": "msg",
   "speaker": "翔",
   "jp": "いや、二人はここに残ってろ。",
-  "en": ""
+  "en": "No, you two stay here."
  },
  {
   "id": "IVENT28:0125",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ここまでいろいろあったんでしょう？",
-  "en": ""
+  "en": "You've been through a lot getting here,\nhaven't you?"
  },
  {
   "id": "IVENT28:0126",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "それは、まァそうやけど……",
-  "en": ""
+  "en": "Well, yeah, that's true, but..."
  },
  {
   "id": "IVENT28:0127",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "いいから、今は休みなさい、ね？",
-  "en": ""
+  "en": "Never mind that. For now, get some rest, okay?"
  },
  {
   "id": "IVENT28:0128",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "すんません。\nみんな、俺らの分までがんばってくれよ！",
-  "en": ""
+  "en": "Sorry 'bout this.\nGive it your all for us too, everyone!"
  },
  {
   "id": "IVENT28:0129",
   "kind": "msg",
   "speaker": "学",
   "jp": "気をつけてね！\n絶対に帰ってくるんだよ！",
-  "en": ""
+  "en": "Be careful!\nYou'd better come back, no matter what!"
  },
  {
   "id": "IVENT28:0130",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ああ、わかった。\nヒトシも学も、ゆっくり休めよ。",
-  "en": ""
+  "en": "Yeah, got it.\nHitoshi, Manabu, get some good rest."
  },
  {
   "id": "IVENT28:0131",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "そうか……",
-  "en": ""
+  "en": "I see..."
  },
  {
   "id": "IVENT28:0132",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "守護者、異世界に有りて、エレの樹に危機ある時、\n銃の導きにより、アイシアの地に現れん……",
-  "en": ""
+  "en": "The Guardian, abiding in another world,\nwhen peril befalls the Ele Tree, shall appear\nin the land of Eithéa, led by the gun..."
  },
  {
   "id": "IVENT28:0133",
   "kind": "msg",
   "speaker": "翔",
   "jp": "なんだ、それは！？",
-  "en": ""
+  "en": "What is that?!"
  },
  {
   "id": "IVENT28:0134",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "翔！？",
-  "en": ""
+  "en": "Shou?!"
  },
  {
   "id": "IVENT28:0135",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "なに怒ってんだよ！\nブックを解析中に異世界の事を調べていたら\nこんな文章が見つかったんだ。",
-  "en": ""
+  "en": "What're you so mad about?!\nI found that passage while analyzin' the Book\nand diggin' into other worlds."
  },
  {
   "id": "IVENT28:0136",
   "kind": "msg",
   "speaker": "翔",
   "jp": "くっ……",
-  "en": ""
+  "en": "Ngh..."
  },
  {
   "id": "IVENT28:0137",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ふぅ。",
-  "en": ""
+  "en": "Phew."
  },
  {
   "id": "IVENT28:0138",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "まあ、この家には好きなだけいてくれていいからよ。",
-  "en": ""
+  "en": "Anyway, feel free to stay as long as ya like."
  },
  {
   "id": "IVENT28:0139",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "短いつきあいだったが、ありがとうよ。",
-  "en": ""
+  "en": "We didn't know each other long, but thanks."
  },
  {
   "id": "IVENT28:0140",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "まって！　まってください！\nわたしも行きます……！\nいっしょに行かせてください！",
-  "en": ""
+  "en": "Wait! Please wait!\nI'm coming too...!\nPlease let me go with you!"
  },
  {
   "id": "IVENT28:0141",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "心強い<10>…<10>…けどよ、\nひかる、本当にいいのか？",
-  "en": ""
+  "en": "Glad to have ya<10>...<10>...but\nHikaru, are you really sure?"
  },
  {
   "id": "IVENT28:0142",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "行こうとしているのは、火竜族の本拠地だ。",
-  "en": ""
+  "en": "Where we're headed is the Fire Dragon Clan's\nhome base."
  },
  {
   "id": "IVENT28:0143",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "今まで以上に危険なんだ。\n<10>…<10>…死ぬかもしれないんだぞ？",
-  "en": ""
+  "en": "It's more dangerous than anything so far.\n<10>...<10>...You could die, ya know?"
  },
  {
   "id": "IVENT28:0144",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……戦います。\nわたし、がんばりますから！",
-  "en": ""
+  "en": "...I'll fight.\nI'll do my best!"
  },
  {
   "id": "IVENT28:0145",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "ペンダントをくれた、あの人のためにも……！",
-  "en": ""
+  "en": "For the sake of the person who gave me\nthis pendant, too...!"
  },
  {
   "id": "IVENT28:0146",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……いろいろとあるようだな。\nいいだろう、歓迎するぜ！",
-  "en": ""
+  "en": "...Seems you've got your reasons.\nAll right, welcome aboard!"
  },
  {
   "id": "IVENT28:0147",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "は、はい！\nよろしくお願いします……！",
-  "en": ""
+  "en": "Y-Yes!\nThank you so much...!"
  },
  {
   "id": "IVENT28:0148",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "わたしもつきあうわよ。\n月光族の戦士として見過ごしちゃおけないからね。",
-  "en": ""
+  "en": "I'm coming too.\nAs a warrior of the Moonlight Clan,\nI can't just let this slide."
  },
  {
   "id": "IVENT28:0149",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "翔、私……あの……",
-  "en": ""
+  "en": "Shou, I... um..."
  },
  {
   "id": "IVENT28:0150",
   "kind": "msg",
   "speaker": "翔",
   "jp": "わかってる。\nユカも行くんだろ。",
-  "en": ""
+  "en": "I know.\nYou're coming too, right, Yuka?"
  },
  {
   "id": "IVENT28:0151",
   "kind": "msg",
   "speaker": "翔",
   "jp": "アルバイジャン、\n俺たちもユーロリアに行くよ。",
-  "en": ""
+  "en": "Albaijan,\nwe're going to Eurolia too."
  },
  {
   "id": "IVENT28:0152",
   "kind": "msg",
   "speaker": "翔",
   "jp": "伊藤さんとルーが心配だし、\nユカも行きたがってるしな。",
-  "en": ""
+  "en": "I'm worried about Itou-san and Lou,\nand Yuka wants to go too."
  },
  {
   "id": "IVENT28:0153",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "すまねえな。\n…<10>…みんな、ありがとよ。",
-  "en": ""
+  "en": "Sorry 'bout this.\n...<10>...Thanks, everyone."
  },
  {
   "id": "IVENT28:0154",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "よし、なら、善は急げだ。\nとっとと行こうぜ！",
-  "en": ""
+  "en": "All right, no time like the present.\nLet's get movin'!"
  },
  {
   "id": "IVENT28:0155",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "あ、あのお……\n俺らはここに残ってるわ。\nちょっと疲れたしな。",
-  "en": ""
+  "en": "Uh, umm...\nWe're gonna stay here.\nWe're kinda wiped out."
  },
  {
   "id": "IVENT28:0156",
   "kind": "msg",
   "speaker": "学",
   "jp": "ごめんね。\nぼくたちは……その……",
-  "en": ""
+  "en": "Sorry.\nWe're... um..."
  },
  {
   "id": "IVENT28:0157",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ここまでいろいろあったんでしょう？",
-  "en": ""
+  "en": "You've been through a lot getting here,\nhaven't you?"
  },
  {
   "id": "IVENT28:0158",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "いいから、今は休みなさい、ね？",
-  "en": ""
+  "en": "Never mind that. For now, get some rest, okay?"
  },
  {
   "id": "IVENT28:0159",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "すんません。\nみんな、俺らの分までがんばってくれよ！",
-  "en": ""
+  "en": "Sorry 'bout this.\nGive it your all for us too, everyone!"
  },
  {
   "id": "IVENT28:0160",
   "kind": "msg",
   "speaker": "学",
   "jp": "気をつけてね！\n絶対に帰ってくるんだよ！",
-  "en": ""
+  "en": "Be careful!\nYou'd better come back, no matter what!"
  },
  {
   "id": "IVENT28:0161",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "うん、まっかしといて！",
-  "en": ""
+  "en": "Yeah, leave it to me!"
  }
 ]

@@ -4,62 +4,62 @@
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "お兄ちゃん<8>、次を右に行くの。",
-  "en": ""
+  "en": "Big brother<8>, go right at the next one~."
  },
  {
   "id": "Y_MORI05:0001",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ハーミー、わかれ道があるんだけど\nどっちに行くんだ？",
-  "en": ""
+  "en": "Hermie, the path splits here.\nWhich way do we go?"
  },
  {
   "id": "Y_MORI05:0002",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "うんとね、まっすぐに……\nあれ？……\nまっすぐだったかな、右だったかな……",
-  "en": ""
+  "en": "Ummm, straight...\nHuh?...\nWas it straight? Or was it right..."
  },
  {
   "id": "Y_MORI05:0003",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ゴメンなのお兄ちゃん、\nハーミー、ほこらまでの道、忘れちゃったの\nどっちだったか思い出せないの。",
-  "en": ""
+  "en": "Sorry, big brother~.\nHermie forgot the way to the shrine~.\nHermie can't remember which way it was~."
  },
  {
   "id": "Y_MORI05:0004",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "困ったわね……\n新見くん<8>、今日はいったんもどりましょう。",
-  "en": ""
+  "en": "What a problem...\nNiimi-kun<8>, let's head back for today."
  },
  {
   "id": "Y_MORI05:0005",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "明日になれば、\nハーミー<8>が思い出してるかもしれないでしょ。",
-  "en": ""
+  "en": "By tomorrow,\nHermie<8> might remember, don't you think?"
  },
  {
   "id": "Y_MORI05:0006",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そうですね……\n今日はもどりましょうか。",
-  "en": ""
+  "en": "You're right...\nLet's head back for today."
  },
  {
   "id": "Y_MORI05:0007",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ゴメンなのお兄ちゃん<8>。\nハーミー<8>、がんばって明日の夜までに\n思い出しとくの。",
-  "en": ""
+  "en": "Sorry, big brother<8>~.\nHermie<8>'ll try hard to remember\nby tomorrow night~."
  },
  {
   "id": "Y_MORI05:0008",
   "kind": "msg",
   "speaker": "翔",
   "jp": "うん、わかったよ。\nそれじゃ、帰るか。",
-  "en": ""
+  "en": "Okay, got it.\nGuess we'll head home, then."
  }
 ]

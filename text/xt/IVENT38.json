@@ -4,216 +4,216 @@
   "kind": "msg",
   "speaker": "アゼル",
   "jp": "お帰りなさい。\nあら……どうやら仲間は生きていたようね。",
-  "en": ""
+  "en": "Welcome back.\nOh my... It seems your friend\nwas alive after all."
  },
  {
   "id": "IVENT38:0001",
   "kind": "msg",
   "speaker": "翔",
   "jp": "アゼルのおかげだよ。\n紹介するよ、こっちが俺の仲間でアルバイジャン。",
-  "en": ""
+  "en": "It's thanks to you, Azel.\nLet me introduce you.\nThis is my friend Albaijan."
  },
  {
   "id": "IVENT38:0002",
   "kind": "msg",
   "speaker": "翔",
   "jp": "アルバイジャン、この人はアゼル。",
-  "en": ""
+  "en": "Albaijan, this is Azel."
  },
  {
   "id": "IVENT38:0003",
   "kind": "msg",
   "speaker": "翔",
   "jp": "迷宮の入り口は、この人が教えてくれたんだ。",
-  "en": ""
+  "en": "She's the one who told me where the\nlabyrinth entrance was."
  },
  {
   "id": "IVENT38:0004",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "そうかい、それは世話になっ――\nなに！？",
-  "en": ""
+  "en": "That so? Then I owe you one--\nWhat?!"
  },
  {
   "id": "IVENT38:0005",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……な、なんでおまえがここに……？",
-  "en": ""
+  "en": "...Wh-What are you doing here...?"
  },
  {
   "id": "IVENT38:0006",
   "kind": "msg",
   "speaker": "アゼル",
   "jp": "おぼえていてくれたのね。\nうれしいわ、アルバイジャン。",
-  "en": ""
+  "en": "So you remember me.\nHow sweet, Albaijan."
  },
  {
   "id": "IVENT38:0007",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "貴様、いったい何しに出てきたんだ！？",
-  "en": ""
+  "en": "What the hell are you showing your face for?!"
  },
  {
   "id": "IVENT38:0008",
   "kind": "msg",
   "speaker": "アゼル",
   "jp": "うふふふ……\nさあ、何ででしょうね？",
-  "en": ""
+  "en": "Ufufufu...\nNow, why do you think?"
  },
  {
   "id": "IVENT38:0009",
   "kind": "msg",
   "speaker": "翔",
   "jp": "どうしたんだ？\n二人は知りあいなのか？",
-  "en": ""
+  "en": "What's going on?\nDo you two know each other?"
  },
  {
   "id": "IVENT38:0010",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "…………",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "IVENT38:0011",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……アルバイジャン？",
-  "en": ""
+  "en": "...Albaijan?"
  },
  {
   "id": "IVENT38:0012",
   "kind": "msg",
   "speaker": "アゼル",
   "jp": "お仲間さんが聞いてるわよ。\nちゃんと答えてあげたら？",
-  "en": ""
+  "en": "Your friend is asking you.\nWhy not give him a proper answer?"
  },
  {
   "id": "IVENT38:0013",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "う、うるせえ！！　答えろ！\nいったい、何のために……！？",
-  "en": ""
+  "en": "Sh-Shut up!! Answer me!\nWhat are you after...?!"
  },
  {
   "id": "IVENT38:0014",
   "kind": "msg",
   "speaker": "アゼル",
   "jp": "答えたら、私といっしょに来てくれる？",
-  "en": ""
+  "en": "If I answer, will you come with me?"
  },
  {
   "id": "IVENT38:0015",
   "kind": "msg",
   "speaker": "アゼル",
   "jp": "……うふふふ、無理でしょうね。",
-  "en": ""
+  "en": "...Ufufufu. I suppose not."
  },
  {
   "id": "IVENT38:0016",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "からかうな！\nいったい、おまえは何を……",
-  "en": ""
+  "en": "Don't toy with me!\nWhat in the world are you..."
  },
  {
   "id": "IVENT38:0017",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ウッ！？",
-  "en": ""
+  "en": "Ngh?!"
  },
  {
   "id": "IVENT38:0018",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……な、なに……？\n身体が……うごかな……い……",
-  "en": ""
+  "en": "...Wh-What...?\nI can't... move... my body..."
  },
  {
   "id": "IVENT38:0019",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "う……\nしょ、翔…………",
-  "en": ""
+  "en": "Ugh...\nSh-Shou......"
  },
  {
   "id": "IVENT38:0020",
   "kind": "msg",
   "speaker": "アゼル",
   "jp": "あなたたちには、まだ利用価値があるわ。",
-  "en": ""
+  "en": "You're all still useful to me."
  },
  {
   "id": "IVENT38:0021",
   "kind": "msg",
   "speaker": "アゼル",
   "jp": "だから……\nもう少しだけ生かしといてあげる。",
-  "en": ""
+  "en": "So...\nI'll let you live a little while longer."
  },
  {
   "id": "IVENT38:0022",
   "kind": "msg",
   "speaker": "ユン",
   "jp": "アゼル、準備が整った……\nあとは、決行の合図だけだ。",
-  "en": ""
+  "en": "Azel, everything is ready...\nAll that's left is the signal to begin."
  },
  {
   "id": "IVENT38:0023",
   "kind": "msg",
   "speaker": "アゼル",
   "jp": "ありがとう、ユン。\nすぐに行くわ。",
-  "en": ""
+  "en": "Thank you, Yun.\nI'll be right there."
  },
  {
   "id": "IVENT38:0024",
   "kind": "msg",
   "speaker": "ユン",
   "jp": "俺は最終チェックをしてくる。\nそれじゃ、後で……",
-  "en": ""
+  "en": "I'll go run the final checks.\nSee you later, then..."
  },
  {
   "id": "IVENT38:0025",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……うう……お、おまえは……",
-  "en": ""
+  "en": "...Ugh... Y-You..."
  },
  {
   "id": "IVENT38:0026",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "おまえの……目的は……なんだ……？",
-  "en": ""
+  "en": "What... are you... after...?"
  },
  {
   "id": "IVENT38:0027",
   "kind": "msg",
   "speaker": "アゼル",
   "jp": "あらあら、気を失っているのに。",
-  "en": ""
+  "en": "My, my. Still awake, even half-conscious."
  },
  {
   "id": "IVENT38:0028",
   "kind": "msg",
   "speaker": "アゼル",
   "jp": "そんなに知りたければ、あとで教えてあげるわ。",
-  "en": ""
+  "en": "If you want to know that badly,\nI'll tell you later."
  },
  {
   "id": "IVENT38:0029",
   "kind": "msg",
   "speaker": "アゼル",
   "jp": "今から始まる、楽しいショウのあとでね。\nふふ……うふふふふふふふ。",
-  "en": ""
+  "en": "After the fun little show that's about to\nbegin. Fufu... Ufufufufufufu."
  },
  {
   "id": "IVENT38:0030",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "怖いの…\nなにかよくないことがおこりそうなの…",
-  "en": ""
+  "en": "I'm scared~\nSomething bad is going to happen~"
  }
 ]

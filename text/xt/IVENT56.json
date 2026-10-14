@@ -4,118 +4,118 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "ユカ、どうしたんだ？\n身体の調子はいいのか？",
-  "en": ""
+  "en": "Yuka, what's up?\nAre you feeling okay?"
  },
  {
   "id": "IVENT56:0001",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "うん、心配しないで。\n……立ってないで、座ったら？",
-  "en": ""
+  "en": "Yeah, don't worry.\n...Don't just stand there. Sit down?"
  },
  {
   "id": "IVENT56:0002",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ありがと。\n……ここの景色を見てたのか？",
-  "en": ""
+  "en": "Thanks.\n...Were you looking at the view?"
  },
  {
   "id": "IVENT56:0003",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……うん、見るつもりはなかったんだけど……",
-  "en": ""
+  "en": "...Yeah. I didn't mean to, but..."
  },
  {
   "id": "IVENT56:0004",
   "kind": "msg",
   "speaker": "翔",
   "jp": "どうしてだ？",
-  "en": ""
+  "en": "Why not?"
  },
  {
   "id": "IVENT56:0005",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……ねえ、翔。\n子供のときにさ、\nみんなでよく近くの公園で遊んだよね。",
-  "en": ""
+  "en": "...Hey, Shou.\nWhen we were kids, remember how we\nall used to play in the park nearby?"
  },
  {
   "id": "IVENT56:0006",
   "kind": "msg",
   "speaker": "翔",
   "jp": "おぼえてるよ。\n楽しかったな……",
-  "en": ""
+  "en": "I remember.\nThat was fun..."
  },
  {
   "id": "IVENT56:0007",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "私もだよ！\nみんながいて、楽しくて、うれしかった。",
-  "en": ""
+  "en": "For me too!\nEveryone was there. It was fun, I was happy."
  },
  {
   "id": "IVENT56:0008",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……だから、帰るのがイヤだった……",
-  "en": ""
+  "en": "...That's why I hated going home..."
  },
  {
   "id": "IVENT56:0009",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "でも、みんな、陽が沈むと、帰らなきゃいけない……",
-  "en": ""
+  "en": "But when the sun went down,\neveryone had to go home..."
  },
  {
   "id": "IVENT56:0010",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "だから私、\n公園で夕日を見るのが、イヤだった……",
-  "en": ""
+  "en": "So I hated watching\nthe sunset in the park..."
  },
  {
   "id": "IVENT56:0011",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……ここの景色ね、そこに似てるの。\n雰囲気が似てるの。",
-  "en": ""
+  "en": "...This view, it's like that place.\nIt has the same feeling."
  },
  {
   "id": "IVENT56:0012",
   "kind": "msg",
   "speaker": "翔",
   "jp": "でも、今は別れるわけじゃないだろ？\nみんな、ここにいるんだぞ。",
-  "en": ""
+  "en": "But nobody's saying goodbye now, right?\nEveryone's right here."
  },
  {
   "id": "IVENT56:0013",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "わかってる……わかってるよ。\nけど、ダメなの。\nすごく、さびしくなるの……",
-  "en": ""
+  "en": "I know... I know that.\nBut it's no good.\nI just get so lonely..."
  },
  {
   "id": "IVENT56:0014",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ユカ……",
-  "en": ""
+  "en": "Yuka..."
  },
  {
   "id": "IVENT56:0015",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ヘンなこと言っちゃったね。",
-  "en": ""
+  "en": "Sorry, that was a weird thing to say."
  },
  {
   "id": "IVENT56:0016",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "やっぱり、疲れてるみたい。\n翔、ごめんね……",
-  "en": ""
+  "en": "Guess I really am tired.\nSorry, Shou..."
  }
 ]

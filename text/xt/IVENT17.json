@@ -4,580 +4,580 @@
   "kind": "msg",
   "speaker": "学",
   "jp": "翔！　た、大変だよ！",
-  "en": ""
+  "en": "Shou! Th-This is bad!"
  },
  {
   "id": "IVENT17:0001",
   "kind": "msg",
   "speaker": "翔",
   "jp": "どうした、学？",
-  "en": ""
+  "en": "What's wrong, Manabu?"
  },
  {
   "id": "IVENT17:0002",
   "kind": "msg",
   "speaker": "学",
   "jp": "ユカが神託所に入ったきり、\n戻ってこないんだ！",
-  "en": ""
+  "en": "Yuka went into the Oracle Shrine\nand hasn't come back out!"
  },
  {
   "id": "IVENT17:0003",
   "kind": "msg",
   "speaker": "翔",
   "jp": "なんだって！？\nどういうことだ？",
-  "en": ""
+  "en": "What?!\nWhat do you mean?"
  },
  {
   "id": "IVENT17:0004",
   "kind": "msg",
   "speaker": "学",
   "jp": "ユカがどっかに行くのが見えたから、\n気になって後を追ったんだ。",
-  "en": ""
+  "en": "I saw Yuka heading off somewhere,\nso I got curious and followed her."
  },
  {
   "id": "IVENT17:0005",
   "kind": "msg",
   "speaker": "学",
   "jp": "神託所の前まできたら、辺りを見回して、\n中に入ってっちゃったんだ！",
-  "en": ""
+  "en": "She got to the Oracle Shrine, looked around,\nand then went right inside!"
  },
  {
   "id": "IVENT17:0006",
   "kind": "msg",
   "speaker": "翔",
   "jp": "わかった。\n俺が行ってくるから、後をたのむ。",
-  "en": ""
+  "en": "Got it.\nI'll go. You take care of things here."
  },
  {
   "id": "IVENT17:0007",
   "kind": "msg",
   "speaker": "学",
   "jp": "あ、うん！\n翔、気をつけてね。",
-  "en": ""
+  "en": "Oh, okay!\nBe careful, Shou."
  },
  {
   "id": "IVENT17:0008",
   "kind": "msg",
   "speaker": "翔",
   "jp": "誰もいないな……奥か？",
-  "en": ""
+  "en": "No one's here... Further in?"
  },
  {
   "id": "IVENT17:0009",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ちょっと！　離しなさいよ！\n痛いじゃないの！",
-  "en": ""
+  "en": "Hey! Let go of me!\nThat hurts!"
  },
  {
   "id": "IVENT17:0010",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ユカ！！\nおまえ……いったい、なにをやってるんだ！？",
-  "en": ""
+  "en": "Yuka!!\nWhat on earth are you doing?!"
  },
  {
   "id": "IVENT17:0011",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "だって、この人たちあやしいんだもん！",
-  "en": ""
+  "en": "But these people are suspicious!"
  },
  {
   "id": "IVENT17:0012",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "こんなヘンなところに集まってさ、\nあやしいって思うのが普通じゃない！！",
-  "en": ""
+  "en": "Gathering in a weird place like this...\nAnyone would think that's suspicious!!"
  },
  {
   "id": "IVENT17:0013",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "……あなたもですか？\nここに入ってはならないと、言ったはずでしょう？",
-  "en": ""
+  "en": "...You as well?\nI told you not to enter this place, did I not?"
  },
  {
   "id": "IVENT17:0014",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "ここは、聖なる神託所。",
-  "en": ""
+  "en": "This is the holy Oracle Shrine."
  },
  {
   "id": "IVENT17:0015",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "<1>女神様<8>の声を聞くため、\n選ばれたもののみが入ることを許される、\n聖なる場所です。",
-  "en": ""
+  "en": "To hear the voice of the <1>Goddess<8>,\nonly the chosen are permitted to enter\nthis holy place."
  },
  {
   "id": "IVENT17:0016",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "女神様の、声……？",
-  "en": ""
+  "en": "The Goddess's... voice...?"
  },
  {
   "id": "IVENT17:0017",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "そうです。\n女神様はここにある像をとおして、\n私たちを導く言葉をくださるのです。",
-  "en": ""
+  "en": "That is right.\nThrough the statue here, the Goddess grants\nus words to guide us."
  },
  {
   "id": "IVENT17:0018",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "なによ！\nあんなの、ただの石像でしょ？\nしゃべるわけないじゃない！！",
-  "en": ""
+  "en": "Give me a break!\nThat's just a stone statue, isn't it?\nThere's no way it can talk!!"
  },
  {
   "id": "IVENT17:0019",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "なっ！？\nなんということを言うのです、この罰当たりが！！",
-  "en": ""
+  "en": "Wha--?!\nHow dare you say such a thing, blasphemer!!"
  },
  {
   "id": "IVENT17:0020",
   "kind": "msg",
   "speaker": "女神像",
   "jp": "……我を疑うものは誰か？",
-  "en": ""
+  "en": "...Who is it that doubts me?"
  },
  {
   "id": "IVENT17:0021",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "め、めめめ女神様っ！？\nお怒りをお鎮め下さい！",
-  "en": ""
+  "en": "G-G-G-Goddess?!\nPlease, quell your wrath!"
  },
  {
   "id": "IVENT17:0022",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "フココロエモノは、すぐに追い出します！",
-  "en": ""
+  "en": "I shall throw this m-miscreant out at once!"
  },
  {
   "id": "IVENT17:0023",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ホントにしゃべった……？\nウソ……　ウソよ！！\nきっと、トリックに決まってるわ！",
-  "en": ""
+  "en": "It really talked...?\nNo way... No way!!\nIt has to be some kind of trick!"
  },
  {
   "id": "IVENT17:0024",
   "kind": "msg",
   "speaker": "女神像",
   "jp": "……我を愚弄するか？",
-  "en": ""
+  "en": "...You dare mock me?"
  },
  {
   "id": "IVENT17:0025",
   "kind": "msg",
   "speaker": "女神像",
   "jp": "卑しい人間の分際で……\nその愚かさ、身をもって味わえ！",
-  "en": ""
+  "en": "Lowly human that you are...\nNow feel the price of your folly firsthand!"
  },
  {
   "id": "IVENT17:0026",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "きゃああああっ！！",
-  "en": ""
+  "en": "Kyaaaaaah!!"
  },
  {
   "id": "IVENT17:0027",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ユカっ！？\nだいじょうぶか？",
-  "en": ""
+  "en": "Yuka?!\nAre you okay?"
  },
  {
   "id": "IVENT17:0028",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "う、んん……",
-  "en": ""
+  "en": "Ugh, nnn..."
  },
  {
   "id": "IVENT17:0029",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ここまですることはないだろう！？",
-  "en": ""
+  "en": "You didn't have to go this far!"
  },
  {
   "id": "IVENT17:0030",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "いいがかりはよしてください。\nそれは、彼女が自分で招いた結果です。",
-  "en": ""
+  "en": "Do not make false accusations.\nShe brought this upon herself."
  },
  {
   "id": "IVENT17:0031",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "私たちの女神様を愚弄した罰、\n当然の裁きなのですよ。",
-  "en": ""
+  "en": "It is the punishment for mocking our Goddess,\na just judgment."
  },
  {
   "id": "IVENT17:0032",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "早くその子を連れて、ここから出て行くのです。",
-  "en": ""
+  "en": "Take that girl and leave this place at once."
  },
  {
   "id": "IVENT17:0033",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "さあ、早く！！",
-  "en": ""
+  "en": "Now, hurry!!"
  },
  {
   "id": "IVENT17:0034",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……ゴメン、翔……",
-  "en": ""
+  "en": "...Sorry, Shou..."
  },
  {
   "id": "IVENT17:0035",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "どうしたの、いったい！？",
-  "en": ""
+  "en": "What on earth happened?!"
  },
  {
   "id": "IVENT17:0036",
   "kind": "msg",
   "speaker": "翔",
   "jp": "先生、早く手当を！",
-  "en": ""
+  "en": "Sensei, please, treat her quick!"
  },
  {
   "id": "IVENT17:0037",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "わかったわ。\n早くそこに寝かせて……",
-  "en": ""
+  "en": "All right.\nLay her down there, quickly..."
  },
  {
   "id": "IVENT17:0038",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "……だいじょうぶ、心配ないわ。",
-  "en": ""
+  "en": "...She'll be fine. Don't worry."
  },
  {
   "id": "IVENT17:0039",
   "kind": "msg",
   "speaker": "学",
   "jp": "よかったね、翔。\n一時はどうなることかと思ったよ。",
-  "en": ""
+  "en": "Thank goodness, Shou.\nFor a while there, I didn't know what\nwould happen."
  },
  {
   "id": "IVENT17:0040",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ん……んん……",
-  "en": ""
+  "en": "Mm... nnn..."
  },
  {
   "id": "IVENT17:0041",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ユカ！？\n気がついたのか？",
-  "en": ""
+  "en": "Yuka?!\nYou're awake?"
  },
  {
   "id": "IVENT17:0042",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "翔……それに、みんな……\nごめんね、迷惑かけて……",
-  "en": ""
+  "en": "Shou... and everyone...\nI'm sorry for causing trouble..."
  },
  {
   "id": "IVENT17:0043",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "もう、こんなことなんてしないから……",
-  "en": ""
+  "en": "I won't do anything like this again..."
  },
  {
   "id": "IVENT17:0044",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……いいよ。\n今は、休んで。",
-  "en": ""
+  "en": "...It's okay.\nJust rest for now."
  },
  {
   "id": "IVENT17:0045",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "うん……\nありがとう……ごめんね……",
-  "en": ""
+  "en": "Okay...\nThank you... I'm sorry..."
  },
  {
   "id": "IVENT17:0046",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "……ユカの調子はどう？",
-  "en": ""
+  "en": "...How's Yuka doing?"
  },
  {
   "id": "IVENT17:0047",
   "kind": "msg",
   "speaker": "翔",
   "jp": "だいじょうぶだ。\nひどいケガじゃなかった。",
-  "en": ""
+  "en": "She's fine.\nIt wasn't a bad injury."
  },
  {
   "id": "IVENT17:0048",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そう……\nあの、族長がみんなを呼んでるんだけど……",
-  "en": ""
+  "en": "I see...\nUm, the Chief is calling for everyone..."
  },
  {
   "id": "IVENT17:0049",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "……わかったわ、行きましょうか。",
-  "en": ""
+  "en": "...All right. Let's go."
  },
  {
   "id": "IVENT17:0050",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "……どういう用件か、わかりますね？",
-  "en": ""
+  "en": "...You know why you are here, don't you?"
  },
  {
   "id": "IVENT17:0051",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "私のこと……ですか？",
-  "en": ""
+  "en": "It's about me... isn't it?"
  },
  {
   "id": "IVENT17:0052",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "ええ……\nたとえよそものでも、\nオキテを破ったものを見逃すわけには行きません。",
-  "en": ""
+  "en": "Yes...\nOutsiders or not, I cannot let anyone who\nhas broken the Law go unpunished."
  },
  {
   "id": "IVENT17:0053",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "すみませんが、村から出ていって欲しいのです。",
-  "en": ""
+  "en": "I'm sorry, but I must ask you\nto leave the village."
  },
  {
   "id": "IVENT17:0054",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "そんな……！\n急に言われても……",
-  "en": ""
+  "en": "But...!\nThis is so sudden..."
  },
  {
   "id": "IVENT17:0055",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "なにを言うのです！？\nオキテを破ったのは、あなたたちなのですよ！",
-  "en": ""
+  "en": "What are you saying?!\nYou are the ones who broke the Law!"
  },
  {
   "id": "IVENT17:0056",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "この程度の処罰ですんで、ありがたいと思いなさい。",
-  "en": ""
+  "en": "You should be grateful the punishment\nis no worse than this."
  },
  {
   "id": "IVENT17:0057",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……………………",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "IVENT17:0058",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "しかたないわね……\nでも、どこに行こうかしら？",
-  "en": ""
+  "en": "I suppose it can't be helped...\nBut where should we go?"
  },
  {
   "id": "IVENT17:0059",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "だったら、俺んとこに来るか？",
-  "en": ""
+  "en": "Then why not come to my place?"
  },
  {
   "id": "IVENT17:0060",
   "kind": "msg",
   "speaker": "翔",
   "jp": "アルバイジャン！？\nどうしてここに？",
-  "en": ""
+  "en": "Albaijan?!\nWhat are you doing here?"
  },
  {
   "id": "IVENT17:0061",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "なに、もう出発するんでそのあいさつにな。\nで、どうする？",
-  "en": ""
+  "en": "Oh, I'm heading out soon, so I came by to\nsay goodbye. So, what'll it be?"
  },
  {
   "id": "IVENT17:0062",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そうだな……\n世話になるよ、アルバイジャン。",
-  "en": ""
+  "en": "Let's see...\nWe'll take you up on that, Albaijan."
  },
  {
   "id": "IVENT17:0063",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "おっちゃんの警護は俺にまかし…と…くぅっ！",
-  "en": ""
+  "en": "Leave guardin' the old guy to me... to...\nngh!"
  },
  {
   "id": "IVENT17:0064",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "……ひどい熱！！\n足のケガが化膿して発熱してるわ！",
-  "en": ""
+  "en": "...He's burning up!!\nThe wound on his leg got infected,\nand now he has a fever!"
  },
  {
   "id": "IVENT17:0065",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "しばらくは安静ね。",
-  "en": ""
+  "en": "He'll need bed rest for a while."
  },
  {
   "id": "IVENT17:0066",
   "kind": "msg",
   "speaker": "学",
   "jp": "族長！\nせめてヒトシが治るまで、ここにいちゃダメですか？",
-  "en": ""
+  "en": "Chief!\nCan't we stay, at least until Hitoshi\ngets better?"
  },
  {
   "id": "IVENT17:0067",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "……ふむ、ケガではしかたありませんね。",
-  "en": ""
+  "en": "...Hmm. An injury cannot be helped."
  },
  {
   "id": "IVENT17:0068",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "あなたは残っていなさい。\n他は看病役に一人だけ、残ることを許しましょう。",
-  "en": ""
+  "en": "You may stay.\nAs for the rest, I will allow just one\nto remain and look after him."
  },
  {
   "id": "IVENT17:0069",
   "kind": "msg",
   "speaker": "学",
   "jp": "じゃあ、僕が残るよ。\nヒトシが治りしだい、追いかけるからさ。",
-  "en": ""
+  "en": "Then I'll stay.\nWe'll catch up as soon as Hitoshi's better."
  },
  {
   "id": "IVENT17:0070",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "私が残ったほうがいいんじゃない？",
-  "en": ""
+  "en": "Wouldn't it be better if I stayed?"
  },
  {
   "id": "IVENT17:0071",
   "kind": "msg",
   "speaker": "学",
   "jp": "だいじょうぶですよ。　それに先生は翔たちと\nいっしょのほうがいいです。　何が起こるか\nわからないし。　翔、落ちついたら迎えにきてよ。",
-  "en": ""
+  "en": "It's fine. Besides, Sensei, you should stay\nwith Shou and the others. Who knows what\nmight happen.<p>Shou, come get us once things settle down."
  },
  {
   "id": "IVENT17:0072",
   "kind": "msg",
   "speaker": "学",
   "jp": "それでいいかな？",
-  "en": ""
+  "en": "Is that okay?"
  },
  {
   "id": "IVENT17:0073",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "しかたないわね。\n高木くん、斉藤くんのこと、よろしくね。",
-  "en": ""
+  "en": "I suppose it can't be helped.\nTakagi-kun, please look after Saitou-kun."
  },
  {
   "id": "IVENT17:0074",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "族長！\nわたしも行っていいですか？\n彼らのことが気になるんです。",
-  "en": ""
+  "en": "Chief!\nMay I go with them too?\nI'm worried about them."
  },
  {
   "id": "IVENT17:0075",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "なんであんたがついて来るのよ…",
-  "en": ""
+  "en": "Why are YOU tagging along..."
  },
  {
   "id": "IVENT17:0076",
   "kind": "msg",
   "speaker": "翔",
   "jp": "だまってろ、ユカ。",
-  "en": ""
+  "en": "Quiet, Yuka."
  },
  {
   "id": "IVENT17:0077",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "勝手なお願いですが……\nお願いします。",
-  "en": ""
+  "en": "I know it's a selfish request...\nbut please."
  },
  {
   "id": "IVENT17:0078",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "……いいでしょう。\n気をつけて、行ってきなさい。",
-  "en": ""
+  "en": "...Very well.\nTake care, and go safely."
  },
  {
   "id": "IVENT17:0079",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ありがとうございます！",
-  "en": ""
+  "en": "Thank you so much!"
  },
  {
   "id": "IVENT17:0080",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "アルバイジャン、迷惑をかけるわね……",
-  "en": ""
+  "en": "Albaijan, sorry to put you out like this..."
  },
  {
   "id": "IVENT17:0081",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "気にすんな。\n準備もあるだろうから、出発は明日に延期だ！\nさっさと荷物をまとめろよ！",
-  "en": ""
+  "en": "Don't sweat it. You'll need time to get ready,\nso we'll head out tomorrow instead!\nNow hurry up and pack your stuff!"
  },
  {
   "id": "IVENT17:0082",
   "kind": "msg",
   "speaker": "翔",
   "jp": "それじゃ、いったん\nルーの家に戻って準備を整えるか。",
-  "en": ""
+  "en": "Well then, let's head back\nto Lou's house and get ready."
  }
 ]

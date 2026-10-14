@@ -4,83 +4,83 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "あれ、開かないや。",
-  "en": ""
+  "en": "Huh, it won't open."
  },
  {
   "id": "K_AZEL:0001",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "少し疲れているようだが、休んでいくか？",
-  "en": ""
+  "en": "You look a little tired. Wanna rest up?"
  },
  {
   "id": "K_AZEL:0002",
   "kind": "choice",
   "speaker": "",
   "jp": "　休む　　　　　　　　　　　セーブする\n　魔弾研究\n　町へ行く",
-  "en": ""
+  "en": "Rest                      Save\nMagic Bullet Research\nGo to town"
  },
  {
   "id": "K_AZEL:0003",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "よし、行こうぜ！翔！",
-  "en": ""
+  "en": "All right, let's go, Shou!"
  },
  {
   "id": "K_AZEL:0004",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "よし、行こうぜ！翔！",
-  "en": ""
+  "en": "All right, let's go, Shou!"
  },
  {
   "id": "K_AZEL:0005",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "おう、ちょっとまってな！",
-  "en": ""
+  "en": "Sure, hang on a sec!"
  },
  {
   "id": "K_AZEL:0006",
   "kind": "msg",
   "speaker": "ユン",
   "jp": "帰ってきたのか……\nどうする？",
-  "en": ""
+  "en": "So you're back...\nWhat will you do?"
  },
  {
   "id": "K_AZEL:0007",
   "kind": "choice",
   "speaker": "",
   "jp": "　休む　　　　　　　　　　　セーブする\n　町へ行く\n　地下へ行く",
-  "en": ""
+  "en": "Rest                      Save\nGo to town\nGo underground"
  },
  {
   "id": "K_AZEL:0008",
   "kind": "msg",
   "speaker": "ユン",
   "jp": "ベッドは用意してある。\nゆっくり休むといい。",
-  "en": ""
+  "en": "A bed has been prepared.\nRest well."
  },
  {
   "id": "K_AZEL:0009",
   "kind": "msg",
   "speaker": "ユン",
   "jp": "よく眠れたか？",
-  "en": ""
+  "en": "Did you sleep well?"
  },
  {
   "id": "K_AZEL:0010",
   "kind": "msg",
   "speaker": "翔",
   "jp": "よし、行こう。",
-  "en": ""
+  "en": "All right, let's go."
  },
  {
   "id": "K_AZEL:0011",
   "kind": "msg",
   "speaker": "翔",
   "jp": "よし、行こう。",
-  "en": ""
+  "en": "All right, let's go."
  }
 ]

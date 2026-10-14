@@ -4,216 +4,216 @@
   "kind": "msg",
   "speaker": "店主",
   "jp": "らっしゃい。\n赤竜亭にようこそ！\nゆっくりしてってくださいよ。",
-  "en": ""
+  "en": "Hey there.\nWelcome to the Red Dragon Inn!\nMake yourselves at home."
  },
  {
   "id": "K_SAKABA:0001",
   "kind": "choice",
   "speaker": "",
   "jp": "　カウンターの青年と話す　　宿を借りる\n　テーブル席の兵士と話す　　立ち去る\n　隅のテーブルの老人と話す",
-  "en": ""
+  "en": "Talk to counter youth     Rent a room\nTalk to table soldier     Leave\nTalk to corner old man"
  },
  {
   "id": "K_SAKABA:0002",
   "kind": "choice",
   "speaker": "",
   "jp": "　カウンターの青年と話す　　立ち去る\n　テーブル席の兵士と話す\n　隅のテーブルの老人と話す",
-  "en": ""
+  "en": "Talk to counter youth     Leave\nTalk to table soldier\nTalk to corner old man"
  },
  {
   "id": "K_SAKABA:0003",
   "kind": "msg",
   "speaker": "青年",
   "jp": "なあ、この町、どうよ？\n便利だろ？　いーとこだろ？",
-  "en": ""
+  "en": "So, how d'you like this town?\nConvenient, right? Great place, right?"
  },
  {
   "id": "K_SAKABA:0004",
   "kind": "msg",
   "speaker": "青年",
   "jp": "ここ住んだら、もう他の町行けねーもん。",
-  "en": ""
+  "en": "Once you live here, you can't go to any other\ntown."
  },
  {
   "id": "K_SAKABA:0005",
   "kind": "msg",
   "speaker": "青年",
   "jp": "ユーロリア、ナンバー１！\nそう思うだろ？",
-  "en": ""
+  "en": "Eurolia's number one!\nDon't you think?"
  },
  {
   "id": "K_SAKABA:0006",
   "kind": "msg",
   "speaker": "兵士",
   "jp": "なんかよお、\n城によそ者が侵入したらしいんだ。",
-  "en": ""
+  "en": "So, y'know,\nI hear some outsiders broke into the castle."
  },
  {
   "id": "K_SAKABA:0007",
   "kind": "msg",
   "speaker": "兵士",
   "jp": "けっきょくはとっ捕まったんだけどな。",
-  "en": ""
+  "en": "They got nabbed in the end, though."
  },
  {
   "id": "K_SAKABA:0008",
   "kind": "msg",
   "speaker": "兵士",
   "jp": "でも、すぐに釈放されたんだとよ。",
-  "en": ""
+  "en": "But I hear they got released right away."
  },
  {
   "id": "K_SAKABA:0009",
   "kind": "msg",
   "speaker": "兵士",
   "jp": "なんでも、イムル<8>王子がかばったらしいんだ。\nま、なんでもいいけどな。",
-  "en": ""
+  "en": "Word is Prince Imul<8> covered for 'em.\nWell, whatever."
  },
  {
   "id": "K_SAKABA:0010",
   "kind": "msg",
   "speaker": "兵士",
   "jp": "……それにしても、おまえ、見ない顔だな？",
-  "en": ""
+  "en": "...Say, I haven't seen your face around here."
  },
  {
   "id": "K_SAKABA:0011",
   "kind": "msg",
   "speaker": "兵士",
   "jp": "もしかして、城に忍び込んだ奴……なわけねえか。\nははははははは。",
-  "en": ""
+  "en": "Don't tell me you're the one who snuck into\nthe castle... Nah, couldn't be.\nHahahahahaha."
  },
  {
   "id": "K_SAKABA:0012",
   "kind": "msg",
   "speaker": "老人",
   "jp": "……なあ、兄ちゃんよお。\nこの町はどうだい？\nいいところかい？　便利かい？",
-  "en": ""
+  "en": "...Hey, young fella.\nHow d'you like this town?\nNice place? Convenient?"
  },
  {
   "id": "K_SAKABA:0013",
   "kind": "msg",
   "speaker": "老人",
   "jp": "……俺が年くっちまったせいかねえ。",
-  "en": ""
+  "en": "...Maybe it's just 'cause I'm gettin' old."
  },
  {
   "id": "K_SAKABA:0014",
   "kind": "msg",
   "speaker": "老人",
   "jp": "なんか便利すぎて住むにツラいんだ。",
-  "en": ""
+  "en": "It's so convenient it's hard to live in."
  },
  {
   "id": "K_SAKABA:0015",
   "kind": "msg",
   "speaker": "老人",
   "jp": "……ふう、酒の味も変わったみてえだなあ。",
-  "en": ""
+  "en": "...Phew. Even the booze tastes different now."
  },
  {
   "id": "K_SAKABA:0016",
   "kind": "msg",
   "speaker": "店主",
   "jp": "よその部族の方はお断りしているのです。",
-  "en": ""
+  "en": "I'm afraid we don't serve other clans."
  },
  {
   "id": "K_SAKABA:0017",
   "kind": "msg",
   "speaker": "店主",
   "jp": "申しわけありませんが、\nお引取りいただけますか？",
-  "en": ""
+  "en": "I'm sorry, but\nwould you please leave?"
  },
  {
   "id": "K_SAKABA:0018",
   "kind": "msg",
   "speaker": "店主",
   "jp": "ありがとね、また来てくださいな！",
-  "en": ""
+  "en": "Thanks, come again!"
  },
  {
   "id": "K_SAKABA:0019",
   "kind": "choice",
   "speaker": "",
   "jp": "　カウンターにいる青年と話す\n　テーブル席の兵士と話す\n　次へ",
-  "en": ""
+  "en": "Talk to the young man at the counter\nTalk to the soldier at the table\nNext"
  },
  {
   "id": "K_SAKABA:0020",
   "kind": "choice",
   "speaker": "",
   "jp": "　隅のテーブルの老人と話す\n　立ち去る\n　戻る",
-  "en": ""
+  "en": "Talk to the old man in the corner\nLeave\nBack"
  },
  {
   "id": "K_SAKABA:0021",
   "kind": "msg",
   "speaker": "青年",
   "jp": "なあ、この町、どうよ？\n便利だろ？　いーとこだろ？",
-  "en": ""
+  "en": "So, how d'you like this town?\nConvenient, right? Great place, right?"
  },
  {
   "id": "K_SAKABA:0022",
   "kind": "msg",
   "speaker": "青年",
   "jp": "ここ住んだら、もう他の町行けねーもん。",
-  "en": ""
+  "en": "Once you live here, you can't go to any other\ntown."
  },
  {
   "id": "K_SAKABA:0023",
   "kind": "msg",
   "speaker": "青年",
   "jp": "ユーロリア、ナンバー１！\nそう思うだろ？",
-  "en": ""
+  "en": "Eurolia's number one!\nDon't you think?"
  },
  {
   "id": "K_SAKABA:0024",
   "kind": "msg",
   "speaker": "兵士",
   "jp": "大変だ！！\n城が反乱軍に襲われているんだ！！",
-  "en": ""
+  "en": "It's bad!!\nThe castle's under attack by the rebels!!"
  },
  {
   "id": "K_SAKABA:0025",
   "kind": "msg",
   "speaker": "兵士",
   "jp": "えっ？\nだったらなんでこんなところにいるのかって？",
-  "en": ""
+  "en": "Huh?\nThen what am I doing here, you ask?"
  },
  {
   "id": "K_SAKABA:0026",
   "kind": "msg",
   "speaker": "兵士",
   "jp": "いや、こんなところでサボってたもんで、\n戻るに戻れなくてな………",
-  "en": ""
+  "en": "Well, I was slacking off here, see,\nand now I can't exactly go back..."
  },
  {
   "id": "K_SAKABA:0027",
   "kind": "msg",
   "speaker": "老人",
   "jp": "城が敵に攻め込まれて大騒ぎに\nなってるみてえだな。",
-  "en": ""
+  "en": "Looks like the castle's in an uproar\nwith the enemy storming in."
  },
  {
   "id": "K_SAKABA:0028",
   "kind": "msg",
   "speaker": "老人",
   "jp": "まったく、城の奴らは何をやってるんだか………",
-  "en": ""
+  "en": "Honestly, what're those castle folks doing..."
  },
  {
   "id": "K_SAKABA:0029",
   "kind": "msg",
   "speaker": "老人",
   "jp": "そのとばっちりはどうせ俺たちの\nほうにくるんだろうなぁ………",
-  "en": ""
+  "en": "And I bet we're the ones who'll end up\npaying for it..."
  },
  {
   "id": "K_SAKABA:0030",
   "kind": "msg",
   "speaker": "店主",
   "jp": "ありがとね、また来てくださいな！",
-  "en": ""
+  "en": "Thanks, come again!"
  }
 ]

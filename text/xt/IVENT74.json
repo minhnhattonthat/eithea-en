@@ -4,475 +4,475 @@
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "おや、何の用です？",
-  "en": ""
+  "en": "Oh? What do you want?"
  },
  {
   "id": "IVENT74:0001",
   "kind": "msg",
   "speaker": "翔",
   "jp": "特に用はないんだけど……",
-  "en": ""
+  "en": "Nothing in particular, but..."
  },
  {
   "id": "IVENT74:0002",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "それならば、早く出ていってください。\n私は忙しいのですよ。",
-  "en": ""
+  "en": "In that case, kindly leave at once.\nI am very busy."
  },
  {
   "id": "IVENT74:0003",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "ああ……あなたたちが来るまでは、\nこの村は平和だったのに……",
-  "en": ""
+  "en": "Ah... this village was so peaceful\nbefore you people came..."
  },
  {
   "id": "IVENT74:0004",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ね、ね、女神様の声って、どこで聞くの？",
-  "en": ""
+  "en": "Hey, hey,\nwhere do you hear the Goddess's voice~?"
  },
  {
   "id": "IVENT74:0005",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "神託所の地下ですよ。\n神官と、選ばれた者だけが声を聞けるのです。",
-  "en": ""
+  "en": "In the basement of the Oracle Shrine.\nOnly priests and the chosen\nmay hear her voice."
  },
  {
   "id": "IVENT74:0006",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "オバサン！\nハーミー、それ見たいの。",
-  "en": ""
+  "en": "Auntie!\nHermie wants to see it~."
  },
  {
   "id": "IVENT74:0007",
   "kind": "msg",
   "speaker": "翔",
   "jp": "無理を言うなよ。\n選ばれた者だけって、言ってるだろ？",
-  "en": ""
+  "en": "Don't ask for the impossible.\nShe said only the chosen, didn't she?"
  },
  {
   "id": "IVENT74:0008",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "でもこの人は、そう思ってないの。",
-  "en": ""
+  "en": "But that's not what she's thinking~."
  },
  {
   "id": "IVENT74:0009",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……え？",
-  "en": ""
+  "en": "...Huh?"
  },
  {
   "id": "IVENT74:0010",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "かまいませんよ。\n夜夢族の方でしたら、\n女神様もお許しになるでしょう。",
-  "en": ""
+  "en": "I don't mind.\nFor one of the Night Dream Clan,\nthe Goddess will surely allow it."
  },
  {
   "id": "IVENT74:0011",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "わあい！\nじゃ、みんなで行くのっ！",
-  "en": ""
+  "en": "Yaaay!\nThen everybody's going~!"
  },
  {
   "id": "IVENT74:0012",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "み、みんな？",
-  "en": ""
+  "en": "E-Everybody?"
  },
  {
   "id": "IVENT74:0013",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "そうなの、みんなで行くの！\nお兄ちゃんに、ユカに、オヤジに……",
-  "en": ""
+  "en": "Yup, everybody's going~!\nBig brother, and Yuka, and Old Man, and..."
  },
  {
   "id": "IVENT74:0014",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "そ、それは困ります！\nハーミー様だけならともかく、\nよそ者を入れるなど……",
-  "en": ""
+  "en": "Th-That won't do!\nHermie-sama alone would be one thing,\nbut letting outsiders in..."
  },
  {
   "id": "IVENT74:0015",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "それじゃダメなの！\nみんなで行かないと、ダメなの！",
-  "en": ""
+  "en": "That's no good~!\nIf everybody doesn't go, it's no good~!"
  },
  {
   "id": "IVENT74:0016",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "とても怖いことが起こりそうな\n気がするの……だから、みんなで行くの！！",
-  "en": ""
+  "en": "I feel like something really scary\nis gonna happen... So everybody's going~!!"
  },
  {
   "id": "IVENT74:0017",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "はあ……わかりました。\nいいでしょう。\nもう、ご自由に……",
-  "en": ""
+  "en": "Sigh... Very well.\nFine.\nDo as you please..."
  },
  {
   "id": "IVENT74:0018",
   "kind": "msg",
   "speaker": "翔",
   "jp": "それじゃあ、みんなを呼んでくるよ。",
-  "en": ""
+  "en": "Then I'll go get everyone."
  },
  {
   "id": "IVENT74:0019",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "突然呼び出してなにかと思ったら………",
-  "en": ""
+  "en": "You call us out of nowhere, and I wondered\nwhat it was about..."
  },
  {
   "id": "IVENT74:0020",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "いいじゃない、とにかく行ってみましょう。",
-  "en": ""
+  "en": "Oh, come now. Let's just go and see."
  },
  {
   "id": "IVENT74:0021",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "みなさん、そろったようですね。\n……ハーミー様、これでよろしいのですか？",
-  "en": ""
+  "en": "It seems everyone is here.\n...Hermie-sama, is this satisfactory?"
  },
  {
   "id": "IVENT74:0022",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "うん、みんなで行くの！\nそれじゃあ、案内するの！",
-  "en": ""
+  "en": "Uh-huh, everybody's going~!\nOkay, I'll show you the way~!"
  },
  {
   "id": "IVENT74:0023",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "意外と広いのね……",
-  "en": ""
+  "en": "It's bigger than I expected..."
  },
  {
   "id": "IVENT74:0024",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "でも、すこし怖いです……え？\n今、誰かしゃべりましたか？",
-  "en": ""
+  "en": "But it's a little scary... Huh?\nD-Did someone just say something?"
  },
  {
   "id": "IVENT74:0025",
   "kind": "msg",
   "speaker": "女神像",
   "jp": "……ここに訪れしは、何者か？\nその名を告げよ……",
-  "en": ""
+  "en": "...Who is it that comes here?\nSpeak your name..."
  },
  {
   "id": "IVENT74:0026",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "女神様がお戻りになられた！！\nおおお、ありがたや……！",
-  "en": ""
+  "en": "The Goddess has returned!!\nOh, praise be...!"
  },
  {
   "id": "IVENT74:0027",
   "kind": "msg",
   "speaker": "翔",
   "jp": "おい、ハーミー……なにかしたのか？",
-  "en": ""
+  "en": "Hey, Hermie... did you do something?"
  },
  {
   "id": "IVENT74:0028",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ううん、\nなんにもしてないの……ね、お兄ちゃん……",
-  "en": ""
+  "en": "Uh-uh,\nI didn't do anything~... Hey, big brother..."
  },
  {
   "id": "IVENT74:0029",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "あの人、神様なの？\nいい人なの？",
-  "en": ""
+  "en": "Is she a god?\nIs she a good person~?"
  },
  {
   "id": "IVENT74:0030",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ああ、そうだけど……",
-  "en": ""
+  "en": "Yeah, that's right, but..."
  },
  {
   "id": "IVENT74:0031",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ちがう……ちがうの！\nこの人、いい人じゃない！\n……絶対にちがうの！",
-  "en": ""
+  "en": "No... that's wrong~!\nShe's not a good person!\n...She's definitely not~!"
  },
  {
   "id": "IVENT74:0032",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "何ということを言うのです！\n女神様が戻られたのに……",
-  "en": ""
+  "en": "What are you saying?!\nThe Goddess has only just returned..."
  },
  {
   "id": "IVENT74:0033",
   "kind": "msg",
   "speaker": "女神像",
   "jp": "ほう……我を偽りというか……？",
-  "en": ""
+  "en": "Oh...? You call me false...?"
  },
  {
   "id": "IVENT74:0034",
   "kind": "msg",
   "speaker": "女神像",
   "jp": "おまえたちを導いてきた我を、偽りの神と呼ぶか？",
-  "en": ""
+  "en": "I, who have guided you all,\nyou would call a false god?"
  },
  {
   "id": "IVENT74:0035",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "めっそうもございません！\nどうか、お気を鎮めて下さい。\nハーミー様！　女神様に……",
-  "en": ""
+  "en": "Heavens, no!\nPlease, calm your anger.\nHermie-sama! Apologize to the Goddess..."
  },
  {
   "id": "IVENT74:0036",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "だまされちゃダメなの！\nこの人、悪い人なの！！",
-  "en": ""
+  "en": "Don't be fooled~!\nShe's a bad person!!"
  },
  {
   "id": "IVENT74:0037",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "そうか……わかったぞ！\nおまえ、女神じゃねえな！？",
-  "en": ""
+  "en": "I see... now I get it!\nYou're no Goddess, are ya?!"
  },
  {
   "id": "IVENT74:0038",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "アルバイジャン！！\nあなたまで、なにを言っているのです！？",
-  "en": ""
+  "en": "Albaijan!!\nNot you too! What are you saying?!"
  },
  {
   "id": "IVENT74:0039",
   "kind": "msg",
   "speaker": "女神像",
   "jp": "……サイアク。",
-  "en": ""
+  "en": "...Ugh, the worst."
  },
  {
   "id": "IVENT74:0040",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "は……？\n女神様？",
-  "en": ""
+  "en": "Wh...?\nGoddess?"
  },
  {
   "id": "IVENT74:0041",
   "kind": "msg",
   "speaker": "女神像",
   "jp": "もうっ！\nサイッアクじゃないのー！！",
-  "en": ""
+  "en": "Ugh!\nThis is the wooorst!!"
  },
  {
   "id": "IVENT74:0042",
   "kind": "msg",
   "speaker": "女神像",
   "jp": "エウリケッ！\nアンタなんで、こんなのつれてきたのー？",
-  "en": ""
+  "en": "Eurike!\nWhy'd you bring these losers here~?"
  },
  {
   "id": "IVENT74:0043",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "超ムカツクわ！\nなんでバレなきゃなんないのよー！\nそこのチビさえいなけりゃよかったのにさ！",
-  "en": ""
+  "en": "This is sooo annoying!\nWhy'd I have to get found out?!\nIf it weren't for that shrimp there...!"
  },
  {
   "id": "IVENT74:0044",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "め、女神様！？\nど、どうされたのです！？",
-  "en": ""
+  "en": "G-Goddess?!\nWh-What has come over you?!"
  },
  {
   "id": "IVENT74:0045",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "ブッブー！！\nあたし、女神なんかじゃなーいのー。",
-  "en": ""
+  "en": "Bzzzt!! Wrong!\nI'm not a Goddess or anything~."
  },
  {
   "id": "IVENT74:0046",
   "kind": "msg",
   "speaker": "ミュウ",
   "jp": "あたしの名前は<3>ミュウ<8>。\n魔女の一人よ。",
-  "en": ""
+  "en": "The name's <3>Myu<8>.\nI'm one of the Witches."
  },
  {
   "id": "IVENT74:0047",
   "kind": "msg",
   "speaker": "翔",
   "jp": "魔女？",
-  "en": ""
+  "en": "A Witch?"
  },
  {
   "id": "IVENT74:0048",
   "kind": "msg",
   "speaker": "ミュウ",
   "jp": "よーするにぃ、あんたたちをダマして\n操ってたワケよ。\n神のフリしてさ。",
-  "en": ""
+  "en": "Basically, I was tricking you all\nand pulling your strings.\nPlaying god."
  },
  {
   "id": "IVENT74:0049",
   "kind": "msg",
   "speaker": "ミュウ",
   "jp": "こいつら田舎モン相手で楽勝だったのに、",
-  "en": ""
+  "en": "These hicks were sooo easy,"
  },
  {
   "id": "IVENT74:0050",
   "kind": "msg",
   "speaker": "ミュウ",
   "jp": "このガキのおかげで台無しだわ！\nどうしてくれるのよぉー！？",
-  "en": ""
+  "en": "and this brat went and ruined it all!\nWhat're you gonna do about it~?!"
  },
  {
   "id": "IVENT74:0051",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "ま、魔女……？\nまさか、そんな……！",
-  "en": ""
+  "en": "A-A Witch...?\nIt can't be...!"
  },
  {
   "id": "IVENT74:0052",
   "kind": "msg",
   "speaker": "ミュウ",
   "jp": "でも、もうっ！　いいわっ！\n殺っちゃえばチャラだもんね。",
-  "en": ""
+  "en": "But ugh! Whatever!\nIf I just kill you all, we're even."
  },
  {
   "id": "IVENT74:0053",
   "kind": "msg",
   "speaker": "ミュウ",
   "jp": "と、ゆーわけでえ、死んでちょうだぁーい！",
-  "en": ""
+  "en": "Sooo, with that said, pleeease die~!"
  },
  {
   "id": "IVENT74:0054",
   "kind": "msg",
   "speaker": "ミュウ",
   "jp": "サイッテェ～！\nなんで、なんでわたしが負けるのよっ！！",
-  "en": ""
+  "en": "This is the wooorst~!\nWhy, why did I lose?!"
  },
  {
   "id": "IVENT74:0055",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ミュウ！\nもう、あとはないぞ！！",
-  "en": ""
+  "en": "Myu!\nYou've got nowhere left to run!!"
  },
  {
   "id": "IVENT74:0056",
   "kind": "msg",
   "speaker": "ミュウ",
   "jp": "そういうわけにはいかないのよっ！",
-  "en": ""
+  "en": "Like I'm gonna let that happen!"
  },
  {
   "id": "IVENT74:0057",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ま、まぶしい！！\nくそぉ、どこだ……！？",
-  "en": ""
+  "en": "Wh-Whoa, so bright!!\nDammit, where'd she go...?!"
  },
  {
   "id": "IVENT74:0058",
   "kind": "msg",
   "speaker": "ミュウ",
   "jp": "やーいっ！\nこっこまでおいで～っだ！",
-  "en": ""
+  "en": "Nyah nyah!\nCatch me if you can~!"
  },
  {
   "id": "IVENT74:0059",
   "kind": "msg",
   "speaker": "翔",
   "jp": "これはアーティアじゃないか。\nどうして、こんなところに……？",
-  "en": ""
+  "en": "Isn't this an Artia?\nWhat's it doing in a place like this...?"
  },
  {
   "id": "IVENT74:0060",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "なるほどな……\nたぶんこの力を使って、女神になりすましてたんだ。",
-  "en": ""
+  "en": "I see...\nShe probably used its power\nto pose as the Goddess."
  },
  {
   "id": "IVENT74:0061",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "そんな……私たちが操られていただなんて……",
-  "en": ""
+  "en": "No... to think we were being manipulated..."
  },
  {
   "id": "IVENT74:0062",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "族長になんとご報告すればよいのやら……",
-  "en": ""
+  "en": "How am I ever to report this to the Chief..."
  },
  {
   "id": "IVENT74:0063",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "<1>アーティアボルト<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>Artia Bolt<8>!"
  },
  {
   "id": "IVENT74:0064",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "この中にミュウはいるみてえだな。",
-  "en": ""
+  "en": "Looks like Myu's in here."
  },
  {
   "id": "IVENT74:0065",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ヒネクレてるあいつのこった、\nきっと罠だらけだぜ。",
-  "en": ""
+  "en": "Twisted as she is,\nit's bound to be crawling with traps."
  },
  {
   "id": "IVENT74:0066",
   "kind": "msg",
   "speaker": "翔",
   "jp": "だろうな……\nでも、逃がすわけには\nいかないだろ。",
-  "en": ""
+  "en": "Probably...\nBut we can't\nlet her get away."
  },
  {
   "id": "IVENT74:0067",
   "kind": "msg",
   "speaker": "翔",
   "jp": "さあ、行くか。",
-  "en": ""
+  "en": "Well, let's go."
  }
 ]

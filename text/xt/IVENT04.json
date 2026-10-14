@@ -543,168 +543,168 @@
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "村に伝わる銃を\nジャームに奪われるなんて……",
-  "en": ""
+  "en": "To think the village's sacred gun\nwould be stolen by the Germ..."
  },
  {
   "id": "IVENT04:0078",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "それで、ちゃんと取り戻したのでしょうね？",
-  "en": ""
+  "en": "I trust you've properly recovered it, then?"
  },
  {
   "id": "IVENT04:0079",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "それが<10>……その……",
-  "en": ""
+  "en": "Well<10>... about that..."
  },
  {
   "id": "IVENT04:0080",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "エウリケ、この方の腕をご覧なさい。",
-  "en": ""
+  "en": "Eurike, take a look at this one's arm."
  },
  {
   "id": "IVENT04:0081",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "腕？　なぜ…<10>…<10>…<10>ええ！？\nこ、このアザは……！\n族長、どういうことです！？",
-  "en": ""
+  "en": "His arm? Why<10>...<10>...<10>... Whaaat?!\nTh-This mark...!\nChief, what is the meaning of this?!"
  },
  {
   "id": "IVENT04:0082",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "見たとおりですよ。\n銃はこの方の腕にあります。",
-  "en": ""
+  "en": "It is just as you see.\nThe gun is in this young man's arm."
  },
  {
   "id": "IVENT04:0083",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "文献を調べてみる他になさそうです。",
-  "en": ""
+  "en": "It seems we have no choice but to search\nthe old texts."
  },
  {
   "id": "IVENT04:0084",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "ああ、なんたることでしょう！\n……この銃がなければ、\n村は、村はあ……！",
-  "en": ""
+  "en": "Ahhh, what a calamity!\n...Without this gun,\nthe village, the villaaage...!"
  },
  {
   "id": "IVENT04:0085",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "族長、私に考えがあります。",
-  "en": ""
+  "en": "Chief, I have an idea."
  },
  {
   "id": "IVENT04:0086",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "銃がなければ\nエレボタルを退治することは不可能でしょう。",
-  "en": ""
+  "en": "Without the gun, it will be impossible\nto exterminate the Ele Fireflies."
  },
  {
   "id": "IVENT04:0087",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "ですから、このものに\nエレボタルを倒させるのです！",
-  "en": ""
+  "en": "And so, we shall have this person\ndefeat the Ele Fireflies!"
  },
  {
   "id": "IVENT04:0088",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "村を救う手段は、それしかありません！",
-  "en": ""
+  "en": "It is the only way to save the village!"
  },
  {
   "id": "IVENT04:0089",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "族長、ご決断を！\nエレボタル退治のご許可をッ！",
-  "en": ""
+  "en": "Chief, your decision!\nGrant us permission to exterminate\nthe Ele Fireflies!"
  },
  {
   "id": "IVENT04:0090",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "<10>…<10>…<10>…<10>…翔と言いましたね。\n月光族の長としてお願いします。",
-  "en": ""
+  "en": "<10>...<10>...<10>...<10>...It was Shou, wasn't it?\nAs Chief of the Moonlight Clan,\nI ask this of you."
  },
  {
   "id": "IVENT04:0091",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "月光の塔に巣くうエレボタルを\n退治してもらえませんか？",
-  "en": ""
+  "en": "Would you exterminate the Ele Fireflies\nnesting in the Moonlight Tower?"
  },
  {
   "id": "IVENT04:0092",
   "kind": "choice",
   "speaker": "",
   "jp": "　わかった\n　いやだ",
-  "en": ""
+  "en": "All right\nNo way"
  },
  {
   "id": "IVENT04:0093",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "ありがとうございます。",
-  "en": ""
+  "en": "Thank you very much."
  },
  {
   "id": "IVENT04:0094",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "そのかわりに、銃を外す方法と、\nあなた方をもとの世界へと帰す手段。",
-  "en": ""
+  "en": "In return, a way to remove the gun,\nand a means of sending you all back\nto your own world..."
  },
  {
   "id": "IVENT04:0095",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "そのことを、必ず調べておきましょう。",
-  "en": ""
+  "en": "I promise to look into both of those."
  },
  {
   "id": "IVENT04:0096",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "それとこれをお持ちください。",
-  "en": ""
+  "en": "And please, take this with you."
  },
  {
   "id": "IVENT04:0097",
   "kind": "msg",
   "speaker": "翔",
   "jp": "これは？",
-  "en": ""
+  "en": "What's this?"
  },
  {
   "id": "IVENT04:0098",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "<1>光跡<8>と呼ばれる、\nエレの樹の小枝から造った道具です。",
-  "en": ""
+  "en": "It's called a <1>Light Trail<8>, a tool made\nfrom a twig of the Ele Tree."
  },
  {
   "id": "IVENT04:0099",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "月光の塔の中は暗く、昼間でも光が射しません。",
-  "en": ""
+  "en": "It is dark inside the Moonlight Tower;\nno light gets in, even during the day."
  },
  {
   "id": "IVENT04:0100",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "これを使えば、灯りとなるはずです。",
-  "en": ""
+  "en": "With this, you should have a light to see by."
  },
  {
   "id": "IVENT04:0101",
@@ -718,398 +718,398 @@
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "そうそう。\n皆さんに教えておかなければ。",
-  "en": ""
+  "en": "Oh yes.\nThere is something I must tell you all."
  },
  {
   "id": "IVENT04:0103",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "この隣に神託所があります。",
-  "en": ""
+  "en": "Right next door is the Oracle Shrine."
  },
  {
   "id": "IVENT04:0104",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "そこに入ってはなりませんよ！\nこれは村のオキテなのです。",
-  "en": ""
+  "en": "You must not go in there!\nThat is the Law of our village."
  },
  {
   "id": "IVENT04:0105",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "エウリケ<8>の言うとおりです。\nあそこは儀式をとり行う館。",
-  "en": ""
+  "en": "Eurike<8> is right.\nThat is the hall where rituals are held."
  },
  {
   "id": "IVENT04:0106",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "決められたもの以外は立ち入り禁止となっています。\n絶対に忘れないでください。",
-  "en": ""
+  "en": "No one but those appointed may enter.\nPlease, never forget that."
  },
  {
   "id": "IVENT04:0107",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "<10>……やはりそうですか。\nしかたありません。",
-  "en": ""
+  "en": "<10>...I see.\nThen it cannot be helped."
  },
  {
   "id": "IVENT04:0108",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "それではルー、月光族の戦士であるあなたが、\nエレボタルを退治しなさい。",
-  "en": ""
+  "en": "In that case, Lou, as a warrior of the\nMoonlight Clan, you shall exterminate\nthe Ele Fireflies."
  },
  {
   "id": "IVENT04:0109",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "わかりました。\n<10>…<10>…翔、それじゃあね。",
-  "en": ""
+  "en": "Understood.\n<10>...<10>...Well, Shou, see you around."
  },
  {
   "id": "IVENT04:0110",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "きゃぁぁぁっ！！",
-  "en": ""
+  "en": "Kyaaaaaah!!"
  },
  {
   "id": "IVENT04:0111",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "おおおおおお！\nエレの樹の光が消える！",
-  "en": ""
+  "en": "Ohhhhhhh!\nThe Ele Tree's light is fading!"
  },
  {
   "id": "IVENT04:0112",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "これでこの村も……\nそして、すべてが……！",
-  "en": ""
+  "en": "And so this village...\nand then, everything...!"
  },
  {
   "id": "IVENT04:0113",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "…<10>…<10>驚きましたか？\nしかし、あなたの返答次第で、\n村はこうなるでしょうね。",
-  "en": ""
+  "en": ".<10>..<10>..Surprised?\nBut depending on your answer,\nthis is what will become of the village."
  },
  {
   "id": "IVENT04:0114",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "そうなれば、あなた方をもとの世界へと帰す方法も\n探すことができなくなってしまいますよ。",
-  "en": ""
+  "en": "And if that happens, we won't be able to\nsearch for a way to send you back to your\nworld either."
  },
  {
   "id": "IVENT04:0115",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "もう一度だけ問います。",
-  "en": ""
+  "en": "I will ask you just once more."
  },
  {
   "id": "IVENT04:0116",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "月光の塔にいるエレボタルを\n退治してもらえませんか？",
-  "en": ""
+  "en": "Would you exterminate the Ele Fireflies\nin the Moonlight Tower?"
  },
  {
   "id": "IVENT04:0117",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "あ、今なんつった？",
-  "en": ""
+  "en": "Huh? What'd you just say?"
  },
  {
   "id": "IVENT04:0118",
   "kind": "msg",
   "speaker": "翔",
   "jp": "えっ？\nさっきまでと口調がちがうんですけど………？",
-  "en": ""
+  "en": "Huh?\nUm, you're talking kinda different\nfrom before...?"
  },
  {
   "id": "IVENT04:0119",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "んなこたあ、どうだっていいんだよ！",
-  "en": ""
+  "en": "Who gives a crap about that?!"
  },
  {
   "id": "IVENT04:0120",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "おまえさァ、\n何回“いやだ”って選んでんだよ？　ああ？",
-  "en": ""
+  "en": "Yo, you,\nhow many times you gonna pick \"No way\"? Huh?"
  },
  {
   "id": "IVENT04:0121",
   "kind": "msg",
   "speaker": "翔",
   "jp": "え？　<10>これで３回めかな……？",
-  "en": ""
+  "en": "Huh? <10>That makes three times...?"
  },
  {
   "id": "IVENT04:0122",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "あああ！？\nよくもそんなウザいことを……",
-  "en": ""
+  "en": "Whaaat?!\nYou got some nerve, pullin' crap like that..."
  },
  {
   "id": "IVENT04:0123",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "オイこら、翔<8>！\nてめえ、ナメてんのか？　あ？",
-  "en": ""
+  "en": "Hey, you, Shou<8>!\nYou messin' with me? Huh?"
  },
  {
   "id": "IVENT04:0124",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "あううう、\n族長が壊れちゃったよお。",
-  "en": ""
+  "en": "Uuugh,\nthe Chief's broken!"
  },
  {
   "id": "IVENT04:0125",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "壊れてねーよ。\nキレたんだよ、いやマジで。",
-  "en": ""
+  "en": "I ain't broken.\nI snapped, for real."
  },
  {
   "id": "IVENT04:0126",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "なあ、おい翔<8>。\nイオピロスの族長は誰よ？",
-  "en": ""
+  "en": "Hey, yo, Shou<8>.\nWho's the Chief of Iopiros?"
  },
  {
   "id": "IVENT04:0127",
   "kind": "msg",
   "speaker": "翔",
   "jp": "あ、あなたです……",
-  "en": ""
+  "en": "Y-You are..."
  },
  {
   "id": "IVENT04:0128",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "おうよ、よくわかってんじゃん。",
-  "en": ""
+  "en": "Yeah, you got that right."
  },
  {
   "id": "IVENT04:0129",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "つまり、私が一番エラいんだ。\nそのエラいヤツが頼んでんだ。",
-  "en": ""
+  "en": "Meanin' I'm the big boss here.\nAnd the big boss is askin' you."
  },
  {
   "id": "IVENT04:0130",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "いいかげん、ＯＫしろよ。\nていうか、もう限界。",
-  "en": ""
+  "en": "So just say OK already.\nLike, I'm at my limit."
  },
  {
   "id": "IVENT04:0131",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "ダルいんだわ、かなりマジで。",
-  "en": ""
+  "en": "This is a total drag, seriously."
  },
  {
   "id": "IVENT04:0132",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ねえ新見くん<8>、\nここはおとなしく従いましょう。\nこの状況はヤバすぎるわ。",
-  "en": ""
+  "en": "Niimi-kun<8>,\nlet's just do as she says.\nThis is getting way too scary."
  },
  {
   "id": "IVENT04:0133",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "ああ、なんだ、そこのメガネ！\nなんか余計なこと言っただろ！",
-  "en": ""
+  "en": "Huh? What, you there, four-eyes!\nYou just said somethin' smart, didn't ya!"
  },
  {
   "id": "IVENT04:0134",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "い、いいえ！\n何も言ってません！",
-  "en": ""
+  "en": "N-No!\nI didn't say a thing!"
  },
  {
   "id": "IVENT04:0135",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "<10>……まあ、いっか。\nじゃあ翔<8>、もっかいだけだぞ。",
-  "en": ""
+  "en": "<10>...Eh, whatever.\nOkay, Shou<8>, one more time, and that's it."
  },
  {
   "id": "IVENT04:0136",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "私の頼みを聞けよ。\nな、いいだろ？　ん？",
-  "en": ""
+  "en": "Do what I'm askin'.\nYeah, we cool? Hm?"
  },
  {
   "id": "IVENT04:0137",
   "kind": "msg",
   "speaker": "翔",
   "jp": "は、はい、わかりました。",
-  "en": ""
+  "en": "Y-Yes, ma'am, understood."
  },
  {
   "id": "IVENT04:0138",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "そうそう。\n皆さんに教えておかなければ。",
-  "en": ""
+  "en": "Oh yes.\nThere is something I must tell you all."
  },
  {
   "id": "IVENT04:0139",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "この隣に神託所があります。",
-  "en": ""
+  "en": "Right next door is the Oracle Shrine."
  },
  {
   "id": "IVENT04:0140",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "そこに入ってはなりませんよ！\nこれは村のオキテなのです。",
-  "en": ""
+  "en": "You must not go in there!\nThat is the Law of our village."
  },
  {
   "id": "IVENT04:0141",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "エウリケ<8>の言うとおりです。\nあそこは儀式をとり行う館。",
-  "en": ""
+  "en": "Eurike<8> is right.\nThat is the hall where rituals are held."
  },
  {
   "id": "IVENT04:0142",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "決められたもの以外は立ち入り禁止となっています。\n絶対に忘れないでください。",
-  "en": ""
+  "en": "No one but those appointed may enter.\nPlease, never forget that."
  },
  {
   "id": "IVENT04:0143",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "それでは皆さん、\nエレボタル退治をよろしくお願いいたします。",
-  "en": ""
+  "en": "Well then, everyone,\nwe are counting on you to exterminate\nthe Ele Fireflies."
  },
  {
   "id": "IVENT04:0144",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "特にルー、せいぜいがんばってくださいね。",
-  "en": ""
+  "en": "Lou especially. Do try your very best."
  },
  {
   "id": "IVENT04:0145",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "言われなくったって。\nエレボタルを倒したら、\nまっさきに報告してあげるわ。",
-  "en": ""
+  "en": "Didn't need you to tell me.\nOnce I've beaten the Ele Fireflies,\nyou'll be the first to hear about it."
  },
  {
   "id": "IVENT04:0146",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "そういえば、皆さんに\n泊まっていただく場所はどうしましょう？",
-  "en": ""
+  "en": "Which reminds me, where shall we have\neveryone stay?"
  },
  {
   "id": "IVENT04:0147",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "この村には宿というものがありませんし……",
-  "en": ""
+  "en": "This village has no such thing as an inn..."
  },
  {
   "id": "IVENT04:0148",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "ねえルー、あなたの家を\n宿に使わせてもらえないかしら？",
-  "en": ""
+  "en": "Lou, couldn't they use your house\nas their inn?"
  },
  {
   "id": "IVENT04:0149",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ええ！？　やだよ……\n今、散らかってるしさあ。",
-  "en": ""
+  "en": "What?! No way...\nIt's a mess right now."
  },
  {
   "id": "IVENT04:0150",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "掃除すればいいことでしょう？\nそれに考えてみなさい。",
-  "en": ""
+  "en": "Then you just have to clean it, don't you?\nAnd think about it."
  },
  {
   "id": "IVENT04:0151",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "ここに来るまでの間、\n皆さんにいろいろと助けてもらったでしょう？",
-  "en": ""
+  "en": "On the way here, everyone helped you out\nin all sorts of ways, didn't they?"
  },
  {
   "id": "IVENT04:0152",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "それはわたしのセリフよ！\n村に帰るまでどれだけ苦労させられたか……",
-  "en": ""
+  "en": "That's MY line!\nYou have no idea how much trouble they gave me\ngetting back to the village..."
  },
  {
   "id": "IVENT04:0153",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "文句を言ってはだめよ。\nどちらにしろ、\nあなたが連れてきたお客さまでしょう？",
-  "en": ""
+  "en": "No complaining.\nEither way, they're guests\nyou brought here, aren't they?"
  },
  {
   "id": "IVENT04:0154",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "ルーがもてなすのは当然じゃないかしら？",
-  "en": ""
+  "en": "So isn't it only natural for you to host them?"
  },
  {
   "id": "IVENT04:0155",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "……うう、わかったわよ。\nわたしの家を使っていいよ。",
-  "en": ""
+  "en": "...Ugh, fine.\nYou can use my house."
  },
  {
   "id": "IVENT04:0156",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "うふふふふ。\nそれでは皆さん、ルーの家を宿に使ってくださいね。",
-  "en": ""
+  "en": "Ufufufufu.\nWell then, everyone, please use Lou's house\nas your inn."
  },
  {
   "id": "IVENT04:0157",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "それでは皆さん、よろしくお願いします。\nお気をつけて……",
-  "en": ""
+  "en": "Well then, everyone, we are counting on you.\nTake care..."
  },
  {
   "id": "IVENT04:0158",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ねぇ、翔。\n家に行く前にちょっと寄りたい所があるんだ。",
-  "en": ""
+  "en": "Hey, Shou.\nThere's somewhere I want to stop by\nbefore we go to my place."
  }
 ]

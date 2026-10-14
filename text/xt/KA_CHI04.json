@@ -4,21 +4,21 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "レバーがあるぞ！？",
-  "en": ""
+  "en": "There's a lever?!"
  },
  {
   "id": "KA_CHI04:0001",
   "kind": "choice",
   "speaker": "",
   "jp": "　動かしてみる\n　やめる",
-  "en": ""
+  "en": "Try pulling it\nLeave it"
  },
  {
   "id": "KA_CHI04:0002",
   "kind": "msg",
   "speaker": "翔",
   "jp": "<1>特効薬<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>Wonder Drug<8>!"
  },
  {
   "id": "KA_CHI04:0003",

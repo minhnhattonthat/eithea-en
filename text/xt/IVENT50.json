@@ -4,468 +4,468 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "だいじょうぶか、ヴァムール？\nもういい、俺たちを降ろせ。",
-  "en": ""
+  "en": "You all right, Vamur?\nThat's enough. Set us down."
  },
  {
   "id": "IVENT50:0001",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "そうじゃないとおまえの身体が――",
-  "en": ""
+  "en": "Otherwise your body's gonna--"
  },
  {
   "id": "IVENT50:0002",
   "kind": "msg",
   "speaker": "ヴァムール",
   "jp": "心配するな。\nまだしばらくは持つ。",
-  "en": ""
+  "en": "Don't worry.\nI can hold out a while longer."
  },
  {
   "id": "IVENT50:0003",
   "kind": "msg",
   "speaker": "ヴァムール",
   "jp": "それに、私が隠れる場所を見つけないとな。",
-  "en": ""
+  "en": "Besides, I need to find somewhere to hide."
  },
  {
   "id": "IVENT50:0004",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "なら、この森の北側にある山の中に行け。",
-  "en": ""
+  "en": "Then head for the mountains north of here."
  },
  {
   "id": "IVENT50:0005",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "そこなら、おまえでも隠れられるはずだ。",
-  "en": ""
+  "en": "Even you oughta be able to hide there."
  },
  {
   "id": "IVENT50:0006",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "俺たちはここで降りる。\n会わなきゃならん奴もいるんでな。",
-  "en": ""
+  "en": "We'll get off here.\nThere's a guy I gotta see anyway."
  },
  {
   "id": "IVENT50:0007",
   "kind": "msg",
   "speaker": "ヴァムール",
   "jp": "わかった。\nならば、ここで別れよう。",
-  "en": ""
+  "en": "Very well.\nThen we part ways here."
  },
  {
   "id": "IVENT50:0008",
   "kind": "msg",
   "speaker": "ヴァムール",
   "jp": "……イムルよ、ナムリアを頼んだぞ。",
-  "en": ""
+  "en": "...Imul, I leave Namuria in your care."
  },
  {
   "id": "IVENT50:0009",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "はい、叔父上もご無事で……",
-  "en": ""
+  "en": "Yes. Stay safe, Uncle..."
  },
  {
   "id": "IVENT50:0010",
   "kind": "msg",
   "speaker": "ヴァムール",
   "jp": "……降りるぞ、しっかりとつかまっておけよ！",
-  "en": ""
+  "en": "...Going down! Hold on tight!"
  },
  {
   "id": "IVENT50:0011",
   "kind": "msg",
   "speaker": "翔",
   "jp": "すごい森だな。\nアルバイジャン、ここはどこなんだ？",
-  "en": ""
+  "en": "What a forest.\nAlbaijan, where are we?"
  },
  {
   "id": "IVENT50:0012",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ヤムヤムの森さ。\n３本めのエレの樹がある。",
-  "en": ""
+  "en": "Yamyam Forest.\nThe third Ele Tree is here."
  },
  {
   "id": "IVENT50:0013",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "アイシアでは“聖地”とさえ\n呼ばれるほどの大森林だ。",
-  "en": ""
+  "en": "It's a vast forest that people in Eithéa\neven call \"the Holy Land.\""
  },
  {
   "id": "IVENT50:0014",
   "kind": "msg",
   "speaker": "翔",
   "jp": "こんな深い森なら見つかりっこないな。\nこれからどうするんだ？",
-  "en": ""
+  "en": "Nobody'll find us in a forest this deep.\nSo what now?"
  },
  {
   "id": "IVENT50:0015",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ダチの村がすぐ近くにある。\nだが、そ…その……なあ……\n<10>…<10>…場所を忘れちまってよお。",
-  "en": ""
+  "en": "My buddy's village is close by.\nBut, uh... well... y'see...\n<10>...<10>...I kinda forgot where it is."
  },
  {
   "id": "IVENT50:0016",
   "kind": "msg",
   "speaker": "翔",
   "jp": "思い出せないのか？\nみんな疲れてるし、このままだと……",
-  "en": ""
+  "en": "You can't remember?\nEveryone's exhausted. If this keeps up..."
  },
  {
   "id": "IVENT50:0017",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "マズいな……\n聖地といっても、\nこの森にもジャームはいるんだ。",
-  "en": ""
+  "en": "Not good...\nHoly Land or not,\nthere are Germs in this forest too."
  },
  {
   "id": "IVENT50:0018",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……そうらしいな。\n気配からすると、けっこう近くにいるぞ。",
-  "en": ""
+  "en": "...Looks like it.\nJudging by the feel, they're pretty close."
  },
  {
   "id": "IVENT50:0019",
   "kind": "msg",
   "speaker": "翔",
   "jp": "アルバイジャン、早く村の場所を思い出してくれ！",
-  "en": ""
+  "en": "Albaijan, hurry and remember\nwhere the village is!"
  },
  {
   "id": "IVENT50:0020",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "わかってるって！\nそう急かすなよ。\nえ～と、今が…この道だから……",
-  "en": ""
+  "en": "I know, I know!\nDon't rush me.\nUhh, right now we're... on this path, so..."
  },
  {
   "id": "IVENT50:0021",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ジャームか！？\n……もう囲まれてるのか！？",
-  "en": ""
+  "en": "Germs?!\n...We're already surrounded?!"
  },
  {
   "id": "IVENT50:0022",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "あ、やっぱりここなの。\n<3>ポーポー<8>、こっちなの。\nここに誰かいるのお。",
-  "en": ""
+  "en": "Ah, it is over here~\n<3>Popo<8>, this way~\nSomebody's here~"
  },
  {
   "id": "IVENT50:0023",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "ね、言ったとおりなの。\nやっぱりこっちにいたのお。",
-  "en": ""
+  "en": "See, just like I said~\nThey were over here after all~"
  },
  {
   "id": "IVENT50:0024",
   "kind": "msg",
   "speaker": "ポーポー",
   "jp": "さっすが、<3>ハーミー<8>。\nでも、この人たち、どっから来たんだろ？",
-  "en": ""
+  "en": "Way to go, <3>Hermie<8>.\nBut where'd these people come from?"
  },
  {
   "id": "IVENT50:0025",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ちょっとまってなの。\nう～んとね…<10>…<10>…<10>…",
-  "en": ""
+  "en": "Wait a sec~\nUmmm, let's see...<10>...<10>...<10>..."
  },
  {
   "id": "IVENT50:0026",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ちょ、ちょっと待て！\nお、おまえたち、<1>夜夢族<8>か？",
-  "en": ""
+  "en": "W-Wait a minute!\nA-Are you kids <1>Night Dream Clan<8>?"
  },
  {
   "id": "IVENT50:0027",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "人に何かたずねるときは、\nまず自分の名前を言うの。",
-  "en": ""
+  "en": "When you ask somebody something,\nyou say your own name first~"
  },
  {
   "id": "IVENT50:0028",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "おじいちゃんがそう言ってたの。\nだから、オヤジから教えるの。",
-  "en": ""
+  "en": "That's what Grandpa says~\nSo Old Man has to tell first~"
  },
  {
   "id": "IVENT50:0029",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "お、親父だあ！？\nおまえ、何て口の聞き方しやがるんだ！",
-  "en": ""
+  "en": "O-Old man?!\nWhat kinda way is that to talk to people!"
  },
  {
   "id": "IVENT50:0030",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "オヤジは、オヤジなの。\nで、名前は何なのお？",
-  "en": ""
+  "en": "Old Man is Old Man~\nSo what's your name~?"
  },
  {
   "id": "IVENT50:0031",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……親父じゃねえ。\n俺はアルバイジャンだ。",
-  "en": ""
+  "en": "...I ain't an old man.\nI'm Albaijan."
  },
  {
   "id": "IVENT50:0032",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "で、おまえたちは夜夢族なのか？",
-  "en": ""
+  "en": "So, are you kids Night Dream Clan?"
  },
  {
   "id": "IVENT50:0033",
   "kind": "msg",
   "speaker": "ポーポー",
   "jp": "うん、そうだよ。\nぼくはポーポー、こっちはハーミーだよ。",
-  "en": ""
+  "en": "Yep, that's right.\nI'm Popo, and this is Hermie."
  },
  {
   "id": "IVENT50:0034",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ポーポー、ズルいの！\nハーミーが話してたのお！",
-  "en": ""
+  "en": "Popo, no fair!\nHermie was talking~!"
  },
  {
   "id": "IVENT50:0035",
   "kind": "msg",
   "speaker": "ポーポー",
   "jp": "いいじゃん。\nハーミーばっかズルいよ！",
-  "en": ""
+  "en": "So what?\nYou always get to talk, Hermie! No fair!"
  },
  {
   "id": "IVENT50:0036",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ズルくないの！\nポーポーのほうがズルいのお！",
-  "en": ""
+  "en": "It's not unfair!\nPopo's the unfair one~!"
  },
  {
   "id": "IVENT50:0037",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "おいおい、ケンカすんなよ。",
-  "en": ""
+  "en": "Hey, hey, quit fighting."
  },
  {
   "id": "IVENT50:0038",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "んなことより、おまえたち。\n<3>ピエン<8>っていうじいさんを知らないか？",
-  "en": ""
+  "en": "Never mind that, you two.\nYou know an old geezer named <3>Pien<8>?"
  },
  {
   "id": "IVENT50:0039",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "知ってたら、奴の家まで案内してくれよ。",
-  "en": ""
+  "en": "If you do, take us to his place."
  },
  {
   "id": "IVENT50:0040",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ピエンって、ハーミーのおじいちゃんなの。",
-  "en": ""
+  "en": "Pien is Hermie's grandpa~"
  },
  {
   "id": "IVENT50:0041",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "おじいちゃんとお友達なの？\nどうなの、オヤジ？\n答えてなの、オヤジぃ。",
-  "en": ""
+  "en": "Are you Grandpa's friend?\nAre you, Old Man?\nAnswer me, Old Ma~an."
  },
  {
   "id": "IVENT50:0042",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "親父、親父って言うな！\n俺は親父じゃねえって言ってんだろ！",
-  "en": ""
+  "en": "Quit callin' me old man!\nI told ya, I ain't an old man!"
  },
  {
   "id": "IVENT50:0043",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "いいかげんにしねえと、シリをひっぱたくぞッ！",
-  "en": ""
+  "en": "Keep it up and I'll spank your behind!"
  },
  {
   "id": "IVENT50:0044",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "そんなこと言う人はヤなの。\nもう何も話してあげないの。\nべ～だ！！",
-  "en": ""
+  "en": "Hermie doesn't like people who say that~\nHermie's not talking to you anymore~\nBleh~!!"
  },
  {
   "id": "IVENT50:0045",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "な、なんだと！\nチクショオッ！\nもう頭きた！",
-  "en": ""
+  "en": "Wh-Why you...!\nDammit!\nThat's it, I'm mad now!"
  },
  {
   "id": "IVENT50:0046",
   "kind": "msg",
   "speaker": "翔",
   "jp": "アルバイジャン、子供相手にマジになるなよ。",
-  "en": ""
+  "en": "Albaijan, don't get worked up over a kid."
  },
  {
   "id": "IVENT50:0047",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ハーミーだっけ？\n悪気はないんだ。\n許してやってくれよ。",
-  "en": ""
+  "en": "Hermie, was it?\nHe doesn't mean any harm.\nPlease forgive him."
  },
  {
   "id": "IVENT50:0048",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "え？　<10>…<10>…う、うん。\nいいよ、許してあげるのお。",
-  "en": ""
+  "en": "Huh? <10>...<10>...O-Okay.\nFine, Hermie forgives him~"
  },
  {
   "id": "IVENT50:0049",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "な、なんでえ、えらく素直じゃねえか？",
-  "en": ""
+  "en": "Wh-Whaddya know, she's awful obedient\nall of a sudden, ain't she?"
  },
  {
   "id": "IVENT50:0050",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "まあ、いいや。\n大事な用事があるんだ。\n奴の家まで案内してくれよ。",
-  "en": ""
+  "en": "Well, whatever.\nWe've got important business.\nTake us to his place."
  },
  {
   "id": "IVENT50:0051",
   "kind": "msg",
   "speaker": "翔",
   "jp": "俺からも頼むよ。\nおじいさんの家に連れてってくれないか？",
-  "en": ""
+  "en": "I'm asking too.\nWould you take us to your grandpa's house?"
  },
  {
   "id": "IVENT50:0052",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "はいなのお！\n<10>…<10>…でも、一つだけお願いがあるの。",
-  "en": ""
+  "en": "Okay~!\n<10>...<10>...But there's just one thing I want~"
  },
  {
   "id": "IVENT50:0053",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "お兄ちゃんって、呼んでも<10>…<10>…いい？",
-  "en": ""
+  "en": "Can I call you<10>...<10>...big brother?"
  },
  {
   "id": "IVENT50:0054",
   "kind": "msg",
   "speaker": "翔",
   "jp": "なんだ、そんなことか。\nいいよ、好きに呼んでくれ。",
-  "en": ""
+  "en": "Oh, is that all?\nSure, call me whatever you like."
  },
  {
   "id": "IVENT50:0055",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "うん、わかったの！\nわ～い、お兄ちゃんなの！",
-  "en": ""
+  "en": "Okay, got it~!\nYay, a big brother~!"
  },
  {
   "id": "IVENT50:0056",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ハーミー、お兄ちゃんができたの！",
-  "en": ""
+  "en": "Hermie got a big brother~!"
  },
  {
   "id": "IVENT50:0057",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "よかったな。\nだから、とっとと案内してくれよ。",
-  "en": ""
+  "en": "Good for you.\nNow hurry up and lead the way."
  },
  {
   "id": "IVENT50:0058",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "オヤジ、うるさいの。\nじゃあ、お兄ちゃん、村に行くの！",
-  "en": ""
+  "en": "Old Man, you're noisy~\nOkay, big brother, let's go to the village~!"
  },
  {
   "id": "IVENT50:0059",
   "kind": "msg",
   "speaker": "翔",
   "jp": "どうしたんだ、ハーミー。\nなんで、ここで止まるんだ？",
-  "en": ""
+  "en": "What's wrong, Hermie?\nWhy are we stopping here?"
  },
  {
   "id": "IVENT50:0060",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ここが村なのか？\nでも……",
-  "en": ""
+  "en": "Is this the village?\nBut..."
  },
  {
   "id": "IVENT50:0061",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ここからだと家は見えないの。\nでも、すぐ着くの。\nみんな、休むことができるの。",
-  "en": ""
+  "en": "You can't see the houses from here~\nBut we're almost there~\nEveryone can get some rest~"
  },
  {
   "id": "IVENT50:0062",
   "kind": "msg",
   "speaker": "翔",
   "jp": "な、何も話してないのに！\nハーミー、どうして……",
-  "en": ""
+  "en": "B-But I didn't say anything!\nHermie, how did you..."
  },
  {
   "id": "IVENT50:0063",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "話してないけど、思ったの。",
-  "en": ""
+  "en": "You didn't say it, but you thought it~"
  },
  {
   "id": "IVENT50:0064",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "<10>…<10>…ハーミーね、\n人の思ったことが\nなんとなくだけど、わかるの。",
-  "en": ""
+  "en": "<10>...<10>...Hermie can kinda,\nsort of tell\nwhat people are thinking~"
  },
  {
   "id": "IVENT50:0065",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "そんなこと、どうでもいいの。",
-  "en": ""
+  "en": "But that doesn't matter~"
  },
  {
   "id": "IVENT50:0066",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "みんな、疲れてるみたいなの。\nお兄ちゃん、早く行くの。",
-  "en": ""
+  "en": "Everyone looks really tired~\nBig brother, let's hurry~"
  }
 ]

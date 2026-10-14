@@ -4,14 +4,14 @@
   "kind": "msg",
   "speaker": "",
   "jp": "　地下廃墟　　地下１階",
-  "en": ""
+  "en": "Underground Ruins - Basement 1"
  },
  {
   "id": "K_CHI21:0001",
   "kind": "choice",
   "speaker": "",
   "jp": "　開ける\n　やめる",
-  "en": ""
+  "en": "Open\nLeave it"
  },
  {
   "id": "K_CHI21:0002",
@@ -25,28 +25,28 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　開ける\n　やめる",
-  "en": ""
+  "en": "Open\nLeave it"
  },
  {
   "id": "K_CHI21:0004",
   "kind": "msg",
   "speaker": "翔",
   "jp": "何もないな………",
-  "en": ""
+  "en": "Nothing here..."
  },
  {
   "id": "K_CHI21:0005",
   "kind": "choice",
   "speaker": "",
   "jp": "　開ける\n　やめる",
-  "en": ""
+  "en": "Open\nLeave it"
  },
  {
   "id": "K_CHI21:0006",
   "kind": "msg",
   "speaker": "翔",
   "jp": "何もないな………",
-  "en": ""
+  "en": "Nothing here..."
  },
  {
   "id": "K_CHI21:0007",
@@ -60,7 +60,7 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "<1>速さの秘薬<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>Speed Elixir<8>!"
  },
  {
   "id": "K_CHI21:0009",
@@ -74,6 +74,6 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "<1>２０００ＣＡＮ<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>2000 CAN<8>!"
  }
 ]

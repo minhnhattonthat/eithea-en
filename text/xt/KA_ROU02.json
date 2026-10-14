@@ -4,13 +4,13 @@
   "kind": "msg",
   "speaker": "",
   "jp": "<1>闘士の指輪<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>Warrior's Ring<8>!"
  },
  {
   "id": "KA_ROU02:0001",
   "kind": "msg",
   "speaker": "",
   "jp": "<1>特効薬<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>Wonder Drug<8>!"
  }
 ]

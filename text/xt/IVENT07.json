@@ -4,307 +4,307 @@
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "おや、あなたたちですか。\n今日は何の用でしょう？",
-  "en": ""
+  "en": "Oh, it's you people.\nWhat brings you here today?"
  },
  {
   "id": "IVENT07:0001",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "エレボタルを退治してきたわよ。",
-  "en": ""
+  "en": "We exterminated the Ele Fireflies."
  },
  {
   "id": "IVENT07:0002",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "ほほう……\nそれで、なにか証拠となるものはあるのですか？",
-  "en": ""
+  "en": "Oh ho...\nAnd do you have anything to prove it?"
  },
  {
   "id": "IVENT07:0003",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "おや、あなたたちですか。\n証拠は持ってきたのですか？",
-  "en": ""
+  "en": "Oh, it's you people.\nHave you brought proof?"
  },
  {
   "id": "IVENT07:0004",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "これでどう？\nエレボタルのボスが持っていた金色のＴＩＰよ。",
-  "en": ""
+  "en": "How's this?\nA gold TIP the Ele Firefly boss was carrying."
  },
  {
   "id": "IVENT07:0005",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "ほほおお……　これは珍妙な。",
-  "en": ""
+  "en": "Ohhhh... How very peculiar."
  },
  {
   "id": "IVENT07:0006",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "こんなものは、\nボスでなければ持っていないでしょうね。",
-  "en": ""
+  "en": "No one but the boss would be carrying\nsomething like this."
  },
  {
   "id": "IVENT07:0007",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "どうやら確かに、退治してもらえたようですね。\nありがとうございます。",
-  "en": ""
+  "en": "It seems you truly did exterminate them.\nThank you very much."
  },
  {
   "id": "IVENT07:0008",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "ところで……\n他には、何かありませんでしたか？",
-  "en": ""
+  "en": "By the way...\nwas there nothing else?"
  },
  {
   "id": "IVENT07:0009",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "……え？\n<1>祭壇<8>があったけど……",
-  "en": ""
+  "en": "...Huh?\nThere was an <1>altar<8>..."
  },
  {
   "id": "IVENT07:0010",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "祭壇？\nその祭壇に、何か……",
-  "en": ""
+  "en": "An altar?\nAnd on that altar, was there anything..."
  },
  {
   "id": "IVENT07:0011",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "何かって……知らないの？",
-  "en": ""
+  "en": "\"Anything\"...? You don't know?"
  },
  {
   "id": "IVENT07:0012",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "あ、いえ……\nわ、私は……その……",
-  "en": ""
+  "en": "Ah, no...\nI-I'm... well..."
  },
  {
   "id": "IVENT07:0013",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "……私は管理だけをしていたもので、\n登ったことはないのです……",
-  "en": ""
+  "en": "...I was only in charge of its upkeep,\nso I have never climbed it myself..."
  },
  {
   "id": "IVENT07:0014",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ならなんで、\n何か無かったかって聞くのよ？",
-  "en": ""
+  "en": "Then why are you asking\nif there was anything there?"
  },
  {
   "id": "IVENT07:0015",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "そ、それは……",
-  "en": ""
+  "en": "W-Well, that's..."
  },
  {
   "id": "IVENT07:0016",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "……そう、伝承です！\n神官に伝わる伝承では、塔の最上階に……\nその……",
-  "en": ""
+  "en": "...Yes, the legend!\nAccording to a legend passed down among the\npriests, at the top of the tower... um..."
  },
  {
   "id": "IVENT07:0017",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "その……そう！\n重要な書物があるという話が……",
-  "en": ""
+  "en": "Um... yes!\nThere is said to be an important book..."
  },
  {
   "id": "IVENT07:0018",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "……ほんと？",
-  "en": ""
+  "en": "...Really?"
  },
  {
   "id": "IVENT07:0019",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "ほ、本当ですとも！\nと、とにかく……",
-  "en": ""
+  "en": "R-Really, truly!\nA-At any rate..."
  },
  {
   "id": "IVENT07:0020",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "塔の最上階には何かあったのですか？",
-  "en": ""
+  "en": "Was there something at the top of the tower?"
  },
  {
   "id": "IVENT07:0021",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "私たちが行った時には、何もありませんでしたわ。",
-  "en": ""
+  "en": "There was nothing there when we arrived."
  },
  {
   "id": "IVENT07:0022",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "そ、そんな！？\nう、うそ……",
-  "en": ""
+  "en": "Wh-What?!\nN-No way..."
  },
  {
   "id": "IVENT07:0023",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "おおおおおぉ、\nなんということに……！",
-  "en": ""
+  "en": "Ohhhhhhh,\nwhat has become of it...!"
  },
  {
   "id": "IVENT07:0024",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "こ、これでは私の……\n私のおおっ！！",
-  "en": ""
+  "en": "Wh-With this, my...\nmy... ohhhh!!"
  },
  {
   "id": "IVENT07:0025",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ど、どうしたの、エウリケ？",
-  "en": ""
+  "en": "Wh-What's wrong, Eurike?"
  },
  {
   "id": "IVENT07:0026",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "……はッ！？\nな、何でもありませんよ。",
-  "en": ""
+  "en": "...Huh?!\nN-Nothing at all."
  },
  {
   "id": "IVENT07:0027",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "じ、持病の発作ですから。\nき、気にしないでください、おほほほほ。",
-  "en": ""
+  "en": "J-Just a flare-up of a chronic condition.\nP-Pay it no mind, ohohohoho."
  },
  {
   "id": "IVENT07:0028",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "私は今から、\nこの喜びを神官たちにも伝えにいってきます。",
-  "en": ""
+  "en": "I shall now go and share this joyous news\nwith the other priests."
  },
  {
   "id": "IVENT07:0029",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "それでは失礼させていただきますよ。",
-  "en": ""
+  "en": "Well then, I shall take my leave."
  },
  {
   "id": "IVENT07:0030",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "………………………………",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "IVENT07:0031",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "秋穂、なんでウソをついたの？",
-  "en": ""
+  "en": "Akiho, why did you lie?"
  },
  {
   "id": "IVENT07:0032",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "あからさまにあやしいじゃないの。",
-  "en": ""
+  "en": "Because that was blatantly suspicious."
  },
  {
   "id": "IVENT07:0033",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "塔には登ったことがない。\nけれど、最上階に何かあると知っている。",
-  "en": ""
+  "en": "Never climbed the tower, and yet somehow\nknows there's something on the top floor."
  },
  {
   "id": "IVENT07:0034",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "どう考えてもおかしいわよ。",
-  "en": ""
+  "en": "However you look at it, that's strange."
  },
  {
   "id": "IVENT07:0035",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……わたしもそう思います。\nあの人、何かを隠してるみたいに感じました……",
-  "en": ""
+  "en": "...I think so too.\nIt felt like that person was hiding\nsomething..."
  },
  {
   "id": "IVENT07:0036",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "わたしだってそう思うよ。\nけど、同じ部族のものを疑いたくはないし……",
-  "en": ""
+  "en": "I think so too, you know.\nBut I don't want to doubt someone from my own\nclan..."
  },
  {
   "id": "IVENT07:0037",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "だいじょうぶだよ！\n困ったことになんて、ならないって。",
-  "en": ""
+  "en": "It'll be fine!\nNothing bad's gonna happen, trust me."
  },
  {
   "id": "IVENT07:0038",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "だといいんだけど……",
-  "en": ""
+  "en": "I hope you're right..."
  },
  {
   "id": "IVENT07:0039",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "そうそう、忘れておりました。\n先ほどの金色のＴＩＰはあなたたちでお使いなさい。\nわたしたちには必要のないものでしょうから。",
-  "en": ""
+  "en": "Oh yes, I nearly forgot.\nYou may use that Gold TIP from earlier.\nWe will hardly have any need for it."
  },
  {
   "id": "IVENT07:0040",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "それでは、わたくしはこれで……",
-  "en": ""
+  "en": "Now then, I'll be on my way..."
  },
  {
   "id": "IVENT07:0041",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "………………………",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "IVENT07:0042",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "とりあえず、族長の館に行こっか。",
-  "en": ""
+  "en": "Anyway, let's head to the Chief's house."
  },
  {
   "id": "IVENT07:0043",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "エレボタルを退治したことを報告しなきゃ。",
-  "en": ""
+  "en": "I have to report that we got rid of the\nEle Fireflies."
  }
 ]

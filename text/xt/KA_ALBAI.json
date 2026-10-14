@@ -4,538 +4,538 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "どうだ、アルバイジャン。\n何かわかったか？",
-  "en": ""
+  "en": "Well, Albaijan?\nFind anything out?"
  },
  {
   "id": "KA_ALBAI:0001",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ああ、かなり厄介なことがな。",
-  "en": ""
+  "en": "Yeah. Something pretty nasty."
  },
  {
   "id": "KA_ALBAI:0002",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "説明するのも面倒だが……\nああ？　ひかる、そいつはどうしたんだ？",
-  "en": ""
+  "en": "It's a pain to explain, but...\nHm? Hikaru, what's that you've got there?"
  },
  {
   "id": "KA_ALBAI:0003",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……え？ああ、このペンダントですか？\n知り合いの方にもらったんですが……",
-  "en": ""
+  "en": "...Huh? Oh, this pendant?\nSomeone I know gave it to me..."
  },
  {
   "id": "KA_ALBAI:0004",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "へええ、おまえもやるな。\nその年で男に貢がせるとはな。",
-  "en": ""
+  "en": "Well, well, not bad. Getting men to\nshower you with gifts at your age."
  },
  {
   "id": "KA_ALBAI:0005",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "そ、そんなんじゃありません！！",
-  "en": ""
+  "en": "I-It's nothing like that!!"
  },
  {
   "id": "KA_ALBAI:0006",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ちょいと見せてくれないか？\n鑑定してやるよ……っておい！",
-  "en": ""
+  "en": "Mind if I have a look?\nI'll appraise it for you... Hey, whoa!"
  },
  {
   "id": "KA_ALBAI:0007",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……ひかる、ほんとうに、\nこれはもらった物なのか？",
-  "en": ""
+  "en": "...Hikaru, are you sure\nsomeone really gave you this?"
  },
  {
   "id": "KA_ALBAI:0008",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "は、はい。\n……あの、なにか……？",
-  "en": ""
+  "en": "Y-Yes.\n...Um, is something wrong...?"
  },
  {
   "id": "KA_ALBAI:0009",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "センセイ、見ろよ！\n見つかったぜ！",
-  "en": ""
+  "en": "Sensei, look!\nWe found it!"
  },
  {
   "id": "KA_ALBAI:0010",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "見せて！\n……ほんとうだわ。\n信じられない……",
-  "en": ""
+  "en": "Let me see!\n...It's true.\nI can't believe it..."
  },
  {
   "id": "KA_ALBAI:0011",
   "kind": "msg",
   "speaker": "翔",
   "jp": "どうしたんだ？\nこのペンダントはそんなに珍しいのか？",
-  "en": ""
+  "en": "What's going on?\nIs this pendant that rare?"
  },
  {
   "id": "KA_ALBAI:0012",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ああ、実はな、地下で見つけたコンテナに\nついていたのは、<1>火竜族の国<8>、\n<1>ユーロリア王家<8>の紋章だったんだ。",
-  "en": ""
+  "en": "Yeah. See, that container we found underground\nbore the crest of the <1>Fire Dragon Clan<8>\nnation, the <1>royal house of Eurolia<8>."
  },
  {
   "id": "KA_ALBAI:0013",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "ユーロリア王家！？\nでも、なんで……",
-  "en": ""
+  "en": "The royal house of Eurolia?!\nBut why..."
  },
  {
   "id": "KA_ALBAI:0014",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "つまり、あのコンテナを\n開けるには、紋章が刻まれた何かが必要だったんだ。",
-  "en": ""
+  "en": "In other words, to open that container,\nwe needed something engraved with the crest."
  },
  {
   "id": "KA_ALBAI:0015",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "これでコンテナを開けることができるわね。",
-  "en": ""
+  "en": "Now we can open the container."
  },
  {
   "id": "KA_ALBAI:0016",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "頼むぜ、みんな。\nまた何かあったら、すぐに戻ってこいよ。",
-  "en": ""
+  "en": "Counting on you all.\nIf anything else comes up, come straight back."
  },
  {
   "id": "KA_ALBAI:0017",
   "kind": "msg",
   "speaker": "翔",
   "jp": "まだ伊藤さんは見つかってないようだな。\nもう一度、探しに行くか。",
-  "en": ""
+  "en": "Looks like Itou-san still hasn't been found.\nGuess I'll go look for her again."
  },
  {
   "id": "KA_ALBAI:0018",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "よお、翔！\nいいところに来たな！",
-  "en": ""
+  "en": "Hey, Shou!\nYou came at just the right time!"
  },
  {
   "id": "KA_ALBAI:0019",
   "kind": "msg",
   "speaker": "翔",
   "jp": "伊藤さんがいたのか？\nいったい、どこにいたんだ？",
-  "en": ""
+  "en": "You found Itou-san?\nWhere was she?"
  },
  {
   "id": "KA_ALBAI:0020",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ちがうさ、そんなことじゃない。",
-  "en": ""
+  "en": "Nope, nothing like that."
  },
  {
   "id": "KA_ALBAI:0021",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ブックの解析をしてたらな、\nすげえことがわかったんだ。",
-  "en": ""
+  "en": "I was analyzing the Book,\nand I found out something amazing."
  },
  {
   "id": "KA_ALBAI:0022",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "今すぐ教えてやりたいんだが、ここじゃ無理なんだ。",
-  "en": ""
+  "en": "I'd love to tell you now, but I can't do it\nhere."
  },
  {
   "id": "KA_ALBAI:0023",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ひかるが見つかったら、教えてやるよ。",
-  "en": ""
+  "en": "Once Hikaru's found, I'll fill you in."
  },
  {
   "id": "KA_ALBAI:0024",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "楽しみにしてな。\nじゃあ、後でな。",
-  "en": ""
+  "en": "Look forward to it.\nCatch you later."
  },
  {
   "id": "KA_ALBAI:0025",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "おっと忘れてた、翔！\nさっきユカが戻ってきたぜ。",
-  "en": ""
+  "en": "Oh, almost forgot, Shou!\nYuka came back a little while ago."
  },
  {
   "id": "KA_ALBAI:0026",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ユカが？",
-  "en": ""
+  "en": "Yuka did?"
  },
  {
   "id": "KA_ALBAI:0027",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ああ、すぐに出て行っちまったんだけどな。\nなんか様子がおかしかったなぁ………",
-  "en": ""
+  "en": "Yeah, but she headed right back out.\nSomething seemed off about her..."
  },
  {
   "id": "KA_ALBAI:0028",
   "kind": "msg",
   "speaker": "翔",
   "jp": "わかった、見かけたら声をかけてみるよ。",
-  "en": ""
+  "en": "Got it. If I see her, I'll talk to her."
  },
  {
   "id": "KA_ALBAI:0029",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "頼むぞ。　それじゃぁな！",
-  "en": ""
+  "en": "Thanks. See ya!"
  },
  {
   "id": "KA_ALBAI:0030",
   "kind": "msg",
   "speaker": "翔",
   "jp": "伊藤さん、どこに行ったんだろ？",
-  "en": ""
+  "en": "Where could Itou-san have gone?"
  },
  {
   "id": "KA_ALBAI:0031",
   "kind": "msg",
   "speaker": "翔",
   "jp": "他のみんなが見つけているといいんだけどな。",
-  "en": ""
+  "en": "I hope one of the others has found her."
  },
  {
   "id": "KA_ALBAI:0032",
   "kind": "msg",
   "speaker": "翔",
   "jp": "アルバイジャンは、ブックの解析に夢中だし……",
-  "en": ""
+  "en": "And Albaijan's all wrapped up in analyzing\nthe Book..."
  },
  {
   "id": "KA_ALBAI:0033",
   "kind": "msg",
   "speaker": "翔",
   "jp": "しかたない、もう一度探しに行くか。",
-  "en": ""
+  "en": "Can't be helped. I'll go look again."
  },
  {
   "id": "KA_ALBAI:0034",
   "kind": "msg",
   "speaker": "翔",
   "jp": "さて、どうするか？",
-  "en": ""
+  "en": "Now, what should I do?"
  },
  {
   "id": "KA_ALBAI:0035",
   "kind": "choice",
   "speaker": "",
   "jp": "　フィノばあさんと話す　　　休む\n　地下に行く　　　　　　　　魔弾研究\n　町に行く　　　　　　　　　セーブする",
-  "en": ""
+  "en": "Talk to Granny Fino       Rest\nGo underground            Study Magic Bullets\nGo to town                Save"
  },
  {
   "id": "KA_ALBAI:0036",
   "kind": "msg",
   "speaker": "翔",
   "jp": "じゃあ、でかけるか。",
-  "en": ""
+  "en": "Well, let's head out."
  },
  {
   "id": "KA_ALBAI:0037",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "よっしゃ！",
-  "en": ""
+  "en": "All right!"
  },
  {
   "id": "KA_ALBAI:0038",
   "kind": "msg",
   "speaker": "フィノ",
   "jp": "お帰り、ケガはないかい？",
-  "en": ""
+  "en": "Welcome back. Not hurt, are you?"
  },
  {
   "id": "KA_ALBAI:0039",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ああ、だいじょうぶだ。\nなあ、カーライルのことを\n教えてもらえないかな？",
-  "en": ""
+  "en": "Yeah, I'm fine.\nHey, could you tell me about\nCarlyle?"
  },
  {
   "id": "KA_ALBAI:0040",
   "kind": "msg",
   "speaker": "フィノ",
   "jp": "この町についてかい？\nいいよ。",
-  "en": ""
+  "en": "About this town?\nSure."
  },
  {
   "id": "KA_ALBAI:0041",
   "kind": "msg",
   "speaker": "フィノ",
   "jp": "あたしでわかることだったら、\nなんでも教えてあげるよ。\nなにが聞きたいんだい？",
-  "en": ""
+  "en": "If it's something I know,\nI'll tell you anything.\nWhat would you like to hear?"
  },
  {
   "id": "KA_ALBAI:0042",
   "kind": "choice",
   "speaker": "",
   "jp": "　カーライルの成り立ち　　　コンテナについて\n　今のカーライルについて　　質問をやめる\n　地下廃墟ができた理由",
-  "en": ""
+  "en": "Carlyle's origins         About the containers\nCarlyle today             Stop asking\nHow the ruins came to be"
  },
  {
   "id": "KA_ALBAI:0043",
   "kind": "choice",
   "speaker": "",
   "jp": "　カーライルの成り立ち　　　質問をやめる\n　今のカーライルについて\n　地下廃墟ができた理由",
-  "en": ""
+  "en": "Carlyle's origins         Stop asking\nCarlyle today\nHow the ruins came to be"
  },
  {
   "id": "KA_ALBAI:0044",
   "kind": "choice",
   "speaker": "",
   "jp": "　フィノばあさんと話す　　　休む\n　地下に行く　　　　　　　　魔弾研究\n　町に行く　　　　　　　　　セーブする",
-  "en": ""
+  "en": "Talk to Granny Fino       Rest\nGo underground            Study Magic Bullets\nGo to town                Save"
  },
  {
   "id": "KA_ALBAI:0045",
   "kind": "msg",
   "speaker": "フィノ",
   "jp": "あたしでわかることだったら、\nなんでも教えてあげるよ。\nなにが聞きたいんだい？",
-  "en": ""
+  "en": "If it's something I know,\nI'll tell you anything.\nWhat would you like to hear?"
  },
  {
   "id": "KA_ALBAI:0046",
   "kind": "msg",
   "speaker": "フィノ",
   "jp": "カーライルはね、\n戦争に焼け出されたものたちの町なんだよ。",
-  "en": ""
+  "en": "Carlyle, you see,\nis a town of people burned out of their\nhomes by war."
  },
  {
   "id": "KA_ALBAI:0047",
   "kind": "msg",
   "speaker": "フィノ",
   "jp": "つまり、難民たちがつくった町なのさ。",
-  "en": ""
+  "en": "In other words, it's a town built by refugees."
  },
  {
   "id": "KA_ALBAI:0048",
   "kind": "msg",
   "speaker": "フィノ",
   "jp": "……大昔に、おっきな戦争があってね。",
-  "en": ""
+  "en": "...Long, long ago, there was a great war."
  },
  {
   "id": "KA_ALBAI:0049",
   "kind": "msg",
   "speaker": "フィノ",
   "jp": "住むところを失い、\n難民になった火竜族が\nこのあたりに流れてきたんだ。",
-  "en": ""
+  "en": "Fire Dragon Clan folk who'd lost their homes\nand become refugees\ndrifted into these parts."
  },
  {
   "id": "KA_ALBAI:0050",
   "kind": "msg",
   "speaker": "フィノ",
   "jp": "そのとき、ある月光族が彼らを助けてね……",
-  "en": ""
+  "en": "Back then, a certain Moonlight Clan member\nhelped them out..."
  },
  {
   "id": "KA_ALBAI:0051",
   "kind": "msg",
   "speaker": "フィノ",
   "jp": "そこから、この町の歴史がはじまったのさ。",
-  "en": ""
+  "en": "And that's where this town's history began."
  },
  {
   "id": "KA_ALBAI:0052",
   "kind": "msg",
   "speaker": "フィノ",
   "jp": "ここは、戦争でできた町だからね。",
-  "en": ""
+  "en": "This town was born out of war, you see."
  },
  {
   "id": "KA_ALBAI:0053",
   "kind": "msg",
   "speaker": "フィノ",
   "jp": "どの部族にも味方しない、中立都市になったんだ。",
-  "en": ""
+  "en": "So it became a neutral city that sides\nwith no clan at all."
  },
  {
   "id": "KA_ALBAI:0054",
   "kind": "msg",
   "speaker": "フィノ",
   "jp": "ここには火竜族も月光族も関係ない。",
-  "en": ""
+  "en": "Fire Dragon Clan, Moonlight Clan...\nnone of that matters here."
  },
  {
   "id": "KA_ALBAI:0055",
   "kind": "msg",
   "speaker": "フィノ",
   "jp": "みんな、いっしょに暮らしてるよ。",
-  "en": ""
+  "en": "Everyone lives together."
  },
  {
   "id": "KA_ALBAI:0056",
   "kind": "msg",
   "speaker": "フィノ",
   "jp": "どうだい、よかったらあんたたちもここで\n暮らさないかい？カーライルは生まれにかかわらず、\nどんな人間も受け入れてくれるさ。",
-  "en": ""
+  "en": "Say, how about it? Why don't you folks\nsettle down here too? Carlyle takes in\nanyone, no matter where they were born."
  },
  {
   "id": "KA_ALBAI:0057",
   "kind": "msg",
   "speaker": "フィノ",
   "jp": "住むとこはあたしが面倒みたげるからさ。",
-  "en": ""
+  "en": "I'll see to finding you a place to live."
  },
  {
   "id": "KA_ALBAI:0058",
   "kind": "msg",
   "speaker": "フィノ",
   "jp": "……昔のことさね。",
-  "en": ""
+  "en": "...It's an old story, mind you."
  },
  {
   "id": "KA_ALBAI:0059",
   "kind": "msg",
   "speaker": "フィノ",
   "jp": "カーライルは、何度も何度も\n火竜族の戦争に巻き込まれたんだ。",
-  "en": ""
+  "en": "Time and time again, Carlyle got dragged\ninto the Fire Dragon Clan's wars."
  },
  {
   "id": "KA_ALBAI:0060",
   "kind": "msg",
   "speaker": "フィノ",
   "jp": "そのたびに町は焼け野原になったそうだよ。",
-  "en": ""
+  "en": "Each time, they say the town was burned\nto the ground."
  },
  {
   "id": "KA_ALBAI:0061",
   "kind": "msg",
   "speaker": "フィノ",
   "jp": "でも、町の人々は負けなかった。",
-  "en": ""
+  "en": "But the townsfolk never gave up."
  },
  {
   "id": "KA_ALBAI:0062",
   "kind": "msg",
   "speaker": "フィノ",
   "jp": "焼けた町の上に、新しい家をつくり、\nそこで生きのびたんだ。",
-  "en": ""
+  "en": "They built new houses on top of the burned\ntown, and survived there."
  },
  {
   "id": "KA_ALBAI:0063",
   "kind": "msg",
   "speaker": "フィノ",
   "jp": "壊されても、壊されても、ずっとね……",
-  "en": ""
+  "en": "Torn down again and again, over and over..."
  },
  {
   "id": "KA_ALBAI:0064",
   "kind": "msg",
   "speaker": "フィノ",
   "jp": "そのあとが、あの廃墟なんだよ。",
-  "en": ""
+  "en": "What's left of all that is those ruins."
  },
  {
   "id": "KA_ALBAI:0065",
   "kind": "msg",
   "speaker": "フィノ",
   "jp": "今じゃ、五層くらいある、\n迷宮じみたもんになっちまってる。",
-  "en": ""
+  "en": "By now it's about five layers deep,\nturned into a regular labyrinth."
  },
  {
   "id": "KA_ALBAI:0066",
   "kind": "msg",
   "speaker": "フィノ",
   "jp": "それは、あんたも見たからわかるだろ？",
-  "en": ""
+  "en": "You've seen it yourself, so you know, right?"
  },
  {
   "id": "KA_ALBAI:0067",
   "kind": "msg",
   "speaker": "フィノ",
   "jp": "コンテナはね、カーライルに\n攻めこんできた火竜族が使った代物さね。",
-  "en": ""
+  "en": "Those containers, now... the Fire Dragon Clan\nused them when they attacked Carlyle."
  },
  {
   "id": "KA_ALBAI:0068",
   "kind": "msg",
   "speaker": "フィノ",
   "jp": "あの中に食料や武器やら、\nときには兵隊やらを詰め込んだんだよ。",
-  "en": ""
+  "en": "They'd stuff them with food and weapons,\nand sometimes even soldiers."
  },
  {
   "id": "KA_ALBAI:0069",
   "kind": "msg",
   "speaker": "フィノ",
   "jp": "……え？\n誰があのコンテナを運んだのかって？",
-  "en": ""
+  "en": "...Hm?\nWho carried those containers, you ask?"
  },
  {
   "id": "KA_ALBAI:0070",
   "kind": "msg",
   "speaker": "フィノ",
   "jp": "ドラゴンだよ。\nドラゴンが空を飛んであれを運んだのさ！",
-  "en": ""
+  "en": "Dragons, that's who.\nDragons flew through the sky carrying them!"
  },
  {
   "id": "KA_ALBAI:0071",
   "kind": "msg",
   "speaker": "フィノ",
   "jp": "おお、怖い！\n想像するだに恐ろしいよ！",
-  "en": ""
+  "en": "Oh, how frightening!\nJust picturing it gives me the shivers!"
  },
  {
   "id": "KA_ALBAI:0072",
   "kind": "msg",
   "speaker": "フィノ",
   "jp": "他に聞きたいことはあるかい？",
-  "en": ""
+  "en": "Anything else you'd like to ask?"
  },
  {
   "id": "KA_ALBAI:0073",
   "kind": "msg",
   "speaker": "フィノ",
   "jp": "年よりの長話につきあってくれて、ありがとうよ。",
-  "en": ""
+  "en": "Thank you for putting up with an old\nwoman's rambling."
  },
  {
   "id": "KA_ALBAI:0074",
   "kind": "msg",
   "speaker": "フィノ",
   "jp": "今度は茶でも用意しとくから、また来ておくれ。",
-  "en": ""
+  "en": "Next time I'll have some tea ready,\nso come again, won't you?"
  },
  {
   "id": "KA_ALBAI:0075",
   "kind": "msg",
   "speaker": "フィノ",
   "jp": "年よりの長話につきあってくれて、ありがとうよ。",
-  "en": ""
+  "en": "Thank you for putting up with an old\nwoman's rambling."
  },
  {
   "id": "KA_ALBAI:0076",
   "kind": "msg",
   "speaker": "フィノ",
   "jp": "今度は茶でも用意しとくから、また来ておくれ。",
-  "en": ""
+  "en": "Next time I'll have some tea ready,\nso come again, won't you?"
  }
 ]

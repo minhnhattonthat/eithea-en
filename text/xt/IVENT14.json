@@ -4,14 +4,14 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "あれ、ルー……",
-  "en": ""
+  "en": "Oh, Lou..."
  },
  {
   "id": "IVENT14:0001",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "あら、翔。",
-  "en": ""
+  "en": "Oh, Shou."
  },
  {
   "id": "IVENT14:0002",
@@ -25,14 +25,14 @@
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ええ。\nほら、ここからだと、\n村の全体が見渡せるでしょ？",
-  "en": ""
+  "en": "Yeah.\nSee, from here\nyou can see the whole village, right?"
  },
  {
   "id": "IVENT14:0004",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "だから、好きなの。",
-  "en": ""
+  "en": "That's why I like it."
  },
  {
   "id": "IVENT14:0005",
@@ -46,7 +46,7 @@
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ねえ、翔<8>……\nおまえたちってさ、なんでああなの？",
-  "en": ""
+  "en": "Hey, Shou<8>...\nWhat's the deal with you guys?"
  },
  {
   "id": "IVENT14:0007",
@@ -60,14 +60,14 @@
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ほら……おまえを呼び捨てにしたりとか、\n親しくしてたら、ユカ<8>が怒るじゃない。",
-  "en": ""
+  "en": "You know... like when I call you by just your\nname, or act close with you, Yuka<8> gets mad."
  },
  {
   "id": "IVENT14:0009",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "なんでそうなの？",
-  "en": ""
+  "en": "Why is that?"
  },
  {
   "id": "IVENT14:0010",
@@ -81,7 +81,7 @@
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そうなの？",
-  "en": ""
+  "en": "Really?"
  },
  {
   "id": "IVENT14:0012",
@@ -123,6 +123,6 @@
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ええ、またね。",
-  "en": ""
+  "en": "Yeah, see you."
  }
 ]

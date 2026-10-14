@@ -4,468 +4,468 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "おお、ひかる、無事だったか！\n……ありゃ？　どうしたんだ？\nなんでユカも泣いてんだ？",
-  "en": ""
+  "en": "Oh, Hikaru, you're safe!\n...Huh? What's going on?\nWhy's Yuka crying too?"
  },
  {
   "id": "IVENT23:0001",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "うふふふふ。\n持つべきものは友達。\nそういうことよ。",
-  "en": ""
+  "en": "Hee hee hee.\nEveryone needs a good friend.\nThat's all it is."
  },
  {
   "id": "IVENT23:0002",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "どういうことだ？\n……まあ、いいか。",
-  "en": ""
+  "en": "What's that supposed to mean?\n...Eh, whatever."
  },
  {
   "id": "IVENT23:0003",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "なあ、翔、\nちょっと来てもらえるか？",
-  "en": ""
+  "en": "Hey, Shou,\ncould you come with me for a sec?"
  },
  {
   "id": "IVENT23:0004",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ねえ、どこ行くの？",
-  "en": ""
+  "en": "Hey, where are you going?"
  },
  {
   "id": "IVENT23:0005",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "そうだな……秘密の実験室ってところか？",
-  "en": ""
+  "en": "Let's see...\na secret laboratory, you could say?"
  },
  {
   "id": "IVENT23:0006",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "なにそれ？\n私も行っていい？",
-  "en": ""
+  "en": "What's that?\nCan I come too?"
  },
  {
   "id": "IVENT23:0007",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "いいとも。\nセンセイたちもどうだ？",
-  "en": ""
+  "en": "Sure thing.\nCare to join us, Sensei? The rest of you?"
  },
  {
   "id": "IVENT23:0008",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "そうね。\nじゃ、行きましょうか。",
-  "en": ""
+  "en": "Why not.\nShall we go, then?"
  },
  {
   "id": "IVENT23:0009",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ここは……？",
-  "en": ""
+  "en": "Where are we...?"
  },
  {
   "id": "IVENT23:0010",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "俺の書斎ってとこかな？",
-  "en": ""
+  "en": "My study, you might say."
  },
  {
   "id": "IVENT23:0011",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "商品の鑑定やブックとかの解析は\nここでやってるんだ。",
-  "en": ""
+  "en": "This is where I appraise merchandise\nand analyze Books and such."
  },
  {
   "id": "IVENT23:0012",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "でも、秘密の実験室って感じじゃないね。",
-  "en": ""
+  "en": "But it doesn't feel like a secret laboratory."
  },
  {
   "id": "IVENT23:0013",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "そりゃそうさ。\nここじゃ狭すぎる。",
-  "en": ""
+  "en": "Well, sure.\nIt's way too cramped in here."
  },
  {
   "id": "IVENT23:0014",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "実験するんだったら、\nもっと広いとこじゃなきゃな。",
-  "en": ""
+  "en": "If you're gonna run experiments,\nyou need somewhere a lot roomier."
  },
  {
   "id": "IVENT23:0015",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "<10>…<10>…？\nどういうこと？",
-  "en": ""
+  "en": "<10>..<10>..?\nWhat do you mean?"
  },
  {
   "id": "IVENT23:0016",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "なら、自分の目で確かめてみろよ。\nじゃ、行くぜ。",
-  "en": ""
+  "en": "Then see for yourself.\nLet's go."
  },
  {
   "id": "IVENT23:0017",
   "kind": "msg",
   "speaker": "翔",
   "jp": "アルバイジャン、何も見えないぞ。",
-  "en": ""
+  "en": "Albaijan, I can't see a thing."
  },
  {
   "id": "IVENT23:0018",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "少しまってみろ。\nそのうち目が闇に慣れるはずだ。",
-  "en": ""
+  "en": "Give it a minute.\nYour eyes should adjust to the dark soon."
  },
  {
   "id": "IVENT23:0019",
   "kind": "msg",
   "speaker": "翔",
   "jp": "こ、これは……都市？\nだけど人の気配がない……",
-  "en": ""
+  "en": "Wh-What is this... a city?\nBut there's no sign of anyone..."
  },
  {
   "id": "IVENT23:0020",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "あァ、昔の都市のなれの果てさ。",
-  "en": ""
+  "en": "Yeah, what's left of an ancient city."
  },
  {
   "id": "IVENT23:0021",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "秘密の実験室って、ここのことなの？",
-  "en": ""
+  "en": "Is this the secret laboratory?"
  },
  {
   "id": "IVENT23:0022",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "そうさ。\n秘密っていやあ、\n昔から地下にあるもんって決まってんだろ？",
-  "en": ""
+  "en": "That's right.\nWhen it comes to secrets, they've always\nbeen underground. Everybody knows that."
  },
  {
   "id": "IVENT23:0023",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "さてと、そしたら始めるとするか。",
-  "en": ""
+  "en": "Alright then, let's get started."
  },
  {
   "id": "IVENT23:0024",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "実験って言ってたけど、何をするつもりなの？",
-  "en": ""
+  "en": "You mentioned an experiment.\nWhat are you planning to do?"
  },
  {
   "id": "IVENT23:0025",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ああ、そういやまだ話してなかったな。",
-  "en": ""
+  "en": "Ah, right, I haven't told you yet."
  },
  {
   "id": "IVENT23:0026",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "この間みつけたブックをおぼえてるか？",
-  "en": ""
+  "en": "Remember that Book we found the other day?"
  },
  {
   "id": "IVENT23:0027",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "あれにな、アーティアを使った\n<1>魔弾<8>の造り方が載ってたんだ。",
-  "en": ""
+  "en": "Well, it explained how to make\n<1>Magic Bullets<8> using Artia."
  },
  {
   "id": "IVENT23:0028",
   "kind": "msg",
   "speaker": "翔",
   "jp": "魔弾？",
-  "en": ""
+  "en": "Magic Bullets?"
  },
  {
   "id": "IVENT23:0029",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "翔、こっちに来い。",
-  "en": ""
+  "en": "Shou, over here."
  },
  {
   "id": "IVENT23:0030",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "翔、目の前にジャームがいると思って、\n撃ってみろ！",
-  "en": ""
+  "en": "Shou, pretend there's a Germ right in front\nof you and fire!"
  },
  {
   "id": "IVENT23:0031",
   "kind": "msg",
   "speaker": "翔",
   "jp": "よし……　<10><10>いくぞ！",
-  "en": ""
+  "en": "Okay... <10><10>Here goes!"
  },
  {
   "id": "IVENT23:0032",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "うっひょおおおおッ！\nすっげえ威力だぜ！！",
-  "en": ""
+  "en": "Woo-hoooooo!\nNow THAT'S some firepower!!"
  },
  {
   "id": "IVENT23:0033",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "これだったら、問題はないな。\n翔、ひとつ頼むぜ。",
-  "en": ""
+  "en": "With this, we're all set.\nShou, I'm counting on you."
  },
  {
   "id": "IVENT23:0034",
   "kind": "msg",
   "speaker": "翔",
   "jp": "何をだ？",
-  "en": ""
+  "en": "For what?"
  },
  {
   "id": "IVENT23:0035",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "何をって、決まってるだろ？\nこの中の探索だよ。",
-  "en": ""
+  "en": "For what? Isn't it obvious?\nExploring this place, of course."
  },
  {
   "id": "IVENT23:0036",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ええええええっ！？\nど、どういうことだ？",
-  "en": ""
+  "en": "Whaaaaaat?!\nWh-What do you mean?"
  },
  {
   "id": "IVENT23:0037",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ここの奥のどこかにアーティアがあるんだ。",
-  "en": ""
+  "en": "There's Artia somewhere deep inside here."
  },
  {
   "id": "IVENT23:0038",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ウソじゃねえ。\nブックに記されてあったんだ。",
-  "en": ""
+  "en": "I'm not lying.\nIt was written in the Book."
  },
  {
   "id": "IVENT23:0039",
   "kind": "msg",
   "speaker": "翔",
   "jp": "俺たちにそれを取ってこいと……？",
-  "en": ""
+  "en": "And you want us to go get it...?"
  },
  {
   "id": "IVENT23:0040",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ああ、頼むぜ。",
-  "en": ""
+  "en": "Yeah, I'm counting on you."
  },
  {
   "id": "IVENT23:0041",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "いつものように、\nチョチョイと片づけてくれりゃいいんだ。",
-  "en": ""
+  "en": "Just breeze through it\nlike you always do."
  },
  {
   "id": "IVENT23:0042",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "それにアーティアがあるんなら、\nブックもあると思うんだ。",
-  "en": ""
+  "en": "And if there's Artia down there,\nI bet there's a Book too."
  },
  {
   "id": "IVENT23:0043",
   "kind": "msg",
   "speaker": "翔",
   "jp": "気安く言ってくれるな。",
-  "en": ""
+  "en": "You make it sound so easy."
  },
  {
   "id": "IVENT23:0044",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ていうことはよ、\nおまえたちをもとの世界に帰す方法も\n見つかると思うぞ。",
-  "en": ""
+  "en": "Which means,\nI bet we'll find a way to send\nyou guys back to your world, too."
  },
  {
   "id": "IVENT23:0045",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "いいだろ？\n俺の頼みを聞いてくれるよな？",
-  "en": ""
+  "en": "Come on.\nYou'll do this for me, won't you?"
  },
  {
   "id": "IVENT23:0046",
   "kind": "choice",
   "speaker": "",
   "jp": "　わかった\n　イヤだ",
-  "en": ""
+  "en": "All right\nNo way"
  },
  {
   "id": "IVENT23:0047",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ありがとよ、翔！\n頼りにしてるぜ。",
-  "en": ""
+  "en": "Thanks a bunch, Shou!\nKnew I could count on you."
  },
  {
   "id": "IVENT23:0048",
   "kind": "msg",
   "speaker": "翔",
   "jp": "すまない、みんな。\nでも、もとの世界に早く帰りたくて……",
-  "en": ""
+  "en": "Sorry, everyone.\nBut I want to get back to our world soon..."
  },
  {
   "id": "IVENT23:0049",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "気にしないで。\n私もそうしたはずよ。",
-  "en": ""
+  "en": "Don't worry about it.\nI would have done the same."
  },
  {
   "id": "IVENT23:0050",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "けど、ルーに悪いわね。\nブックを探す必要もないし……",
-  "en": ""
+  "en": "Still, it's not fair to Lou.\nShe doesn't even need to find a Book..."
  },
  {
   "id": "IVENT23:0051",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "気にしないで。\n退屈してたとこだしさ。\n付きあったげるよ。",
-  "en": ""
+  "en": "Don't worry about it.\nI was getting bored anyway.\nI'll tag along."
  },
  {
   "id": "IVENT23:0052",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "なんでだよ！？\nいいじゃないか！",
-  "en": ""
+  "en": "Why not?!\nC'mon, what's the harm?"
  },
  {
   "id": "IVENT23:0053",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "おまえらをもとの世界に帰す\n方法も見つかるんだぞ？",
-  "en": ""
+  "en": "You could find a way back\nto your own world, you know!"
  },
  {
   "id": "IVENT23:0054",
   "kind": "msg",
   "speaker": "翔",
   "jp": "もしかしたら、だろ？\nこの中の探索は危険すぎる。",
-  "en": ""
+  "en": "\"Could,\" right?\nExploring in there is too dangerous."
  },
  {
   "id": "IVENT23:0055",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "…<10>…<10>でも、そうするしかないと思うわ。",
-  "en": ""
+  "en": "...<10>...<10>But I think it's our only option."
  },
  {
   "id": "IVENT23:0056",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ブックが見つかる可能性は、\n確実なものではないわ。",
-  "en": ""
+  "en": "There's no guarantee\nwe'll find a Book."
  },
  {
   "id": "IVENT23:0057",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "けれど、今はそれに賭けるしかないと思うの。",
-  "en": ""
+  "en": "But right now, I think we have to bet on it."
  },
  {
   "id": "IVENT23:0058",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "だから<10>…<10>…ごめんなさい。\nみんな、この中の探索をお願いできないかしら？",
-  "en": ""
+  "en": "So<10>...<10>...I'm sorry.\nEveryone, could you please explore in there?"
  },
  {
   "id": "IVENT23:0059",
   "kind": "msg",
   "speaker": "翔",
   "jp": "先生<10>…<10>…わかりました。\nアルバイジャン、探索でも何でもしてやるよ。",
-  "en": ""
+  "en": "Sensei<10>...<10>...All right.\nAlbaijan, we'll explore, or whatever you want."
  },
  {
   "id": "IVENT23:0060",
   "kind": "msg",
   "speaker": "翔",
   "jp": "けど、こんな頼みは、もう二度と聞かないからな。\nみんなを危険な目にあわせたくないんだ。",
-  "en": ""
+  "en": "But I'm never doing a favor like this again.\nI don't want to put everyone in danger."
  },
  {
   "id": "IVENT23:0061",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "わかってるって。\nそんな怖い顔すんなよ。",
-  "en": ""
+  "en": "I know, I know.\nDon't give me that scary look."
  },
  {
   "id": "IVENT23:0062",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "そんじゃあ、みんな。\nよろしく頼むぜ。",
-  "en": ""
+  "en": "Alright then, everyone.\nI'll leave it to you."
  },
  {
   "id": "IVENT23:0063",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "そうそう、今回は俺が作ってやったが、これから\n使う魔弾は翔、お前が自分でつくるんだぞ。",
-  "en": ""
+  "en": "Oh, right. I made this one for you, but from\nnow on, Shou, you make your own Magic Bullets."
  },
  {
   "id": "IVENT23:0064",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "△ボタンで開くメニューの中に『魔弾作成』って\nコマンドがあるから、それを使うんだ。",
-  "en": ""
+  "en": "There's a \"Make Magic Bullet\" command in\nthe menu you open with the Triangle button.\nUse that."
  },
  {
   "id": "IVENT23:0065",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "新たな魔弾を作りたいときは俺に声をかけてくれ。\n新しい魔弾を研究してやるよ。",
-  "en": ""
+  "en": "If you want a new kind of Magic Bullet, talk\nto me. I'll research new ones for you."
  },
  {
   "id": "IVENT23:0066",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "俺は書斎にいる。\n何かあったら、すぐに教えてくれよ。",
-  "en": ""
+  "en": "I'll be in my study.\nIf anything comes up, let me know right away."
  }
 ]

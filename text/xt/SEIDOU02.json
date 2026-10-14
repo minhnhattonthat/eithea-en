@@ -4,27 +4,27 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　キャンプで休む\n　セーブする\n　休まない",
-  "en": ""
+  "en": "Rest at camp\nSave\nDon't rest"
  },
  {
   "id": "SEIDOU02:0001",
   "kind": "msg",
   "speaker": "ミュウ",
   "jp": "キャハハハハハッ！\n引っかかったわねー。",
-  "en": ""
+  "en": "Kyahahahaha!\nYou fell for it!"
  },
  {
   "id": "SEIDOU02:0002",
   "kind": "msg",
   "speaker": "ミュウ",
   "jp": "サイアク～ッ！\nなんで負けちゃわないのよー！",
-  "en": ""
+  "en": "This sucks~!\nWhy won't you just lose already?!"
  },
  {
   "id": "SEIDOU02:0003",
   "kind": "msg",
   "speaker": "ミュウ",
   "jp": "いいわ！\n次の罠でケチョンケチョンなんだからねー！",
-  "en": ""
+  "en": "Fine!\nMy next trap's gonna crush you to bits!"
  }
 ]

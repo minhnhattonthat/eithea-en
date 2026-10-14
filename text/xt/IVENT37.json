@@ -4,433 +4,433 @@
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ずいぶん奥まで来たけど、\nアルバイジャン……ここにいるのかな？",
-  "en": ""
+  "en": "We've come pretty deep, but...\nAlbaijan... is he really down here?"
  },
  {
   "id": "IVENT37:0001",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "きゃあああ！\nド、ドラゴン！？",
-  "en": ""
+  "en": "Kyaaah!\nA-A dragon?!"
  },
  {
   "id": "IVENT37:0002",
   "kind": "msg",
   "speaker": "翔",
   "jp": "みんな、いくぞッ！！",
-  "en": ""
+  "en": "Here we go, everyone!!"
  },
  {
   "id": "IVENT37:0003",
   "kind": "msg",
   "speaker": "ドラゴン",
   "jp": "……ふむ、なかなかいい腕をしてるな。",
-  "en": ""
+  "en": "...Hmm, you're quite skilled."
  },
  {
   "id": "IVENT37:0004",
   "kind": "msg",
   "speaker": "ドラゴン",
   "jp": "さすがアルバイジャンの見込んだ者\nと言うべきかな？",
-  "en": ""
+  "en": "As expected of those Albaijan has his eye on,\nI should say?"
  },
  {
   "id": "IVENT37:0005",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ド、ドラゴンがしゃべった！？",
-  "en": ""
+  "en": "Th-The dragon talked?!"
  },
  {
   "id": "IVENT37:0006",
   "kind": "msg",
   "speaker": "ドラゴン",
   "jp": "ふはははは！\n冗談はこれぐらいにしておこう。",
-  "en": ""
+  "en": "Fuhahahaha!\nEnough joking around."
  },
  {
   "id": "IVENT37:0007",
   "kind": "msg",
   "speaker": "ドラゴン",
   "jp": "アルバイジャン！\nそろそろ出てくるときではないのかな？",
-  "en": ""
+  "en": "Albaijan!\nIsn't it about time you came out?"
  },
  {
   "id": "IVENT37:0008",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……ああ、わかってるさ。",
-  "en": ""
+  "en": "...Yeah, I know."
  },
  {
   "id": "IVENT37:0009",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "アルバイジャン！？",
-  "en": ""
+  "en": "Albaijan?!"
  },
  {
   "id": "IVENT37:0010",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "よう、久しぶりだな。",
-  "en": ""
+  "en": "Hey, long time no see."
  },
  {
   "id": "IVENT37:0011",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "よかった、無事だったんだね！",
-  "en": ""
+  "en": "Thank goodness, you're safe!"
  },
  {
   "id": "IVENT37:0012",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "あたりまえさ。\nこの<3>ヴァムール<8>は、俺のダチなんだからな。",
-  "en": ""
+  "en": "Of course I am.\n<3>Vamur<8> here is my buddy, after all."
  },
  {
   "id": "IVENT37:0013",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……と、友達！？",
-  "en": ""
+  "en": "...B-Buddy?!"
  },
  {
   "id": "IVENT37:0014",
   "kind": "msg",
   "speaker": "ヴァムール",
   "jp": "そうだ。こんな姿になった私を\n今でも友と呼んでくれる、ありがたい友人だよ。",
-  "en": ""
+  "en": "Indeed. He's a good friend who still calls\nme his friend, even in this form."
  },
  {
   "id": "IVENT37:0015",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "こんな……姿に？\nどういうこと？",
-  "en": ""
+  "en": "In this... form?\nWhat do you mean?"
  },
  {
   "id": "IVENT37:0016",
   "kind": "msg",
   "speaker": "ヴァムール",
   "jp": "怒りの感情が高まりすぎたとき、\n火竜族はドラゴンに変化する特質を持っている。",
-  "en": ""
+  "en": "When their anger grows too strong,\nthe Fire Dragon Clan has the trait\nof turning into dragons."
  },
  {
   "id": "IVENT37:0017",
   "kind": "msg",
   "speaker": "ヴァムール",
   "jp": "しかし、一度ドラゴンになった者は、\n二度ともとの姿に戻ることはできない。",
-  "en": ""
+  "en": "But once someone becomes a dragon,\nthey can never return to their original form."
  },
  {
   "id": "IVENT37:0018",
   "kind": "msg",
   "speaker": "ヴァムール",
   "jp": "ドラゴンが部族にもたらすのは、\n面倒と災いぐらいだ。",
-  "en": ""
+  "en": "All a dragon brings its tribe\nis trouble and disaster."
  },
  {
   "id": "IVENT37:0019",
   "kind": "msg",
   "speaker": "ヴァムール",
   "jp": "それゆえ、ドラゴンとなった者は、\nこの黒の間に幽閉されるのだ。",
-  "en": ""
+  "en": "And so those who become dragons\nare imprisoned here in the Black Chamber."
  },
  {
   "id": "IVENT37:0020",
   "kind": "msg",
   "speaker": "ヴァムール",
   "jp": "<10>…<10>…死が訪れる、そのときまでな。",
-  "en": ""
+  "en": "<10>...<10>Until the day death comes for them."
  },
  {
   "id": "IVENT37:0021",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "そういうこった。\nところでユカ、頼みがあるんだが……",
-  "en": ""
+  "en": "That's how it is.\nBy the way, Yuka, I've got a favor to ask..."
  },
  {
   "id": "IVENT37:0022",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "うん！　どうしたの？\n何でも言って！",
-  "en": ""
+  "en": "Yeah! What is it?\nJust say the word!"
  },
  {
   "id": "IVENT37:0023",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "あそこにアーティアがある。\nあれを持ってきてもらえるか？",
-  "en": ""
+  "en": "There's an Artia over there.\nCould you fetch it for me?"
  },
  {
   "id": "IVENT37:0024",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "アーティア！？\nうん、わかった！",
-  "en": ""
+  "en": "An Artia?!\nOkay, got it!"
  },
  {
   "id": "IVENT37:0025",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "よ……っと、<10>とれたよ！\n……あれ？",
-  "en": ""
+  "en": "Hup...<10> got it!\n...Huh?"
  },
  {
   "id": "IVENT37:0026",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "よおし、これで結界が消えたぞ！",
-  "en": ""
+  "en": "All right, that's the barrier gone!"
  },
  {
   "id": "IVENT37:0027",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ヴァムール、これでいつでも外に出られるな。",
-  "en": ""
+  "en": "Now you can go outside whenever you like,\nVamur."
  },
  {
   "id": "IVENT37:0028",
   "kind": "msg",
   "speaker": "ヴァムール",
   "jp": "そのつもりはないがな。\n一応、礼は言っておこう。",
-  "en": ""
+  "en": "Not that I intend to.\nStill, I suppose I should thank you."
  },
  {
   "id": "IVENT37:0029",
   "kind": "msg",
   "speaker": "ヴァムール",
   "jp": "<1>アーティアイマージュ<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>Artia Image<8>!"
  },
  {
   "id": "IVENT37:0030",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ありがとよ、ユカ。",
-  "en": ""
+  "en": "Thanks, Yuka."
  },
  {
   "id": "IVENT37:0031",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……そんなことないよ！\nだって、私のせいで……",
-  "en": ""
+  "en": "...Don't thank me!\nI mean, it was my fault that..."
  },
  {
   "id": "IVENT37:0032",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "おめえのせいじゃねえよ。\n俺はヴァムールに会うために、ワザと捕まったんだ。",
-  "en": ""
+  "en": "It wasn't your fault.\nI got caught on purpose so I could see Vamur."
  },
  {
   "id": "IVENT37:0033",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ゆっくり眠れたし、いい骨休めになったぜ。",
-  "en": ""
+  "en": "Got a good long sleep, too.\nNice little vacation, if ya ask me."
  },
  {
   "id": "IVENT37:0034",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "アルバイジャン……\nありがとう……",
-  "en": ""
+  "en": "Albaijan...\nThank you..."
  },
  {
   "id": "IVENT37:0035",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "……ねえ、アルバイジャン、聞いていいかしら？",
-  "en": ""
+  "en": "...Say, Albaijan, may I ask you something?"
  },
  {
   "id": "IVENT37:0036",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "なんだ、センセイ？",
-  "en": ""
+  "en": "What is it, Sensei?"
  },
  {
   "id": "IVENT37:0037",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "火竜城で私たちを捕まえたあの人……",
-  "en": ""
+  "en": "That woman who captured us\nat Fire Dragon Castle..."
  },
  {
   "id": "IVENT37:0038",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "カレンの言っていたことはほんとうなの？",
-  "en": ""
+  "en": "Is what Karen said true?"
  },
  {
   "id": "IVENT37:0039",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "<10>…<10>…そろそろ教えてくれないかしら？",
-  "en": ""
+  "en": "<10>..<10>.. Don't you think it's time you told us?"
  },
  {
   "id": "IVENT37:0040",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "そうだな。\nだまっていてもしょうがないしな。",
-  "en": ""
+  "en": "Yeah, I guess so.\nNo use keeping quiet about it now."
  },
  {
   "id": "IVENT37:0041",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……むかしの話だ。",
-  "en": ""
+  "en": "...It's an old story."
  },
  {
   "id": "IVENT37:0042",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "俺とカレンは、\n数人の研究者たちとともに、\nエレの樹の研究をしていた。",
-  "en": ""
+  "en": "Karen and I, along with a handful\nof other researchers,\nwere studying the Ele Tree."
  },
  {
   "id": "IVENT37:0043",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "研究といっても、\n月光族みたいな殊勝なものじゃあない。",
-  "en": ""
+  "en": "Not that it was anything as noble\nas what the Moonlight Clan does."
  },
  {
   "id": "IVENT37:0044",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "いかにして力を、安定した強い力を引き出すか。\nそのためだけの研究だった。",
-  "en": ""
+  "en": "How to draw out power -- strong, stable power.\nThat's all our research was ever about."
  },
  {
   "id": "IVENT37:0045",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "それが、今の火竜族が得た力なの？",
-  "en": ""
+  "en": "Is that the power the Fire Dragon Clan\nhas now?"
  },
  {
   "id": "IVENT37:0046",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ああ、そうだ。\nカレンは見つけやがったのさ。",
-  "en": ""
+  "en": "Yeah, that's right.\nKaren went and found it."
  },
  {
   "id": "IVENT37:0047",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "３個のアーティアを用いたエレの樹の制御方法。",
-  "en": ""
+  "en": "A way to control the Ele Tree using\nthree Artia."
  },
  {
   "id": "IVENT37:0048",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "それが古えの技術……<1>科学<8>だ。",
-  "en": ""
+  "en": "An ancient technology... <1>science<8>."
  },
  {
   "id": "IVENT37:0049",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "だが、あの技術は危険なものだった。\n一つ間違えばユーロリア、いや、\nアイシアそのものを滅ぼす！",
-  "en": ""
+  "en": "But that technology was dangerous.\nOne slip and it could destroy Eurolia -- no,\nEithéa itself!"
  },
  {
   "id": "IVENT37:0050",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "それどころか、\n俺は研究から外されそうになったんだ。",
-  "en": ""
+  "en": "And on top of that,\nthey were about to cut me out of the research."
  },
  {
   "id": "IVENT37:0051",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "俺はその時、使われていたアーティアを\nかっぱらってユーロリアから逃げた。",
-  "en": ""
+  "en": "So I swiped the Artia we'd been using\nand ran off from Eurolia."
  },
  {
   "id": "IVENT37:0052",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "そうすればカレンたちの研究を\n止められると思ったんだが……。\nどうやら浅はかだったようだな。",
-  "en": ""
+  "en": "I figured that'd put a stop to Karen\nand the others' research...\nGuess I wasn't thinking it through."
  },
  {
   "id": "IVENT37:0053",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "そういうことだったのね。\nやっと、すっきりしたわ。",
-  "en": ""
+  "en": "So that's what happened.\nIt finally all makes sense."
  },
  {
   "id": "IVENT37:0054",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "だまっていて悪かったな。\nあまり知られたくはなかったんでな……",
-  "en": ""
+  "en": "Sorry for keeping quiet.\nIt's not something I wanted getting around..."
  },
  {
   "id": "IVENT37:0055",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "誰にでも、そういうことはあるものよ。",
-  "en": ""
+  "en": "Everyone has something like that."
  },
  {
   "id": "IVENT37:0056",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "気にしないで、アルバイジャン。",
-  "en": ""
+  "en": "Don't let it bother you, Albaijan."
  },
  {
   "id": "IVENT37:0057",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "うん、そうだよ。\nいつもみたいに笑ってよ。",
-  "en": ""
+  "en": "Yeah, that's right.\nLaugh like you always do!"
  },
  {
   "id": "IVENT37:0058",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "うはははははは、\nってさ。",
-  "en": ""
+  "en": "\"Uhahahahaha!\"\nLike that!"
  },
  {
   "id": "IVENT37:0059",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ああ、そうするぜ。\nありがとよ、センセイ、ユカ……",
-  "en": ""
+  "en": "Yeah, I'll do that.\nThanks, Sensei, Yuka..."
  },
  {
   "id": "IVENT37:0060",
   "kind": "msg",
   "speaker": "ユン",
   "jp": "……なるほど、\nアゼルが連れてきたのは、このためだったのか。",
-  "en": ""
+  "en": "...I see.\nSo this is why Azel brought them here."
  },
  {
   "id": "IVENT37:0061",
   "kind": "msg",
   "speaker": "ユン",
   "jp": "ふふふふふ……結界はとかれた。アゼル。\nすべての準備が整ったぞ……",
-  "en": ""
+  "en": "Heh heh heh... The barrier is down, Azel.\nEverything is ready..."
  }
 ]

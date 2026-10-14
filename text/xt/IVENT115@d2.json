@@ -4,7 +4,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "クリア情報をセーブします。\nセーブしますか？",
-  "en": ""
+  "en": "I'll save your clear data.\nWould you like to save?"
  },
  {
   "id": "IVENT115@d2:0001",
@@ -18,27 +18,27 @@
   "kind": "msg",
   "speaker": "",
   "jp": "セーブを終了しますか？",
-  "en": ""
+  "en": "Finish saving?"
  },
  {
   "id": "IVENT115@d2:0003",
   "kind": "choice",
   "speaker": "",
   "jp": "　はい\n　いいえ",
-  "en": ""
+  "en": "Yes\nNo"
  },
  {
   "id": "IVENT115@d2:0004",
   "kind": "msg",
   "speaker": "",
   "jp": "クリア情報をセーブしないと『思いでアルバム』を\n鑑賞することが出来ません。\nこのまま終了しますか？",
-  "en": ""
+  "en": "Without saving your clear data, you can't\nview the \"Memory Album.\"\nQuit anyway?"
  },
  {
   "id": "IVENT115@d2:0005",
   "kind": "choice",
   "speaker": "",
   "jp": "　はい\n　いいえ",
-  "en": ""
+  "en": "Yes\nNo"
  }
 ]

@@ -4,14 +4,14 @@
   "kind": "msg",
   "speaker": "",
   "jp": "　地下廃墟　　地下４階",
-  "en": ""
+  "en": "Underground Ruins - Basement 4"
  },
  {
   "id": "K_CHI24:0001",
   "kind": "msg",
   "speaker": "",
   "jp": "<1>４０００ＣＡＮ<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>4000 CAN<8>!"
  },
  {
   "id": "K_CHI24:0002",
@@ -25,70 +25,70 @@
   "kind": "msg",
   "speaker": "",
   "jp": "<1>リングオブエレ<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>Ring of Ele<8>!"
  },
  {
   "id": "K_CHI24:0004",
   "kind": "choice",
   "speaker": "",
   "jp": "　開ける\n　やめる",
-  "en": ""
+  "en": "Open\nLeave it"
  },
  {
   "id": "K_CHI24:0005",
   "kind": "msg",
   "speaker": "",
   "jp": "<1>２０００ＣＡＮ<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>2000 CAN<8>!"
  },
  {
   "id": "K_CHI24:0006",
   "kind": "choice",
   "speaker": "",
   "jp": "　開ける\n　やめる",
-  "en": ""
+  "en": "Open\nLeave it"
  },
  {
   "id": "K_CHI24:0007",
   "kind": "msg",
   "speaker": "翔",
   "jp": "何もないな………",
-  "en": ""
+  "en": "Nothing here..."
  },
  {
   "id": "K_CHI24:0008",
   "kind": "choice",
   "speaker": "",
   "jp": "　開ける\n　やめる",
-  "en": ""
+  "en": "Open\nLeave it"
  },
  {
   "id": "K_CHI24:0009",
   "kind": "msg",
   "speaker": "翔",
   "jp": "<1>エレの神爪<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>Ele Divine Claw<8>!"
  },
  {
   "id": "K_CHI24:0010",
   "kind": "msg",
   "speaker": "翔",
   "jp": "このスイッチはなんだろう………\n押してみるか………",
-  "en": ""
+  "en": "What's this switch...?\nGuess I'll try pressing it..."
  },
  {
   "id": "K_CHI24:0011",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ん？遠くでなにか音が聞こえたような………",
-  "en": ""
+  "en": "Hm? I thought I heard something\nin the distance..."
  },
  {
   "id": "K_CHI24:0012",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "新見くん、ちょっといいですか？",
-  "en": ""
+  "en": "Niimi-kun, do you have a moment?"
  },
  {
   "id": "K_CHI24:0013",
@@ -102,42 +102,42 @@
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "イムルたちが生きてて、ほんとうによかったですね。",
-  "en": ""
+  "en": "I'm so glad Imul and the others are alive."
  },
  {
   "id": "K_CHI24:0015",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "コンテナが開いてイムルたちの顔が見えたとき、\nわたし、泣いちゃいました……",
-  "en": ""
+  "en": "When the container opened and I saw\nImul and everyone's faces, I... I cried..."
  },
  {
   "id": "K_CHI24:0016",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ああ、俺もだ。\nみんなが生きててよかったよな。",
-  "en": ""
+  "en": "Yeah, me too.\nI'm glad everyone made it."
  },
  {
   "id": "K_CHI24:0017",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……ずっと落ちこんでいて、\nほんとうに、ごめんなさい。",
-  "en": ""
+  "en": "...I've been so down this whole time.\nI'm really sorry."
  },
  {
   "id": "K_CHI24:0018",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "もう、だいじょうぶです。\nわたし、戦えますから……！",
-  "en": ""
+  "en": "I'm okay now.\nI can fight...!"
  },
  {
   "id": "K_CHI24:0019",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "おっ兄ちゃん！　えへへへ！",
-  "en": ""
+  "en": "Big brotheeer! Ehehehe!"
  },
  {
   "id": "K_CHI24:0020",
@@ -151,28 +151,28 @@
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "おじいちゃんと会えたの！\nポーポーと会えたの！\nみんなと会えたの！",
-  "en": ""
+  "en": "I got to see Grandpa~!\nI got to see Popo~!\nI got to see everyone~!"
  },
  {
   "id": "K_CHI24:0022",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "もう怖くないの！\nこんなところは、ピュルピュルのパ～なの！",
-  "en": ""
+  "en": "I'm not scared anymore~!\nA place like this is whoosh-whoosh-poof~!"
  },
  {
   "id": "K_CHI24:0023",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "お兄ちゃん、がんばるの！\nハーミー、もっとがんばるの！",
-  "en": ""
+  "en": "Do your best, big brother~!\nHermie's gonna try even harder~!"
  },
  {
   "id": "K_CHI24:0024",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "新見くん、いいかしら？",
-  "en": ""
+  "en": "Niimi-kun, may I have a word?"
  },
  {
   "id": "K_CHI24:0025",
@@ -186,98 +186,98 @@
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ピエンさんたちが生きててよかったわね。",
-  "en": ""
+  "en": "I'm glad Pien and the others are alive."
  },
  {
   "id": "K_CHI24:0027",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "伊藤さんやハーミーも元気になったし、一件落着……\nではないわね。",
-  "en": ""
+  "en": "Itou-san and Hermie are back on their feet,\ntoo, so all's well that ends well...\nor not quite, is it?"
  },
  {
   "id": "K_CHI24:0028",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "……新見くん、率直に聞くわ。\n魔女に勝てると思う？",
-  "en": ""
+  "en": "...Niimi-kun, I'll ask you frankly.\nDo you think we can beat the Witch?"
  },
  {
   "id": "K_CHI24:0029",
   "kind": "choice",
   "speaker": "",
   "jp": "　勝てます\n　……わかりません",
-  "en": ""
+  "en": "We can win\n...I don't know"
  },
  {
   "id": "K_CHI24:0030",
   "kind": "msg",
   "speaker": "翔",
   "jp": "勝てますよ。\n魔女を倒せる力を持った魔弾もあるんですから。",
-  "en": ""
+  "en": "We can win.\nWe've got a Magic Bullet with the power to\ndefeat the Witch, after all."
  },
  {
   "id": "K_CHI24:0031",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "……けっこう楽観的なのね。",
-  "en": ""
+  "en": "...You're rather optimistic, aren't you?"
  },
  {
   "id": "K_CHI24:0032",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "けど、おぼえておいて。\n現実を直視しなければ、何も生まれないのよ。",
-  "en": ""
+  "en": "But remember this.\nIf you don't face reality head-on,\nnothing good will come of it."
  },
  {
   "id": "K_CHI24:0033",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……わかりません。",
-  "en": ""
+  "en": "...I don't know."
  },
  {
   "id": "K_CHI24:0034",
   "kind": "msg",
   "speaker": "翔",
   "jp": "実際に戦ってみなければ、何もわかりませんよ。",
-  "en": ""
+  "en": "We won't know anything until we actually\nfight her."
  },
  {
   "id": "K_CHI24:0035",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "それが現実だわ。\nでも、安心したわ。",
-  "en": ""
+  "en": "That's reality, all right.\nBut I'm relieved."
  },
  {
   "id": "K_CHI24:0036",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "それだけ冷静なら、勝機はあると思うわ。",
-  "en": ""
+  "en": "If you can stay that calm, I think we have\na chance."
  },
  {
   "id": "K_CHI24:0037",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "あとは、私たちが勝ちたいと強く願うだけ。",
-  "en": ""
+  "en": "All that's left is for us to truly\nwant to win."
  },
  {
   "id": "K_CHI24:0038",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "新見くん、がんばりましょう！",
-  "en": ""
+  "en": "Let's do our best, Niimi-kun!"
  },
  {
   "id": "K_CHI24:0039",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ねえねえ翔、ねえってば！",
-  "en": ""
+  "en": "Hey, hey, Shou! Hey, I said!"
  },
  {
   "id": "K_CHI24:0040",
@@ -291,28 +291,28 @@
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ピエンたちが生きててよかったね！",
-  "en": ""
+  "en": "Isn't it great Pien and the others are alive?"
  },
  {
   "id": "K_CHI24:0042",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ひかるも元気になったし……\nやっぱりあの子、イムルのことを……えへへへ。",
-  "en": ""
+  "en": "And Hikaru's feeling better too...\nI knew it, that girl likes Imul... Ehehehe."
  },
  {
   "id": "K_CHI24:0043",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "翔、私たちも……ううん、何でもない。\nがんばろうね！",
-  "en": ""
+  "en": "Shou, we should... No, never mind.\nLet's do our best!"
  },
  {
   "id": "K_CHI24:0044",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "翔、少しだけいいかな……",
-  "en": ""
+  "en": "Shou, could I have a minute...?"
  },
  {
   "id": "K_CHI24:0045",
@@ -326,48 +326,48 @@
   "kind": "msg",
   "speaker": "ルー",
   "jp": "この間の夜は、ごめん。\n……びっくりしたよね？",
-  "en": ""
+  "en": "About the other night... I'm sorry.\n...I surprised you, didn't I?"
  },
  {
   "id": "K_CHI24:0047",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "でも、翔に知ってほしかったんだ。",
-  "en": ""
+  "en": "But I wanted you to know, Shou."
  },
  {
   "id": "K_CHI24:0048",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "わたしの、ほんとうの気持ち。\nわがままかも知れない。",
-  "en": ""
+  "en": "How I really feel.\nMaybe that's selfish of me."
  },
  {
   "id": "K_CHI24:0049",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "わたし、翔のそばにいたい。\nずっといっしょにいたいの……",
-  "en": ""
+  "en": "I want to be by your side, Shou.\nI want to be with you forever..."
  },
  {
   "id": "K_CHI24:0050",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "この気持ちだけは、絶対に変わらないよ。",
-  "en": ""
+  "en": "That's one feeling that will never change."
  },
  {
   "id": "K_CHI24:0051",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "わたし、この気持ちだけは絶対に忘れないから。",
-  "en": ""
+  "en": "I'll never forget this feeling,\nno matter what."
  },
  {
   "id": "K_CHI24:0052",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "翔、忘れないでね……",
-  "en": ""
+  "en": "Shou, don't forget, okay...?"
  }
 ]

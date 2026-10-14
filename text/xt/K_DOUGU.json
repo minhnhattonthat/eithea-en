@@ -4,21 +4,21 @@
   "kind": "msg",
   "speaker": "店番の少年",
   "jp": "あ、いらっしゃ～い。\nどんな道具が入り用ですかあ？",
-  "en": ""
+  "en": "Oh, welcome~!\nWhat kind of items do you need?"
  },
  {
   "id": "K_DOUGU:0001",
   "kind": "msg",
   "speaker": "店番の少年",
   "jp": "いろいろあります。\n見てってくださいね。",
-  "en": ""
+  "en": "We've got all sorts.\nHave a look around, okay?"
  },
  {
   "id": "K_DOUGU:0002",
   "kind": "choice",
   "speaker": "",
   "jp": "　買い物をする　　　　　　　立ち去る\n　持っている物を売る\n　宿屋について聞く",
-  "en": ""
+  "en": "Buy                       Leave\nSell items\nAsk about an inn"
  },
  {
   "id": "K_DOUGU:0003",
@@ -32,77 +32,77 @@
   "kind": "msg",
   "speaker": "店番の少年",
   "jp": "ありがとうございます。\n今あるのは……\nこんな感じですね。",
-  "en": ""
+  "en": "Thank you!\nRight now we've got...\nstuff like this."
  },
  {
   "id": "K_DOUGU:0005",
   "kind": "msg",
   "speaker": "店番の少年",
   "jp": "お買いあげありがとうございます。",
-  "en": ""
+  "en": "Thanks for your purchase!"
  },
  {
   "id": "K_DOUGU:0006",
   "kind": "msg",
   "speaker": "店番の少年",
   "jp": "うーん………うちの商品、気に入りませんかぁ？",
-  "en": ""
+  "en": "Hmm... You don't like our stuff~?"
  },
  {
   "id": "K_DOUGU:0007",
   "kind": "msg",
   "speaker": "店番の少年",
   "jp": "え～と、それじゃあ売りたい物を\n見せてもらえますかあ？",
-  "en": ""
+  "en": "Umm~ okay then, could you show me\nwhat you want to sell?"
  },
  {
   "id": "K_DOUGU:0008",
   "kind": "msg",
   "speaker": "店番の少年",
   "jp": "ありがとうございます。",
-  "en": ""
+  "en": "Thank you!"
  },
  {
   "id": "K_DOUGU:0009",
   "kind": "msg",
   "speaker": "店番の少年",
   "jp": "えーっ、なんかないですかぁ。\nなんでもいいんですけど………。",
-  "en": ""
+  "en": "Aww~ you don't have anything?\nAnything at all is fine..."
  },
  {
   "id": "K_DOUGU:0010",
   "kind": "msg",
   "speaker": "店番の少年",
   "jp": "え？　宿屋ですかあ？\n……う～ん、あったっけかなあ？\nわかんないですねえ～。",
-  "en": ""
+  "en": "Huh? An inn~?\n...Hmm~ is there one around here?\nI dunno~"
  },
  {
   "id": "K_DOUGU:0011",
   "kind": "msg",
   "speaker": "店番の少年",
   "jp": "武器屋の親父さんに聞いてもらえますかあ。",
-  "en": ""
+  "en": "Could you ask the guy at the weapon shop?"
  },
  {
   "id": "K_DOUGU:0012",
   "kind": "msg",
   "speaker": "店番の少年",
   "jp": "ありがとうございましたあ。\nまた来てくださいねえ～。",
-  "en": ""
+  "en": "Thank you very much~!\nCome again, okay~?"
  },
  {
   "id": "K_DOUGU:0013",
   "kind": "msg",
   "speaker": "店番の少年",
   "jp": "他に何かありますかあ？",
-  "en": ""
+  "en": "Anything else~?"
  },
  {
   "id": "K_DOUGU:0014",
   "kind": "msg",
   "speaker": "店番の少年",
   "jp": "新商品も入荷したんですよ！\n見てってくださいね。",
-  "en": ""
+  "en": "We just got some new stock in!\nHave a look around, okay?"
  },
  {
   "id": "K_DOUGU:0015",
@@ -116,55 +116,55 @@
   "kind": "msg",
   "speaker": "店番の少年",
   "jp": "ありがとうございます。\n今あるのは……\nこんな感じですね。",
-  "en": ""
+  "en": "Thank you!\nRight now we've got...\nstuff like this."
  },
  {
   "id": "K_DOUGU:0017",
   "kind": "msg",
   "speaker": "店番の少年",
   "jp": "お買いあげありがとうございます。",
-  "en": ""
+  "en": "Thanks for your purchase!"
  },
  {
   "id": "K_DOUGU:0018",
   "kind": "msg",
   "speaker": "店番の少年",
   "jp": "うーん………うちの商品、気に入りませんかぁ？",
-  "en": ""
+  "en": "Hmm... You don't like our stuff~?"
  },
  {
   "id": "K_DOUGU:0019",
   "kind": "msg",
   "speaker": "店番の少年",
   "jp": "え～と、それじゃあ売りたい物を\n見せてもらえますかあ？",
-  "en": ""
+  "en": "Umm~ okay then, could you show me\nwhat you want to sell?"
  },
  {
   "id": "K_DOUGU:0020",
   "kind": "msg",
   "speaker": "店番の少年",
   "jp": "ありがとうございます。",
-  "en": ""
+  "en": "Thank you!"
  },
  {
   "id": "K_DOUGU:0021",
   "kind": "msg",
   "speaker": "店番の少年",
   "jp": "えーっ、なんかないですかぁ。\nなんでもいいんですけど………。",
-  "en": ""
+  "en": "Aww~ you don't have anything?\nAnything at all is fine..."
  },
  {
   "id": "K_DOUGU:0022",
   "kind": "msg",
   "speaker": "店番の少年",
   "jp": "ありがとうございましたあ。\nまた来てくださいねえ～。",
-  "en": ""
+  "en": "Thank you very much~!\nCome again, okay~?"
  },
  {
   "id": "K_DOUGU:0023",
   "kind": "msg",
   "speaker": "店番の少年",
   "jp": "他に何かありますかあ？",
-  "en": ""
+  "en": "Anything else~?"
  }
 ]

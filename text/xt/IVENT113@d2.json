@@ -4,91 +4,91 @@
   "kind": "mono",
   "speaker": "",
   "jp": "こうして俺たちは異世界アイシアでの冒険を終えて\n元の世界へ戻ってきた。\nドラゴンもいなけりゃ、妙ちくりんな王子さまも\nいない世界へとだ。",
-  "en": ""
+  "en": "And so, our adventure in the other world of\nEithéa ended, and we came back to our own world.\nA world without dragons, and without any\noddball princes, either."
  },
  {
   "id": "IVENT113@d2:0001",
   "kind": "mono",
   "speaker": "",
   "jp": "今ではあの世界の出来事がすべて夢じゃなかったのか\nと思うこともある。\nだけど皆、あそこで起きた事は覚えてるし、ヒトシや\n学は居心地がいいと見えてまだ帰ってきやしない。",
-  "en": ""
+  "en": "Sometimes I even wonder if everything that\nhappened in that world was just a dream.\nBut we all remember what happened there, and\nHitoshi and Manabu seem to like it so much they\nstill haven't come back."
  },
  {
   "id": "IVENT113@d2:0002",
   "kind": "mono",
   "speaker": "",
   "jp": "こっちの世界へ帰ってきてから判ったんだが、俺たち\nが姿を消していたのは、ものの数時間だったようだ。\nあの地震の直後、学校全体が一瞬にしてボロボロに\nなってしまい、大パニックになったらしい。",
-  "en": ""
+  "en": "After we got back, I found out we'd only been\nmissing for a few hours.\nRight after the earthquake, the whole school was\nsuddenly reduced to ruins, and there was total\npanic, apparently."
  },
  {
   "id": "IVENT113@d2:0003",
   "kind": "mono",
   "speaker": "",
   "jp": "どうやら俺たちはその騒ぎで\n行方不明扱いされていたらしいな。\n俺たちを呼んだ……、『エレの樹の聖女』だと思うけ\nど、学校だけを先に送り返したんじゃないだろうか。",
-  "en": ""
+  "en": "It seems we'd been listed as missing in all\nthe commotion.\nWhoever summoned us... I'd guess the\n\"Saint of the Ele Tree\"... must have sent just\nthe school back ahead of us."
  },
  {
   "id": "IVENT113@d2:0004",
   "kind": "mono",
   "speaker": "",
   "jp": "俺たちがアイシアでやった事が正しかったのか\nどうか、正直、今でもよくわからない。\nただ俺は自分が正しいと思った事だけをやってきた\nつもりだし、所詮、俺に出来るのはその程度の事だ。\nアイシアの事は懐かしく思う事もあるけど、\nもう二度とあそこへ戻る事はないだろう。",
-  "en": ""
+  "en": "Honestly, I still don't really know if what we\ndid in Eithéa was right or not.\nBut I only ever did what I believed was right,\nand in the end, that's about all I can do.\nSometimes I get nostalgic about Eithéa, but\nI don't think I'll ever go back there again."
  },
  {
   "id": "IVENT113@d2:0005",
   "kind": "mono",
   "speaker": "",
   "jp": "アイシアの未来はアイシアに生きるみんなで\n切り開いていくべきなんだ。\n　\n俺たちの世界の未来がそうであるように……。",
-  "en": ""
+  "en": "The future of Eithéa is for the people who live\nthere to carve out together.\n \nJust like the future of our own world..."
  },
  {
   "id": "IVENT113@d2:0006",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "……ねえ、新見くん。\n本当にいいの？わたしで……",
-  "en": ""
+  "en": "...Hey, Niimi-kun.\nAre you really sure? About me...?"
  },
  {
   "id": "IVENT113@d2:0007",
   "kind": "msg",
   "speaker": "翔",
   "jp": "新見くんはやめてください、先生。\nちゃんと、考えて決めたことです。\n後悔はしませんよ。",
-  "en": ""
+  "en": "Please stop calling me Niimi-kun, Sensei.\nI thought this through before deciding.\nI won't regret it."
  },
  {
   "id": "IVENT113@d2:0008",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ありがとう……。\nでも、あなたも先生は、もうやめてね。",
-  "en": ""
+  "en": "Thank you...\nBut you have to stop calling me Sensei, too."
  },
  {
   "id": "IVENT113@d2:0009",
   "kind": "msg",
   "speaker": "翔",
   "jp": "あ、そうですね。\nじゃあ、なんて呼びましょう？",
-  "en": ""
+  "en": "Oh, right.\nSo, what should I call you?"
  },
  {
   "id": "IVENT113@d2:0010",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "そうね……ゆっくり考えればいいんじゃない？\nさあ、もうすぐ始まるわよ、\n行きましょうか、あなた？",
-  "en": ""
+  "en": "Let's see... why not take our time thinking\nabout it? Come on, it's about to start.\nShall we go, dear?"
  },
  {
   "id": "IVENT113@d2:0011",
   "kind": "msg",
   "speaker": "翔",
   "jp": "うん、行こうか……",
-  "en": ""
+  "en": "Yeah, let's go..."
  },
  {
   "id": "IVENT113@d2:0012",
   "kind": "msg",
   "speaker": "翔",
   "jp": "クリア情報をセーブします。\nセーブしますか？",
-  "en": ""
+  "en": "I'll save your clear data.\nWould you like to save?"
  },
  {
   "id": "IVENT113@d2:0013",
@@ -102,27 +102,27 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "セーブを終了しますか？",
-  "en": ""
+  "en": "Finish saving?"
  },
  {
   "id": "IVENT113@d2:0015",
   "kind": "choice",
   "speaker": "",
   "jp": "　はい\n　いいえ",
-  "en": ""
+  "en": "Yes\nNo"
  },
  {
   "id": "IVENT113@d2:0016",
   "kind": "msg",
   "speaker": "翔",
   "jp": "クリア情報をセーブしないと『思いでアルバム』を\n鑑賞することが出来ません。\nこのまま終了しますか？",
-  "en": ""
+  "en": "Without saving your clear data, you can't\nview the \"Memory Album.\"\nQuit anyway?"
  },
  {
   "id": "IVENT113@d2:0017",
   "kind": "choice",
   "speaker": "",
   "jp": "　はい\n　いいえ",
-  "en": ""
+  "en": "Yes\nNo"
  }
 ]

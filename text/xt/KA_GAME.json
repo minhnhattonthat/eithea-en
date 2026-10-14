@@ -4,216 +4,216 @@
   "kind": "msg",
   "speaker": "店員",
   "jp": "ようこそ、ＴＩＰ交換屋へ！",
-  "en": ""
+  "en": "Welcome to the TIP Exchange!"
  },
  {
   "id": "KA_GAME:0001",
   "kind": "msg",
   "speaker": "店員",
   "jp": "……と言いたいところなのですが、あいすいません。",
-  "en": ""
+  "en": "...Is what I'd like to say, but my apologies."
  },
  {
   "id": "KA_GAME:0002",
   "kind": "msg",
   "speaker": "店員",
   "jp": "まだ準備中なんですよ。",
-  "en": ""
+  "en": "We're not open for business yet."
  },
  {
   "id": "KA_GAME:0003",
   "kind": "msg",
   "speaker": "店員",
   "jp": "申しわけありませんが、お引取りを……",
-  "en": ""
+  "en": "I'm terribly sorry, but I must\nask you to leave..."
  },
  {
   "id": "KA_GAME:0004",
   "kind": "msg",
   "speaker": "翔",
   "jp": "いいえ、ちがうんです！\nショートカットの女の子が来ませんでしたか？",
-  "en": ""
+  "en": "No, that's not it!\nDid a girl with short hair come by here?"
  },
  {
   "id": "KA_GAME:0005",
   "kind": "msg",
   "speaker": "店員",
   "jp": "ショートカットの女の子……？",
-  "en": ""
+  "en": "A girl with short hair...?"
  },
  {
   "id": "KA_GAME:0006",
   "kind": "msg",
   "speaker": "店員",
   "jp": "いいえ、お越しになってはいませんよ。",
-  "en": ""
+  "en": "No, no one like that has come in."
  },
  {
   "id": "KA_GAME:0007",
   "kind": "msg",
   "speaker": "店員",
   "jp": "お役に立てず、申しわけありません……",
-  "en": ""
+  "en": "I'm sorry I couldn't be of more help..."
  },
  {
   "id": "KA_GAME:0008",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そうですか。\nありがとうございました。",
-  "en": ""
+  "en": "I see.\nThank you very much."
  },
  {
   "id": "KA_GAME:0009",
   "kind": "msg",
   "speaker": "店員",
   "jp": "ようこそ、ＴＩＰ交換屋へ！",
-  "en": ""
+  "en": "Welcome to the TIP Exchange!"
  },
  {
   "id": "KA_GAME:0010",
   "kind": "msg",
   "speaker": "店員",
   "jp": "当店ではお客様のＴＩＰをＣＡＮに、\nあるいはＣＡＮをＴＩＰに交換させていただきます！",
-  "en": ""
+  "en": "Here we exchange your TIP for CAN,\nor your CAN for TIP!"
  },
  {
   "id": "KA_GAME:0011",
   "kind": "msg",
   "speaker": "店員",
   "jp": "さてお客様、どうされますか？",
-  "en": ""
+  "en": "Now then, what would you like to do?"
  },
  {
   "id": "KA_GAME:0012",
   "kind": "choice",
   "speaker": "",
   "jp": "　ＴＩＰをＣＡＮに交換\n　ＣＡＮをＴＩＰに交換\n　立ち去る",
-  "en": ""
+  "en": "Exchange TIP for CAN\nExchange CAN for TIP\nLeave"
  },
  {
   "id": "KA_GAME:0013",
   "kind": "msg",
   "speaker": "店員",
   "jp": "ＴＩＰをＣＡＮに交換ですね、かしこまりました。",
-  "en": ""
+  "en": "TIP for CAN, certainly."
  },
  {
   "id": "KA_GAME:0014",
   "kind": "msg",
   "speaker": "店員",
   "jp": "いくつお金にかえるか方向キーの上下で\n交換するＴＩＰの数を指定してください。\n数を指定し終わったら○ボタンを押して下さい。",
-  "en": ""
+  "en": "Press Up and Down on the D-pad to set how many\nTIP you'd like to exchange for money.\nWhen you're done, press the Circle button."
  },
  {
   "id": "KA_GAME:0015",
   "kind": "msg",
   "speaker": "店員",
   "jp": "これでよろしいですか？",
-  "en": ""
+  "en": "Is this all right?"
  },
  {
   "id": "KA_GAME:0016",
   "kind": "choice",
   "speaker": "",
   "jp": "　はい\n　やりなおし\n　交換しないでやめる",
-  "en": ""
+  "en": "Yes\nRedo\nCancel the exchange"
  },
  {
   "id": "KA_GAME:0017",
   "kind": "msg",
   "speaker": "店員",
   "jp": "やりなおしですね、もう一度入力して下さい。",
-  "en": ""
+  "en": "Redo, certainly. Please enter it again."
  },
  {
   "id": "KA_GAME:0018",
   "kind": "msg",
   "speaker": "店員",
   "jp": "いくつお金にかえるか方向キーの上下で\n交換するＴＩＰの数を指定してください。\n数を指定し終わったら○ボタンを押して下さい。",
-  "en": ""
+  "en": "Press Up and Down on the D-pad to set how many\nTIP you'd like to exchange for money.\nWhen you're done, press the Circle button."
  },
  {
   "id": "KA_GAME:0019",
   "kind": "msg",
   "speaker": "店員",
   "jp": "交換させていただきました。\nありがとうございました！",
-  "en": ""
+  "en": "Your exchange is complete.\nThank you very much!"
  },
  {
   "id": "KA_GAME:0020",
   "kind": "msg",
   "speaker": "店員",
   "jp": "ＣＡＮをＴＩＰに交換ですね、かしこまりました。",
-  "en": ""
+  "en": "CAN for TIP, certainly."
  },
  {
   "id": "KA_GAME:0021",
   "kind": "msg",
   "speaker": "店員",
   "jp": "いくら分交換するか方向キーの上下で\n交換するＴＩＰの数を指定してください。\n数を指定し終わったら○ボタンを押して下さい。",
-  "en": ""
+  "en": "Press Up and Down on the D-pad to set how many\nTIP you'd like to get in exchange.\nWhen you're done, press the Circle button."
  },
  {
   "id": "KA_GAME:0022",
   "kind": "msg",
   "speaker": "店員",
   "jp": "これでよろしいですか？",
-  "en": ""
+  "en": "Is this all right?"
  },
  {
   "id": "KA_GAME:0023",
   "kind": "choice",
   "speaker": "",
   "jp": "　はい\n　やりなおし\n　交換しないでやめる",
-  "en": ""
+  "en": "Yes\nRedo\nCancel the exchange"
  },
  {
   "id": "KA_GAME:0024",
   "kind": "msg",
   "speaker": "店員",
   "jp": "やりなおしですね、もう一度入力して下さい。",
-  "en": ""
+  "en": "Redo, certainly. Please enter it again."
  },
  {
   "id": "KA_GAME:0025",
   "kind": "msg",
   "speaker": "店員",
   "jp": "いくら分交換するか方向キーの上下で\n交換するＴＩＰの数を指定してください。\n数を指定し終わったら○ボタンを押して下さい。",
-  "en": ""
+  "en": "Press Up and Down on the D-pad to set how many\nTIP you'd like to get in exchange.\nWhen you're done, press the Circle button."
  },
  {
   "id": "KA_GAME:0026",
   "kind": "msg",
   "speaker": "店員",
   "jp": "交換させていただきました。\nありがとうございました！",
-  "en": ""
+  "en": "Your exchange is complete.\nThank you very much!"
  },
  {
   "id": "KA_GAME:0027",
   "kind": "msg",
   "speaker": "店員",
   "jp": "そうですか。\nそれでは、またのお越しをお待ちしております。",
-  "en": ""
+  "en": "I see.\nWe look forward to your next visit, then."
  },
  {
   "id": "KA_GAME:0028",
   "kind": "msg",
   "speaker": "店員",
   "jp": "まだなにかご用はおありですか？",
-  "en": ""
+  "en": "Is there anything else I can do for you?"
  },
  {
   "id": "KA_GAME:0029",
   "kind": "msg",
   "speaker": "店員",
   "jp": "まだなにかご用はおありですか？",
-  "en": ""
+  "en": "Is there anything else I can do for you?"
  },
  {
   "id": "KA_GAME:0030",
   "kind": "msg",
   "speaker": "翔",
   "jp": "（一度、アルバイジャンの家に戻ってみるか……\nもしかしたら、伊藤さんが\n見つかってるかもしれないからな）",
-  "en": ""
+  "en": "(Maybe I should stop by Albaijan's house...\nThere's a chance someone's found\nItou-san by now.)"
  }
 ]

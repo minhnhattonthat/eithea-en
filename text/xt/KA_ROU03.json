@@ -4,28 +4,28 @@
   "kind": "msg",
   "speaker": "",
   "jp": "<1>雷の指輪<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>Thunder Ring<8>!"
  },
  {
   "id": "KA_ROU03:0001",
   "kind": "choice",
   "speaker": "",
   "jp": "　キャンプで休む\n　セーブする\n　休まない",
-  "en": ""
+  "en": "Rest at camp\nSave\nDon't rest"
  },
  {
   "id": "KA_ROU03:0002",
   "kind": "msg",
   "speaker": "翔",
   "jp": "疲れたな………少し休むか………",
-  "en": ""
+  "en": "I'm beat... Maybe I'll rest a bit..."
  },
  {
   "id": "KA_ROU03:0003",
   "kind": "msg",
   "speaker": "翔",
   "jp": "疲れたな………少し休むか………",
-  "en": ""
+  "en": "I'm beat... Maybe I'll rest a bit..."
  },
  {
   "id": "KA_ROU03:0004",
@@ -46,28 +46,28 @@
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "松岡さん、やっと元気になったわね。",
-  "en": ""
+  "en": "Matsuoka-san's finally back to her old self."
  },
  {
   "id": "KA_ROU03:0007",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "これで安心……となればいいんだけど。\nまたなにか、無茶なことをしないか心配ね……",
-  "en": ""
+  "en": "I'd like to say that's a relief, but...\nI'm worried she'll do something\nreckless again..."
  },
  {
   "id": "KA_ROU03:0008",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "新見くん、しっかり見張っていてね。",
-  "en": ""
+  "en": "Niimi-kun, keep a close eye on her."
  },
  {
   "id": "KA_ROU03:0009",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ねえ翔、聞きたいことがあるんだ。",
-  "en": ""
+  "en": "Hey Shou, there's something I wanna ask you."
  },
  {
   "id": "KA_ROU03:0010",
@@ -81,126 +81,126 @@
   "kind": "msg",
   "speaker": "ルー",
   "jp": "あのさ、アゼルってどう思う？",
-  "en": ""
+  "en": "So, what do you think of Azel?"
  },
  {
   "id": "KA_ROU03:0012",
   "kind": "msg",
   "speaker": "翔",
   "jp": "どうって……あやしいけど、\n黒の間への行き方を教えてくれたし、\n悪い人じゃないと思うけど。",
-  "en": ""
+  "en": "What do I think... She's suspicious, but she\ntold us how to get to the Black Chamber.\nI don't think she's a bad person."
  },
  {
   "id": "KA_ROU03:0013",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そう……でも、わたしは信用してないわ。",
-  "en": ""
+  "en": "I see... But I don't trust her."
  },
  {
   "id": "KA_ROU03:0014",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "戦う相手はいっしょだし、考えてることも似てるよ。",
-  "en": ""
+  "en": "We're fighting the same enemy, and she thinks\nlike us."
  },
  {
   "id": "KA_ROU03:0015",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "けど、何かおかしいの。\nどこかがちがうの！",
-  "en": ""
+  "en": "But something's off.\nSomething about her is different!"
  },
  {
   "id": "KA_ROU03:0016",
   "kind": "choice",
   "speaker": "",
   "jp": "　俺もそう思う\n　落ちつけよ",
-  "en": ""
+  "en": "I think so too\nCalm down"
  },
  {
   "id": "KA_ROU03:0017",
   "kind": "msg",
   "speaker": "翔",
   "jp": "それは俺も思っていた。",
-  "en": ""
+  "en": "I've been thinking the same thing."
  },
  {
   "id": "KA_ROU03:0018",
   "kind": "msg",
   "speaker": "翔",
   "jp": "どこがどうとは言えないんだけど、\nどこかちがうんだ。",
-  "en": ""
+  "en": "I can't put my finger on what it is,\nbut something's different."
  },
  {
   "id": "KA_ROU03:0019",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そうでしょ？\n翔もそう思うよね？",
-  "en": ""
+  "en": "Right?\nYou think so too, don't you, Shou?"
  },
  {
   "id": "KA_ROU03:0020",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "やっぱり、何かある。\n絶対に何かを隠してる！",
-  "en": ""
+  "en": "There's something going on.\nShe's definitely hiding something!"
  },
  {
   "id": "KA_ROU03:0021",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "翔、油断しないでね……！",
-  "en": ""
+  "en": "Shou, don't let your guard down...!"
  },
  {
   "id": "KA_ROU03:0022",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ルー、落ちつけよ。",
-  "en": ""
+  "en": "Lou, calm down."
  },
  {
   "id": "KA_ROU03:0023",
   "kind": "msg",
   "speaker": "翔",
   "jp": "アゼルが火竜族だからっていう\n先入観があるんじゃないのか？",
-  "en": ""
+  "en": "Aren't you biased just because\nAzel is Fire Dragon Clan?"
  },
  {
   "id": "KA_ROU03:0024",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "……ないとは言えないわ。",
-  "en": ""
+  "en": "...I can't say I'm not."
  },
  {
   "id": "KA_ROU03:0025",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "……けど、ちがうよ、絶対にちがうよ！",
-  "en": ""
+  "en": "...But that's not it, it's really not it!"
  },
  {
   "id": "KA_ROU03:0026",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "アゼルは隠してる。\n絶対に何か隠してる！",
-  "en": ""
+  "en": "Azel's hiding something.\nShe's definitely hiding something!"
  },
  {
   "id": "KA_ROU03:0027",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "翔、気をつけたほうがいいよ。\n絶対に何かあるから！",
-  "en": ""
+  "en": "Shou, you'd better be careful.\nSomething's definitely up!"
  },
  {
   "id": "KA_ROU03:0028",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "翔、あの……いい？",
-  "en": ""
+  "en": "Shou, um... got a sec?"
  },
  {
   "id": "KA_ROU03:0029",
@@ -214,42 +214,42 @@
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "この前のあれ……\n地下牢でのことなんだけど……",
-  "en": ""
+  "en": "About that thing the other day...\nwhat happened in the dungeon..."
  },
  {
   "id": "KA_ROU03:0031",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "あの……いきなりでごめんね。\nでも、言っときたかったんだ。",
-  "en": ""
+  "en": "Um... sorry for springing it on you.\nBut I wanted to say it."
  },
  {
   "id": "KA_ROU03:0032",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "そうじゃないと、もう言うことができない。\nそんな気がしたの……",
-  "en": ""
+  "en": "If I didn't, I'd never get the chance again.\nThat's how it felt..."
  },
  {
   "id": "KA_ROU03:0033",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "だから、ごめんね。\n……でも、ありがと。",
-  "en": ""
+  "en": "So, I'm sorry.\n...But thanks."
  },
  {
   "id": "KA_ROU03:0034",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "私の気持ち、……変わってないよ。",
-  "en": ""
+  "en": "My feelings... haven't changed."
  },
  {
   "id": "KA_ROU03:0035",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "新見くん、あの……すいません。",
-  "en": ""
+  "en": "Niimi-kun, um... excuse me."
  },
  {
   "id": "KA_ROU03:0036",
@@ -263,76 +263,76 @@
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "この前の夜は……ごめんなさい。\nいきなり寝ちゃったから……",
-  "en": ""
+  "en": "About the other night... I'm sorry.\nI fell asleep all of a sudden..."
  },
  {
   "id": "KA_ROU03:0038",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "でも、うれしかった……\n新見くんと思い出話ができて……",
-  "en": ""
+  "en": "But I was happy...\nTalking about old memories with you..."
  },
  {
   "id": "KA_ROU03:0039",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……また、だめですか？\nわたし……また、新見くんとお話したいんです。",
-  "en": ""
+  "en": "...Can we do it again?\nI... I want to talk with you again, Niimi-kun."
  },
  {
   "id": "KA_ROU03:0040",
   "kind": "choice",
   "speaker": "",
   "jp": "　いつでもいいよ\n　そのうちな",
-  "en": ""
+  "en": "Anytime's fine\nSome other time"
  },
  {
   "id": "KA_ROU03:0041",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ああ、いつでもかまわないよ。",
-  "en": ""
+  "en": "Sure, anytime works for me."
  },
  {
   "id": "KA_ROU03:0042",
   "kind": "msg",
   "speaker": "翔",
   "jp": "伊藤さんがいいときに声をかけてくれるか？",
-  "en": ""
+  "en": "Itou-san, just let me know when it suits you."
  },
  {
   "id": "KA_ROU03:0043",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "ほんとうですか！\n新見くん、ありがとう……！",
-  "en": ""
+  "en": "Really?!\nNiimi-kun, thank you...!"
  },
  {
   "id": "KA_ROU03:0044",
   "kind": "msg",
   "speaker": "翔",
   "jp": "いいけど、そのうちね。",
-  "en": ""
+  "en": "Sure, but some other time."
  },
  {
   "id": "KA_ROU03:0045",
   "kind": "msg",
   "speaker": "翔",
   "jp": "今は落ちついて話せる状況じゃないだろ？",
-  "en": ""
+  "en": "This isn't exactly the time for a calm chat,\nis it?"
  },
  {
   "id": "KA_ROU03:0046",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……そうですか。\nしょうがないですよね。",
-  "en": ""
+  "en": "...I see.\nI guess it can't be helped."
  },
  {
   "id": "KA_ROU03:0047",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "でも、いつでもいいんです。\n気がむいたら、お話しましょうね……",
-  "en": ""
+  "en": "But anytime is fine.\nWhenever you feel like it, let's talk..."
  }
 ]

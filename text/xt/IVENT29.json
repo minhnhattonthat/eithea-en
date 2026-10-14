@@ -4,132 +4,132 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "着いたぞ。\nここがユーロリア、火竜族の町だ。",
-  "en": ""
+  "en": "We're here.\nThis is Eurolia, the Fire Dragon Clan's town."
  },
  {
   "id": "IVENT29:0001",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ドラゴンの石像なんてあるし、\n火竜族って名前のまんまね。",
-  "en": ""
+  "en": "There's even a dragon statue.\nThe Fire Dragon Clan sure fits its name, huh."
  },
  {
   "id": "IVENT29:0002",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "いるのは、石像だけじゃねえぞ。",
-  "en": ""
+  "en": "There's more than statues here, ya know."
  },
  {
   "id": "IVENT29:0003",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ちょっ、ちょっと、アルバイジャン！\nそれ、どういうこと！？",
-  "en": ""
+  "en": "W-Wait a second, Albaijan!\nWhat's that supposed to mean?!"
  },
  {
   "id": "IVENT29:0004",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "本物もいるってことさ。\nま、そうそう会えるもんじゃないがな。",
-  "en": ""
+  "en": "Means there're real ones too.\nThough ya don't run into 'em that often."
  },
  {
   "id": "IVENT29:0005",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "でも、町に入らせてもらえるのかしら？",
-  "en": ""
+  "en": "But will they even let us into the town?"
  },
  {
   "id": "IVENT29:0006",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "とても、通してくれそうには思えないのだけれど。",
-  "en": ""
+  "en": "I can't imagine they'd let us through."
  },
  {
   "id": "IVENT29:0007",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "最初からマトモに入ろうとは思っちゃいねえよ。",
-  "en": ""
+  "en": "I never planned on goin' in the normal way."
  },
  {
   "id": "IVENT29:0008",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ついてきな。",
-  "en": ""
+  "en": "Follow me."
  },
  {
   "id": "IVENT29:0009",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "あれが<1>火竜城<8>さ。\nあそこに、火竜族の王族が住んでるんだ。",
-  "en": ""
+  "en": "That's <1>Fire Dragon Castle<8>.\nThe royals of the Fire Dragon Clan live there."
  },
  {
   "id": "IVENT29:0010",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "なんて大きいのかしら……",
-  "en": ""
+  "en": "My, it's enormous..."
  },
  {
   "id": "IVENT29:0011",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "あたりまえだ。\nエレの樹からとったエネルギーを\n貯えているんだからな！",
-  "en": ""
+  "en": "Of course it is.\nIt's storin' the energy it took from\nthe Ele Tree!"
  },
  {
   "id": "IVENT29:0012",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ええっ！？\nそれじゃあ、エレの樹が……",
-  "en": ""
+  "en": "What?!\nThen the Ele Tree is..."
  },
  {
   "id": "IVENT29:0013",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "そうさ。\n樹は常に城にエネルギーを吸い取られている。",
-  "en": ""
+  "en": "That's right.\nThe castle drains the tree's energy nonstop."
  },
  {
   "id": "IVENT29:0014",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "だからどんどん、樹は弱ってるんだ。",
-  "en": ""
+  "en": "That's why the tree keeps gettin' weaker."
  },
  {
   "id": "IVENT29:0015",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "なんてヒドイことを……！\n許せないッ！！",
-  "en": ""
+  "en": "That's horrible...!\nUnforgivable!!"
  },
  {
   "id": "IVENT29:0016",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "よし、ここだ。\nここから城の中に入れるはずだ。",
-  "en": ""
+  "en": "Okay, this is it.\nThis should get us inside the castle."
  },
  {
   "id": "IVENT29:0017",
   "kind": "msg",
   "speaker": "翔",
   "jp": "アルバイジャン、なんでそんなことを知ってるんだ？",
-  "en": ""
+  "en": "Albaijan, how do you know all this?"
  },
  {
   "id": "IVENT29:0018",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "い、いいじゃねえか。\nそれより先を急ぐぜ。\nほら、ついて来いよ！",
-  "en": ""
+  "en": "Wh-What's it matter?\nMore importantly, let's hurry.\nC'mon, follow me!"
  }
 ]

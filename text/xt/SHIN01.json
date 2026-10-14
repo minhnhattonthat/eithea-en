@@ -4,90 +4,90 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "翔！\n引き返してる時間はねえぞ！！",
-  "en": ""
+  "en": "Shou!\nWe've got no time to turn back!!"
  },
  {
   "id": "SHIN01:0001",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "よお、翔。\nいくつか仕入れといたぜ。",
-  "en": ""
+  "en": "Hey, Shou.\nI stocked up on a few things."
  },
  {
   "id": "SHIN01:0002",
   "kind": "choice",
   "speaker": "",
   "jp": "　買い物をする　　　　　　　セーブする\n　持っている物を売る　　　　休む\n　魔弾研究　　　　　　　　　出発する",
-  "en": ""
+  "en": "Buy                       Save\nSell items                Rest\nMagic Bullet Research     Set out"
  },
  {
   "id": "SHIN01:0003",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "よし、ちょっとまってな！",
-  "en": ""
+  "en": "All right, hang on a sec!"
  },
  {
   "id": "SHIN01:0004",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "よし、ちょっとまってな！",
-  "en": ""
+  "en": "All right, hang on a sec!"
  },
  {
   "id": "SHIN01:0005",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "どれを買うんだ？",
-  "en": ""
+  "en": "Which one are you buying?"
  },
  {
   "id": "SHIN01:0006",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "まいどあり。\n次は、もっと役に立つものを\n仕入れとくぜ。",
-  "en": ""
+  "en": "Pleasure doing business.\nNext time I'll stock up on\nsomething even more useful."
  },
  {
   "id": "SHIN01:0007",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "なにもいらねえのか？\nそいつは残念だな……",
-  "en": ""
+  "en": "Nothing you need?\nThat's a shame..."
  },
  {
   "id": "SHIN01:0008",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "次は、もっと役に立つものを\n仕入れとくぜ。",
-  "en": ""
+  "en": "Next time I'll stock\nsomething more useful."
  },
  {
   "id": "SHIN01:0009",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "どれを売るんだ？",
-  "en": ""
+  "en": "Which one are you selling?"
  },
  {
   "id": "SHIN01:0010",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "まいどあり。\nいい買い物したぜ！",
-  "en": ""
+  "en": "Pleasure doing business.\nThat was a good buy!"
  },
  {
   "id": "SHIN01:0011",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "そうか。\nま、気が変わったら\n言ってくれ。",
-  "en": ""
+  "en": "I see.\nWell, if you change your mind,\nlet me know."
  },
  {
   "id": "SHIN01:0012",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "さて、そろそろ行けるか？",
-  "en": ""
+  "en": "So, ready to head out?"
  }
 ]

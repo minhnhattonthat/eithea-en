@@ -4,20 +4,20 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "ほこらの場所がわからないのに\n一人で森に入るわけにはいかないな……",
-  "en": ""
+  "en": "I can't go into the forest alone\nwhen I don't even know where the shrine is..."
  },
  {
   "id": "YAMU01:0001",
   "kind": "msg",
   "speaker": "翔",
   "jp": "夜にハーミーといっしょに行く約束だから\n今、森に入るのはやめよう……",
-  "en": ""
+  "en": "I promised to go with Hermie tonight,\nso I shouldn't go into the forest now..."
  },
  {
   "id": "YAMU01:0002",
   "kind": "msg",
   "speaker": "翔",
   "jp": "アーティアは取ってきたから\nもう森に入る必要はないだろう……",
-  "en": ""
+  "en": "I've already got the Artia,\nso there's no need to go into the forest..."
  }
 ]

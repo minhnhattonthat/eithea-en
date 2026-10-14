@@ -4,62 +4,62 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "おお、遅かったじゃねえか。\nヒトシたちから聞いたぜ。\nカーライルに抜け穴があるんだってな。",
-  "en": ""
+  "en": "Hey, took you long enough.\nHitoshi and the others told me.\nThere's a secret passage into Carlyle, huh?"
  },
  {
   "id": "IVENT83:0001",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ああ、塞がれてる可能性もあるらしいけどな。",
-  "en": ""
+  "en": "Yeah, though it might be blocked off."
  },
  {
   "id": "IVENT83:0002",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "入れる可能性があるなら、それでいいさ。",
-  "en": ""
+  "en": "If there's a chance we can get in,\nthat's good enough."
  },
  {
   "id": "IVENT83:0003",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "塞がれてるんなら、そのときはそのときだ。",
-  "en": ""
+  "en": "If it's blocked, we'll deal with that then."
  },
  {
   "id": "IVENT83:0004",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "よし、すぐに出発しようぜ！\nヒトシ、学、おまえたちも来るんだ。",
-  "en": ""
+  "en": "All right, let's head out now!\nHitoshi, Manabu, you're coming too."
  },
  {
   "id": "IVENT83:0005",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "よっしゃあ！\nアルバイジャン、やっとオレらに\n付いてこい言うたな。",
-  "en": ""
+  "en": "All riiight!\nAlbaijan, ya finally told us\nto come along."
  },
  {
   "id": "IVENT83:0006",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ああ、今回はおまえたちが頼りだ。\nがんばってくれよ！",
-  "en": ""
+  "en": "Yeah, this time we're counting on you.\nDo your best!"
  },
  {
   "id": "IVENT83:0007",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "うっおっしゃああああ！\nほな、みんな、行くでえ！\nオレらについて来いや！",
-  "en": ""
+  "en": "Woo-hoooooo!\nAlright, everybody, let's go!\nFollow us!"
  },
  {
   "id": "IVENT83:0008",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……何か不安だな。\n道に迷わなきゃいいんだが……",
-  "en": ""
+  "en": "...Something about this worries me.\nHope we don't get lost..."
  }
 ]

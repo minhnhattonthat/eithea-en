@@ -4,433 +4,433 @@
   "kind": "msg",
   "speaker": "レア",
   "jp": "どうしたのです、オパス。\nこの騒ぎは？",
-  "en": ""
+  "en": "What is it, Opas?\nWhat is all this commotion?"
  },
  {
   "id": "IVENT40:0001",
   "kind": "msg",
   "speaker": "オパス",
   "jp": "へ、陛下！\n反乱です！！",
-  "en": ""
+  "en": "Y-Your Majesty!\nIt's a rebellion!!"
  },
  {
   "id": "IVENT40:0002",
   "kind": "msg",
   "speaker": "オパス",
   "jp": "武装した者たちが、\n地下から城内に攻め入ってきました！",
-  "en": ""
+  "en": "Armed men have stormed the castle\nfrom underground!"
  },
  {
   "id": "IVENT40:0003",
   "kind": "msg",
   "speaker": "オパス",
   "jp": "反乱軍は黒の間の封印を破り、\nドラゴンたちとともに暴れまわっています！",
-  "en": ""
+  "en": "The rebels broke the Black Chamber seal,\nand are running wild with the dragons!"
  },
  {
   "id": "IVENT40:0004",
   "kind": "msg",
   "speaker": "レア",
   "jp": "黒の間の封印を……？\nではオパス、王子に兵を率いさせ、反乱の鎮圧に……",
-  "en": ""
+  "en": "The seal on the Black Chamber...?\nThen, Opas, have the prince lead the troops\nand put down the rebellion..."
  },
  {
   "id": "IVENT40:0005",
   "kind": "msg",
   "speaker": "オパス",
   "jp": "イムル様はいらっしゃいません……",
-  "en": ""
+  "en": "Imul-sama is not here..."
  },
  {
   "id": "IVENT40:0006",
   "kind": "msg",
   "speaker": "オパス",
   "jp": "反乱軍の突入前、\n市街に反乱分子の潜むアジトがある\nという情報が入りました。",
-  "en": ""
+  "en": "Before the rebels broke in, we received\nword that the rebels had a hideout\nsomewhere in the city."
  },
  {
   "id": "IVENT40:0007",
   "kind": "msg",
   "speaker": "オパス",
   "jp": "王子はその討伐に向かわれています。",
-  "en": ""
+  "en": "The prince has gone to wipe it out."
  },
  {
   "id": "IVENT40:0008",
   "kind": "msg",
   "speaker": "オパス",
   "jp": "しかし、今では\nその情報がワナであったという可能性が……",
-  "en": ""
+  "en": "But now it seems possible\nthat the report was a trap..."
  },
  {
   "id": "IVENT40:0009",
   "kind": "msg",
   "speaker": "兵士",
   "jp": "た、大変ですっ！！",
-  "en": ""
+  "en": "W-We're in trouble!!"
  },
  {
   "id": "IVENT40:0010",
   "kind": "msg",
   "speaker": "兵士",
   "jp": "お、大広間が突破されましたあっ！\nこのままではもちません！！",
-  "en": ""
+  "en": "Th-The great hall has been breached!\nWe can't hold out like this!!"
  },
  {
   "id": "IVENT40:0011",
   "kind": "msg",
   "speaker": "オパス",
   "jp": "なんだと！？",
-  "en": ""
+  "en": "What?!"
  },
  {
   "id": "IVENT40:0012",
   "kind": "msg",
   "speaker": "兵士",
   "jp": "危険です。\n早く、お逃げください！！",
-  "en": ""
+  "en": "It's too dangerous.\nPlease, escape quickly!!"
  },
  {
   "id": "IVENT40:0013",
   "kind": "msg",
   "speaker": "オパス",
   "jp": "しかたない……\n陛下、脱出の準備を。",
-  "en": ""
+  "en": "It can't be helped...\nYour Majesty, prepare to evacuate."
  },
  {
   "id": "IVENT40:0014",
   "kind": "msg",
   "speaker": "レア",
   "jp": "……いえ、私はここに残ります。",
-  "en": ""
+  "en": "...No. I will remain here."
  },
  {
   "id": "IVENT40:0015",
   "kind": "msg",
   "speaker": "オパス",
   "jp": "なぜでございます！？",
-  "en": ""
+  "en": "But why, Your Majesty?!"
  },
  {
   "id": "IVENT40:0016",
   "kind": "msg",
   "speaker": "レア",
   "jp": "君主が城を捨ててどうなります？\n私はここに残ります。",
-  "en": ""
+  "en": "What becomes of a ruler who abandons her\ncastle? I will remain here."
  },
  {
   "id": "IVENT40:0017",
   "kind": "msg",
   "speaker": "オパス",
   "jp": "陛下……",
-  "en": ""
+  "en": "Your Majesty..."
  },
  {
   "id": "IVENT40:0018",
   "kind": "msg",
   "speaker": "オパス",
   "jp": "同時刻　－アゼル邸前－",
-  "en": ""
+  "en": "Meanwhile - Outside Azel's Mansion"
  },
  {
   "id": "IVENT40:0019",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "……ここだな。\n行くぞ、おまえたち！",
-  "en": ""
+  "en": "...This is the place.\nLet's go, men!"
  },
  {
   "id": "IVENT40:0020",
   "kind": "msg",
   "speaker": "兵士",
   "jp": "はっ！",
-  "en": ""
+  "en": "Sir!"
  },
  {
   "id": "IVENT40:0021",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "おかしいな。\n誰もいない……　ああっ！？",
-  "en": ""
+  "en": "That's odd.\nThere's no one here... Ah?!"
  },
  {
   "id": "IVENT40:0022",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "ひかる！？\nそれにみんな……どうしてここに？",
-  "en": ""
+  "en": "Hikaru?!\nAnd everyone else... What are you doing here?"
  },
  {
   "id": "IVENT40:0023",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "はぁ……う、ううん……",
-  "en": ""
+  "en": "Hah... Uh, uhh..."
  },
  {
   "id": "IVENT40:0024",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "大変だ！　\nおい、この者たちに手当を！",
-  "en": ""
+  "en": "This is serious!\nHey, tend to these people!"
  },
  {
   "id": "IVENT40:0025",
   "kind": "msg",
   "speaker": "兵士",
   "jp": "よろしいのですか、イムル様？\nこいつらは反乱軍の人間では？",
-  "en": ""
+  "en": "Are you sure, Imul-sama?\nAren't these people with the rebels?"
  },
  {
   "id": "IVENT40:0026",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "いや、彼らはちがう。\nとにかく、早く助けるんだ！",
-  "en": ""
+  "en": "No, they're not.\nAnyway, help them, quickly!"
  },
  {
   "id": "IVENT40:0027",
   "kind": "msg",
   "speaker": "兵士",
   "jp": "ははっ！",
-  "en": ""
+  "en": "Yes, sir!"
  },
  {
   "id": "IVENT40:0028",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "気がついたかい、ベイベーたち？",
-  "en": ""
+  "en": "Awake now, babies?"
  },
  {
   "id": "IVENT40:0029",
   "kind": "msg",
   "speaker": "翔",
   "jp": "あ、イムル……？\nいたたた……　頭が……！？",
-  "en": ""
+  "en": "Ah, Imul...?\nOw ow ow... My head...?!"
  },
  {
   "id": "IVENT40:0030",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "イムル……あなたが、助けてくれたの？",
-  "en": ""
+  "en": "Imul... Were you the one who saved us?"
  },
  {
   "id": "IVENT40:0031",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "そうさ。\n……反乱分子たちのアジトが、\nここだと聞いてね。",
-  "en": ""
+  "en": "That's right.\n...I heard the rebels' hideout\nwas here."
  },
  {
   "id": "IVENT40:0032",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "僕は彼らを成敗するため、\n兵を率いて、ここへ来たんだ。",
-  "en": ""
+  "en": "So I led my soldiers here\nto bring them to justice."
  },
  {
   "id": "IVENT40:0033",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "しかし、来てみれば中はもぬけの殻。",
-  "en": ""
+  "en": "But when I arrived, the place was empty."
  },
  {
   "id": "IVENT40:0034",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "代わりにキミたちが\n倒れてたんで、びっくりしたよ。",
-  "en": ""
+  "en": "Instead I found you all\nlying there. Gave me quite a shock."
  },
  {
   "id": "IVENT40:0035",
   "kind": "msg",
   "speaker": "兵士",
   "jp": "イムル様！\nた、大変ですっ！！",
-  "en": ""
+  "en": "Imul-sama!\nW-We're in trouble!!"
  },
  {
   "id": "IVENT40:0036",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "どうした？",
-  "en": ""
+  "en": "What is it?"
  },
  {
   "id": "IVENT40:0037",
   "kind": "msg",
   "speaker": "兵士",
   "jp": "火竜城が……火竜城が、\n敵に襲われています！！",
-  "en": ""
+  "en": "Fire Dragon Castle... Fire Dragon Castle\nis under enemy attack!!"
  },
  {
   "id": "IVENT40:0038",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "なんだって！？",
-  "en": ""
+  "en": "What did you say?!"
  },
  {
   "id": "IVENT40:0039",
   "kind": "msg",
   "speaker": "兵士",
   "jp": "敵の策略により、\nわが軍は苦戦を強いられているとのことです！",
-  "en": ""
+  "en": "They say the enemy's schemes have\nour forces struggling!"
  },
  {
   "id": "IVENT40:0040",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "……わかった。おまえたちは\n先に、援護と負傷者の救援に向かってくれ。",
-  "en": ""
+  "en": "...Understood. You go on ahead\nand provide support and aid the wounded."
  },
  {
   "id": "IVENT40:0041",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "私もすぐに、後を追う。",
-  "en": ""
+  "en": "I'll follow right behind you."
  },
  {
   "id": "IVENT40:0042",
   "kind": "msg",
   "speaker": "兵士",
   "jp": "ハッ！\n了解しました！",
-  "en": ""
+  "en": "Sir!\nUnderstood!"
  },
  {
   "id": "IVENT40:0043",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "……ところでベイベーたち。\nなぜ、こんなデンジャラスなゾーンにいたんだい？",
-  "en": ""
+  "en": "...By the way, babies.\nWhy were you in such a dangerous zone?"
  },
  {
   "id": "IVENT40:0044",
   "kind": "msg",
   "speaker": "翔",
   "jp": "いくつかわからないこともあるんだが……",
-  "en": ""
+  "en": "There's some stuff I still don't get, but..."
  },
  {
   "id": "IVENT40:0045",
   "kind": "msg",
   "speaker": "翔",
   "jp": "すまない、反乱軍の奴らに利用されて、\n用済みになった……ってところらしい。",
-  "en": ""
+  "en": "Sorry. Looks like the rebels used us,\nand then got rid of us once we were done."
  },
  {
   "id": "IVENT40:0046",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "なるほど……それは災難だったね。\nなに、気に病むことはない。\nかたきは僕がとってあげるよ。",
-  "en": ""
+  "en": "I see... That was rotten luck.\nNow, don't let it weigh on you.\nI'll avenge you myself."
  },
  {
   "id": "IVENT40:0047",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "じゃあ、僕も行ってくるよ。\n城のみんなが、僕の助けをまっているんだ。",
-  "en": ""
+  "en": "Well then, I'm off.\nEveryone at the castle is waiting for me."
  },
  {
   "id": "IVENT40:0048",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "まってください！",
-  "en": ""
+  "en": "Please, wait!"
  },
  {
   "id": "IVENT40:0049",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "ああっ、マイ・スウィート！\n引き止めないでくれ！\n騎士には行かねばなら……",
-  "en": ""
+  "en": "Ahh, my sweet!\nDon't try to stop me!\nA knight must go where he must..."
  },
  {
   "id": "IVENT40:0050",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……わたしも、行っちゃいけませんか？",
-  "en": ""
+  "en": "...Could I come with you too?"
  },
  {
   "id": "IVENT40:0051",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "伊藤さん！？",
-  "en": ""
+  "en": "Itou-san?!"
  },
  {
   "id": "IVENT40:0052",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "イムルには助けてもらいました。\nその恩返しをしたいんです。",
-  "en": ""
+  "en": "Imul saved us.\nI want to repay him for that."
  },
  {
   "id": "IVENT40:0053",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……だめですか？",
-  "en": ""
+  "en": "...Is that not okay?"
  },
  {
   "id": "IVENT40:0054",
   "kind": "msg",
   "speaker": "翔",
   "jp": "俺も行かせてもらいたいな。\nこのままだまって見てるなんて、できないしな。",
-  "en": ""
+  "en": "I'd like to go too.\nI can't just stand around and watch."
  },
  {
   "id": "IVENT40:0055",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "確かにそのとおりね……\nいいかしら、イムル？",
-  "en": ""
+  "en": "She does have a point...\nWould that be all right, Imul?"
  },
  {
   "id": "IVENT40:0056",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "ありがとう、ベイベーたち。\n僕は、なんて幸せ者なんだ……",
-  "en": ""
+  "en": "Thank you, babies.\nWhat a lucky man I am..."
  },
  {
   "id": "IVENT40:0057",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "……",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "IVENT40:0058",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ん？\nどうしたんだ、ルー？",
-  "en": ""
+  "en": "Hm?\nWhat's wrong, Lou?"
  },
  {
   "id": "IVENT40:0059",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "あ、ううん……なんでもないよ。\nわたしも行くわ。",
-  "en": ""
+  "en": "Oh, uh, nothing... it's nothing.\nI'm going too."
  },
  {
   "id": "IVENT40:0060",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "じゃあ出発だ！\nついておいで、ベイベーたち！！",
-  "en": ""
+  "en": "Then let's move out!\nFollow me, babies!!"
  },
  {
   "id": "IVENT40:0061",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "イムルが仲間になった！",
-  "en": ""
+  "en": "Imul joined the party!"
  }
 ]

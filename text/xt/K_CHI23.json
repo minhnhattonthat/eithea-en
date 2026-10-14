@@ -4,525 +4,525 @@
   "kind": "msg",
   "speaker": "",
   "jp": "　地下廃墟　　地下３階",
-  "en": ""
+  "en": "Underground Ruins - Basement 3"
  },
  {
   "id": "K_CHI23:0001",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "おお、翔。\n調子はどうじゃ？",
-  "en": ""
+  "en": "Oh, Shou.\nHow are you holding up?"
  },
  {
   "id": "K_CHI23:0002",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "いろいろと面倒かけてすまんのう。",
-  "en": ""
+  "en": "Sorry to put you through all this trouble."
  },
  {
   "id": "K_CHI23:0003",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "わしにできることがあったら、\n何でもいっとくれよ。",
-  "en": ""
+  "en": "If there's anything I can do,\njust say the word."
  },
  {
   "id": "K_CHI23:0004",
   "kind": "choice",
   "speaker": "",
   "jp": "　寝る　　　　　　　　　　　魔弾研究\n　売り買いする　　　　　　　出発する\n　話す　　　　　　　　　　　",
-  "en": ""
+  "en": "Sleep                     Magic Bullet Study\nBuy and sell              Set out\nTalk"
  },
  {
   "id": "K_CHI23:0005",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "わかった。\nじゃあ、ゆっくり休めよ。",
-  "en": ""
+  "en": "Got it.\nGet some good rest, then."
  },
  {
   "id": "K_CHI23:0006",
   "kind": "msg",
   "speaker": "翔",
   "jp": "…………",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "K_CHI23:0007",
   "kind": "msg",
   "speaker": "翔",
   "jp": "眠ろうとしているのに……\nある人のことが頭から離れない………。",
-  "en": ""
+  "en": "I'm trying to sleep, but...\nI can't get a certain someone\nout of my head..."
  },
  {
   "id": "K_CHI23:0008",
   "kind": "msg",
   "speaker": "翔",
   "jp": "その人とは………",
-  "en": ""
+  "en": "That person is..."
  },
  {
   "id": "K_CHI23:0009",
   "kind": "choice",
   "speaker": "",
   "jp": "　ユカ　　　　　　　　　　　秋穂\n　ひかる　　　　　　　　　　気のせいだ　\n　ルー",
-  "en": ""
+  "en": "Yuka                      Akiho\nHikaru                    Just my imagination\nLou"
  },
  {
   "id": "K_CHI23:0010",
   "kind": "msg",
   "speaker": "翔",
   "jp": "先生のことを…………いつも考えている自分がいる。\n俺は………もしかしたら………",
-  "en": ""
+  "en": "I'm always... thinking about Sensei.\nAm I... maybe..."
  },
  {
   "id": "K_CHI23:0011",
   "kind": "msg",
   "speaker": "翔",
   "jp": "………やめとこう。\n明日も早いんだ、もう休もう………",
-  "en": ""
+  "en": "...Forget it.\nAnother early start tomorrow. Time to sleep..."
  },
  {
   "id": "K_CHI23:0012",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "疲れはとれたか？\n無理すんなよ。",
-  "en": ""
+  "en": "Feel rested?\nDon't push yourself."
  },
  {
   "id": "K_CHI23:0013",
   "kind": "msg",
   "speaker": "翔",
   "jp": "………やめとこう。\n明日も早いんだ、もう休もう………",
-  "en": ""
+  "en": "...Forget it.\nAnother early start tomorrow. Time to sleep..."
  },
  {
   "id": "K_CHI23:0014",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "疲れはとれたか？\n無理すんなよ。",
-  "en": ""
+  "en": "Feel rested?\nDon't push yourself."
  },
  {
   "id": "K_CHI23:0015",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "わかった。\nじゃあ、ゆっくり休めよ。",
-  "en": ""
+  "en": "Got it.\nGet some good rest, then."
  },
  {
   "id": "K_CHI23:0016",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "疲れはとれたか？\n無理すんなよ。",
-  "en": ""
+  "en": "Feel rested?\nDon't push yourself."
  },
  {
   "id": "K_CHI23:0017",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "よお、どうした？\n俺の商売につきあってくれるのか？",
-  "en": ""
+  "en": "Hey, what's up?\nCome to do a little business with me?"
  },
  {
   "id": "K_CHI23:0018",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "どうだ、買い物でもするか？",
-  "en": ""
+  "en": "So, how about some shopping?"
  },
  {
   "id": "K_CHI23:0019",
   "kind": "choice",
   "speaker": "",
   "jp": "　買い物をする\n　持っている物を売る\n　やめる",
-  "en": ""
+  "en": "Buy\nSell items\nNever mind"
  },
  {
   "id": "K_CHI23:0020",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "まいどあり。\nいい買い物したぜ！",
-  "en": ""
+  "en": "Pleasure doing business.\nThat was a good buy!"
  },
  {
   "id": "K_CHI23:0021",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "そうか。\nま、気が変わったら\n言ってくれ。",
-  "en": ""
+  "en": "I see.\nWell, if you change your mind,\nlet me know."
  },
  {
   "id": "K_CHI23:0022",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "まいどあり。\n次は、もっと役に立つものを\n仕入れとくぜ。",
-  "en": ""
+  "en": "Pleasure doing business.\nNext time I'll stock up on\nsomething even more useful."
  },
  {
   "id": "K_CHI23:0023",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "なにもいらねえのか？\nそいつは残念だな……",
-  "en": ""
+  "en": "Nothing you need?\nThat's a shame..."
  },
  {
   "id": "K_CHI23:0024",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "翔、アイシアの運命はおまえにかかってるんだ。\n頼んだぜ…………！",
-  "en": ""
+  "en": "Shou, Eithéa's fate is riding on you.\nI'm counting on you...!"
  },
  {
   "id": "K_CHI23:0025",
   "kind": "choice",
   "speaker": "",
   "jp": "　イムル　　　　　　　　　　ひかる\n　ナムリア　　　　　　　　　秋穂\n　ポーポー　　　　　　　　　次へ",
-  "en": ""
+  "en": "Imul                      Hikaru\nNamuria                   Akiho\nPopo                      Next"
  },
  {
   "id": "K_CHI23:0026",
   "kind": "choice",
   "speaker": "",
   "jp": "　ユカ　　　　　　　　　　　戻る\n　ルー\n　ハーミー",
-  "en": ""
+  "en": "Yuka                      Back\nLou\nHermie"
  },
  {
   "id": "K_CHI23:0027",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "ソーリー、翔。\n僕も戦いたいが、姉さんを一人にはさせられない。",
-  "en": ""
+  "en": "Sorry, Shou.\nI want to fight too, but I can't leave\nmy sister all alone."
  },
  {
   "id": "K_CHI23:0028",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "ああ…………っ！\n僕のこの身が二つあれば！！",
-  "en": ""
+  "en": "Ahh...!\nIf only there were two of me!!"
  },
  {
   "id": "K_CHI23:0029",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "だから、まかせたよ、翔。\n僕のぶんまで、がんばってきてくれ！",
-  "en": ""
+  "en": "So I'm leaving it to you, Shou.\nGo out there and fight hard enough\nfor both of us!"
  },
  {
   "id": "K_CHI23:0030",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "翔、ベイベーたちは元気かい？\n何かあったら、キミが守るんだよ。",
-  "en": ""
+  "en": "Shou, are the babies all doing well?\nIf anything happens, you protect them."
  },
  {
   "id": "K_CHI23:0031",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "特にひかるを傷つけるようなことがあったら、\n僕が許さないからね！",
-  "en": ""
+  "en": "Especially if anything happens to hurt Hikaru,\nI won't forgive you!"
  },
  {
   "id": "K_CHI23:0032",
   "kind": "msg",
   "speaker": "ナムリア",
   "jp": "ひかるさんがお元気になられたそうですが………",
-  "en": ""
+  "en": "I hear Hikaru-san has recovered..."
  },
  {
   "id": "K_CHI23:0033",
   "kind": "msg",
   "speaker": "ナムリア",
   "jp": "実はイムルもなんですよ。",
-  "en": ""
+  "en": "As a matter of fact, so has Imul."
  },
  {
   "id": "K_CHI23:0034",
   "kind": "msg",
   "speaker": "ナムリア",
   "jp": "やはり、あの２人の心は\n通じ合っているのでしょうか？",
-  "en": ""
+  "en": "Perhaps those two hearts\nare truly connected?"
  },
  {
   "id": "K_CHI23:0035",
   "kind": "msg",
   "speaker": "ナムリア",
   "jp": "うふふ、うらやましいですわ。",
-  "en": ""
+  "en": "Hehe, I'm rather envious."
  },
  {
   "id": "K_CHI23:0036",
   "kind": "msg",
   "speaker": "ナムリア",
   "jp": "私も、早くあんな人を見つけたいです………",
-  "en": ""
+  "en": "I'd like to find someone like that\nsoon, too..."
  },
  {
   "id": "K_CHI23:0037",
   "kind": "msg",
   "speaker": "ポーポー",
   "jp": "あ、翔だ！\nハーミーは元気？",
-  "en": ""
+  "en": "Ah, it's Shou!\nIs Hermie doing okay?"
  },
  {
   "id": "K_CHI23:0038",
   "kind": "msg",
   "speaker": "ポーポー",
   "jp": "今度はさ、ハーミーのかわりにぼくを連れてってよ。",
-  "en": ""
+  "en": "Next time, take me instead of Hermie."
  },
  {
   "id": "K_CHI23:0039",
   "kind": "msg",
   "speaker": "ポーポー",
   "jp": "ねえ、いいでしょお？",
-  "en": ""
+  "en": "Come on, pleeease?"
  },
  {
   "id": "K_CHI23:0040",
   "kind": "msg",
   "speaker": "ポーポー",
   "jp": "お願いだよ。\n約束だからね。",
-  "en": ""
+  "en": "Please?\nIt's a promise, okay?"
  },
  {
   "id": "K_CHI23:0041",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "町の人たち、どうなったんでしょう？",
-  "en": ""
+  "en": "I wonder what happened to\nthe people in town..."
  },
  {
   "id": "K_CHI23:0042",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "ピエンさんも、知らないそうです。",
-  "en": ""
+  "en": "Pien-san doesn't know either."
  },
  {
   "id": "K_CHI23:0043",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "いやな予感がするんです。\nなにか、悪いことがないといいんですけど………",
-  "en": ""
+  "en": "I have a bad feeling.\nI hope nothing bad has happened..."
  },
  {
   "id": "K_CHI23:0044",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "イムルに聞いたんですけど、\nこのペンダントって、\n不思議な言い伝えがあるんだそうです。",
-  "en": ""
+  "en": "I heard from Imul that\nthere's a mysterious legend\nabout this pendant."
  },
  {
   "id": "K_CHI23:0045",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "強く願い、望むとき、一度だけ力をくれるって………",
-  "en": ""
+  "en": "That when you wish for something with all\nyour heart, it gives you power just once..."
  },
  {
   "id": "K_CHI23:0046",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "もしかしたら、塔でがんばれたのも、\nこれのおかげかもしれませんね。",
-  "en": ""
+  "en": "Maybe that's how I managed to hold on\nin the tower, too."
  },
  {
   "id": "K_CHI23:0047",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "………………",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "K_CHI23:0048",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "地下にいるせいか、気分がめいってしかたがないわ。",
-  "en": ""
+  "en": "Maybe it's being underground, but I can't\nshake this gloomy feeling."
  },
  {
   "id": "K_CHI23:0049",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "今度はいつ太陽の光を見られるのかしら………",
-  "en": ""
+  "en": "I wonder when we'll see sunlight again..."
  },
  {
   "id": "K_CHI23:0050",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ここの中、すっごく気味悪いよね。",
-  "en": ""
+  "en": "It's super creepy in here, huh?"
  },
  {
   "id": "K_CHI23:0051",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "けど、毛布にくるまると、\nすぐに眠っちゃうんだよね。",
-  "en": ""
+  "en": "But once I wrap up in a blanket,\nI fall asleep right away."
  },
  {
   "id": "K_CHI23:0052",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "えへへ、慣れって怖いね。",
-  "en": ""
+  "en": "Ehehe, it's scary what you can get used to."
  },
  {
   "id": "K_CHI23:0053",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ねえ翔、寝るときなんだけど、\nどうして服を脱がないの？",
-  "en": ""
+  "en": "Hey, Shou, about bedtime...\nwhy don't you take your clothes off?"
  },
  {
   "id": "K_CHI23:0054",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "脱ごうとすると、いつもユカが止めるから………",
-  "en": ""
+  "en": "Whenever I try to take mine off,\nYuka always stops me..."
  },
  {
   "id": "K_CHI23:0055",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "わたしだけ別のコンテナに寝ようかなあ？",
-  "en": ""
+  "en": "Maybe I should sleep in a different\ncontainer by myself?"
  },
  {
   "id": "K_CHI23:0056",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ねえ翔。\nよかったら、いっしょに寝る？",
-  "en": ""
+  "en": "Hey, Shou.\nIf you want, wanna sleep together?"
  },
  {
   "id": "K_CHI23:0057",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "お兄ちゃん、砂遊びするの。\nここ、砂と泥でいっぱいなの。",
-  "en": ""
+  "en": "Big brother, play in the sand with Hermie~.\nIt's all sand and mud down here."
  },
  {
   "id": "K_CHI23:0058",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "でも、いいかげん、飽きてきちゃったの………",
-  "en": ""
+  "en": "But Hermie's getting kinda tired of it~..."
  },
  {
   "id": "K_CHI23:0059",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "あ～あ、また木の実取りに行きたいのお。",
-  "en": ""
+  "en": "Aww~ Hermie wants to go berry picking again~."
  },
  {
   "id": "K_CHI23:0060",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ハーミー、木の実取りが一番好きなの。\nこんど、お兄ちゃんもいっしょにするの。",
-  "en": ""
+  "en": "Hermie likes berry picking best of all.\nNext time, big brother picks with Hermie too~."
  },
  {
   "id": "K_CHI23:0061",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "さて、そろそろ行けるか？",
-  "en": ""
+  "en": "So, ready to head out?"
  },
  {
   "id": "K_CHI23:0062",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "おう、ちょっとまってな！",
-  "en": ""
+  "en": "Sure, hang on a sec!"
  },
  {
   "id": "K_CHI23:0063",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "おう、ちょっとまってな！",
-  "en": ""
+  "en": "Sure, hang on a sec!"
  },
  {
   "id": "K_CHI23:0064",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ん？　これは………何のバルブだろう？\n締めてみるか………",
-  "en": ""
+  "en": "Hm? What's this... a valve for something?\nMaybe I'll try closing it..."
  },
  {
   "id": "K_CHI23:0065",
   "kind": "msg",
   "speaker": "翔",
   "jp": "こ、これは……！？",
-  "en": ""
+  "en": "Wh-What is this...?!"
  },
  {
   "id": "K_CHI23:0066",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "……お兄ちゃん<8>。\nそこの穴の中、行っちゃダメなの。\n怖いの……行っちゃダメなのお……！",
-  "en": ""
+  "en": "...Big brother<8>.\nDon't go into that hole.\nIt's scary... Don't go~...!"
  },
  {
   "id": "K_CHI23:0067",
   "kind": "msg",
   "speaker": "翔",
   "jp": "でも、行かなきゃアイシアを救えないんだ。\n……この世界をヤムヤムの森みたいに\nしたくないだろう？",
-  "en": ""
+  "en": "But if I don't go, I can't save Eithéa.\n...You don't want this world to end up\nlike Yamyam Forest, right?"
  },
  {
   "id": "K_CHI23:0068",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "……うん。",
-  "en": ""
+  "en": "...Okay."
  },
  {
   "id": "K_CHI23:0069",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "先を急ごうぜ。\n……魔女はもうすぐそこだ。\n気をひきしめたほうがいいぞ。",
-  "en": ""
+  "en": "Let's hurry.\n...The Witches are right up ahead.\nBetter brace yourselves."
  },
  {
   "id": "K_CHI23:0070",
   "kind": "choice",
   "speaker": "",
   "jp": "　開ける\n　やめる",
-  "en": ""
+  "en": "Open\nLeave it"
  },
  {
   "id": "K_CHI23:0071",
   "kind": "msg",
   "speaker": "翔",
   "jp": "何もないな………",
-  "en": ""
+  "en": "Nothing here..."
  },
  {
   "id": "K_CHI23:0072",
   "kind": "choice",
   "speaker": "",
   "jp": "　開ける\n　やめる",
-  "en": ""
+  "en": "Open\nLeave it"
  },
  {
   "id": "K_CHI23:0073",
   "kind": "msg",
   "speaker": "翔",
   "jp": "<1>エクスカリバー<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>Excalibur<8>!"
  },
  {
   "id": "K_CHI23:0074",
   "kind": "msg",
   "speaker": "翔",
   "jp": "<1>２０００ＣＡＮ<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>2000 CAN<8>!"
  },
  {
   "id": "K_CHI23:0075",
@@ -536,7 +536,7 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "<1>速さの秘薬<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>Speed Elixir<8>!"
  },
  {
   "id": "K_CHI23:0077",
@@ -550,20 +550,20 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　開ける\n　やめる",
-  "en": ""
+  "en": "Open\nLeave it"
  },
  {
   "id": "K_CHI23:0079",
   "kind": "msg",
   "speaker": "翔",
   "jp": "何もないな………",
-  "en": ""
+  "en": "Nothing here..."
  },
  {
   "id": "K_CHI23:0080",
   "kind": "msg",
   "speaker": "翔",
   "jp": "<1>パワークリスタル<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>Power Crystal<8>!"
  }
 ]

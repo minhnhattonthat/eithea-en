@@ -4,223 +4,223 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "……ん？\nなんかまぶしいな……どうしたんだろう……？",
-  "en": ""
+  "en": "...Hm?\nIt's kind of bright... What's going on...?"
  },
  {
   "id": "IVENTC00:0001",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……どうしたんだ？\n伊藤さん、泣いているみたいだけど……",
-  "en": ""
+  "en": "...What's wrong?\nItou-san, it looks like you're crying..."
  },
  {
   "id": "IVENTC00:0002",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……ごめんね……ユカ……先生……\nわたし……わたしのせいで……",
-  "en": ""
+  "en": "...I'm sorry... Yuka... Sensei...\nI... it's all my fault..."
  },
  {
   "id": "IVENTC00:0003",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……なんだ？\n外がさわがしいな。",
-  "en": ""
+  "en": "...What's that?\nIt's noisy outside."
  },
  {
   "id": "IVENTC00:0004",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "秋穂は甘いわ！\nなにかが起きてからじゃダメなのよ！",
-  "en": ""
+  "en": "You're too soft, Akiho!\nIt's too late once something's happened!"
  },
  {
   "id": "IVENTC00:0005",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "でも、伊藤さんは仲間なのよ！？",
-  "en": ""
+  "en": "But Itou-san is one of us!"
  },
  {
   "id": "IVENTC00:0006",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "あの子はあの子なりにがんばっているわ。",
-  "en": ""
+  "en": "She's trying her best, in her own way."
  },
  {
   "id": "IVENTC00:0007",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "だから、なに？",
-  "en": ""
+  "en": "So what?"
  },
  {
   "id": "IVENTC00:0008",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "がんばってても、\n足手まといということは変わらないわ。",
-  "en": ""
+  "en": "Trying her best doesn't change the fact\nthat she's dead weight."
  },
  {
   "id": "IVENTC00:0009",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ひとつ間違えば、みんな死ぬかもしれないのよ！！",
-  "en": ""
+  "en": "One mistake and we could all end up dead!!"
  },
  {
   "id": "IVENTC00:0010",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ルー、言いすぎだよ！",
-  "en": ""
+  "en": "Lou, that's going too far!"
  },
  {
   "id": "IVENTC00:0011",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "言いすぎじゃないわ！\nカーライルに着いてからのこと、思い出してよ。",
-  "en": ""
+  "en": "No, it isn't!\nThink back to everything since we got\nto Carlyle."
  },
  {
   "id": "IVENTC00:0012",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ひかるのために、\nどれだけの時間をムダにしたの？",
-  "en": ""
+  "en": "How much time have we wasted\nbecause of Hikaru?"
  },
  {
   "id": "IVENTC00:0013",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "どれだけの苦労をかけさせられたの？",
-  "en": ""
+  "en": "How much trouble has she put us through?"
  },
  {
   "id": "IVENTC00:0014",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "秋穂、答えてよ――答えなさいよ！",
-  "en": ""
+  "en": "Akiho, answer me-- Answer me!"
  },
  {
   "id": "IVENTC00:0015",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "…………",
-  "en": ""
+  "en": "........."
  },
  {
   "id": "IVENTC00:0016",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "秋穂、ひかるに言ってやったら？\nあなたは足手まといだってさ。",
-  "en": ""
+  "en": "Akiho, why don't you just tell Hikaru?\nTell her she's dead weight."
  },
  {
   "id": "IVENTC00:0017",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "……そんなことは言えないわ。",
-  "en": ""
+  "en": "...I can't say something like that."
  },
  {
   "id": "IVENTC00:0018",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "自分の教え子だから？\n自分と同じ世界の人間だから？",
-  "en": ""
+  "en": "Because she's your student?\nBecause she's from the same world as you?"
  },
  {
   "id": "IVENTC00:0019",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "それとも、同情？\nただの哀れみなの？",
-  "en": ""
+  "en": "Or is it sympathy?\nJust pity?"
  },
  {
   "id": "IVENTC00:0020",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ちがうわ！",
-  "en": ""
+  "en": "That's not it!"
  },
  {
   "id": "IVENTC00:0021",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "伊藤さんのことをそんなふうに考えてはいない！",
-  "en": ""
+  "en": "I don't think of Itou-san that way!"
  },
  {
   "id": "IVENTC00:0022",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "私はただ、\nみんなでいっしょにもとの世界に戻りたいのよ。",
-  "en": ""
+  "en": "I just want all of us\nto go back to our world together."
  },
  {
   "id": "IVENTC00:0023",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "誰一人かけることなく、みんないっしょに……",
-  "en": ""
+  "en": "Everyone together,\nwithout losing a single one..."
  },
  {
   "id": "IVENTC00:0024",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "確かに今、ひかるは足手まといかもしれない。",
-  "en": ""
+  "en": "Sure, maybe Hikaru is holding us back\nright now."
  },
  {
   "id": "IVENTC00:0025",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "けど、あの子だってがんばってるんだもん！",
-  "en": ""
+  "en": "But she's trying her best too!"
  },
  {
   "id": "IVENTC00:0026",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "もとの世界に帰りたいから、\nすっごくがんばってるんだもん！",
-  "en": ""
+  "en": "She wants to go home,\nso she's trying really, really hard!"
  },
  {
   "id": "IVENTC00:0027",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ああ、そう。\n二人とも勝手に言ってれば？",
-  "en": ""
+  "en": "Oh, fine.\nSay whatever you want, both of you."
  },
  {
   "id": "IVENTC00:0028",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "もとの世界でもどこでも帰るといいわ。",
-  "en": ""
+  "en": "Go back to your world, or wherever you like."
  },
  {
   "id": "IVENTC00:0029",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……新見くんも、そうなのかな……\nわたしが、足手まといだって…",
-  "en": ""
+  "en": "...Does Niimi-kun think so too...?\nThat I'm dead weight..."
  },
  {
   "id": "IVENTC00:0030",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……わたし……\nわたしがもっと……しっかりしていたら……",
-  "en": ""
+  "en": "...If I...\nIf I were just... more dependable..."
  },
  {
   "id": "IVENTC00:0031",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "もっと……もっと強かったら……だったら……",
-  "en": ""
+  "en": "If I were... stronger... then..."
  }
 ]

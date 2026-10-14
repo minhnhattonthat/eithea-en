@@ -4,706 +4,706 @@
   "kind": "msg",
   "speaker": "アゼル",
   "jp": "あら、疲れはとれました？\nそれじゃ、がんばってくださいな、フフ……",
-  "en": ""
+  "en": "Oh my, feeling rested?\nWell then, do your best, hee hee..."
  },
  {
   "id": "IVENT36:0001",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "そう、新見くんもダメだったの。",
-  "en": ""
+  "en": "I see. So you had no luck either, Niimi-kun."
  },
  {
   "id": "IVENT36:0002",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ええ、どこの店でも同じ事を言われましたよ。",
-  "en": ""
+  "en": "Yeah, every place told me the same thing."
  },
  {
   "id": "IVENT36:0003",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "わたしもよ。\n月光族に貸す宿はないってさ。\n頭にくるわね。",
-  "en": ""
+  "en": "Same here. They said they don't rent\nto the Moonlight Clan.\nMakes me so mad."
  },
  {
   "id": "IVENT36:0004",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "わたしもだめでした……\nユカはどう？",
-  "en": ""
+  "en": "I couldn't find one either...\nWhat about you, Yuka?"
  },
  {
   "id": "IVENT36:0005",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……………うう………",
-  "en": ""
+  "en": ".........Uuu........."
  },
  {
   "id": "IVENT36:0006",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……ユカ？",
-  "en": ""
+  "en": "...Yuka?"
  },
  {
   "id": "IVENT36:0007",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……あうう…………\nうわあああああ～んっ！",
-  "en": ""
+  "en": "...Uuuh.........\nWaaaaaaah!"
  },
  {
   "id": "IVENT36:0008",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "ど、どうしたの？　ユカ？",
-  "en": ""
+  "en": "Wh-What's wrong? Yuka?"
  },
  {
   "id": "IVENT36:0009",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "私のせいで……\n私のせいで、みんなが捕まって……",
-  "en": ""
+  "en": "It's my fault...\nIt's my fault everyone got caught..."
  },
  {
   "id": "IVENT36:0010",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "アルバイジャンは……！！",
-  "en": ""
+  "en": "And Albaijan...!!"
  },
  {
   "id": "IVENT36:0011",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "私があのとき、騒いだりしなきゃ……！\nわあああああああ～んっ！！",
-  "en": ""
+  "en": "If only I hadn't made a scene back then...!\nWaaaaaaaaah!!"
  },
  {
   "id": "IVENT36:0012",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "松岡さん、落ちつきなさい。\nあなたのせいじゃないわ。",
-  "en": ""
+  "en": "Calm down, Matsuoka-san.\nIt isn't your fault."
  },
  {
   "id": "IVENT36:0013",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……でも<10>…<10>…でも……！",
-  "en": ""
+  "en": "...But<10>...<10>but...!"
  },
  {
   "id": "IVENT36:0014",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "過ぎたことを悔やんでもしかたないよ。\n<10>…<10>…ユカ、がんばろうよ。",
-  "en": ""
+  "en": "There's no use regretting what's done.\n<10>...<10>Yuka, let's do our best."
  },
  {
   "id": "IVENT36:0015",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "<10>…<10>…でも……<10>…<10>…私<10>…<10>…だって<10>…<10>…私……",
-  "en": ""
+  "en": "<10>...<10>But...<10>...<10>I<10>...<10>it's<10>...<10>I just..."
  },
  {
   "id": "IVENT36:0016",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "いいかげんにしたら！？\nそれ以上泣くんだったら、わたしの前から消えてよ！",
-  "en": ""
+  "en": "Would you knock it off?!\nIf you're gonna keep crying,\nget out of my sight!"
  },
  {
   "id": "IVENT36:0017",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ルー、言いすぎだぞ！",
-  "en": ""
+  "en": "Lou, that's going too far!"
  },
  {
   "id": "IVENT36:0018",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "なんで？",
-  "en": ""
+  "en": "Why?"
  },
  {
   "id": "IVENT36:0019",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "翔はいいの？\nこんなユカを見ていたいの？\n<10>…<10>…わたしは、ヤだ。",
-  "en": ""
+  "en": "You're fine with this, Shou?\nYou want to keep seeing Yuka like this?\n<10>...<10>I don't."
  },
  {
   "id": "IVENT36:0020",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ねえ、ユカはどうしたいの？\n何がしたいの？",
-  "en": ""
+  "en": "Hey, Yuka, what do you want?\nWhat do you want to do?"
  },
  {
   "id": "IVENT36:0021",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……私のせいで捕まったんだもん……",
-  "en": ""
+  "en": "...He got caught because of me..."
  },
  {
   "id": "IVENT36:0022",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "助けに行きたい……会って謝りたいの……！",
-  "en": ""
+  "en": "I want to go save him... I want to see him\nand apologize...!"
  },
  {
   "id": "IVENT36:0023",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "なら、そうすれば？\n行けばいいのよ。",
-  "en": ""
+  "en": "Then do it.\nJust go."
  },
  {
   "id": "IVENT36:0024",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "城でもどこでも、\nアルバイジャンを助け出しに行けばいいのよ！",
-  "en": ""
+  "en": "The castle or wherever,\njust go and rescue Albaijan!"
  },
  {
   "id": "IVENT36:0025",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……あ。",
-  "en": ""
+  "en": "...Oh."
  },
  {
   "id": "IVENT36:0026",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "やっぱ、ニブイよ。\n面倒ばっか、かけないでよね。",
-  "en": ""
+  "en": "You really are slow.\nQuit making so much trouble for us."
  },
  {
   "id": "IVENT36:0027",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……ごめん。\nルー、ありがと……",
-  "en": ""
+  "en": "...Sorry.\nThanks, Lou..."
  },
  {
   "id": "IVENT36:0028",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "……ケンカするぶん、\n仲がいいっていうのはほんとうね。",
-  "en": ""
+  "en": "...So it's true what they say:\nthe more you fight, the closer you are."
  },
  {
   "id": "IVENT36:0029",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……そうですね。\nわたし、ちょっと妬いちゃいます……",
-  "en": ""
+  "en": "...It is.\nI'm a little jealous..."
  },
  {
   "id": "IVENT36:0030",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "じゃ、私、行ってくる！\n火竜城に行ってくるから！",
-  "en": ""
+  "en": "Okay, I'm going!\nI'm going to Fire Dragon Castle!"
  },
  {
   "id": "IVENT36:0031",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ちょ、ちょっと待てよ！\nもっと落ちつけって。",
-  "en": ""
+  "en": "H-Hey, wait a second!\nCalm down a little."
  },
  {
   "id": "IVENT36:0032",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "あんた、ほんっとにニブいわね。",
-  "en": ""
+  "en": "You really are seriously slow."
  },
  {
   "id": "IVENT36:0033",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ていうか、それってただのバカよ！",
-  "en": ""
+  "en": "Actually, that's just plain stupid!"
  },
  {
   "id": "IVENT36:0034",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……ユカ、城の中にはどうやって行くの？",
-  "en": ""
+  "en": "...Yuka, how are you going to get\ninside the castle?"
  },
  {
   "id": "IVENT36:0035",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……え？\n<10>…<10>…あ、そっか。",
-  "en": ""
+  "en": "...Huh?\n<10>...<10>Oh, right."
  },
  {
   "id": "IVENT36:0036",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ごめ～ん、考えてなかった、あははは。",
-  "en": ""
+  "en": "Sorryyy, I didn't think about that, ahahaha."
  },
  {
   "id": "IVENT36:0037",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "……はぁ……。\n泣かせといたままでよかったかも……",
-  "en": ""
+  "en": "...Sigh...\nMaybe I should've just let her keep crying..."
  },
  {
   "id": "IVENT36:0038",
   "kind": "msg",
   "speaker": "翔",
   "jp": "でも、どうしようか？\nこの前の洞窟はダメだろうし……",
-  "en": ""
+  "en": "But what should we do?\nThat cave from before is probably out..."
  },
  {
   "id": "IVENT36:0039",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……城の裏側から忍び込むのはどうでしょう？",
-  "en": ""
+  "en": "...What about sneaking in from the back\nof the castle?"
  },
  {
   "id": "IVENT36:0040",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "それも手だと思うわ。\nそれじゃあ……",
-  "en": ""
+  "en": "That's one option.\nIn that case..."
  },
  {
   "id": "IVENT36:0041",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "うふふふふふ。\n面白そうな話をしてるわね。",
-  "en": ""
+  "en": "Ufufufufufu.\nYou're talking about something interesting."
  },
  {
   "id": "IVENT36:0042",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "私も仲間にいれてくれないかしら？",
-  "en": ""
+  "en": "Won't you let me in on it, too?"
  },
  {
   "id": "IVENT36:0043",
   "kind": "msg",
   "speaker": "翔",
   "jp": "誰だ！？　おまえは？",
-  "en": ""
+  "en": "Who's there?! Who are you?"
  },
  {
   "id": "IVENT36:0044",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "そんなに怖い顔しないで。\nあなたたちの敵じゃないわ。",
-  "en": ""
+  "en": "Don't make such a scary face.\nI'm not your enemy."
  },
  {
   "id": "IVENT36:0045",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "……こいつ、怪しすぎる。\n相手にしないほうがいいよ。",
-  "en": ""
+  "en": "...She's way too suspicious.\nBetter not deal with her."
  },
  {
   "id": "IVENT36:0046",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "あらあら、ずいぶんと嫌われたものね。",
-  "en": ""
+  "en": "My, my, I'm really not popular, am I?"
  },
  {
   "id": "IVENT36:0047",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "……でも、いいのかしら？\n仲間を助けられなくって。",
-  "en": ""
+  "en": "...But are you sure about this?\nNot being able to save your friend?"
  },
  {
   "id": "IVENT36:0048",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ええええっ！？\nど、どういうこと！？",
-  "en": ""
+  "en": "Whaaat?!\nWh-What do you mean?!"
  },
  {
   "id": "IVENT36:0049",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "教えてあげてもいいわよ。\nけど、話に混ぜてくれないんじゃあ……",
-  "en": ""
+  "en": "I could tell you.\nBut if you won't let me join\nthe conversation..."
  },
  {
   "id": "IVENT36:0050",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……わかった。\n何を話せばいいんだ？",
-  "en": ""
+  "en": "...All right.\nWhat do you want to talk about?"
  },
  {
   "id": "IVENT36:0051",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "うふふふ、緊張しないで。\nあなたたちの話を聞きたいだけなの。",
-  "en": ""
+  "en": "Ufufufu, don't be so tense.\nI just want to hear your story."
  },
  {
   "id": "IVENT36:0052",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "立ち話もなんだから、私の家に来ない？",
-  "en": ""
+  "en": "We can't talk standing here. Why not come to\nmy house?"
  },
  {
   "id": "IVENT36:0053",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "何もないけど、宿がわりにはなるわよ。",
-  "en": ""
+  "en": "It's nothing much, but it'll do for an inn."
  },
  {
   "id": "IVENT36:0054",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "だ、誰だ！？\n<3>アゼル<8>、そいつらはいったい……！？",
-  "en": ""
+  "en": "Wh-Who's that?!\n<3>Azel<8>, who on earth are these people...?!"
  },
  {
   "id": "IVENT36:0055",
   "kind": "msg",
   "speaker": "アゼル",
   "jp": "だいじょうぶよ、<3>ユン<8>。\n私のお客さんだから。",
-  "en": ""
+  "en": "It's all right, <3>Yun<8>.\nThey're my guests."
  },
  {
   "id": "IVENT36:0056",
   "kind": "msg",
   "speaker": "ユン",
   "jp": "そうか……びっくりさせないでくれ。\nで、こいつらは何者なんだ？",
-  "en": ""
+  "en": "I see... Don't scare me like that.\nSo who are these guys?"
  },
  {
   "id": "IVENT36:0057",
   "kind": "msg",
   "speaker": "アゼル",
   "jp": "おもしろいわよ。\n城に侵入しようとしていたの。",
-  "en": ""
+  "en": "They're interesting.\nThey were trying to break into the castle."
  },
  {
   "id": "IVENT36:0058",
   "kind": "msg",
   "speaker": "ユン",
   "jp": "なんだって！？\nなんでそんなことを……？",
-  "en": ""
+  "en": "What?!\nWhy would they do that...?"
  },
  {
   "id": "IVENT36:0059",
   "kind": "msg",
   "speaker": "アゼル",
   "jp": "囚われた仲間を助け出すため。\nそうでしょう？　翔くん。",
-  "en": ""
+  "en": "To rescue a captured friend.\nIsn't that right, Shou-kun?"
  },
  {
   "id": "IVENT36:0060",
   "kind": "msg",
   "speaker": "翔",
   "jp": "…………ああ……",
-  "en": ""
+  "en": "......Yeah......"
  },
  {
   "id": "IVENT36:0061",
   "kind": "msg",
   "speaker": "アゼル",
   "jp": "そういえば自己紹介がまだだったわね。",
-  "en": ""
+  "en": "Come to think of it, we haven't introduced\nourselves yet."
  },
  {
   "id": "IVENT36:0062",
   "kind": "msg",
   "speaker": "アゼル",
   "jp": "私の名は、アゼル。\nこっちはユン、ユン＝ゼフ。",
-  "en": ""
+  "en": "My name is Azel.\nThis is Yun. Yun-Zef."
  },
  {
   "id": "IVENT36:0063",
   "kind": "msg",
   "speaker": "アゼル",
   "jp": "ここは私たちレジスタンス、<1>飛竜の牙<8>の拠点よ。",
-  "en": ""
+  "en": "This is the hideout of our resistance,\nthe <1>Wyvern's Fang<8>."
  },
  {
   "id": "IVENT36:0064",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "レジスタンス？\nユーロリア王家に反する組織ということかしら？",
-  "en": ""
+  "en": "A resistance?\nYou mean a group that opposes the Eurolian\nroyal family?"
  },
  {
   "id": "IVENT36:0065",
   "kind": "msg",
   "speaker": "アゼル",
   "jp": "そのとおりよ。\n私たち飛竜の牙の目的……",
-  "en": ""
+  "en": "That's right.\nThe goal of us, the Wyvern's Fang..."
  },
  {
   "id": "IVENT36:0066",
   "kind": "msg",
   "speaker": "アゼル",
   "jp": "それは、この国が行っている\nエレの樹への実験を中止することなの。",
-  "en": ""
+  "en": "...is to stop the experiments this country\nis carrying out on the Ele Tree."
  },
  {
   "id": "IVENT36:0067",
   "kind": "msg",
   "speaker": "ユン",
   "jp": "そうだ！\nエレの樹にあんなことをしちゃいけない。",
-  "en": ""
+  "en": "That's right!\nNo one should do that to the Ele Tree."
  },
  {
   "id": "IVENT36:0068",
   "kind": "msg",
   "speaker": "ユン",
   "jp": "王家はエレの樹に実験をくりかえし、\nエネルギーを搾り取ろうとしている…",
-  "en": ""
+  "en": "The royal family keeps experimenting on the\nEle Tree, trying to squeeze its energy out..."
  },
  {
   "id": "IVENT36:0069",
   "kind": "msg",
   "speaker": "ユン",
   "jp": "そんなことをしちゃダメだ。\n今にしっぺ返しが来るに決まってる！",
-  "en": ""
+  "en": "They can't do that.\nIt's bound to come back and bite them!"
  },
  {
   "id": "IVENT36:0070",
   "kind": "msg",
   "speaker": "アゼル",
   "jp": "そう、それもユーロリアだけじゃない。\nアイシアすべてをまきこむほどの、ね……",
-  "en": ""
+  "en": "Yes, and not just Eurolia.\nIt'd drag all of Eithéa down with it..."
  },
  {
   "id": "IVENT36:0071",
   "kind": "msg",
   "speaker": "アゼル",
   "jp": "だから私は、飛竜の牙を結成したの。",
-  "en": ""
+  "en": "That's why I formed the Wyvern's Fang."
  },
  {
   "id": "IVENT36:0072",
   "kind": "msg",
   "speaker": "ユン",
   "jp": "俺たちの仲間はみんな、この国が好きなんだ。\nエレの樹を守りたいんだ。",
-  "en": ""
+  "en": "Everyone with us loves this country.\nWe want to protect the Ele Tree."
  },
  {
   "id": "IVENT36:0073",
   "kind": "msg",
   "speaker": "ユン",
   "jp": "そのためなら、どんな戦いも辞さない覚悟さ！",
-  "en": ""
+  "en": "For that, we're ready to fight any battle!"
  },
  {
   "id": "IVENT36:0074",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "りっぱな考えだと思うわ。\n……最後のセリフが気になるけどね。",
-  "en": ""
+  "en": "I think that's an admirable idea.\n...Though that last line worries me a bit."
  },
  {
   "id": "IVENT36:0075",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "でも、その気持ち、わかるよ。\nわたしもそうすると思うもの。",
-  "en": ""
+  "en": "But I get how you feel.\nI think I'd do the same thing."
  },
  {
   "id": "IVENT36:0076",
   "kind": "msg",
   "speaker": "アゼル",
   "jp": "月光族のあなたなら、わかってくれると思ったわ。\nこれで信用してくれるかしら？",
-  "en": ""
+  "en": "I thought you'd understand, being of the\nMoonlight Clan. Will you trust me now?"
  },
  {
   "id": "IVENT36:0077",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "……会ったときよりはね。",
-  "en": ""
+  "en": "...More than when we met."
  },
  {
   "id": "IVENT36:0078",
   "kind": "msg",
   "speaker": "翔",
   "jp": "それで、俺たちはどうやったら、\n仲間を助けることができるんだ？",
-  "en": ""
+  "en": "So how do we go about\nrescuing our friend?"
  },
  {
   "id": "IVENT36:0079",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ねえ、何か知ってるんでしょ？\n知ってるんだよね！？",
-  "en": ""
+  "en": "Hey, you know something, right?\nYou do, don't you?!"
  },
  {
   "id": "IVENT36:0080",
   "kind": "msg",
   "speaker": "アゼル",
   "jp": "落ちつきなさい。\nあなたたちの仲間は、城のどこに捕まっているの？",
-  "en": ""
+  "en": "Calm down.\nWhere in the castle is your friend being held?"
  },
  {
   "id": "IVENT36:0081",
   "kind": "msg",
   "speaker": "翔",
   "jp": "たしか、黒の間って聞いたな。\n知ってるか？",
-  "en": ""
+  "en": "I think I heard it was the Black Chamber.\nKnow it?"
  },
  {
   "id": "IVENT36:0082",
   "kind": "msg",
   "speaker": "アゼル",
   "jp": "ええ、かなり危険なところよ。\n火竜城の地下にある、ドラゴンを封印した場所なの。",
-  "en": ""
+  "en": "Yes, it's a very dangerous place.\nIt's under Fire Dragon Castle, where they seal\naway dragons."
  },
  {
   "id": "IVENT36:0083",
   "kind": "msg",
   "speaker": "アゼル",
   "jp": "それでも行く勇気はある？",
-  "en": ""
+  "en": "Are you still brave enough to go?"
  },
  {
   "id": "IVENT36:0084",
   "kind": "msg",
   "speaker": "翔",
   "jp": "城に忍びこもうとしたんだぞ？\n危険は覚悟してるさ。",
-  "en": ""
+  "en": "We tried to sneak into the castle, remember?\nWe're ready for danger."
  },
  {
   "id": "IVENT36:0085",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "私もだよ！\nジャームなんて怖くないもん！",
-  "en": ""
+  "en": "Me too!\nI'm not scared of any Germs!"
  },
  {
   "id": "IVENT36:0086",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "アルバイジャンを助けるの！\n絶対に助けるんだもん！",
-  "en": ""
+  "en": "I'm gonna save Albaijan!\nI'm gonna save him no matter what!"
  },
  {
   "id": "IVENT36:0087",
   "kind": "msg",
   "speaker": "アゼル",
   "jp": "わかったわ。\nそれじゃあ、こっちに来て。",
-  "en": ""
+  "en": "All right.\nThen come this way."
  },
  {
   "id": "IVENT36:0088",
   "kind": "msg",
   "speaker": "アゼル",
   "jp": "そのマンホールの下を覗いてごらんなさい。\n<10>…<10>…聞こえるかしら？",
-  "en": ""
+  "en": "Take a look down that manhole.\n<10>...<10>Can you hear it?"
  },
  {
   "id": "IVENT36:0089",
   "kind": "msg",
   "speaker": "翔",
   "jp": "雷の音？\nちがうな……",
-  "en": ""
+  "en": "Thunder?\nNo, that's not it..."
  },
  {
   "id": "IVENT36:0090",
   "kind": "msg",
   "speaker": "アゼル",
   "jp": "これはドラゴンの声よ。\n地下深くにある黒の間から、\nここまで聞こえてくるの。",
-  "en": ""
+  "en": "That's the voice of a dragon.\nIt carries all the way up here from the\nBlack Chamber, deep underground."
  },
  {
   "id": "IVENT36:0091",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ド…ドラゴン！？\nアルバイジャン、だいじょうぶかな？",
-  "en": ""
+  "en": "A... A dragon?!\nIs Albaijan gonna be okay?"
  },
  {
   "id": "IVENT36:0092",
   "kind": "msg",
   "speaker": "翔",
   "jp": "じゃあ、ここから黒の間に行けるのか？",
-  "en": ""
+  "en": "So we can get to the Black Chamber from here?"
  },
  {
   "id": "IVENT36:0093",
   "kind": "msg",
   "speaker": "アゼル",
   "jp": "正しい道を通ればね。\n中は迷宮になっているのよ。\nジャームもうようよしてるわ。",
-  "en": ""
+  "en": "If you take the right path.\nIt's a labyrinth down there.\nAnd it's crawling with Germs."
  },
  {
   "id": "IVENT36:0094",
   "kind": "msg",
   "speaker": "ユン",
   "jp": "レジスタンスも何人か行方不明になってる。",
-  "en": ""
+  "en": "Some of our resistance members\nhave gone missing."
  },
  {
   "id": "IVENT36:0095",
   "kind": "msg",
   "speaker": "アゼル",
   "jp": "今すぐ行っていいけど、\n疲れてるんだったら、家で休んでいいから。",
-  "en": ""
+  "en": "You can go right away, but if\nyou're tired, you can rest at my house."
  },
  {
   "id": "IVENT36:0096",
   "kind": "msg",
   "speaker": "アゼル",
   "jp": "……じゃ、生きて戻れたらまた会いましょう。",
-  "en": ""
+  "en": "...Well, let's meet again\nif you make it back alive."
  },
  {
   "id": "IVENT36:0097",
   "kind": "choice",
   "speaker": "",
   "jp": "　アゼルの家で休む　　　　　セーブする\n　地下に入る\n　町へ行く",
-  "en": ""
+  "en": "Rest at Azel's house      Save\nGo underground\nGo to town"
  },
  {
   "id": "IVENT36:0098",
   "kind": "msg",
   "speaker": "アゼル",
   "jp": "奥の部屋にベッドがあるわ。\n好きに使っていいわよ。",
-  "en": ""
+  "en": "There's a bed in the back room.\nFeel free to use it."
  },
  {
   "id": "IVENT36:0099",
   "kind": "msg",
   "speaker": "アゼル",
   "jp": "あら、疲れはとれました？\nそれじゃ、がんばってくださいな、フフ……",
-  "en": ""
+  "en": "Oh my, feeling rested?\nWell then, do your best, hee hee..."
  },
  {
   "id": "IVENT36:0100",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "さあ、早く行こ！\nアルバイジャンがまってるよ！",
-  "en": ""
+  "en": "Come on, let's hurry!\nAlbaijan's waiting for us!"
  }
 ]

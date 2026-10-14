@@ -4,14 +4,14 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "疲れたな…少し休むか……",
-  "en": ""
+  "en": "I'm tired... Let's rest a bit..."
  },
  {
   "id": "K_CHI01F:0001",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ねえ、翔！",
-  "en": ""
+  "en": "Hey, Shou!"
  },
  {
   "id": "K_CHI01F:0002",
@@ -25,98 +25,98 @@
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "この中って、すっごく気味悪いよね。\nどこにでもジャームが隠れてそうでさあ……",
-  "en": ""
+  "en": "It's super creepy down here, huh?\nLike there could be Germs hiding anywhere..."
  },
  {
   "id": "K_CHI01F:0004",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "翔はこんなとこ平気なの？",
-  "en": ""
+  "en": "Doesn't a place like this bother you, Shou?"
  },
  {
   "id": "K_CHI01F:0005",
   "kind": "choice",
   "speaker": "",
   "jp": "　平気だけど……\n　少し怖い",
-  "en": ""
+  "en": "I'm fine, but...\nA little scared"
  },
  {
   "id": "K_CHI01F:0006",
   "kind": "msg",
   "speaker": "翔",
   "jp": "平気だよ。\n別になんとも思わないけど。",
-  "en": ""
+  "en": "I'm fine.\nIt doesn't really bother me."
  },
  {
   "id": "K_CHI01F:0007",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……ほんとう？\n無理してるんじゃないの？",
-  "en": ""
+  "en": "...Really?\nYou're not just acting tough?"
  },
  {
   "id": "K_CHI01F:0008",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "でも……えへへ。\nやっぱり、翔って強いんだね。",
-  "en": ""
+  "en": "But... hehe.\nYou really are strong, Shou."
  },
  {
   "id": "K_CHI01F:0009",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ジャームが出たら守ってね。\n期待してるよ！",
-  "en": ""
+  "en": "Protect me if any Germs show up.\nI'm counting on you!"
  },
  {
   "id": "K_CHI01F:0010",
   "kind": "msg",
   "speaker": "翔",
   "jp": "正直、すこし怖いな。",
-  "en": ""
+  "en": "Honestly, I'm a little scared."
  },
  {
   "id": "K_CHI01F:0011",
   "kind": "msg",
   "speaker": "翔",
   "jp": "やっぱり暗いところは苦手だな。",
-  "en": ""
+  "en": "I've never been good with dark places."
  },
  {
   "id": "K_CHI01F:0012",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "翔も怖いんだ！？\n……えへへへ、安心しちゃった。",
-  "en": ""
+  "en": "You're scared too, Shou?!\n...Ehehehe, what a relief."
  },
  {
   "id": "K_CHI01F:0013",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "私も怖かったの。\nけど、ひかるがいるから、怖がってられないし……",
-  "en": ""
+  "en": "I was scared too.\nBut with Hikaru here, I can't act scared..."
  },
  {
   "id": "K_CHI01F:0014",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……でも、翔って意外と怖がりなんだね。",
-  "en": ""
+  "en": "...But you're more of a scaredy-cat\nthan I thought, Shou."
  },
  {
   "id": "K_CHI01F:0015",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ちょっとだけ……がっかり、かな？",
-  "en": ""
+  "en": "Kinda... disappointing, maybe?"
  },
  {
   "id": "K_CHI01F:0016",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……新見くん、ごめんなさい……",
-  "en": ""
+  "en": "...Niimi-kun, I'm sorry..."
  },
  {
   "id": "K_CHI01F:0017",
@@ -130,91 +130,91 @@
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "あの……ごめんなさい！\n……迷惑をかけて、ほんとうにごめんなさい！",
-  "en": ""
+  "en": "Um... I'm sorry!\n...I'm so sorry for causing you trouble!"
  },
  {
   "id": "K_CHI01F:0019",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "もう……迷惑をかけないようにしますから……\nだから……",
-  "en": ""
+  "en": "I'll... I'll try not to cause any more\ntrouble... So..."
  },
  {
   "id": "K_CHI01F:0020",
   "kind": "choice",
   "speaker": "",
   "jp": "　気にするな\n　態度であらわせ",
-  "en": ""
+  "en": "Don't worry about it\nProve it with actions"
  },
  {
   "id": "K_CHI01F:0021",
   "kind": "msg",
   "speaker": "翔",
   "jp": "気にするな。\n今度から注意すればいいんだからさ。",
-  "en": ""
+  "en": "Don't worry about it.\nJust be careful from now on."
  },
  {
   "id": "K_CHI01F:0022",
   "kind": "msg",
   "speaker": "翔",
   "jp": "だいじょうぶ、伊藤さんならできるさ。",
-  "en": ""
+  "en": "It's okay. You can do it, Itou-san."
  },
  {
   "id": "K_CHI01F:0023",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……ありがとう。\nわたし、がんばります……",
-  "en": ""
+  "en": "...Thank you.\nI'll do my best..."
  },
  {
   "id": "K_CHI01F:0024",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "何度も言ったかも知れないし、\nぜんぜんダメかもしれないけど……",
-  "en": ""
+  "en": "I might have said this many times before,\nand I might be hopeless at it, but..."
  },
  {
   "id": "K_CHI01F:0025",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "けど、わたし……がんばります……！",
-  "en": ""
+  "en": "But I... I'll do my best...!"
  },
  {
   "id": "K_CHI01F:0026",
   "kind": "msg",
   "speaker": "翔",
   "jp": "口で言うのは簡単だ。",
-  "en": ""
+  "en": "Talk is cheap."
  },
  {
   "id": "K_CHI01F:0027",
   "kind": "msg",
   "speaker": "翔",
   "jp": "けど、それを態度であらわさないと、\nみんな納得しないぞ。",
-  "en": ""
+  "en": "Unless you show it with your actions,\nnobody's going to buy it."
  },
  {
   "id": "K_CHI01F:0028",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……そうですね。\nそれしかないですよね。",
-  "en": ""
+  "en": "...You're right.\nThat's the only way, isn't it?"
  },
  {
   "id": "K_CHI01F:0029",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "ごめんなさい……\nわたし、もっと……もっと、がんばります……",
-  "en": ""
+  "en": "I'm sorry...\nI'll try harder... much harder..."
  },
  {
   "id": "K_CHI01F:0030",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "新見くん、今だいじょうぶかしら？",
-  "en": ""
+  "en": "Niimi-kun, do you have a moment?"
  },
  {
   "id": "K_CHI01F:0031",
@@ -228,63 +228,63 @@
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "アルバイジャンって強引よね。\nけど、男の人はあれぐらいがいいのかもね。",
-  "en": ""
+  "en": "Albaijan is rather pushy, isn't he?\nBut maybe men should be a bit like that."
  },
  {
   "id": "K_CHI01F:0033",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "新見くんはどう？\n相手が私だったら……\nどう接してくれるのかしら？",
-  "en": ""
+  "en": "What about you, Niimi-kun?\nIf it were me...\nhow would you treat me?"
  },
  {
   "id": "K_CHI01F:0034",
   "kind": "choice",
   "speaker": "",
   "jp": "　強引にする\n　優しく接する",
-  "en": ""
+  "en": "Be forceful\nBe gentle"
  },
  {
   "id": "K_CHI01F:0035",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "うふふふふ。\n言ってくれるじゃない。",
-  "en": ""
+  "en": "Ufufufu.\nWell, aren't you bold."
  },
  {
   "id": "K_CHI01F:0036",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "でも、そんなことを言うのは、\n大人になってからになさいね。",
-  "en": ""
+  "en": "But save that kind of talk\nfor when you're a grown-up."
  },
  {
   "id": "K_CHI01F:0037",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "楽しみにしてるわよ。",
-  "en": ""
+  "en": "I'll be looking forward to it."
  },
  {
   "id": "K_CHI01F:0038",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "優しく、ね……\n新見くん、もっと女心を勉強したほうがいいわね。",
-  "en": ""
+  "en": "Gently, hm...\nNiimi-kun, you should study up\non how women think."
  },
  {
   "id": "K_CHI01F:0039",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "そうしないと、\n松岡さんや伊藤さんに逃げられちゃうわよ。",
-  "en": ""
+  "en": "Otherwise, Matsuoka-san and Itou-san\nmight just run off on you."
  },
  {
   "id": "K_CHI01F:0040",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "翔、いいかな？",
-  "en": ""
+  "en": "Shou, got a sec?"
  },
  {
   "id": "K_CHI01F:0041",
@@ -298,28 +298,28 @@
   "kind": "msg",
   "speaker": "ルー",
   "jp": "信じらんないよね。\n町の下にこんなものがあるなんてさ。",
-  "en": ""
+  "en": "Hard to believe, huh? That there's\nsomething like this under the town."
  },
  {
   "id": "K_CHI01F:0043",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "けど、やだなあ……暗くて空気がよどんでるの。",
-  "en": ""
+  "en": "But ugh... it's dark and the air's all stale."
  },
  {
   "id": "K_CHI01F:0044",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "早くイオピロスに帰って森の風にあたりたいわ。",
-  "en": ""
+  "en": "I wanna hurry back to Iopiros\nand feel the forest wind."
  },
  {
   "id": "K_CHI01F:0045",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "あの、新見くん……いいですか？",
-  "en": ""
+  "en": "Um, Niimi-kun... do you have a moment?"
  },
  {
   "id": "K_CHI01F:0046",
@@ -333,69 +333,69 @@
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "あの……男の人が女性にプレゼントをあげるのは\nどんな気持ちのときでしょう？",
-  "en": ""
+  "en": "Um... when a man gives a woman a present,\nwhat is he feeling?"
  },
  {
   "id": "K_CHI01F:0048",
   "kind": "choice",
   "speaker": "",
   "jp": "　気になるとき\n　別に意味はない",
-  "en": ""
+  "en": "When he likes her\nIt means nothing"
  },
  {
   "id": "K_CHI01F:0049",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そうだな……\nやっぱり、その子のことが気になっている。",
-  "en": ""
+  "en": "Let's see...\nI'd say he's interested in her."
  },
  {
   "id": "K_CHI01F:0050",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そんな感じだと思うけど。",
-  "en": ""
+  "en": "That's what I think, anyway."
  },
  {
   "id": "K_CHI01F:0051",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……そうなんですか。\nじゃあ、あの人は、わたしのことが……",
-  "en": ""
+  "en": "...Is that so?\nThen that person... about me..."
  },
  {
   "id": "K_CHI01F:0052",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……新見くん、どうすればいいんでしょう？\nわたし、その………",
-  "en": ""
+  "en": "...Niimi-kun, what should I do?\nI, um..."
  },
  {
   "id": "K_CHI01F:0053",
   "kind": "msg",
   "speaker": "翔",
   "jp": "特に意味なんてないな。",
-  "en": ""
+  "en": "It doesn't really mean anything."
  },
  {
   "id": "K_CHI01F:0054",
   "kind": "msg",
   "speaker": "翔",
   "jp": "あげたいときに、誰にでもプレゼントはするよ。",
-  "en": ""
+  "en": "I give presents to anyone,\nwhenever I feel like it."
  },
  {
   "id": "K_CHI01F:0055",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "そ、そうですよね。\n意味なんてありませんよね。",
-  "en": ""
+  "en": "R-Right.\nIt doesn't mean anything, does it?"
  },
  {
   "id": "K_CHI01F:0056",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "わたし、ちょっと考えすぎたようです……",
-  "en": ""
+  "en": "I guess I was overthinking it..."
  }
 ]

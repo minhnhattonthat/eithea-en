@@ -4,48 +4,48 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "ルーの荷物があるな。\nルーがいたのかな？",
-  "en": ""
+  "en": "Lou's stuff is here.\nWas Lou here?"
  },
  {
   "id": "YA_SOKO:0001",
   "kind": "msg",
   "speaker": "翔",
   "jp": "今はいないけど、どこに行ったんだろう？\nまた後で来てみるか。",
-  "en": ""
+  "en": "She's not here now, but where'd she go?\nMaybe I'll come back later."
  },
  {
   "id": "YA_SOKO:0002",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "……ああ、翔。",
-  "en": ""
+  "en": "...Oh, Shou."
  },
  {
   "id": "YA_SOKO:0003",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "悪いけど、一人にしてくれる？\n翔、ごめんね……",
-  "en": ""
+  "en": "Sorry, but could you leave me alone?\nI'm sorry, Shou..."
  },
  {
   "id": "YA_SOKO:0004",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そういえば、夜はどこで寝ているの？",
-  "en": ""
+  "en": "By the way, where do you sleep at night?"
  },
  {
   "id": "YA_SOKO:0005",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "話したいこともあるし、\nたまにはここにおいでよ。",
-  "en": ""
+  "en": "There's stuff I want to talk about,\nso come by here once in a while."
  },
  {
   "id": "YA_SOKO:0006",
   "kind": "msg",
   "speaker": "翔",
   "jp": "あれ！？\n誰もいないな、どこにいったんだろう……",
-  "en": ""
+  "en": "Huh?!\nNobody's here. Where'd everyone go...?"
  }
 ]

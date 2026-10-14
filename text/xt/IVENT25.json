@@ -4,146 +4,146 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "……あれ？おかしいな……",
-  "en": ""
+  "en": "...Huh? That's weird..."
  },
  {
   "id": "IVENT25:0001",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "どうしたの、翔？\n早くあけてよ！",
-  "en": ""
+  "en": "What's wrong, Shou?\nHurry up and open it!"
  },
  {
   "id": "IVENT25:0002",
   "kind": "msg",
   "speaker": "翔",
   "jp": "いや、スイッチがないんだ…",
-  "en": ""
+  "en": "Well, there's no switch..."
  },
  {
   "id": "IVENT25:0003",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "どういうことなのかしら？\n新見くん、ちょっと替わってもらえる？",
-  "en": ""
+  "en": "What could that mean?\nNiimi-kun, would you let me try?"
  },
  {
   "id": "IVENT25:0004",
   "kind": "msg",
   "speaker": "翔",
   "jp": "どうですか？",
-  "en": ""
+  "en": "Anything?"
  },
  {
   "id": "IVENT25:0005",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "……そうね、スイッチらしいものはないわ。",
-  "en": ""
+  "en": "...No, there's nothing like a switch here."
  },
  {
   "id": "IVENT25:0006",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ただ、ここに不思議な<1>紋様<8>があるの。\nルー、見おぼえはないかしら？",
-  "en": ""
+  "en": "But there's a strange <1>crest<8> here.\nLou, does it look familiar?"
  },
  {
   "id": "IVENT25:0007",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ぜんぜん。\n紋様にしても月光族で使われているものじゃないわ。",
-  "en": ""
+  "en": "Nope.\nAnd it's not a crest the Moonlight Clan uses."
  },
  {
   "id": "IVENT25:0008",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "やっぱり火竜族のものじゃないの？",
-  "en": ""
+  "en": "Bet it's Fire Dragon Clan after all."
  },
  {
   "id": "IVENT25:0009",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "何にしても、私たちじゃわからないということね。",
-  "en": ""
+  "en": "Either way, it's beyond us."
  },
  {
   "id": "IVENT25:0010",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "……しかたないわ、上に戻りましょう。",
-  "en": ""
+  "en": "...It can't be helped. Let's go back up."
  },
  {
   "id": "IVENT25:0011",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "アルバイジャンに聞けば、\n何かわかるかもしれないわ。",
-  "en": ""
+  "en": "Albaijan might know\nsomething about it."
  },
  {
   "id": "IVENT25:0012",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……ふうん、開かないコンテナか。\nそりゃ難儀だな。",
-  "en": ""
+  "en": "...Hmm, a container that won't open.\nThat's a tough one."
  },
  {
   "id": "IVENT25:0013",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "なあセンセイ、その紋様のかたちはおぼえてるよな？",
-  "en": ""
+  "en": "Say, Sensei, you remember what that crest\nlooked like, right?"
  },
  {
   "id": "IVENT25:0014",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ええ、おおよその形でだけど。",
-  "en": ""
+  "en": "Yes, roughly, anyway."
  },
  {
   "id": "IVENT25:0015",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "よし、じゃあ、文献を調べてみるか。",
-  "en": ""
+  "en": "Alright, let's dig through the old texts."
  },
  {
   "id": "IVENT25:0016",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "センセイは俺に付きあってもらうぜ。",
-  "en": ""
+  "en": "Sensei, you're with me."
  },
  {
   "id": "IVENT25:0017",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "翔、おまえたちは休んでてくれ。\n時間もかかると思うしな。",
-  "en": ""
+  "en": "Shou, you guys take a break.\nThis'll probably take a while."
  },
  {
   "id": "IVENT25:0018",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "この町のクラブはおもしろいぜぇ！\nたまには骨休めも必要だぜ！\n行ってみな！",
-  "en": ""
+  "en": "The clubs in this town are a blast!\nEveryone needs to unwind now and then!\nGo check 'em out!"
  },
  {
   "id": "IVENT25:0019",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ちょっと、アルバイジャン？\n新見くんたちはまだ未成年なのよ、\nそんなとこ行かせないでよ！",
-  "en": ""
+  "en": "Wait a minute, Albaijan!\nNiimi-kun and the others are still minors.\nDon't send them to places like that!"
  },
  {
   "id": "IVENT25:0020",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "まぁ、そんなカタイ事言うなよ。\nたまにはいいじゃねぇかよ！",
-  "en": ""
+  "en": "Aw, don't be so uptight.\nA little fun now and then never hurt!"
  }
 ]

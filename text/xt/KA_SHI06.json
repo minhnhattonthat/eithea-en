@@ -4,21 +4,21 @@
   "kind": "msg",
   "speaker": "",
   "jp": "　火竜城１階東廊下奥",
-  "en": ""
+  "en": "Fire Dragon Castle - Floor 1 East Corridor End"
  },
  {
   "id": "KA_SHI06:0001",
   "kind": "msg",
   "speaker": "",
   "jp": "<1>斬龍破砕刀<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>Dragon Crusher Blade<8>!"
  },
  {
   "id": "KA_SHI06:0002",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "新見くん……",
-  "en": ""
+  "en": "Niimi-kun..."
  },
  {
   "id": "KA_SHI06:0003",
@@ -32,27 +32,27 @@
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "イムルって、いい人ですよね。\n明るくて、優しくて……\n新見くんも、そう思いませんか？",
-  "en": ""
+  "en": "Imul's a good person, isn't he?\nCheerful, and kind...\nDon't you think so too, Niimi-kun?"
  },
  {
   "id": "KA_SHI06:0005",
   "kind": "choice",
   "speaker": "",
   "jp": "　そうだな\n　いいや",
-  "en": ""
+  "en": "I guess so\nNot really"
  },
  {
   "id": "KA_SHI06:0006",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "ですよね！\n早く、お母さんを助けてあげたいですね。",
-  "en": ""
+  "en": "I knew it!\nI hope we can save his mother soon."
  },
  {
   "id": "KA_SHI06:0007",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "そうですか……？\nわたしは、そんなこと無いと思いますけど……",
-  "en": ""
+  "en": "You don't...?\nI don't think that's true, though..."
  }
 ]

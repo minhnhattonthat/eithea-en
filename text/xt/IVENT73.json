@@ -4,69 +4,69 @@
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ねえねえ、お兄ちゃん！",
-  "en": ""
+  "en": "Hey, hey, big brother~!"
  },
  {
   "id": "IVENT73:0001",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ハーミー、ここに入りたいの。\nいっしょに来てほしいの。",
-  "en": ""
+  "en": "Hermie wants to go in here.\nCome with me~."
  },
  {
   "id": "IVENT73:0002",
   "kind": "msg",
   "speaker": "翔",
   "jp": "エウリケの家に？\nなんでだい、ハーミー？",
-  "en": ""
+  "en": "Eurike's house?\nWhat for, Hermie?"
  },
  {
   "id": "IVENT73:0003",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "わかんないの！\nけど、行きたいの。\n行かなきゃダメなの！",
-  "en": ""
+  "en": "I dunno~!\nBut I wanna go.\nI have to go~!"
  },
  {
   "id": "IVENT73:0004",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そういわれてもなあ……\nどうしようか。",
-  "en": ""
+  "en": "Even if you say that...\nWhat should I do?"
  },
  {
   "id": "IVENT73:0005",
   "kind": "choice",
   "speaker": "",
   "jp": "　いっしょに行く\n　断る",
-  "en": ""
+  "en": "Go with her\nRefuse"
  },
  {
   "id": "IVENT73:0006",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "わあい！\n行くの！　行っくの！\nいっしょに行っくっの！",
-  "en": ""
+  "en": "Yaaay!\nWe're going! We're go-ing!\nWe're go-ing to-ge-ther~!"
  },
  {
   "id": "IVENT73:0007",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ぶうううう……\n行くの！いーくーのーっ！！",
-  "en": ""
+  "en": "Hmmmmph...\nI wanna go! I wan-na gooo~!!"
  },
  {
   "id": "IVENT73:0008",
   "kind": "msg",
   "speaker": "翔",
   "jp": "わ、わかったよハーミー。\nいっしょに行くよ………。",
-  "en": ""
+  "en": "O-Okay, Hermie.\nI'll go with you...."
  },
  {
   "id": "IVENT73:0009",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "わあい！\n行くの！　行っくの！\nいっしょに行っくっの！",
-  "en": ""
+  "en": "Yaaay!\nWe're going! We're go-ing!\nWe're go-ing to-ge-ther~!"
  }
 ]

@@ -4,7 +4,7 @@
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "新見くん、今、だいじょうぶ？",
-  "en": ""
+  "en": "Niimi-kun, do you have a moment?"
  },
  {
   "id": "K_CHI22H:0001",
@@ -18,105 +18,105 @@
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "これが終わったら、\nついにもとの世界に戻れるわね。",
-  "en": ""
+  "en": "Once this is over,\nwe can finally go back to our world."
  },
  {
   "id": "K_CHI22H:0003",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "でもね、少しだけだけど、\nアイシアに残りたいっていう気もあるのよ。",
-  "en": ""
+  "en": "But you know, just a little bit,\npart of me wants to stay in Eithéa."
  },
  {
   "id": "K_CHI22H:0004",
   "kind": "choice",
   "speaker": "",
   "jp": "　俺もです\n　早く帰りたい",
-  "en": ""
+  "en": "Me too\nI want to go home soon"
  },
  {
   "id": "K_CHI22H:0005",
   "kind": "msg",
   "speaker": "翔",
   "jp": "俺もですよ。\n帰りたくないってわけじゃないんです。",
-  "en": ""
+  "en": "Me too.\nIt's not that I don't want to go back."
  },
  {
   "id": "K_CHI22H:0006",
   "kind": "msg",
   "speaker": "翔",
   "jp": "でも、アイシアにいたいっていう気もあるんです。",
-  "en": ""
+  "en": "But part of me wants to stay in Eithéa, too."
  },
  {
   "id": "K_CHI22H:0007",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "私だけじゃなかったんだ。\nもしかしたら、松岡さんたちも同じかもね。",
-  "en": ""
+  "en": "So it's not just me. Maybe Matsuoka-san\nand the others feel the same way."
  },
  {
   "id": "K_CHI22H:0008",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "このままアイシアに残って、\nここの子供たちに勉強を教える毎日を送れたら……",
-  "en": ""
+  "en": "If I stayed here in Eithéa and spent my days\nteaching the children here..."
  },
  {
   "id": "K_CHI22H:0009",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "うふっ、それもいいかもね。",
-  "en": ""
+  "en": "Hehe, that might be nice too."
  },
  {
   "id": "K_CHI22H:0010",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ここに残るんだったら、\n新見くんに手伝ってもらおうかしら？",
-  "en": ""
+  "en": "If I do stay here,\nmaybe I'll have you help me out, Niimi-kun?"
  },
  {
   "id": "K_CHI22H:0011",
   "kind": "msg",
   "speaker": "翔",
   "jp": "俺は、早くもとの世界に帰りたいです。",
-  "en": ""
+  "en": "I want to get back to our world\nas soon as I can."
  },
  {
   "id": "K_CHI22H:0012",
   "kind": "msg",
   "speaker": "翔",
   "jp": "アイシアには……ツラいことが多すぎるんです。",
-  "en": ""
+  "en": "Eithéa just has... too much that hurts."
  },
  {
   "id": "K_CHI22H:0013",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "そうよね……ふつうはそうだものね。",
-  "en": ""
+  "en": "I suppose so...\nThat's how most people would feel."
  },
  {
   "id": "K_CHI22H:0014",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "もとの世界に帰って、前と同じように暮らしたい、\nそれがあたりまえよね。",
-  "en": ""
+  "en": "Going back to our world and living\nlike before--that's only natural, isn't it?"
  },
  {
   "id": "K_CHI22H:0015",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "おかしなこと言って、ごめんなさいね……",
-  "en": ""
+  "en": "I'm sorry for saying something so strange..."
  },
  {
   "id": "K_CHI22H:0016",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "翔、聞きたいことがあるの。",
-  "en": ""
+  "en": "Shou, there's something I want to ask you."
  },
  {
   "id": "K_CHI22H:0017",
@@ -130,98 +130,98 @@
   "kind": "msg",
   "speaker": "ルー",
   "jp": "シャイから聞いたんだけど、恋ってどういうこと？",
-  "en": ""
+  "en": "I heard it from Shai, but what's \"love\"?"
  },
  {
   "id": "K_CHI22H:0019",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "シャイが言ってたの。\nわたしは、学から教えてもらったって。",
-  "en": ""
+  "en": "Shai told me about it.\nShe said Manabu taught her."
  },
  {
   "id": "K_CHI22H:0020",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "……翔は知ってるの？",
-  "en": ""
+  "en": "...Do you know, Shou?"
  },
  {
   "id": "K_CHI22H:0021",
   "kind": "choice",
   "speaker": "",
   "jp": "　知っている\n　教えない",
-  "en": ""
+  "en": "I know\nNot telling"
  },
  {
   "id": "K_CHI22H:0022",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……ああ、知ってるよ。",
-  "en": ""
+  "en": "...Yeah, I know."
  },
  {
   "id": "K_CHI22H:0023",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "それってどういう感じ？\nわたし、知りたいの。",
-  "en": ""
+  "en": "What does it feel like?\nI want to know."
  },
  {
   "id": "K_CHI22H:0024",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そうすれば、今のわたしが感じてる気持ち、\nそれがわかる気がするから……",
-  "en": ""
+  "en": "Then I think I'd understand\nthis feeling I have right now..."
  },
  {
   "id": "K_CHI22H:0025",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "またあとでいいわ。\n恋ってどんな気分か、教えてくれる？",
-  "en": ""
+  "en": "Later's fine.\nWill you tell me what love feels like?"
  },
  {
   "id": "K_CHI22H:0026",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……知ってるけど、教えてやらない。",
-  "en": ""
+  "en": "...I know, but I'm not telling you."
  },
  {
   "id": "K_CHI22H:0027",
   "kind": "msg",
   "speaker": "翔",
   "jp": "恋はな、教えられるものじゃないんだ。",
-  "en": ""
+  "en": "Love isn't something someone can teach you."
  },
  {
   "id": "K_CHI22H:0028",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "……よくわかんないよ。\nもしかして、翔は知らないっていうこと？",
-  "en": ""
+  "en": "...I don't get it.\nWait, does that mean you don't know, Shou?"
  },
  {
   "id": "K_CHI22H:0029",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "なんか、がっかりだな……",
-  "en": ""
+  "en": "Man, what a letdown..."
  },
  {
   "id": "K_CHI22H:0030",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "しょうがないか。\nユカにでも聞いてみるよ。",
-  "en": ""
+  "en": "Oh well.\nI'll just go ask Yuka or something."
  },
  {
   "id": "K_CHI22H:0031",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ねえねえ、お兄ちゃん。",
-  "en": ""
+  "en": "Hey, hey, big brother."
  },
  {
   "id": "K_CHI22H:0032",
@@ -235,105 +235,105 @@
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "カイスイヨクって知ってる？\n秋穂たちがおもしろいって言ってたの。",
-  "en": ""
+  "en": "Do you know what a \"beach trip\" is?\nAkiho and the others said it's fun~."
  },
  {
   "id": "K_CHI22H:0034",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "お兄ちゃんは、好きなの？",
-  "en": ""
+  "en": "Do you like it, big brother?"
  },
  {
   "id": "K_CHI22H:0035",
   "kind": "choice",
   "speaker": "",
   "jp": "　大好きだよ\n　山のほうがいい",
-  "en": ""
+  "en": "I love it\nI prefer the mountains"
  },
  {
   "id": "K_CHI22H:0036",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ああ、海は好きだからな。",
-  "en": ""
+  "en": "Yeah, I like the ocean."
  },
  {
   "id": "K_CHI22H:0037",
   "kind": "msg",
   "speaker": "翔",
   "jp": "もとの世界にいたときには、けっこう行ってたよ。",
-  "en": ""
+  "en": "Back in our world, I went pretty often."
  },
  {
   "id": "K_CHI22H:0038",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ふう～ん、じゃあ、今度つれてくの！",
-  "en": ""
+  "en": "Hmmm~ Then take Hermie next time~!"
  },
  {
   "id": "K_CHI22H:0039",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ハーミー、カイスイヨクしたいの！",
-  "en": ""
+  "en": "Hermie wants to go on a beach trip~!"
  },
  {
   "id": "K_CHI22H:0040",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "秋穂が着てるっていう、ハイレグの水着を着たいの！",
-  "en": ""
+  "en": "Hermie wants to wear a high-cut swimsuit,\nlike the one Akiho says she wears~!"
  },
  {
   "id": "K_CHI22H:0041",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "……で、お兄ちゃん。\nハイレグってなんなの？",
-  "en": ""
+  "en": "...So, big brother.\nWhat's \"high-cut\"?"
  },
  {
   "id": "K_CHI22H:0042",
   "kind": "msg",
   "speaker": "翔",
   "jp": "俺は海よりも山のほうがいいな。",
-  "en": ""
+  "en": "I like the mountains better than the ocean."
  },
  {
   "id": "K_CHI22H:0043",
   "kind": "msg",
   "speaker": "翔",
   "jp": "休みになったら、いつもキャンプとか行ってたしな。",
-  "en": ""
+  "en": "On breaks, I always went camping and stuff."
  },
  {
   "id": "K_CHI22H:0044",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "山はいつも見てるからいいの。\nキャンプは今もしてるからいいの。\nだから、カイスイヨクがいいの。",
-  "en": ""
+  "en": "Hermie sees mountains all the time, so no.\nAnd we're camping right now, so no.\nSo Hermie wants a beach trip~."
  },
  {
   "id": "K_CHI22H:0045",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "何か知らないけど、それがいいのいいのい・い・の！",
-  "en": ""
+  "en": "Hermie doesn't know what it is, but she\nwants it! Wants it, wants it, w-a-n-t-s it~!"
  },
  {
   "id": "K_CHI22H:0046",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "連れてかないと、お兄ちゃんの好きな人、\nみんなにバラしちゃうぞ！",
-  "en": ""
+  "en": "If you don't take Hermie, she'll tell everyone\nwho you like, big brother!"
  },
  {
   "id": "K_CHI22H:0047",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ねえ、翔、今だいじょうぶ？",
-  "en": ""
+  "en": "Hey, Shou, got a sec?"
  },
  {
   "id": "K_CHI22H:0048",
@@ -347,112 +347,112 @@
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "アルバイジャンって、ちゃっかりしてるよね？",
-  "en": ""
+  "en": "Albaijan's pretty shrewd, huh?"
  },
  {
   "id": "K_CHI22H:0050",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "最後の戦いだっていうのに、\nまだ商売のこと考えてるんだもん。",
-  "en": ""
+  "en": "This is supposed to be the final battle,\nand he's still thinking about business."
  },
  {
   "id": "K_CHI22H:0051",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ああ、\nでもアルバイジャンっぽいって言えば、そうだよな。",
-  "en": ""
+  "en": "Yeah,\nbut I guess that's Albaijan for you."
  },
  {
   "id": "K_CHI22H:0052",
   "kind": "msg",
   "speaker": "翔",
   "jp": "いつでもどこでも、強引でマイペースで……",
-  "en": ""
+  "en": "Anytime, anywhere, pushy and doing things\nat his own pace..."
  },
  {
   "id": "K_CHI22H:0053",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……けど、\nそれぐらいに前向きなら、だいじょうぶだよね。",
-  "en": ""
+  "en": "...But hey,\nif he's that upbeat, we'll be okay, right?"
  },
  {
   "id": "K_CHI22H:0054",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "魔女たちを倒して、もとの世界に帰れるよね？",
-  "en": ""
+  "en": "We'll beat the Witches\nand get back to our world, right?"
  },
  {
   "id": "K_CHI22H:0055",
   "kind": "choice",
   "speaker": "",
   "jp": "　そのとおりだ\n　……保証はない",
-  "en": ""
+  "en": "That's right\n...No guarantees"
  },
  {
   "id": "K_CHI22H:0056",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ああ、そのとおりだ。",
-  "en": ""
+  "en": "Yeah, that's right."
  },
  {
   "id": "K_CHI22H:0057",
   "kind": "msg",
   "speaker": "翔",
   "jp": "魔女たちを倒して、\n俺たちはもとの世界に帰るんだ……！",
-  "en": ""
+  "en": "We'll beat the Witches,\nand we'll go back to our world...!"
  },
  {
   "id": "K_CHI22H:0058",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "翔が言うと、説得力あるね。\nやっぱり聞いてよかった……",
-  "en": ""
+  "en": "When you say it, it's really convincing.\nI'm glad I asked..."
  },
  {
   "id": "K_CHI22H:0059",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ありがと、翔。\n絶対にもとの世界に帰ろうね！",
-  "en": ""
+  "en": "Thanks, Shou.\nLet's get back to our world, no matter what!"
  },
  {
   "id": "K_CHI22H:0060",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……その保証はない。",
-  "en": ""
+  "en": "...There's no guarantee of that."
  },
  {
   "id": "K_CHI22H:0061",
   "kind": "msg",
   "speaker": "翔",
   "jp": "これから先、何があるかはわからないからな。",
-  "en": ""
+  "en": "We don't know what's going to happen\nfrom here on."
  },
  {
   "id": "K_CHI22H:0062",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……そうだよね。\nそれとこれとは関係ないもんね。",
-  "en": ""
+  "en": "...Yeah, I guess so.\nThat's a whole separate thing, huh."
  },
  {
   "id": "K_CHI22H:0063",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "翔、がんばろう。\n絶対にもとの世界に帰ろうね！",
-  "en": ""
+  "en": "Shou, let's give it our all.\nLet's get back to our world, no matter what!"
  },
  {
   "id": "K_CHI22H:0064",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "翔、ちょっといいかな？",
-  "en": ""
+  "en": "Shou, got a minute?"
  },
  {
   "id": "K_CHI22H:0065",
@@ -466,83 +466,83 @@
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ねえ、アイシアのこと、ほんとに好き？",
-  "en": ""
+  "en": "Hey... do you really like Eithéa?"
  },
  {
   "id": "K_CHI22H:0067",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "お願い、正直に答えて。",
-  "en": ""
+  "en": "Please, answer me honestly."
  },
  {
   "id": "K_CHI22H:0068",
   "kind": "choice",
   "speaker": "",
   "jp": "　好きだ\n　もとの世界のほうがいい",
-  "en": ""
+  "en": "I do\nI'd rather be in our world"
  },
  {
   "id": "K_CHI22H:0069",
   "kind": "msg",
   "speaker": "翔",
   "jp": "好きだよ。\n自分たちの世界と同じくらいにな。",
-  "en": ""
+  "en": "I like it.\nAs much as our own world."
  },
  {
   "id": "K_CHI22H:0070",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……どうしたんだ、いきなり？",
-  "en": ""
+  "en": "...Where's this coming from all of a sudden?"
  },
  {
   "id": "K_CHI22H:0071",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ごめんね、翔。\nちょっとだけ気になったの。",
-  "en": ""
+  "en": "Sorry, Shou.\nIt was just bugging me a little."
  },
  {
   "id": "K_CHI22H:0072",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ありがと。\n……安心したわ。",
-  "en": ""
+  "en": "Thanks.\n...That's a relief."
  },
  {
   "id": "K_CHI22H:0073",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……やっぱり、もとの世界のほうがいいな。",
-  "en": ""
+  "en": "...I'd still rather be in our world."
  },
  {
   "id": "K_CHI22H:0074",
   "kind": "msg",
   "speaker": "翔",
   "jp": "アイシアもいい世界だけど、やっぱり、な……",
-  "en": ""
+  "en": "Eithéa's a nice world too,\nbut still... you know..."
  },
  {
   "id": "K_CHI22H:0075",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そうだよね……\nもとの世界のほうがいいよね。",
-  "en": ""
+  "en": "Yeah...\nYour own world's better, huh."
  },
  {
   "id": "K_CHI22H:0076",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そのために、ここまで来てるんだものね……",
-  "en": ""
+  "en": "That's why you've come all this way,\nafter all..."
  },
  {
   "id": "K_CHI22H:0077",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "へんなこと聞いて、ごめんね。",
-  "en": ""
+  "en": "Sorry for asking something weird."
  }
 ]

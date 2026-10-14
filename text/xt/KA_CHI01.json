@@ -4,7 +4,7 @@
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ねえ、翔……",
-  "en": ""
+  "en": "Hey, Shou..."
  },
  {
   "id": "KA_CHI01:0001",
@@ -18,70 +18,70 @@
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "この世界ってさ、ドラゴンがいるんだよね。",
-  "en": ""
+  "en": "There are dragons in this world, right?"
  },
  {
   "id": "KA_CHI01:0003",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "私たち、\nあんなのと戦ったりするのかなぁ……？",
-  "en": ""
+  "en": "Do you think we'll end up\nfighting things like that...?"
  },
  {
   "id": "KA_CHI01:0004",
   "kind": "choice",
   "speaker": "",
   "jp": "　するかもな\n　それはないだろう",
-  "en": ""
+  "en": "Maybe we will\nNo way that'll happen"
  },
  {
   "id": "KA_CHI01:0005",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "もう！\nなんでそんなこというのよ！\n恐いじゃない！！",
-  "en": ""
+  "en": "Geez!\nWhy would you say that?!\nThat's scary!!"
  },
  {
   "id": "KA_CHI01:0006",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "もう……いいわよっ！\n知らないっ！！",
-  "en": ""
+  "en": "Geez... Fine!\nForget it!!"
  },
  {
   "id": "KA_CHI01:0007",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "そ、そうよね！\nあんなのと戦うなんて、ないよね……",
-  "en": ""
+  "en": "R-Right!\nNo way we'd fight something like that..."
  },
  {
   "id": "KA_CHI01:0008",
   "kind": "msg",
   "speaker": "翔",
   "jp": "恐いのか？",
-  "en": ""
+  "en": "You scared?"
  },
  {
   "id": "KA_CHI01:0009",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "そ、そんなことないわよ！\nでも、危ないと思わない？",
-  "en": ""
+  "en": "O-Of course not!\nBut don't you think it's dangerous?"
  },
  {
   "id": "KA_CHI01:0010",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "だって、ドラゴンなんだしさ……",
-  "en": ""
+  "en": "I mean, they're dragons..."
  },
  {
   "id": "KA_CHI01:0011",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "あの、新見くん……",
-  "en": ""
+  "en": "U-Um, Niimi-kun..."
  },
  {
   "id": "KA_CHI01:0012",
@@ -95,56 +95,56 @@
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "暗いですね……\n洞窟なんだから、当たり前なんだろうけど……",
-  "en": ""
+  "en": "It's dark, isn't it...\nI guess that's only natural in a cave, but..."
  },
  {
   "id": "KA_CHI01:0014",
   "kind": "msg",
   "speaker": "翔",
   "jp": "だいじょうぶか？",
-  "en": ""
+  "en": "You okay?"
  },
  {
   "id": "KA_CHI01:0015",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "ええ、だいじょうぶです……\n新見くんこそ、足下には気をつけてくださいね。",
-  "en": ""
+  "en": "Yes, I'm fine...\nYou should watch your step too, Niimi-kun."
  },
  {
   "id": "KA_CHI01:0016",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ああ、だいじょうぶだよ……\nうわっ！？",
-  "en": ""
+  "en": "Yeah, I'm fine...\nWhoa?!"
  },
  {
   "id": "KA_CHI01:0017",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "だ、だいじょうぶですか？",
-  "en": ""
+  "en": "A-Are you all right?"
  },
  {
   "id": "KA_CHI01:0018",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ああ、ちょっとつまずいただけさ。",
-  "en": ""
+  "en": "Yeah, I just tripped a little."
  },
  {
   "id": "KA_CHI01:0019",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "そうですか……よかった。",
-  "en": ""
+  "en": "I see... Thank goodness."
  },
  {
   "id": "KA_CHI01:0020",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "新見くん……\nちょっと、いいかしら？",
-  "en": ""
+  "en": "Niimi-kun...\nDo you have a moment?"
  },
  {
   "id": "KA_CHI01:0021",
@@ -158,56 +158,56 @@
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "最近、伊藤さんの様子が変わったようなんだけど……\nなにか知ってる？",
-  "en": ""
+  "en": "Itou-san seems to have changed lately...\nDo you know anything about it?"
  },
  {
   "id": "KA_CHI01:0023",
   "kind": "msg",
   "speaker": "翔",
   "jp": "変わった？",
-  "en": ""
+  "en": "Changed?"
  },
  {
   "id": "KA_CHI01:0024",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "なんだか、少し前向きになったっていうか……",
-  "en": ""
+  "en": "She seems a little more positive, somehow..."
  },
  {
   "id": "KA_CHI01:0025",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "以前より明るくなったような気がするのよ。\nなにか、あったのかしら？",
-  "en": ""
+  "en": "I feel like she's more cheerful than before.\nI wonder if something happened?"
  },
  {
   "id": "KA_CHI01:0026",
   "kind": "msg",
   "speaker": "翔",
   "jp": "さあ……？\nわかりません。",
-  "en": ""
+  "en": "Hmm...?\nI don't know."
  },
  {
   "id": "KA_CHI01:0027",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "そう……\nでも、よかったわ。",
-  "en": ""
+  "en": "I see...\nWell, it's a good thing, anyway."
  },
  {
   "id": "KA_CHI01:0028",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "こんな状況ですもの、\n前向きに進んでいかないとね。",
-  "en": ""
+  "en": "In a situation like this,\nwe have to keep moving forward."
  },
  {
   "id": "KA_CHI01:0029",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "新見くん……ちょっといいかしら？",
-  "en": ""
+  "en": "Niimi-kun... Do you have a moment?"
  },
  {
   "id": "KA_CHI01:0030",
@@ -221,111 +221,111 @@
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "教師として、\nこんなことを生徒に聞くのも問題だけれど……",
-  "en": ""
+  "en": "As a teacher, I probably shouldn't be asking\na student something like this, but..."
  },
  {
   "id": "KA_CHI01:0032",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "アルバイジャンを信用できなくなっているの……",
-  "en": ""
+  "en": "I'm starting to lose my trust in Albaijan..."
  },
  {
   "id": "KA_CHI01:0033",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "彼は、なにか重大なことを隠している気がするの。",
-  "en": ""
+  "en": "I feel like he's hiding something important."
  },
  {
   "id": "KA_CHI01:0034",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "新見くんは、どう思う？",
-  "en": ""
+  "en": "What do you think, Niimi-kun?"
  },
  {
   "id": "KA_CHI01:0035",
   "kind": "choice",
   "speaker": "",
   "jp": "　俺もそう思う\n　考えすぎですよ",
-  "en": ""
+  "en": "I think so too\nYou're overthinking it"
  },
  {
   "id": "KA_CHI01:0036",
   "kind": "msg",
   "speaker": "翔",
   "jp": "俺もそう思います。",
-  "en": ""
+  "en": "I think so too."
  },
  {
   "id": "KA_CHI01:0037",
   "kind": "msg",
   "speaker": "翔",
   "jp": "アルバイジャンは、\n何かを俺たちに隠してます……絶対に！",
-  "en": ""
+  "en": "Albaijan is hiding something\nfrom us... I'm sure of it!"
  },
  {
   "id": "KA_CHI01:0038",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "やっぱりね……でも\n今、彼を問いただすのは、\nやめたほうがいいと思うの。",
-  "en": ""
+  "en": "I knew it... But I don't think\nwe should question him about it\nright now."
  },
  {
   "id": "KA_CHI01:0039",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "この洞窟を抜けて、そしたら……新見くん、\nそのときは力を貸してね。",
-  "en": ""
+  "en": "Once we're through this cave... Niimi-kun,\nwhen the time comes, lend me your strength."
  },
  {
   "id": "KA_CHI01:0040",
   "kind": "msg",
   "speaker": "翔",
   "jp": "考えすぎですよ。",
-  "en": ""
+  "en": "You're overthinking it."
  },
  {
   "id": "KA_CHI01:0041",
   "kind": "msg",
   "speaker": "翔",
   "jp": "アルバイジャンに限って、\nそんなことはないと思いますよ。",
-  "en": ""
+  "en": "Albaijan's not the type.\nI don't think he'd do anything like that."
  },
  {
   "id": "KA_CHI01:0042",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "……前にも似たようなセリフを言わなかったかしら？",
-  "en": ""
+  "en": "...Haven't you said something like that\nbefore?"
  },
  {
   "id": "KA_CHI01:0043",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ほんとうに、\n私の考えすぎだったらいいんだけれど……",
-  "en": ""
+  "en": "I really do hope\nI'm just overthinking it..."
  },
  {
   "id": "KA_CHI01:0044",
   "kind": "msg",
   "speaker": "翔",
   "jp": "レバーがあるぞ！？",
-  "en": ""
+  "en": "There's a lever?!"
  },
  {
   "id": "KA_CHI01:0045",
   "kind": "choice",
   "speaker": "",
   "jp": "　動かしてみる\n　やめる",
-  "en": ""
+  "en": "Try pulling it\nLeave it"
  },
  {
   "id": "KA_CHI01:0046",
   "kind": "msg",
   "speaker": "翔",
   "jp": "<1>特効薬<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>Wonder Drug<8>!"
  }
 ]

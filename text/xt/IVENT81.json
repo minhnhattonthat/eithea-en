@@ -4,76 +4,76 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "あれは………、ルーじゃないか？",
-  "en": ""
+  "en": "Is that... Lou?"
  },
  {
   "id": "IVENT81:0001",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ルー、どうしたんだ？",
-  "en": ""
+  "en": "Lou, what's wrong?"
  },
  {
   "id": "IVENT81:0002",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "……うん、いいんだ。\n翔、あのさ……",
-  "en": ""
+  "en": "...Yeah, it's fine.\nShou, listen..."
  },
  {
   "id": "IVENT81:0003",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ああ、そうだ。\nルーにも言わなくちゃな。",
-  "en": ""
+  "en": "Oh, right.\nI need to tell you too, Lou."
  },
  {
   "id": "IVENT81:0004",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……決めたんだ。\n俺たち、魔女を倒しに行く。\nルーはどうする？",
-  "en": ""
+  "en": "...We've decided.\nWe're going to defeat the Witch.\nWhat about you, Lou?"
  },
  {
   "id": "IVENT81:0005",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "……行くよ。\nアイシアを救いたいし、\nわたしは月光族の戦士だもの……",
-  "en": ""
+  "en": "...I'm going.\nI want to save Eithéa,\nand I'm a Moonlight Clan warrior..."
  },
  {
   "id": "IVENT81:0006",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ありがとう、ルー<8>。\nがんばろうぜ……ん？\n……どうしたんだ、ルー<8>？",
-  "en": ""
+  "en": "Thanks, Lou<8>.\nLet's do our best... Hm?\n...What's wrong, Lou<8>?"
  },
  {
   "id": "IVENT81:0007",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "………………ううん。\n………なんでも………",
-  "en": ""
+  "en": "......No.\n...It's nothing......"
  },
  {
   "id": "IVENT81:0008",
   "kind": "msg",
   "speaker": "翔",
   "jp": "震えてるじゃないか。\n身体の具合でも悪いのか？",
-  "en": ""
+  "en": "You're shaking.\nAre you feeling sick?"
  },
  {
   "id": "IVENT81:0009",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "……………………！",
-  "en": ""
+  "en": "......!"
  },
  {
   "id": "IVENT81:0010",
   "kind": "msg",
   "speaker": "翔",
   "jp": "どうしたんだ？\n……泣いてたのか？",
-  "en": ""
+  "en": "What's wrong?\n...Were you crying?"
  }
 ]

@@ -4,7 +4,7 @@
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ねえ、翔……",
-  "en": ""
+  "en": "Hey, Shou..."
  },
  {
   "id": "KA_CHI03:0001",
@@ -18,35 +18,35 @@
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ルーってさ、どう思う？",
-  "en": ""
+  "en": "What do you think of Lou?"
  },
  {
   "id": "KA_CHI03:0003",
   "kind": "msg",
   "speaker": "翔",
   "jp": "？\nそりゃあ、大切な仲間だと思ってるけど？",
-  "en": ""
+  "en": "?\nWell, she's an important friend. Why?"
  },
  {
   "id": "KA_CHI03:0004",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "そ、そうだよね。",
-  "en": ""
+  "en": "R-Right, of course."
  },
  {
   "id": "KA_CHI03:0005",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "仲間、だよね……\nごめんね、ヘンなこと聞いちゃって。\nそれじゃ……",
-  "en": ""
+  "en": "A friend, huh...\nSorry for asking something weird.\nWell, see you..."
  },
  {
   "id": "KA_CHI03:0006",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "翔、翔！",
-  "en": ""
+  "en": "Shou, Shou!"
  },
  {
   "id": "KA_CHI03:0007",
@@ -60,14 +60,14 @@
   "kind": "msg",
   "speaker": "ルー",
   "jp": "まわりに気をつけてね。\nいつ、どこから火竜族がくるか\nわかんないんだから……！",
-  "en": ""
+  "en": "Keep an eye out around you.\nThe Fire Dragon Clan could show up\nanytime, from anywhere...!"
  },
  {
   "id": "KA_CHI03:0009",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "翔……いいかな？",
-  "en": ""
+  "en": "Shou... Got a sec?"
  },
  {
   "id": "KA_CHI03:0010",
@@ -81,70 +81,70 @@
   "kind": "msg",
   "speaker": "ルー",
   "jp": "この前の夜は……ありがと。\n翔と話したら、すごく楽になったよ。",
-  "en": ""
+  "en": "Thanks for the other night...\nTalking with you made me feel way better."
  },
  {
   "id": "KA_CHI03:0012",
   "kind": "msg",
   "speaker": "翔",
   "jp": "礼なんて言うなよ。\nただ、話をしただけじゃないか。",
-  "en": ""
+  "en": "Don't thank me.\nAll we did was talk."
  },
  {
   "id": "KA_CHI03:0013",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "あのさ……また、つきあってくれる？",
-  "en": ""
+  "en": "Hey... Will you hang out with me again?"
  },
  {
   "id": "KA_CHI03:0014",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "もっと、翔と話したいんだ。\nアイシアのこと……",
-  "en": ""
+  "en": "I wanna talk with you more, Shou.\nAbout Eithéa..."
  },
  {
   "id": "KA_CHI03:0015",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "翔の世界のこと……いいよね？",
-  "en": ""
+  "en": "About your world... Okay?"
  },
  {
   "id": "KA_CHI03:0016",
   "kind": "msg",
   "speaker": "翔",
   "jp": "それぐらいだったら、いつでもいいさ。",
-  "en": ""
+  "en": "If that's all, anytime's fine."
  },
  {
   "id": "KA_CHI03:0017",
   "kind": "msg",
   "speaker": "翔",
   "jp": "キャンプしてるときにでも声をかけろよ。",
-  "en": ""
+  "en": "Just call me over when we're camping or so."
  },
  {
   "id": "KA_CHI03:0018",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ほんとッ！？　やったあ！　ありがと、翔！",
-  "en": ""
+  "en": "Really?! Yay! Thanks, Shou!"
  },
  {
   "id": "KA_CHI03:0019",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ヤだって言っても、もうダメだよ！\n約束したからね！",
-  "en": ""
+  "en": "No backing out now, even if you want to!\nYou promised!"
  },
  {
   "id": "KA_CHI03:0020",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ねえ、翔……",
-  "en": ""
+  "en": "Hey, Shou..."
  },
  {
   "id": "KA_CHI03:0021",
@@ -158,84 +158,84 @@
   "kind": "msg",
   "speaker": "ルー",
   "jp": "最近さ、ユカの様子がヘンなんだ。",
-  "en": ""
+  "en": "Yuka's been acting weird lately."
  },
  {
   "id": "KA_CHI03:0023",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ヘン？",
-  "en": ""
+  "en": "Weird?"
  },
  {
   "id": "KA_CHI03:0024",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "うん……\nなんだか、嫌われてるみたいでさ。",
-  "en": ""
+  "en": "Yeah...\nIt's like she hates me or something."
  },
  {
   "id": "KA_CHI03:0025",
   "kind": "msg",
   "speaker": "翔",
   "jp": "嫌われてるって、\n前からしょっちゅうケンカしてるじゃないか。",
-  "en": ""
+  "en": "Hates you? You two have been fighting\nall the time since day one."
  },
  {
   "id": "KA_CHI03:0026",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そんなんじゃないの。\nさけられてるって言うのかな……",
-  "en": ""
+  "en": "It's not like that.\nMore like she's avoiding me, I guess..."
  },
  {
   "id": "KA_CHI03:0027",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "とにかく、ヘンなんだ。\n翔は心当たりある？",
-  "en": ""
+  "en": "Anyway, it's weird.\nDo you have any idea why, Shou?"
  },
  {
   "id": "KA_CHI03:0028",
   "kind": "msg",
   "speaker": "翔",
   "jp": "いや、ないよ。",
-  "en": ""
+  "en": "No, not really."
  },
  {
   "id": "KA_CHI03:0029",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そうなんだ。\nそれじゃあ、いいよ……",
-  "en": ""
+  "en": "I see.\nNever mind, then..."
  },
  {
   "id": "KA_CHI03:0030",
   "kind": "msg",
   "speaker": "翔",
   "jp": "レバーがあるぞ！？",
-  "en": ""
+  "en": "There's a lever?!"
  },
  {
   "id": "KA_CHI03:0031",
   "kind": "choice",
   "speaker": "",
   "jp": "　動かしてみる\n　やめる",
-  "en": ""
+  "en": "Try pulling it\nLeave it"
  },
  {
   "id": "KA_CHI03:0032",
   "kind": "msg",
   "speaker": "翔",
   "jp": "<1>特効薬<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>Wonder Drug<8>!"
  },
  {
   "id": "KA_CHI03:0033",
   "kind": "choice",
   "speaker": "",
   "jp": "　キャンプで休む\n　セーブする\n　休まない",
-  "en": ""
+  "en": "Rest at camp\nSave\nDon't rest"
  },
  {
   "id": "KA_CHI03:0034",

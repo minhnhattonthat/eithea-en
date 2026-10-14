@@ -4,237 +4,237 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "ここはクラブなのか？",
-  "en": ""
+  "en": "Is this a club?"
  },
  {
   "id": "KA_CLUB:0001",
   "kind": "msg",
   "speaker": "翔",
   "jp": "けっこう騒々しいな。\n伊藤さんは<10>…<10>…いないみたいだな。",
-  "en": ""
+  "en": "It's pretty noisy.\nItou-san's<10>.<10>.<10>. not here, looks like."
  },
  {
   "id": "KA_CLUB:0002",
   "kind": "msg",
   "speaker": "翔",
   "jp": "考えてみれば、\nあの子がこんなところに来るはずはないか。",
-  "en": ""
+  "en": "Come to think of it,\nshe'd never come to a place like this."
  },
  {
   "id": "KA_CLUB:0003",
   "kind": "msg",
   "speaker": "翔",
   "jp": "けっこう騒々しいな。\n伊藤さんは<10>…<10>…いないみたいだな。",
-  "en": ""
+  "en": "It's pretty noisy.\nItou-san's<10>.<10>.<10>. not here, looks like."
  },
  {
   "id": "KA_CLUB:0004",
   "kind": "msg",
   "speaker": "火竜族の青年",
   "jp": "あれ？\nおまえ、このあいだここの前で\nもめてたヤツじゃないか？",
-  "en": ""
+  "en": "Hey?\nAren't you the guy who was making a scene\nout front here the other day?"
  },
  {
   "id": "KA_CLUB:0005",
   "kind": "msg",
   "speaker": "翔",
   "jp": "？？",
-  "en": ""
+  "en": "??"
  },
  {
   "id": "KA_CLUB:0006",
   "kind": "msg",
   "speaker": "火竜族の青年",
   "jp": "ほら、かわいい女の子を取りあって\nケンカしてたじゃないか！",
-  "en": ""
+  "en": "You know, you were fighting over\nsome cute girl!"
  },
  {
   "id": "KA_CLUB:0007",
   "kind": "msg",
   "speaker": "火竜族の青年",
   "jp": "そうそう、そういえばさっき\nあの女の子を見かけたぜ。",
-  "en": ""
+  "en": "Oh yeah, come to think of it, I saw\nthat girl just a little while ago."
  },
  {
   "id": "KA_CLUB:0008",
   "kind": "msg",
   "speaker": "火竜族の青年",
   "jp": "うーんと、確か\nアンティークショップの前だったかな？",
-  "en": ""
+  "en": "Lemme think... I'm pretty sure it was\nin front of the antique shop?"
  },
  {
   "id": "KA_CLUB:0009",
   "kind": "msg",
   "speaker": "火竜族の青年",
   "jp": "やっぱりかわいかったなぁ！\nなぁ、紹介してくれよ！\nいいだろ？",
-  "en": ""
+  "en": "She was just as cute as ever!\nHey, introduce me to her!\nC'mon, please?"
  },
  {
   "id": "KA_CLUB:0010",
   "kind": "msg",
   "speaker": "翔",
   "jp": "…………",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "KA_CLUB:0011",
   "kind": "msg",
   "speaker": "翔",
   "jp": "伊藤さん、落ち込んでいたからな。\nどうしてるかな……",
-  "en": ""
+  "en": "Itou-san was pretty down.\nI wonder how she's doing..."
  },
  {
   "id": "KA_CLUB:0012",
   "kind": "msg",
   "speaker": "翔",
   "jp": "（あいかわらずやかましいな。\nけど、気晴らしにはいいか）",
-  "en": ""
+  "en": "(Noisy as ever.\nStill, it's a good way to unwind.)"
  },
  {
   "id": "KA_CLUB:0013",
   "kind": "msg",
   "speaker": "翔",
   "jp": "すこし、話を聞いてみるか？",
-  "en": ""
+  "en": "Maybe I'll see what people are talking about."
  },
  {
   "id": "KA_CLUB:0014",
   "kind": "choice",
   "speaker": "",
   "jp": "　火竜族の青年に話しかける\n　月光族の少女に話しかける\n　立ち去る",
-  "en": ""
+  "en": "Talk to the Fire Dragon Clan youth\nTalk to the Moonlight Clan girl\nLeave"
  },
  {
   "id": "KA_CLUB:0015",
   "kind": "msg",
   "speaker": "翔",
   "jp": "（やかましいところだな。\nけど、気晴らしにはいいか）",
-  "en": ""
+  "en": "(What a noisy place.\nStill, it's a good way to unwind.)"
  },
  {
   "id": "KA_CLUB:0016",
   "kind": "msg",
   "speaker": "翔",
   "jp": "すこし、話を聞いてみるか？",
-  "en": ""
+  "en": "Maybe I'll see what people are talking about."
  },
  {
   "id": "KA_CLUB:0017",
   "kind": "choice",
   "speaker": "",
   "jp": "　火竜族の青年に話しかける\n　月光族の少女に話しかける\n　立ち去る",
-  "en": ""
+  "en": "Talk to the Fire Dragon Clan youth\nTalk to the Moonlight Clan girl\nLeave"
  },
  {
   "id": "KA_CLUB:0018",
   "kind": "msg",
   "speaker": "火竜族の青年",
   "jp": "ああ、なんか噂なんだけどな。",
-  "en": ""
+  "en": "Yeah, there's this rumor goin' around."
  },
  {
   "id": "KA_CLUB:0019",
   "kind": "msg",
   "speaker": "火竜族の青年",
   "jp": "ユーロリアの火竜族のヤツらが、\nここに忍び込んでるらしいぜ。",
-  "en": ""
+  "en": "Word is some Fire Dragon Clan guys\nfrom Eurolia have snuck in here."
  },
  {
   "id": "KA_CLUB:0020",
   "kind": "msg",
   "speaker": "火竜族の青年",
   "jp": "あいつらはとにかく\n物騒なヤツららしいんだ。",
-  "en": ""
+  "en": "I hear those guys are\nseriously dangerous."
  },
  {
   "id": "KA_CLUB:0021",
   "kind": "msg",
   "speaker": "火竜族の青年",
   "jp": "ここで騒ぎでも起こされたら、\nたまんねえよ。",
-  "en": ""
+  "en": "If they start trouble in here,\nI'm not gonna put up with it."
  },
  {
   "id": "KA_CLUB:0022",
   "kind": "msg",
   "speaker": "火竜族の青年",
   "jp": "ま、最近の警備は厳重だからな。",
-  "en": ""
+  "en": "Well, security's been tight lately."
  },
  {
   "id": "KA_CLUB:0023",
   "kind": "msg",
   "speaker": "火竜族の青年",
   "jp": "はいろうったって、\n無理だとは思うけどよ。",
-  "en": ""
+  "en": "Even if they tried to get in,\nI doubt they'd make it."
  },
  {
   "id": "KA_CLUB:0024",
   "kind": "msg",
   "speaker": "月光族の少女",
   "jp": "あたしね、イオピロスを飛び出てきたの。",
-  "en": ""
+  "en": "Y'know, I ran away from Iopiros."
  },
  {
   "id": "KA_CLUB:0025",
   "kind": "msg",
   "speaker": "月光族の少女",
   "jp": "村の規則がイヤでイヤでしょうがなくてさあ。",
-  "en": ""
+  "en": "I just couldn't stand the village\nrules anymore."
  },
  {
   "id": "KA_CLUB:0026",
   "kind": "msg",
   "speaker": "月光族の少女",
   "jp": "なにかにつけてオキテだの規則だの……",
-  "en": ""
+  "en": "It's always \"the Law\" this,\n\"the rules\" that..."
  },
  {
   "id": "KA_CLUB:0027",
   "kind": "msg",
   "speaker": "月光族の少女",
   "jp": "今の時代、そんな考え方はふるいんだって！",
-  "en": ""
+  "en": "That kind of thinking is so old-fashioned now!"
  },
  {
   "id": "KA_CLUB:0028",
   "kind": "msg",
   "speaker": "月光族の少女",
   "jp": "部族とか生まれた場所は関係ないよ。",
-  "en": ""
+  "en": "Your tribe or where you were born\ndoesn't matter."
  },
  {
   "id": "KA_CLUB:0029",
   "kind": "msg",
   "speaker": "月光族の少女",
   "jp": "好きなところに行って、好きな人と暮らすの。",
-  "en": ""
+  "en": "Go wherever you like,\nlive with whoever you like."
  },
  {
   "id": "KA_CLUB:0030",
   "kind": "msg",
   "speaker": "月光族の少女",
   "jp": "あたし、自由に生きたいんだ。",
-  "en": ""
+  "en": "I wanna live free."
  },
  {
   "id": "KA_CLUB:0031",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そろそろ帰るか……\n今度はみんなで来てみようかな。",
-  "en": ""
+  "en": "Guess I'll head back...\nMaybe next time I'll come with everyone."
  },
  {
   "id": "KA_CLUB:0032",
   "kind": "msg",
   "speaker": "翔",
   "jp": "さてと、\n今度は誰と話そうかな……？",
-  "en": ""
+  "en": "All right,\nwho should I talk to next...?"
  },
  {
   "id": "KA_CLUB:0033",
   "kind": "msg",
   "speaker": "翔",
   "jp": "（一度、アルバイジャンの家に戻ってみるか……\nもしかしたら、伊藤さんが\n見つかってるかもしれないからな）",
-  "en": ""
+  "en": "(Maybe I should stop by Albaijan's house...\nThere's a chance someone's found\nItou-san by now.)"
  }
 ]

@@ -4,174 +4,174 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "ユカ、まだ起きていたのか？\nもう寝たほうがいいぞ。",
-  "en": ""
+  "en": "Yuka, you're still up?\nYou should get to bed."
  },
  {
   "id": "IVENTC03:0001",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……あ、翔……",
-  "en": ""
+  "en": "...Oh, Shou..."
  },
  {
   "id": "IVENTC03:0002",
   "kind": "msg",
   "speaker": "翔",
   "jp": "元気ないな。\nどうしたんだ？",
-  "en": ""
+  "en": "You seem down.\nWhat's wrong?"
  },
  {
   "id": "IVENTC03:0003",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……え、そうかな。\nいいこと、あったんだけどなあ……",
-  "en": ""
+  "en": "...Huh, do I?\nSomething good happened, though..."
  },
  {
   "id": "IVENTC03:0004",
   "kind": "msg",
   "speaker": "翔",
   "jp": "いいこと？",
-  "en": ""
+  "en": "Something good?"
  },
  {
   "id": "IVENTC03:0005",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "うん、そうだよ。",
-  "en": ""
+  "en": "Yeah, that's right."
  },
  {
   "id": "IVENTC03:0006",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……アルバイジャンのことでさ、\n落ち込んでたでしょ？",
-  "en": ""
+  "en": "...You were down in the dumps\nabout Albaijan, right?"
  },
  {
   "id": "IVENTC03:0007",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "あのとき、ルーが励ましてくれたよね。",
-  "en": ""
+  "en": "And Lou cheered you up back then."
  },
  {
   "id": "IVENTC03:0008",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……私、うれしかった……",
-  "en": ""
+  "en": "...I was happy..."
  },
  {
   "id": "IVENTC03:0009",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "すごく……すごく、うれしかったんだ……",
-  "en": ""
+  "en": "Really... really happy..."
  },
  {
   "id": "IVENTC03:0010",
   "kind": "msg",
   "speaker": "翔",
   "jp": "じゃあ、なんで元気ないんだ？",
-  "en": ""
+  "en": "Then why are you so down?"
  },
  {
   "id": "IVENTC03:0011",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……わかんない。\n……けど、なんでだろ？",
-  "en": ""
+  "en": "...I don't know.\n...But why is that?"
  },
  {
   "id": "IVENTC03:0012",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "急にさびしくなってきちゃって……",
-  "en": ""
+  "en": "I just suddenly got lonely..."
  },
  {
   "id": "IVENTC03:0013",
   "kind": "msg",
   "speaker": "翔",
   "jp": "…………",
-  "en": ""
+  "en": "........."
  },
  {
   "id": "IVENTC03:0014",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……アイシアはきれいなとこだよ。",
-  "en": ""
+  "en": "...Eithéa's a beautiful place."
  },
  {
   "id": "IVENTC03:0015",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ジャームがいること以外、すごく楽しいし。",
-  "en": ""
+  "en": "Aside from the Germs, it's really fun."
  },
  {
   "id": "IVENTC03:0016",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "それに、翔<8>といっしょにいられるし……",
-  "en": ""
+  "en": "And I get to be with Shou<8>..."
  },
  {
   "id": "IVENTC03:0017",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……でも、ダメなの……さびしいの。\nもとの世界に帰りたいの……！",
-  "en": ""
+  "en": "...But it's no good... I'm lonely.\nI want to go back to our world...!"
  },
  {
   "id": "IVENTC03:0018",
   "kind": "msg",
   "speaker": "翔",
   "jp": "だいじょうぶだって。\nもとの世界には帰れる――え……？",
-  "en": ""
+  "en": "It'll be fine.\nWe'll get back to our world-- Huh...?"
  },
  {
   "id": "IVENTC03:0019",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……ごめん……少しだけ……\n少しだけ、いいよね……？",
-  "en": ""
+  "en": "...Sorry... Just for a little...\nJust for a little while, okay...?"
  },
  {
   "id": "IVENTC03:0020",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……ユカ<8>……",
-  "en": ""
+  "en": "...Yuka<8>..."
  },
  {
   "id": "IVENTC03:0021",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……こうしてると、落ちつくの……",
-  "en": ""
+  "en": "...Being like this calms me down..."
  },
  {
   "id": "IVENTC03:0022",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ごめんね、翔<8>……ごめんね……。",
-  "en": ""
+  "en": "I'm sorry, Shou<8>... I'm sorry..."
  },
  {
   "id": "IVENTC03:0023",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "がんばるから……明日からがんばるから……",
-  "en": ""
+  "en": "I'll try hard...\nStarting tomorrow, I'll try hard..."
  },
  {
   "id": "IVENTC03:0024",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "だから、今だけ、こうさせて……",
-  "en": ""
+  "en": "So just for now, let me stay like this..."
  }
 ]

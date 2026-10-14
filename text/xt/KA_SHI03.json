@@ -4,14 +4,14 @@
   "kind": "msg",
   "speaker": "",
   "jp": "　火竜城　１階東廊下",
-  "en": ""
+  "en": "Fire Dragon Castle - Floor 1 East Corridor"
  },
  {
   "id": "KA_SHI03:0001",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ねえ、翔。",
-  "en": ""
+  "en": "Hey, Shou."
  },
  {
   "id": "KA_SHI03:0002",
@@ -25,56 +25,56 @@
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "まさか、本当にドラゴンと\n戦うことになるって思わなかったよね。",
-  "en": ""
+  "en": "I never thought we'd actually end up\nfighting a dragon, did you?"
  },
  {
   "id": "KA_SHI03:0004",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "でも、だいじょうぶだよね！　楽勝だよね！",
-  "en": ""
+  "en": "But we'll be fine, right? It'll be a breeze!"
  },
  {
   "id": "KA_SHI03:0005",
   "kind": "choice",
   "speaker": "",
   "jp": "　そうだな\n　まだ油断はできない",
-  "en": ""
+  "en": "I guess so\nWe can't let our guard down yet"
  },
  {
   "id": "KA_SHI03:0006",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "でしょ？",
-  "en": ""
+  "en": "Right?"
  },
  {
   "id": "KA_SHI03:0007",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "これなら女王たちを助けるのも、\nカンタンにいきそうだね！",
-  "en": ""
+  "en": "At this rate, rescuing the Queen and the\nothers should be easy, too!"
  },
  {
   "id": "KA_SHI03:0008",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "そ、そうだよね……\nまだ、油断はできないよね。",
-  "en": ""
+  "en": "R-Right...\nWe can't let our guard down yet."
  },
  {
   "id": "KA_SHI03:0009",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "もっと強い奴が、\nこの奥にいるのかもしれないし……",
-  "en": ""
+  "en": "There might be someone even stronger\nfurther inside..."
  },
  {
   "id": "KA_SHI03:0010",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ねえ、翔！",
-  "en": ""
+  "en": "Hey, Shou!"
  },
  {
   "id": "KA_SHI03:0011",
@@ -88,35 +88,35 @@
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "イムルってさ、\n話し方のギャップが激しいよね。",
-  "en": ""
+  "en": "You know, the way Imul talks\nflips around like crazy, huh?"
  },
  {
   "id": "KA_SHI03:0013",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "あのヘンテコな\nしゃべり方が、もともとなのかな？",
-  "en": ""
+  "en": "Is that weird way of talking\nhow he really is?"
  },
  {
   "id": "KA_SHI03:0014",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そうじゃないのか？",
-  "en": ""
+  "en": "Isn't it?"
  },
  {
   "id": "KA_SHI03:0015",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "だったらヤダなあ……\n王族ってみんな、あんな\nしゃべり方をするのかなあ？",
-  "en": ""
+  "en": "Ugh, I'd hate that...\nDo all royals\ntalk like that?"
  },
  {
   "id": "KA_SHI03:0016",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "新見くん。",
-  "en": ""
+  "en": "Niimi-kun."
  },
  {
   "id": "KA_SHI03:0017",
@@ -130,28 +130,28 @@
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "まったく、革命だなんて……\n暴力による解決なんて最低の手段なのに……",
-  "en": ""
+  "en": "Honestly, a revolution...\nResorting to violence is the lowest way\nto settle anything..."
  },
  {
   "id": "KA_SHI03:0019",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "世界はちがっても、\n人のやることはいっしょなのね。",
-  "en": ""
+  "en": "Even in a different world,\npeople do the same things, don't they?"
  },
  {
   "id": "KA_SHI03:0020",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "新見くん、あなたは\nそんな大人になっちゃだめよ。",
-  "en": ""
+  "en": "Niimi-kun, don't you ever\ngrow up into that kind of adult."
  },
  {
   "id": "KA_SHI03:0021",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ねえ、翔………",
-  "en": ""
+  "en": "Hey, Shou..."
  },
  {
   "id": "KA_SHI03:0022",
@@ -165,27 +165,27 @@
   "kind": "msg",
   "speaker": "ルー",
   "jp": "荒れ放題ね………\nこれが火竜族の本性ってことなのかな………",
-  "en": ""
+  "en": "What a wreck...\nSo is this the Fire Dragon Clan's\ntrue nature...?"
  },
  {
   "id": "KA_SHI03:0024",
   "kind": "choice",
   "speaker": "",
   "jp": "　そうだな\n　それはちがう",
-  "en": ""
+  "en": "I guess so\nThat's not true"
  },
  {
   "id": "KA_SHI03:0025",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そうなのかな………\nわたしにはもうわからなくなってきちゃった………",
-  "en": ""
+  "en": "Is it...?\nI just can't tell anymore..."
  },
  {
   "id": "KA_SHI03:0026",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そうなのかな………\nわたしにはもうわからなくなってきちゃった………",
-  "en": ""
+  "en": "Is it...?\nI just can't tell anymore..."
  }
 ]

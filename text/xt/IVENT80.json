@@ -4,1007 +4,1007 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ん？ルーはどうした？\n………まあいい、先にはじめるか。",
-  "en": ""
+  "en": "Hm? Where's Lou?\n...Whatever. Let's get started."
  },
  {
   "id": "IVENT80:0001",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……行くしかねえよな。\nカーライルへ……",
-  "en": ""
+  "en": "...Ain't got a choice but to go.\nTo Carlyle..."
  },
  {
   "id": "IVENT80:0002",
   "kind": "msg",
   "speaker": "翔",
   "jp": "どう考えてもワナだ。\nアルバイジャン、死にに行くようなものだぞ。",
-  "en": ""
+  "en": "Any way you look at it, it's a trap.\nAlbaijan, it'd be like walking to your death."
  },
  {
   "id": "IVENT80:0003",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "だがな、それでも行くしかねえんだよ。",
-  "en": ""
+  "en": "Even so, we ain't got a choice but to go."
  },
  {
   "id": "IVENT80:0004",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "レディがよみがえれば、アイシア<8>は破滅だ……",
-  "en": ""
+  "en": "If Lady comes back, it's the end of Eithéa<8>..."
  },
  {
   "id": "IVENT80:0005",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "その前に、あいつらを倒さねえと……！",
-  "en": ""
+  "en": "We gotta take 'em down before that...!"
  },
  {
   "id": "IVENT80:0006",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "じゃあ、復活させる前に、レディを倒しちゃおうよ。",
-  "en": ""
+  "en": "Then let's beat Lady before she gets revived."
  },
  {
   "id": "IVENT80:0007",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "簡単に言ってくれるな。\nプラダたちがそうさせてくれると思うか？",
-  "en": ""
+  "en": "Easy for you to say.\nYou think Prada and the rest'll let us?"
  },
  {
   "id": "IVENT80:0008",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "それに、あのマユにはどんな攻撃も通じねえんだ。",
-  "en": ""
+  "en": "Besides, no attack works on that cocoon."
  },
  {
   "id": "IVENT80:0009",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "ということは、レディを復活させる前に、\nプラダを倒さないといけない。\nそういうことですね……",
-  "en": ""
+  "en": "Which means, before Lady is revived,\nwe have to defeat Prada.\nThat's what it comes down to..."
  },
  {
   "id": "IVENT80:0010",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ご名答。\nだが、それが問題なんだ。",
-  "en": ""
+  "en": "Bingo.\nBut that's the problem."
  },
  {
   "id": "IVENT80:0011",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "魔女たちは不死身に近い肉体を持ってやがる。\n傷を受けても、いや心臓が止まっても、\nしばらくすりゃ再生しやがるんだ。",
-  "en": ""
+  "en": "The witches got near-immortal bodies.\nWound 'em--hell, even stop their hearts--\ngive it a while, and they regenerate."
  },
  {
   "id": "IVENT80:0012",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "そ、それじゃあミュウは……",
-  "en": ""
+  "en": "Th-Then Myu is..."
  },
  {
   "id": "IVENT80:0013",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "まだ生きてる。\n再生すりゃあ、また襲ってくるだろうぜ。",
-  "en": ""
+  "en": "Still alive.\nOnce she regenerates, she'll come at us again."
  },
  {
   "id": "IVENT80:0014",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "魔女を倒す方法を\n見つけなければならないというわけね……\nねえ、ブックは調べてみたの？",
-  "en": ""
+  "en": "So we need to find\na way to defeat the witches...\nSay, have you looked into the Book?"
  },
  {
   "id": "IVENT80:0015",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "倒す方法どころか、手がかりもなかった。",
-  "en": ""
+  "en": "Not a way to beat 'em--not even a clue."
  },
  {
   "id": "IVENT80:0016",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "解読していない部分もあるが、\nそれを調べる時間はねえ。",
-  "en": ""
+  "en": "There's parts I ain't deciphered yet,\nbut there's no time to look into 'em."
  },
  {
   "id": "IVENT80:0017",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "だが、おまえらを\nもとの世界に帰す方法は見つかったよ。",
-  "en": ""
+  "en": "But I did find a way\nto send you all back to your world."
  },
  {
   "id": "IVENT80:0018",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "イオピロスの塔で見つけたブックに記されてあった。",
-  "en": ""
+  "en": "It was written in the Book I found\nin Iopiros Tower."
  },
  {
   "id": "IVENT80:0019",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "じゃあ、私たちもとの世界に帰れるの？",
-  "en": ""
+  "en": "So we can go back to our world?"
  },
  {
   "id": "IVENT80:0020",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……夢みたい。\nほんとうに、もとの世界に……",
-  "en": ""
+  "en": "...It's like a dream.\nReally going back to our world..."
  },
  {
   "id": "IVENT80:0021",
   "kind": "msg",
   "speaker": "翔",
   "jp": "どうすれば、俺たちはもとの世界に帰れるんだ？",
-  "en": ""
+  "en": "How do we get back to our world?"
  },
  {
   "id": "IVENT80:0022",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "１０個あるアーティアをすべて集め、願う。\nただ、それだけだ。",
-  "en": ""
+  "en": "Gather all ten Artia and make a wish.\nThat's all there is to it."
  },
  {
   "id": "IVENT80:0023",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "新見くん、今アーティアは\nいくつあるのかしら？",
-  "en": ""
+  "en": "Niimi-kun, how many Artia\ndo we have now?"
  },
  {
   "id": "IVENT80:0024",
   "kind": "msg",
   "speaker": "翔",
   "jp": "え……と、９個です。",
-  "en": ""
+  "en": "Um... nine."
  },
  {
   "id": "IVENT80:0025",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "じゃあ、あと１個あれば、私たちは……！",
-  "en": ""
+  "en": "Then with just one more, we can...!"
  },
  {
   "id": "IVENT80:0026",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……でも、\n最後のアーティアはどこにあるのでしょう？",
-  "en": ""
+  "en": "...But\nwhere could the last Artia be?"
  },
  {
   "id": "IVENT80:0027",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……知ってる。\nアーティアのある場所なら、知ってるぞ……",
-  "en": ""
+  "en": "...I know.\nI know where that Artia is..."
  },
  {
   "id": "IVENT80:0028",
   "kind": "msg",
   "speaker": "翔",
   "jp": "どこだ！？\nそれはどこなんだ！？",
-  "en": ""
+  "en": "Where?!\nWhere is it?!"
  },
  {
   "id": "IVENT80:0029",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "それよりもまず、魔女を倒す方法だ。\n奴らをどうにかしなきゃあ、アーティアを\n取りに行く前にアイシアが滅んじまうからな。",
-  "en": ""
+  "en": "First, we need a way to beat the witches.\nIf we don't deal with 'em, Eithéa'll be\ndestroyed before we can go get the Artia."
  },
  {
   "id": "IVENT80:0030",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……あ、そうだよ。",
-  "en": ""
+  "en": "...Oh, right."
  },
  {
   "id": "IVENT80:0031",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "でも、\n倒す方法はわからないんでしょう？",
-  "en": ""
+  "en": "But\nyou don't know how to defeat them, do you?"
  },
  {
   "id": "IVENT80:0032",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "だから、こうして考えてるんだ。\n不死身だろうが何だろうが、\n絶対に弱点はあるはずなんだ……！",
-  "en": ""
+  "en": "That's why I'm sittin' here thinkin'.\nImmortal or whatever, they gotta have\na weak spot somewhere...!"
  },
  {
   "id": "IVENT80:0033",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ねえねえ、オヤジ。\nねえねえ、なのお。",
-  "en": ""
+  "en": "Hey, hey, old man.\nHey, hey~."
  },
  {
   "id": "IVENT80:0034",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "すまんが静かにしてくれ。\n考えをまとめたいんだ。",
-  "en": ""
+  "en": "Sorry, but keep it down, would ya?\nI'm tryin' to think."
  },
  {
   "id": "IVENT80:0035",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ねえねえ、ねえなのお。",
-  "en": ""
+  "en": "Hey, hey, hey~."
  },
  {
   "id": "IVENT80:0036",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "………………",
-  "en": ""
+  "en": "........."
  },
  {
   "id": "IVENT80:0037",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ねえねえ……ねえったら、ねえなのお！",
-  "en": ""
+  "en": "Hey, hey... Hey, I said, hey~!"
  },
  {
   "id": "IVENT80:0038",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "おまえもわかってんだろ？\n魔女を倒す方法を考えてんだ。\nすこし静かにしてくれよ。",
-  "en": ""
+  "en": "You get it too, don't ya?\nI'm figurin' out how to beat the witches.\nSo pipe down a little."
  },
  {
   "id": "IVENT80:0039",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "だから、それなの。",
-  "en": ""
+  "en": "That's what I'm talking about~."
  },
  {
   "id": "IVENT80:0040",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ああ？\nそれってなんだ？",
-  "en": ""
+  "en": "Huh?\nTalkin' about what?"
  },
  {
   "id": "IVENT80:0041",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "だからあ、お兄ちゃんの持ってる銃なの。",
-  "en": ""
+  "en": "I mea~n, the gun big brother has~."
  },
  {
   "id": "IVENT80:0042",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……銃？",
-  "en": ""
+  "en": "...The gun?"
  },
  {
   "id": "IVENT80:0043",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "お兄ちゃんの銃ってスゴく強いの。\nそれで魔女を倒せないの？",
-  "en": ""
+  "en": "Big brother's gun is super strong~.\nCan't he beat the witches with it~?"
  },
  {
   "id": "IVENT80:0044",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "確かに魔弾は強力だが、\nそれでも……いや、待てよ。\nそうか、これなら……！",
-  "en": ""
+  "en": "Sure, Magic Bullets are powerful,\nbut even so... no, wait.\nThat's it, this could work...!"
  },
  {
   "id": "IVENT80:0045",
   "kind": "msg",
   "speaker": "翔",
   "jp": "何かいい方法があるのか？",
-  "en": ""
+  "en": "You've got a good idea?"
  },
  {
   "id": "IVENT80:0046",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "すべてのアーティアの力を集め、\n最強の魔弾を造るのさ！",
-  "en": ""
+  "en": "We gather the power of every Artia\nand make the ultimate Magic Bullet!"
  },
  {
   "id": "IVENT80:0047",
   "kind": "msg",
   "speaker": "翔",
   "jp": "それで魔女を倒せなかったら、どうするんだ……？",
-  "en": ""
+  "en": "And if that doesn't beat the witches,\nthen what...?"
  },
  {
   "id": "IVENT80:0048",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……もう打つ手はない。",
-  "en": ""
+  "en": "...Then we're out of options."
  },
  {
   "id": "IVENT80:0049",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "いや、それ以前に、\n次に魔女たちと戦って生き残れる保証はない。",
-  "en": ""
+  "en": "No, before that--there's no guarantee\nwe'd even survive the next fight with\nthe witches."
  },
  {
   "id": "IVENT80:0050",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "奴らも本気でくるだろうからな。",
-  "en": ""
+  "en": "They'll be comin' at us for real."
  },
  {
   "id": "IVENT80:0051",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "だから、チャンスは一度きりだ……！",
-  "en": ""
+  "en": "So we only get one shot at this...!"
  },
  {
   "id": "IVENT80:0052",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……なんにしても、\n俺に魔女を倒せってことか？",
-  "en": ""
+  "en": "...Either way,\nyou're saying I have to beat the witches?"
  },
  {
   "id": "IVENT80:0053",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……悪いとは思ってる。\nだが頼む、魔女を倒してくれ！\nアイシアを、世界を救ってくれ！",
-  "en": ""
+  "en": "...I know it ain't fair to you.\nBut please, beat the witches!\nSave Eithéa--save the world!"
  },
  {
   "id": "IVENT80:0054",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "おっさん、えらいこっちゃ！",
-  "en": ""
+  "en": "Old man, we got big trouble!"
  },
  {
   "id": "IVENT80:0055",
   "kind": "msg",
   "speaker": "学",
   "jp": "ちょうどよかった。\nみんなもいるんだ！\nね、ね、ねえ、たいへんなんだよ！　実は……",
-  "en": ""
+  "en": "Perfect timing.\nEveryone's here too!\nL-L-Listen, it's terrible! Thing is..."
  },
  {
   "id": "IVENT80:0056",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "落ちついてから話しやがれ。\n……で、何がたいへんなんだ？",
-  "en": ""
+  "en": "Calm down before you talk, dammit.\n...So, what's terrible?"
  },
  {
   "id": "IVENT80:0057",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "カーライルや！\nカーライルの様子がおかしいんやて！",
-  "en": ""
+  "en": "It's Carlyle!\nSomethin's weird goin' on over in Carlyle!"
  },
  {
   "id": "IVENT80:0058",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "ついさっき、\nカーライルのほうからヘンな光が見えたらしいで。",
-  "en": ""
+  "en": "Just a bit ago,\nfolks saw some weird light over Carlyle way."
  },
  {
   "id": "IVENT80:0059",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "なにぃッ！？\nもう、始めやがったのか……あいつら……",
-  "en": ""
+  "en": "Whaaat?!\nThey've started already... those bastards..."
  },
  {
   "id": "IVENT80:0060",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "時間がねえ。\n翔、頼む。\nアイシアを救ってくれ！",
-  "en": ""
+  "en": "We're outta time.\nShou, please.\nSave Eithéa!"
  },
  {
   "id": "IVENT80:0061",
   "kind": "choice",
   "speaker": "",
   "jp": "　わかった\n　いやだ",
-  "en": ""
+  "en": "All right\nNo way"
  },
  {
   "id": "IVENT80:0062",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "翔、すまん。恩に着るぜ……\n礼といっちゃあなんだが、これを受け取ってくれ。",
-  "en": ""
+  "en": "Shou, sorry. I owe ya one...\nIt ain't much of a thanks, but take this."
  },
  {
   "id": "IVENT80:0063",
   "kind": "msg",
   "speaker": "翔",
   "jp": "別にいいよ。",
-  "en": ""
+  "en": "You don't have to."
  },
  {
   "id": "IVENT80:0064",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "いや、受け取れ。\nおまえたちは受け取らなきゃならない。\n……この最後のアーティアをな！",
-  "en": ""
+  "en": "No, take it.\nYou guys have gotta take it.\n...This last Artia!"
  },
  {
   "id": "IVENT80:0065",
   "kind": "msg",
   "speaker": "翔",
   "jp": "なんだって！？",
-  "en": ""
+  "en": "What?!"
  },
  {
   "id": "IVENT80:0066",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "昔、ユーロリアから出るときに持ち出したものだ。\n俺の切り札だったんでな。\n今までずっと隠してたんだ。",
-  "en": ""
+  "en": "I took it with me when I left Eurolia.\nIt was my trump card.\nI've kept it hidden all this time."
  },
  {
   "id": "IVENT80:0067",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "だからさっき、\nアーティアの場所を知ってると言ったのね……",
-  "en": ""
+  "en": "So that's why you said earlier\nyou knew where the Artia was..."
  },
  {
   "id": "IVENT80:0068",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……すまん。俺は、おまえたちを利用していたんだ。\n自分の目的を達するためにな……\n……魔女たちのことをどうこう言えねえぜ。",
-  "en": ""
+  "en": "...Sorry. I was usin' you all.\nTo get what I was after...\n...Guess I'm no better than the witches."
  },
  {
   "id": "IVENT80:0069",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……ちがうよ。",
-  "en": ""
+  "en": "...That's not true."
  },
  {
   "id": "IVENT80:0070",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……え？",
-  "en": ""
+  "en": "...Huh?"
  },
  {
   "id": "IVENT80:0071",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "アルバイジャンは、\nずっと私たちを助けてくれたじゃない！",
-  "en": ""
+  "en": "Albaijan, you've been helping us\nthis whole time!"
  },
  {
   "id": "IVENT80:0072",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "でも、プラダはちがう……\n自分の目的がかなうんなら、\n仲間だって殺したもん……",
-  "en": ""
+  "en": "But Prada's different...\nAs long as she got what she wanted,\nshe'd even kill her own friends..."
  },
  {
   "id": "IVENT80:0073",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "カレンはプラダを信じてたのに……",
-  "en": ""
+  "en": "And Karen trusted Prada..."
  },
  {
   "id": "IVENT80:0074",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "そのとおりよ。\nあなたは、利用する以上に私たちを助けてくれたわ。",
-  "en": ""
+  "en": "That's right.\nYou helped us far more than you used us."
  },
  {
   "id": "IVENT80:0075",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "自分を責めるのはやめて。\n……ね？",
-  "en": ""
+  "en": "Stop blaming yourself.\n...All right?"
  },
  {
   "id": "IVENT80:0076",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……すまん。\nみんな……すまん。",
-  "en": ""
+  "en": "...I'm sorry.\nEveryone... I'm sorry."
  },
  {
   "id": "IVENT80:0077",
   "kind": "msg",
   "speaker": "翔",
   "jp": "けれど、みんな、いいのか？\n相手は魔女なんだ。\n今度はほんとうに……",
-  "en": ""
+  "en": "But are you all sure about this?\nWe're up against the Witch.\nThis time, it really could be..."
  },
  {
   "id": "IVENT80:0078",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "それは、もう聞き飽きたよ！\n……翔、いっしょに行こうよ。",
-  "en": ""
+  "en": "I'm sick of hearing that!\n...Shou, let's go together."
  },
  {
   "id": "IVENT80:0079",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "みんなで戦おうよ。\nみんなでもとの世界に帰ろうよ！\n……ね？",
-  "en": ""
+  "en": "Let's all fight together.\nLet's all go back to our world together!\n...Okay?"
  },
  {
   "id": "IVENT80:0080",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "そうですよ。\nわたしも、この世界を、\nアイシアを守りたいんです。",
-  "en": ""
+  "en": "That's right.\nI want to protect this world too,\nto protect Eithéa."
  },
  {
   "id": "IVENT80:0081",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "オレも賛成や！\nアイシアは食べモンもうまいし、\nマテリアがおるしな、へへへ。",
-  "en": ""
+  "en": "I'm with ya!\nThe food in Eithéa's real good,\nand Materia's here, heheh."
  },
  {
   "id": "IVENT80:0082",
   "kind": "msg",
   "speaker": "学",
   "jp": "ぼくもアイシアを救いたいよ！\nいいモデルがたくさんいるし、\n……シャイがさびしがるからね。",
-  "en": ""
+  "en": "I want to save Eithéa too!\nThere are lots of great models here,\nand... Shai would get lonely, you know."
  },
  {
   "id": "IVENT80:0083",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "ウソつけ！\nおまえがさびしいんやろ！",
-  "en": ""
+  "en": "Liar!\nYou're the one who'd be lonely!"
  },
  {
   "id": "IVENT80:0084",
   "kind": "msg",
   "speaker": "学",
   "jp": "そ、それはヒトシも同じだろ！？\n鼻の下をデレ～とのばして\n料理を作ってたくせに！",
-  "en": ""
+  "en": "W-Well, you're the same, Hitoshi!\nYou were cooking with that goofy,\nlovestruck look on your face~!"
  },
  {
   "id": "IVENT80:0085",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "そ、それは言うなって……！",
-  "en": ""
+  "en": "D-Don't go sayin' that...!"
  },
  {
   "id": "IVENT80:0086",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "二人ともいつのまに……！",
-  "en": ""
+  "en": "When did you two...!"
  },
  {
   "id": "IVENT80:0087",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "しゃあねえな、最近のガキは。\nへんに色気づいてやがる。\n……困ったもんだ。",
-  "en": ""
+  "en": "Hopeless, kids these days.\nGot love on the brain way too early.\n...What a pain."
  },
  {
   "id": "IVENT80:0088",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "そうそう、こまったもんなの。",
-  "en": ""
+  "en": "Uh-huh, what a pain~"
  },
  {
   "id": "IVENT80:0089",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "や、やかましわい！\n……しゃあないやん。\nなあ、学。",
-  "en": ""
+  "en": "Sh-Shaddup!\n...Can't help it, can we?\nRight, Manabu?"
  },
  {
   "id": "IVENT80:0090",
   "kind": "msg",
   "speaker": "学",
   "jp": "な、なんで僕にふるの！？\n……でも、しかたない、かな？\n……えへへへ。",
-  "en": ""
+  "en": "Wh-Why drag me into it?!\n...But I guess it can't be helped?\n...Ehehehe."
  },
  {
   "id": "IVENT80:0091",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "冗談は置いておいて。\n新見くん、わかったでしょう？\nみんな、あなたと同じなの。",
-  "en": ""
+  "en": "Jokes aside...\nNiimi-kun, you understand now, don't you?\nEveryone feels the same way you do."
  },
  {
   "id": "IVENT80:0092",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "それに、ここまで来たのなら、\n最後までいっしょよ。いいでしょう？",
-  "en": ""
+  "en": "Besides, now that we've come this far,\nwe're together to the end. All right?"
  },
  {
   "id": "IVENT80:0093",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "みんな、頼むぜ。\nできるかぎり協力するからよ。",
-  "en": ""
+  "en": "I'm counting on you all.\nI'll help out however I can."
  },
  {
   "id": "IVENT80:0094",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ハーミーもいっしょなのお！\nみんなと行くからね！",
-  "en": ""
+  "en": "Hermie's coming too~!\nHermie's going with everyone~!"
  },
  {
   "id": "IVENT80:0095",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "そうか……\nじゃあ、最後のアーティアを、\n俺が持っていたとしたらどうする？",
-  "en": ""
+  "en": "I see...\nThen what would you do if I told you\nI had the last Artia?"
  },
  {
   "id": "IVENT80:0096",
   "kind": "msg",
   "speaker": "翔",
   "jp": "な、なんだって！？",
-  "en": ""
+  "en": "Wh-What did you say?!"
  },
  {
   "id": "IVENT80:0097",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "…昔、ユーロリアから出るときに持ち出したものだ。\n俺の切り札だったんでな。\n今までずっと隠してたんだ。",
-  "en": ""
+  "en": "...I took it with me long ago, when I left\nEurolia. It was my ace in the hole,\nso I've kept it hidden all this time."
  },
  {
   "id": "IVENT80:0098",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "だからさっき、\nアーティアの場所を知ってると言ったのね……",
-  "en": ""
+  "en": "So that's why you said earlier\nyou knew where the Artia was..."
  },
  {
   "id": "IVENT80:0099",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "そういうことだ。頼む、翔。\nこいつと引き換えにやってくれねえか？\n魔女を倒してくれたら、これはおまえにくれてやる。",
-  "en": ""
+  "en": "That's the deal. Please, Shou.\nWill you do this in exchange for it?\nTake down the Witch, and it's yours."
  },
  {
   "id": "IVENT80:0100",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ひっどぉーいッ！！\nそれって、魔女を倒さない限り\nここから帰さないってことでしょ？",
-  "en": ""
+  "en": "That's so unfaaair!!\nSo you're saying you won't send us home\nunless we beat the Witch?"
  },
  {
   "id": "IVENT80:0101",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "何とでもいうがいいさ。　だがな、アイシアを\n救うには、これしか方法がねえんだ！\n……俺のできることは、もうこれしかねえんだ！",
-  "en": ""
+  "en": "Say whatever you want. But listen, this is\nthe only way to save Eithéa!\n...It's the only thing I can still do!"
  },
  {
   "id": "IVENT80:0102",
   "kind": "msg",
   "speaker": "翔",
   "jp": "…………",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "IVENT80:0103",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "……お兄ちゃん、お願いなの。\nオヤジを許してなの……\nアイシアを助けてなの……",
-  "en": ""
+  "en": "...Big brother, please~\nPlease forgive Old Man~...\nPlease save Eithéa~..."
  },
  {
   "id": "IVENT80:0104",
   "kind": "msg",
   "speaker": "翔",
   "jp": "先生はどう思います？",
-  "en": ""
+  "en": "What do you think, Sensei?"
  },
  {
   "id": "IVENT80:0105",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "……好きにしなさい。",
-  "en": ""
+  "en": "...Do as you like."
  },
  {
   "id": "IVENT80:0106",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……え？",
-  "en": ""
+  "en": "...Huh?"
  },
  {
   "id": "IVENT80:0107",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "新見くんの判断にまかせるわ。\n自分の思ったとおりになさい。",
-  "en": ""
+  "en": "I'll leave the decision to you, Niimi-kun.\nDo what you think is right."
  },
  {
   "id": "IVENT80:0108",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "私も翔にまかせるよ。\n……いっしょだったら、どこでもいいもん。",
-  "en": ""
+  "en": "I'll leave it to you too, Shou.\n...Anywhere's fine, as long as we're together."
  },
  {
   "id": "IVENT80:0109",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "お願いします……わたしも……",
-  "en": ""
+  "en": "Please... I'm leaving it to you too..."
  },
  {
   "id": "IVENT80:0110",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……ありがとう。\nみんな、聞いてくれ。",
-  "en": ""
+  "en": "...Thanks.\nEveryone, listen."
  },
  {
   "id": "IVENT80:0111",
   "kind": "msg",
   "speaker": "翔",
   "jp": "この世界に来ていろんな人たちと出会った。",
-  "en": ""
+  "en": "Since coming to this world,\nI've met all kinds of people."
  },
  {
   "id": "IVENT80:0112",
   "kind": "msg",
   "speaker": "翔",
   "jp": "いろんなものを見たし、いろんなことを知った。",
-  "en": ""
+  "en": "I've seen all kinds of things,\nand learned all kinds of things."
  },
  {
   "id": "IVENT80:0113",
   "kind": "msg",
   "speaker": "翔",
   "jp": "だから、わかるんだ。\nどうしても許せないことがあるのを……！",
-  "en": ""
+  "en": "That's why I know.\nThere are some things I just can't forgive...!"
  },
  {
   "id": "IVENT80:0114",
   "kind": "msg",
   "speaker": "翔",
   "jp": "確かに、アルバイジャンのやり方はいやだ。\n……でも、それ以上に、俺は許せないんだ。",
-  "en": ""
+  "en": "Sure, I don't like how Albaijan did this.\n...But there's something I can't forgive\neven more than that."
  },
  {
   "id": "IVENT80:0115",
   "kind": "msg",
   "speaker": "翔",
   "jp": "このまま、\nもとの世界に帰ることなんて、できない……\n俺は、魔女を倒したい！",
-  "en": ""
+  "en": "I can't just\ngo back to our world like this...\nI want to defeat the Witch!"
  },
  {
   "id": "IVENT80:0116",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "わたしも同じです……\n出会った人たちに力と\nそして勇気をもらいました。",
-  "en": ""
+  "en": "I feel the same...\nThe people I met gave me strength,\nand courage too."
  },
  {
   "id": "IVENT80:0117",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "だから、強くなれたんです。\nだから、わたし……みんなを守りたいんです！",
-  "en": ""
+  "en": "That's why I got stronger.\nThat's why I... want to protect everyone!"
  },
  {
   "id": "IVENT80:0118",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ひかる……強くなったね。\n翔、私も戦うよ。",
-  "en": ""
+  "en": "Hikaru... you've gotten strong.\nShou, I'll fight too."
  },
  {
   "id": "IVENT80:0119",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "みんなで戦おうよ。\nみんなでもとの世界に帰ろうよ！\n……ね？",
-  "en": ""
+  "en": "Let's all fight together.\nLet's all go back to our world together!\n...Okay?"
  },
  {
   "id": "IVENT80:0120",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "翔、オレも賛成や！\nアイシアは食べモンもうまいし、\nマテリアがおるしな、へへへ。",
-  "en": ""
+  "en": "Shou, I'm with ya!\nThe food in Eithéa's real good,\nand Materia's here, heheh."
  },
  {
   "id": "IVENT80:0121",
   "kind": "msg",
   "speaker": "学",
   "jp": "ぼくもアイシアを救いたいよ！\nいいモデルがたくさんいるし、\n……シャイがさびしがるからね。",
-  "en": ""
+  "en": "I want to save Eithéa too!\nThere are lots of great models here,\nand... Shai would get lonely, you know."
  },
  {
   "id": "IVENT80:0122",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "ウソつけ！\nおまえがさびしいんやろ！",
-  "en": ""
+  "en": "Liar!\nYou're the one who'd be lonely!"
  },
  {
   "id": "IVENT80:0123",
   "kind": "msg",
   "speaker": "学",
   "jp": "そ、それはヒトシも同じだろ！？\n鼻の下をデレ～とのばして料理を作ってたくせに！",
-  "en": ""
+  "en": "W-Well, you're the same, Hitoshi!\nYou were cooking with that goofy,\nlovestruck look on your face~!"
  },
  {
   "id": "IVENT80:0124",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "そ、それは言うなって……！",
-  "en": ""
+  "en": "D-Don't go sayin' that...!"
  },
  {
   "id": "IVENT80:0125",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "不純異性交遊ね……二人ともいつのまに……！",
-  "en": ""
+  "en": "Improper conduct with the opposite sex...\nWhen did you two...!"
  },
  {
   "id": "IVENT80:0126",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "す、すんません！\n……でも、しゃあないんですわ。\nなあ、学。",
-  "en": ""
+  "en": "S-Sorry!\n...But it can't be helped, ya know.\nRight, Manabu?"
  },
  {
   "id": "IVENT80:0127",
   "kind": "msg",
   "speaker": "学",
   "jp": "な、なんで僕にふるの！？\n……でも、そのとおり、かな？\n……えへへへ。",
-  "en": ""
+  "en": "Wh-Why drag me into it?!\n...But he's right, I guess?\n...Ehehehe."
  },
  {
   "id": "IVENT80:0128",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……翔、すまん。\nおまえだけが頼りなんだ。\nできるかぎりのことはする。頼んだぞ……！",
-  "en": ""
+  "en": "...Shou, I'm sorry.\nYou're the only one I can count on.\nI'll do all I can. Don't let me down...!"
  },
  {
   "id": "IVENT80:0129",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "お兄ちゃん、ハーミーもいっしょなのお！\nみんなと行くの！",
-  "en": ""
+  "en": "Big brother, Hermie's coming too~!\nHermie's going with everyone~!"
  },
  {
   "id": "IVENT80:0130",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "<1>アーティアスフィ<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>Artia Sphi<8>!"
  },
  {
   "id": "IVENT80:0131",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "翔、アーティアを出してくれ。\n先に魔弾を造っておきたいんだ。",
-  "en": ""
+  "en": "Shou, take out the Artia.\nI want to make the Magic Bullet first."
  },
  {
   "id": "IVENT80:0132",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "いつものとおりでいい。\nだが、使うのはすべてのアーティアだ。\nそれに意識を集中しろ。",
-  "en": ""
+  "en": "Same as always.\nBut this time, you use every Artia.\nFocus your mind on them."
  },
  {
   "id": "IVENT80:0133",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……こうか？",
-  "en": ""
+  "en": "...Like this?"
  },
  {
   "id": "IVENT80:0134",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……できたぞ！\nこれが魔女を滅ぼすための魔弾だ。",
-  "en": ""
+  "en": "...It's done!\nThis is the Magic Bullet that'll destroy\nthe Witch."
  },
  {
   "id": "IVENT80:0135",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "翔、おまえに預けておく。\nだが、魔女と戦うとき以外は使うなよ。",
-  "en": ""
+  "en": "Shou, I'm leaving it with you.\nBut don't use it unless you're fighting\nthe Witch."
  },
  {
   "id": "IVENT80:0136",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "この魔弾があることを奴らに\n気づかれたくないんだ。",
-  "en": ""
+  "en": "I don't want them to find out\nwe've got this Magic Bullet."
  },
  {
   "id": "IVENT80:0137",
   "kind": "msg",
   "speaker": "翔",
   "jp": "わかった。じゃあ、時間もない。\nカーライルに急ごうか。",
-  "en": ""
+  "en": "Got it. Then we don't have much time.\nLet's hurry to Carlyle."
  },
  {
   "id": "IVENT80:0138",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "だが、問題は、どうやって中に入るかだ。",
-  "en": ""
+  "en": "Trouble is, how do we get inside?"
  },
  {
   "id": "IVENT80:0139",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "たぶん、町にはプラダの兵がいる。",
-  "en": ""
+  "en": "Prada's soldiers are probably in town."
  },
  {
   "id": "IVENT80:0140",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "できるかぎり、もめ事を起さずに\n町に入りたいんだが……",
-  "en": ""
+  "en": "If at all possible, I'd like to get into\ntown without stirring up trouble..."
  },
  {
   "id": "IVENT80:0141",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "何かいい方法はあるの？",
-  "en": ""
+  "en": "Is there a good way to do that?"
  },
  {
   "id": "IVENT80:0142",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ちょっと考えてみる。\n少しだけまってくれねえか？",
-  "en": ""
+  "en": "Let me think it over.\nCan you give me a little time?"
  },
  {
   "id": "IVENT80:0143",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "じゃあ、休憩しましょうか。\n少ししたら、また戻ってきてね。",
-  "en": ""
+  "en": "Then let's take a break.\nCome back here in a little while."
  }
 ]

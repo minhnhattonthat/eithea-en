@@ -4,90 +4,90 @@
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "あ……翔！",
-  "en": ""
+  "en": "Ah... Shou!"
  },
  {
   "id": "IVENT15:0001",
   "kind": "msg",
   "speaker": "翔",
   "jp": "なにしてるんだ？",
-  "en": ""
+  "en": "What are you doing?"
  },
  {
   "id": "IVENT15:0002",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ん……ちょっと、\nあやしいなって思って、調べてるの。",
-  "en": ""
+  "en": "Mm... I just thought this place\nseemed suspicious, so I'm investigating."
  },
  {
   "id": "IVENT15:0003",
   "kind": "msg",
   "speaker": "翔",
   "jp": "調べてるって……のぞき見だろ？\nバレるとタダじゃすまないぜ。",
-  "en": ""
+  "en": "Investigating... you mean snooping, right?\nIf you get caught, you won't get off easy."
  },
  {
   "id": "IVENT15:0004",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "えっ！？ちがうよ！\nここには絶対なにか秘密があるよ！\n翔は気にならないの？",
-  "en": ""
+  "en": "Huh?! No, it's not!\nThere's definitely some secret here!\nAren't you curious, Shou?"
  },
  {
   "id": "IVENT15:0005",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そりゃあ、気になるさ。",
-  "en": ""
+  "en": "Well, sure I'm curious."
  },
  {
   "id": "IVENT15:0006",
   "kind": "msg",
   "speaker": "翔",
   "jp": "でも、コソコソ見るのはよくないぞ。",
-  "en": ""
+  "en": "But sneaking a peek isn't right."
  },
  {
   "id": "IVENT15:0007",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "じゃあ、翔は堂々と見ろっていうの？",
-  "en": ""
+  "en": "So what, you're saying I should look openly?"
  },
  {
   "id": "IVENT15:0008",
   "kind": "msg",
   "speaker": "翔",
   "jp": "いいから、やめろよ！\n俺たちはここに置いてもらっている立場なんだ。\n軽はずみな行動はひかえたほうがいい。",
-  "en": ""
+  "en": "Just knock it off!\nThey're letting us stay here, remember?\nWe shouldn't do anything reckless."
  },
  {
   "id": "IVENT15:0009",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "もう……いいわよ！\n学でも誘って、遊んでくるわ！",
-  "en": ""
+  "en": "Geez... fine!\nI'll go hang out with Manabu or something!"
  },
  {
   "id": "IVENT15:0010",
   "kind": "msg",
   "speaker": "翔",
   "jp": "なんだよ、ユカのやつ……",
-  "en": ""
+  "en": "What's her problem..."
  },
  {
   "id": "IVENT15:0011",
   "kind": "msg",
   "speaker": "翔",
   "jp": "…………",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "IVENT15:0012",
   "kind": "msg",
   "speaker": "翔",
   "jp": "なんだか疲れたな。\nルーの家で休むか……",
-  "en": ""
+  "en": "I'm kind of tired.\nMaybe I'll rest at Lou's house..."
  }
 ]

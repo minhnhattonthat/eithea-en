@@ -4,168 +4,168 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "あれ？　ルー<8>がいないぞ？\nどこに行ったのかな……？",
-  "en": ""
+  "en": "Huh? Where's Lou<8>?\nWhere'd she go...?"
  },
  {
   "id": "IVENT05:0001",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "翔じゃない。\nこんな時間にどうしたの？",
-  "en": ""
+  "en": "Oh, it's you, Shou.\nWhat are you doing up at this hour?"
  },
  {
   "id": "IVENT05:0002",
   "kind": "msg",
   "speaker": "翔",
   "jp": "――え？\nあ、ああ、ちょっと、な。\nルーこそどうしたんだ？",
-  "en": ""
+  "en": "--Huh?\nOh, uh, just... you know.\nWhat about you, Lou?"
  },
  {
   "id": "IVENT05:0003",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "寝つけなかったの。\n月もきれいだし、散歩しよっかなって。",
-  "en": ""
+  "en": "I couldn't sleep.\nThe moon's pretty, so I thought\nI'd take a walk."
  },
  {
   "id": "IVENT05:0004",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "<10>…<10>…ねえ、聞きたいことがあるんだけど。",
-  "en": ""
+  "en": "<10>...<10>...Hey, there's something I wanna ask."
  },
  {
   "id": "IVENT05:0005",
   "kind": "msg",
   "speaker": "翔",
   "jp": "なんだ？",
-  "en": ""
+  "en": "What is it?"
  },
  {
   "id": "IVENT05:0006",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ユカとひかるって、仲悪いの？",
-  "en": ""
+  "en": "Do Yuka and Hikaru not get along?"
  },
  {
   "id": "IVENT05:0007",
   "kind": "msg",
   "speaker": "翔",
   "jp": "あの二人は中学からの……\nその、昔からの友達なんだ。",
-  "en": ""
+  "en": "Those two have been... since junior high...\nI mean, they've been friends for a long time."
  },
  {
   "id": "IVENT05:0008",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ひかるは自分の親友だって、ユカが言ってたよ。",
-  "en": ""
+  "en": "Yuka told me Hikaru's her best friend."
  },
  {
   "id": "IVENT05:0009",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "けど、今はそう見えないよ。\nあの二人、ギクシャクしてる。",
-  "en": ""
+  "en": "Doesn't look that way now, though.\nThings are awkward between those two."
  },
  {
   "id": "IVENT05:0010",
   "kind": "msg",
   "speaker": "翔",
   "jp": "どのあたりがだ？",
-  "en": ""
+  "en": "Awkward how?"
  },
  {
   "id": "IVENT05:0011",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "うまく言えないよ。\n気にしてるわけじゃないし。",
-  "en": ""
+  "en": "I can't really explain.\nIt's not like I care or anything."
  },
  {
   "id": "IVENT05:0012",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ただ、そう思っただけ。\n翔こそどう思ってるの？",
-  "en": ""
+  "en": "It's just what I thought.\nWhat about you, Shou? What do you think?"
  },
  {
   "id": "IVENT05:0013",
   "kind": "choice",
   "speaker": "",
   "jp": "　実は俺もそう思っていた\n　気のせいだろう",
-  "en": ""
+  "en": "Actually, I was thinking the same\nIt's probably just your imagination"
  },
  {
   "id": "IVENT05:0014",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "やっぱり。\nで、どうするの？\n二人に聞いてみる？",
-  "en": ""
+  "en": "Knew it.\nSo, what're you gonna do?\nAsk them about it?"
  },
  {
   "id": "IVENT05:0015",
   "kind": "msg",
   "speaker": "翔",
   "jp": "何をだ？",
-  "en": ""
+  "en": "Ask them what?"
  },
  {
   "id": "IVENT05:0016",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "なんで仲が悪いのかって。",
-  "en": ""
+  "en": "Why they don't get along."
  },
  {
   "id": "IVENT05:0017",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そのうちな。\n機会をみて話してみる。",
-  "en": ""
+  "en": "Eventually.\nI'll talk to them when I get the chance."
  },
  {
   "id": "IVENT05:0018",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "早いうちにそうしたほうがいいよ。",
-  "en": ""
+  "en": "You'd better do it soon."
  },
  {
   "id": "IVENT05:0019",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "遅くなると、\n取り返しがつかなくなるからさ……",
-  "en": ""
+  "en": "If you wait too long,\nit'll be too late to fix things..."
  },
  {
   "id": "IVENT05:0020",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "それじゃあ、わたし、もう寝るね。",
-  "en": ""
+  "en": "Well, I'm gonna go to bed now."
  },
  {
   "id": "IVENT05:0021",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そうかなあ……\nわたしには関係ないし、どっちでもいいけどさ。",
-  "en": ""
+  "en": "You think so...?\nWell, it's none of my business, so whatever."
  },
  {
   "id": "IVENT05:0022",
   "kind": "msg",
   "speaker": "翔",
   "jp": "関係あるさ。\n仲間だろう？",
-  "en": ""
+  "en": "Sure it is.\nWe're friends, aren't we?"
  },
  {
   "id": "IVENT05:0023",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "仲間、ね。\nそうだといいんだけど。\nじゃ、わたし、寝るね。",
-  "en": ""
+  "en": "Friends, huh.\nI hope so.\nWell, I'm going to bed."
  },
  {
   "id": "IVENT05:0024",

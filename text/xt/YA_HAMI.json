@@ -4,293 +4,293 @@
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "わあい、お兄ちゃんなのお。\nどうしたのお？",
-  "en": ""
+  "en": "Yay, it's big brother~!\nWhat's up~?"
  },
  {
   "id": "YA_HAMI:0001",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "……え？　みんなと話すのお。\nあんまり長くしちゃダメなの。",
-  "en": ""
+  "en": "...Huh? You wanna talk with everyone~?\nDon't take too long, okay~"
  },
  {
   "id": "YA_HAMI:0002",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "あ、お兄ちゃんなのお。\nあのねあのね、休むときはうちを使うの。",
-  "en": ""
+  "en": "Ah, it's big brother~\nY'know, y'know, when you rest, use our house~"
  },
  {
   "id": "YA_HAMI:0003",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "……え？　みんなと話すのお。\nあんまり長くしちゃダメなの。",
-  "en": ""
+  "en": "...Huh? You wanna talk with everyone~?\nDon't take too long, okay~"
  },
  {
   "id": "YA_HAMI:0004",
   "kind": "choice",
   "speaker": "",
   "jp": "　ハーミーと話す　　　　　　ひかると話す\n　秋穂と話す　　　　　　　　立ち去る\n　ユカと話す　　　　　　　　セーブする",
-  "en": ""
+  "en": "Talk to Hermie            Talk to Hikaru\nTalk to Akiho             Leave\nTalk to Yuka              Save"
  },
  {
   "id": "YA_HAMI:0005",
   "kind": "choice",
   "speaker": "",
   "jp": "　ハーミーと話す　　　　　　ひかると話す\n　秋穂と話す　　　　　　　　休んでいく\n　ユカと話す　　　　　　　　次へ",
-  "en": ""
+  "en": "Talk to Hermie            Talk to Hikaru\nTalk to Akiho             Rest a while\nTalk to Yuka              Next"
  },
  {
   "id": "YA_HAMI:0006",
   "kind": "choice",
   "speaker": "",
   "jp": "　セーブする\n　立ち去る\n　戻る",
-  "en": ""
+  "en": "Save\nLeave\nBack"
  },
  {
   "id": "YA_HAMI:0007",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ユカとひかるが倒れたの！",
-  "en": ""
+  "en": "Yuka and Hikaru collapsed~!"
  },
  {
   "id": "YA_HAMI:0008",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "疲れてるだけだから、心配はいらないの。",
-  "en": ""
+  "en": "They're just tired, so don't worry~"
  },
  {
   "id": "YA_HAMI:0009",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "けど、しばらくは動けないと思うの。",
-  "en": ""
+  "en": "But I don't think they can move for a while~"
  },
  {
   "id": "YA_HAMI:0010",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "お兄ちゃんも休んだほうがいいの。",
-  "en": ""
+  "en": "Big brother, you should rest too~"
  },
  {
   "id": "YA_HAMI:0011",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "お兄ちゃん、ユカとひかるが良くなったの！",
-  "en": ""
+  "en": "Big brother, Yuka and Hikaru got better~!"
  },
  {
   "id": "YA_HAMI:0012",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "これでだいじょうぶなの。\nよかったね、お兄ちゃん。",
-  "en": ""
+  "en": "Everything's okay now~\nIsn't that great, big brother?"
  },
  {
   "id": "YA_HAMI:0013",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "困ったことになったわ。\n松岡さんと伊藤さんが寝こんでしまったのよ。",
-  "en": ""
+  "en": "We have a problem.\nMatsuoka-san and Itou-san are bedridden."
  },
  {
   "id": "YA_HAMI:0014",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ただの過労みたいなんだけど、\n大事をとって、しばらく休ませようと思うの。",
-  "en": ""
+  "en": "It looks like simple exhaustion, but to be\nsafe, I'd like to let them rest for a while."
  },
  {
   "id": "YA_HAMI:0015",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "今のうちに、\n新見くんも休んでおいたほうがいいわよ。",
-  "en": ""
+  "en": "In the meantime,\nyou should get some rest too, Niimi-kun."
  },
  {
   "id": "YA_HAMI:0016",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "松岡さんと伊藤さんの具合がよくなったみたいね。",
-  "en": ""
+  "en": "Matsuoka-san and Itou-san seem to be\nfeeling better."
  },
  {
   "id": "YA_HAMI:0017",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "よかったわ。\nこれで一安心ね。",
-  "en": ""
+  "en": "Thank goodness.\nThat's a relief."
  },
  {
   "id": "YA_HAMI:0018",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……あ、翔……\nごめん、こんなになっちゃって……",
-  "en": ""
+  "en": "...Ah, Shou...\nSorry for ending up like this..."
  },
  {
   "id": "YA_HAMI:0019",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "だいじょうぶだよ……\nすぐによくなるから、ね……",
-  "en": ""
+  "en": "I'm okay...\nI'll get better soon, okay...?"
  },
  {
   "id": "YA_HAMI:0020",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "あ、翔！　どこに行ってたの？\n ハーミーもいなくなっちゃうし。\n……ねえ、なんか隠してない？",
-  "en": ""
+  "en": "Ah, Shou! Where've you been?\nHermie disappeared too.\n...Hey, are you hiding something?"
  },
  {
   "id": "YA_HAMI:0021",
   "kind": "msg",
   "speaker": "翔",
   "jp": "な、何もしてないさ。\nそれより、体調はどうだ？",
-  "en": ""
+  "en": "I-I'm not up to anything.\nMore importantly, how are you feeling?"
  },
  {
   "id": "YA_HAMI:0022",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "私のほうは、だいじょうぶ。\nもうどこにでも行けるよ。",
-  "en": ""
+  "en": "Me? I'm fine.\nI can go anywhere now."
  },
  {
   "id": "YA_HAMI:0023",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……ユカのうそつき。\nまだ身体がだるいって言ってたじゃない。",
-  "en": ""
+  "en": "...Yuka, you liar.\nYou said your body still felt sluggish."
  },
  {
   "id": "YA_HAMI:0024",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "も、もう治ったの！\nだから翔、ちゃんと戦えるよ。\nトォリヤアア！　……いたっ！",
-  "en": ""
+  "en": "I-I'm all better now!\nSo, Shou, I can fight just fine.\nHi-yaaah! ...Ow!"
  },
  {
   "id": "YA_HAMI:0025",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "ユカ、無理しちゃだめよ！",
-  "en": ""
+  "en": "Yuka, don't push yourself!"
  },
  {
   "id": "YA_HAMI:0026",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "新見くん、もう少しだけまってください。\nわたしも、ユカも、まだ……",
-  "en": ""
+  "en": "Niimi-kun, please wait just a little longer.\nBoth Yuka and I are still..."
  },
  {
   "id": "YA_HAMI:0027",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……ごめんね、翔。\nでも、だいぶ元気になったよ。\nこれはウソじゃないからね。",
-  "en": ""
+  "en": "...Sorry, Shou.\nBut I'm feeling a lot better.\nThat part's not a lie, okay?"
  },
  {
   "id": "YA_HAMI:0028",
   "kind": "msg",
   "speaker": "翔",
   "jp": "無理をするなよ。\n伊藤さん、ユカのこと頼む。",
-  "en": ""
+  "en": "Don't push yourself.\nItou-san, take care of Yuka for me."
  },
  {
   "id": "YA_HAMI:0029",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "まかせてください。\n……新見くんも気をつけてね。",
-  "en": ""
+  "en": "Please leave it to me.\n...You be careful too, Niimi-kun."
  },
  {
   "id": "YA_HAMI:0030",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ねえねえ、もっと相手してよ。\n翔もヒマしてるんでしょ？",
-  "en": ""
+  "en": "Hey, hey, keep me company some more.\nYou're bored too, right, Shou?"
  },
  {
   "id": "YA_HAMI:0031",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ず～っと寝てばかりだから、すっごくタイクツなの。\nいつでも遊びにきてね。",
-  "en": ""
+  "en": "All I do is sleep, so I'm sooo bored.\nCome hang out anytime, okay?"
  },
  {
   "id": "YA_HAMI:0032",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "新見くん、ユカならタイクツだからって\n散歩に出ていきましたよ。",
-  "en": ""
+  "en": "Niimi-kun, Yuka said she was bored\nand went out for a walk."
  },
  {
   "id": "YA_HAMI:0033",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……新見くん……ごめんなさい……\nすぐ元気になるから……",
-  "en": ""
+  "en": "...Niimi-kun... I'm sorry...\nI'll get better soon..."
  },
  {
   "id": "YA_HAMI:0034",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……ほんとに、ごめんなさい……",
-  "en": ""
+  "en": "...I'm really, so sorry..."
  },
  {
   "id": "YA_HAMI:0035",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "あ、新見くん……\n身体の具合はすごく良くなりました。",
-  "en": ""
+  "en": "Ah, Niimi-kun...\nI'm feeling much better now."
  },
  {
   "id": "YA_HAMI:0036",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "もうだいじょうぶです。\n何かあったら、すぐに言ってくださいね。",
-  "en": ""
+  "en": "I'm all right now.\nIf anything happens, please tell me\nright away."
  },
  {
   "id": "YA_HAMI:0037",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ユカとひかるがよくなったら\n教えたげるの。\nじゃ、バイバ～イなの。",
-  "en": ""
+  "en": "When Yuka and Hikaru get better,\nI'll tell you~\nBye-bye~!"
  },
  {
   "id": "YA_HAMI:0038",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "お兄ちゃん！\n夜までは、うちで休むといいの。",
-  "en": ""
+  "en": "Big brother!\nYou should rest at our house till night~"
  },
  {
   "id": "YA_HAMI:0039",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "今日の夜もまってるの。\n……あ！\nこれはナイショだったの。",
-  "en": ""
+  "en": "I'll be waiting tonight too~\n...Oops!\nThat was supposed to be a secret~"
  },
  {
   "id": "YA_HAMI:0040",
   "kind": "msg",
   "speaker": "翔",
   "jp": "夜になるまで休むか……",
-  "en": ""
+  "en": "Guess I'll rest until nightfall..."
  },
  {
   "id": "YA_HAMI:0041",
   "kind": "msg",
   "speaker": "翔",
   "jp": "あれ！？\n誰もいないな、どこにいったんだろう……",
-  "en": ""
+  "en": "Huh?!\nNobody's here. Where'd everyone go...?"
  }
 ]

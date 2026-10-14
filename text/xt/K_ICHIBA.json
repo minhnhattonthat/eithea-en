@@ -4,21 +4,21 @@
   "kind": "msg",
   "speaker": "売り子",
   "jp": "いらっしゃい！\nうちの品ぞろえは世界一だよ！",
-  "en": ""
+  "en": "Welcome!\nOur selection's the best in the world!"
  },
  {
   "id": "K_ICHIBA:0001",
   "kind": "msg",
   "speaker": "売り子",
   "jp": "さあ、どれも買って損はないよ！",
-  "en": ""
+  "en": "Go on, you can't go wrong with any of it!"
  },
  {
   "id": "K_ICHIBA:0002",
   "kind": "choice",
   "speaker": "",
   "jp": "　買い物をする　　　　　　　立ち去る\n　持っている物を売る\n　宿屋について聞く",
-  "en": ""
+  "en": "Buy                       Leave\nSell items\nAsk about an inn"
  },
  {
   "id": "K_ICHIBA:0003",
@@ -32,70 +32,70 @@
   "kind": "msg",
   "speaker": "売り子",
   "jp": "ほいきた、さあ、どれがいい？",
-  "en": ""
+  "en": "Coming right up! So, which one'll it be?"
  },
  {
   "id": "K_ICHIBA:0005",
   "kind": "msg",
   "speaker": "売り子",
   "jp": "はいよ、お買いあげ！\nありがとう！",
-  "en": ""
+  "en": "There you go, sold!\nThanks!"
  },
  {
   "id": "K_ICHIBA:0006",
   "kind": "msg",
   "speaker": "売り子",
   "jp": "なんだい、冷やかしかい？",
-  "en": ""
+  "en": "What, just browsing?"
  },
  {
   "id": "K_ICHIBA:0007",
   "kind": "msg",
   "speaker": "売り子",
   "jp": "さてさて、どんな物を持ってるんだい？\nいい取引をしようよ。",
-  "en": ""
+  "en": "So, so, what've you got there?\nLet's make a good deal."
  },
  {
   "id": "K_ICHIBA:0008",
   "kind": "msg",
   "speaker": "売り子",
   "jp": "ありがとよ！",
-  "en": ""
+  "en": "Thanks a bunch!"
  },
  {
   "id": "K_ICHIBA:0009",
   "kind": "msg",
   "speaker": "売り子",
   "jp": "おいおい、頼むよ！\n取引しようぜ！",
-  "en": ""
+  "en": "Hey now, c'mon!\nLet's do business!"
  },
  {
   "id": "K_ICHIBA:0010",
   "kind": "msg",
   "speaker": "売り子",
   "jp": "……宿屋？\nそうさねえ……う～ん。\n悪いね、わかんないわ。",
-  "en": ""
+  "en": "...An inn?\nLet's see... Hmm.\nSorry, no idea."
  },
  {
   "id": "K_ICHIBA:0011",
   "kind": "msg",
   "speaker": "売り子",
   "jp": "道具屋の店員なら知ってるかもよ。",
-  "en": ""
+  "en": "The clerk at the item shop might know."
  },
  {
   "id": "K_ICHIBA:0012",
   "kind": "msg",
   "speaker": "売り子",
   "jp": "ありがと、また来てね。",
-  "en": ""
+  "en": "Thanks, come again."
  },
  {
   "id": "K_ICHIBA:0013",
   "kind": "msg",
   "speaker": "売り子",
   "jp": "他に何かあるかい？",
-  "en": ""
+  "en": "Anything else?"
  },
  {
   "id": "K_ICHIBA:0014",
@@ -109,55 +109,55 @@
   "kind": "msg",
   "speaker": "売り子",
   "jp": "ほいきた、さあ、どれがいい？",
-  "en": ""
+  "en": "Coming right up! So, which one'll it be?"
  },
  {
   "id": "K_ICHIBA:0016",
   "kind": "msg",
   "speaker": "売り子",
   "jp": "はいよ、お買いあげ！\nありがとう！",
-  "en": ""
+  "en": "There you go, sold!\nThanks!"
  },
  {
   "id": "K_ICHIBA:0017",
   "kind": "msg",
   "speaker": "売り子",
   "jp": "なんだい、冷やかしかい？",
-  "en": ""
+  "en": "What, just browsing?"
  },
  {
   "id": "K_ICHIBA:0018",
   "kind": "msg",
   "speaker": "売り子",
   "jp": "さてさて、どんな物を持ってるんだい？\nいい取引をしようよ。",
-  "en": ""
+  "en": "So, so, what've you got there?\nLet's make a good deal."
  },
  {
   "id": "K_ICHIBA:0019",
   "kind": "msg",
   "speaker": "売り子",
   "jp": "ありがとよ！",
-  "en": ""
+  "en": "Thanks a bunch!"
  },
  {
   "id": "K_ICHIBA:0020",
   "kind": "msg",
   "speaker": "売り子",
   "jp": "おいおい、頼むよ！\n取引しようぜ！",
-  "en": ""
+  "en": "Hey now, c'mon!\nLet's do business!"
  },
  {
   "id": "K_ICHIBA:0021",
   "kind": "msg",
   "speaker": "売り子",
   "jp": "ありがと、また来てね。",
-  "en": ""
+  "en": "Thanks, come again."
  },
  {
   "id": "K_ICHIBA:0022",
   "kind": "msg",
   "speaker": "売り子",
   "jp": "他に何かあるかい？",
-  "en": ""
+  "en": "Anything else?"
  }
 ]

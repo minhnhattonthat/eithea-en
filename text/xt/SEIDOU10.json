@@ -4,55 +4,55 @@
   "kind": "msg",
   "speaker": "",
   "jp": "<1>ヒドラの弓<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>Hydra Bow<8>!"
  },
  {
   "id": "SEIDOU10:0001",
   "kind": "msg",
   "speaker": "",
   "jp": "<1>情熱エッチュー<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>Passion Loincloth<8>!"
  },
  {
   "id": "SEIDOU10:0002",
   "kind": "msg",
   "speaker": "ミュウ",
   "jp": "今度は負けないわよ！\nもう、ばっちりデッドって感じ？\nせーぜー、あがくことねー！",
-  "en": ""
+  "en": "I'm not losing this time!\nYou're, like, totally Dead, y'know?\nStruggle all you want~!"
  },
  {
   "id": "SEIDOU10:0003",
   "kind": "msg",
   "speaker": "ミュウ",
   "jp": "なんでよっ！　なんでよっ！\nなんでよなんでよなんでよーっ！",
-  "en": ""
+  "en": "Why?! Why?!\nWhy, why, whyyy?!"
  },
  {
   "id": "SEIDOU10:0004",
   "kind": "msg",
   "speaker": "ミュウ",
   "jp": "あんたたち、ほんっとイケてないねーっ！！",
-  "en": ""
+  "en": "You guys are seriously SO lame!!"
  },
  {
   "id": "SEIDOU10:0005",
   "kind": "msg",
   "speaker": "翔",
   "jp": "やつあたりされても、困るんだけどな………",
-  "en": ""
+  "en": "Taking it out on us won't help, you know..."
  },
  {
   "id": "SEIDOU10:0006",
   "kind": "msg",
   "speaker": "ミュウ",
   "jp": "なによ！\n今度は１００万回殺してあげるからねー！",
-  "en": ""
+  "en": "Shut up!\nNext time I'll kill you a million times over!"
  },
  {
   "id": "SEIDOU10:0007",
   "kind": "msg",
   "speaker": "ミュウ",
   "jp": "おぼえてなさいッ！！",
-  "en": ""
+  "en": "You'll pay for this!!"
  }
 ]

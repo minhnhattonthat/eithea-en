@@ -4,70 +4,70 @@
   "kind": "msg",
   "speaker": "店員",
   "jp": "ハ～イ、いらっしゃあい！",
-  "en": ""
+  "en": "Hiii there, welcome in~!"
  },
  {
   "id": "KA_KAITO:0001",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ショートカットの女の子、見なかったかな？",
-  "en": ""
+  "en": "Have you seen a girl with short hair?"
  },
  {
   "id": "KA_KAITO:0002",
   "kind": "msg",
   "speaker": "店員",
   "jp": "ん？　ん？　ん？\nショートカットの女の子ぉ？",
-  "en": ""
+  "en": "Hm? Hm? Hm?\nA girl with short hair~?"
  },
  {
   "id": "KA_KAITO:0003",
   "kind": "msg",
   "speaker": "店員",
   "jp": "それって、けっこうカワイイこ？",
-  "en": ""
+  "en": "Is she, like, pretty cute?"
  },
  {
   "id": "KA_KAITO:0004",
   "kind": "msg",
   "speaker": "翔",
   "jp": "――え！？\n知ってるのか！",
-  "en": ""
+  "en": "--Huh?!\nYou know her?!"
  },
  {
   "id": "KA_KAITO:0005",
   "kind": "msg",
   "speaker": "店員",
   "jp": "いんや、ぜんぜん。",
-  "en": ""
+  "en": "Nope, not at all."
  },
  {
   "id": "KA_KAITO:0006",
   "kind": "msg",
   "speaker": "店員",
   "jp": "カワイかったら紹介してもらおうと思って。\n<10>…<10>…ダメ？",
-  "en": ""
+  "en": "I just figured if she's cute, you could\nintroduce me.<10>..<10>..No good?"
  },
  {
   "id": "KA_KAITO:0007",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……それじゃあな。",
-  "en": ""
+  "en": "...See ya."
  },
  {
   "id": "KA_KAITO:0008",
   "kind": "msg",
   "speaker": "店員",
   "jp": "ハ～イ、いらっしゃあい！\nレジィの店に\nようこそようこそ！",
-  "en": ""
+  "en": "Hiii there, welcome in~!\nWelcome, welcome\nto Reggie's shop!"
  },
  {
   "id": "KA_KAITO:0009",
   "kind": "msg",
   "speaker": "店員",
   "jp": "珍しいモノ、\n買うよお、売るよお！",
-  "en": ""
+  "en": "Rare stuff,\nI buy it, I sell it~!"
  },
  {
   "id": "KA_KAITO:0010",
@@ -81,62 +81,62 @@
   "kind": "msg",
   "speaker": "店員",
   "jp": "オッケー！\nみんなみんなお買い得だよ！\nあり金ぜんぶ使っちゃってね！",
-  "en": ""
+  "en": "Okay~!\nEverything's a steal!\nSpend every last coin, 'kay?"
  },
  {
   "id": "KA_KAITO:0012",
   "kind": "msg",
   "speaker": "店員",
   "jp": "お買い上げありがとー！\n次はなんにする？　ん？　ん？",
-  "en": ""
+  "en": "Thanks for buyin'!\nWhat's next? Hm? Hm?"
  },
  {
   "id": "KA_KAITO:0013",
   "kind": "msg",
   "speaker": "店員",
   "jp": "なになになあ～にぃ！\nひやかしはノーサンキュー！\n次やったら怒っちゃうぜ！",
-  "en": ""
+  "en": "What what whaaat~?!\nNo window-shoppers, no thank you!\nDo it again and I'll get mad!"
  },
  {
   "id": "KA_KAITO:0014",
   "kind": "msg",
   "speaker": "店員",
   "jp": "オッケー、\n見せてくれないかい？",
-  "en": ""
+  "en": "Okay,\nwanna show me what you've got?"
  },
  {
   "id": "KA_KAITO:0015",
   "kind": "msg",
   "speaker": "店員",
   "jp": "さ～てさてさて、\n掘り出しモノはあるかなあ～？",
-  "en": ""
+  "en": "Weeell now, now, now,\nany hidden treasures in here~?"
  },
  {
   "id": "KA_KAITO:0016",
   "kind": "msg",
   "speaker": "店員",
   "jp": "んで、他になにかあるかい？\nあったら、教えてカモォ～ン！",
-  "en": ""
+  "en": "So, got anything else?\nIf ya do, show me, c'mon~!"
  },
  {
   "id": "KA_KAITO:0017",
   "kind": "msg",
   "speaker": "店員",
   "jp": "ほほぉ？\n今度来たらなにか売ってくれるかい？",
-  "en": ""
+  "en": "Ohoh?\nWill you sell me something next time?"
  },
  {
   "id": "KA_KAITO:0018",
   "kind": "msg",
   "speaker": "店員",
   "jp": "帰っちゃうのお？\nまってるからね、次も来るんだよ、オーケイ？",
-  "en": ""
+  "en": "Leavin' already?\nI'll be waiting, so come back again, okay?"
  },
  {
   "id": "KA_KAITO:0019",
   "kind": "msg",
   "speaker": "翔",
   "jp": "（一度、アルバイジャンの家に戻ってみるか……\nもしかしたら、伊藤さんが\n見つかってるかもしれないからな）",
-  "en": ""
+  "en": "(Maybe I should stop by Albaijan's house...\nThere's a chance someone's found\nItou-san by now.)"
  }
 ]

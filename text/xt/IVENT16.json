@@ -4,97 +4,97 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "（……ん、なんだ……？）",
-  "en": ""
+  "en": "(...Hm, what's that...?)"
  },
  {
   "id": "IVENT16:0001",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……よう、翔。\nおこしちまったか？",
-  "en": ""
+  "en": "...Hey, Shou.\nDid I wake you?"
  },
  {
   "id": "IVENT16:0002",
   "kind": "msg",
   "speaker": "翔",
   "jp": "アルバイジャン……\nなにしてるんだ？",
-  "en": ""
+  "en": "Albaijan...\nWhat are you doing?"
  },
  {
   "id": "IVENT16:0003",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "なにって、荷造りさ。\n明日中にカーライルに帰ろうと思ってな。",
-  "en": ""
+  "en": "What's it look like? Packing.\nI'm thinking of heading back to Carlyle\nsometime tomorrow."
  },
  {
   "id": "IVENT16:0004",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "さっきも言ったとおり、\nここだとブックの解読がこれ以上すすまないんだ。",
-  "en": ""
+  "en": "Like I said earlier, I can't get any further\ndecoding the Book here."
  },
  {
   "id": "IVENT16:0005",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "なぁ、やっぱり、おまえもいっしょに来るか？",
-  "en": ""
+  "en": "So, how about it?\nWanna come with me after all?"
  },
  {
   "id": "IVENT16:0006",
   "kind": "msg",
   "speaker": "翔",
   "jp": "遠慮しとくよ。",
-  "en": ""
+  "en": "I'll pass."
  },
  {
   "id": "IVENT16:0007",
   "kind": "msg",
   "speaker": "翔",
   "jp": "この村に慣れるだけで精一杯なのに、\n他のところに行って、うまくいくとは思えないし。",
-  "en": ""
+  "en": "I'm having enough trouble just getting used to\nthis village. I doubt I'd do any better going\nsomewhere else."
  },
  {
   "id": "IVENT16:0008",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "そっか。\nま、無理にとは言わねえよ。",
-  "en": ""
+  "en": "I see.\nWell, I won't force you."
  },
  {
   "id": "IVENT16:0009",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "おこしちまって、すまなかったな。",
-  "en": ""
+  "en": "Sorry for waking you."
  },
  {
   "id": "IVENT16:0010",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "カーライルに戻っても\nおまえ達の役に立つ事がわかったら連絡するからな。",
-  "en": ""
+  "en": "Even back in Carlyle, if I find out anything\nthat'll help you guys, I'll get in touch."
  },
  {
   "id": "IVENT16:0011",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ありがとう。",
-  "en": ""
+  "en": "Thanks."
  },
  {
   "id": "IVENT16:0012",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "先に寝ててくれ。\n俺はもう少し準備があるんでな。",
-  "en": ""
+  "en": "Go on back to sleep.\nI've still got a bit more packing to do."
  },
  {
   "id": "IVENT16:0013",
   "kind": "msg",
   "speaker": "翔",
   "jp": "じゃあ、でかけるか。",
-  "en": ""
+  "en": "Well, guess I'll head out."
  }
 ]

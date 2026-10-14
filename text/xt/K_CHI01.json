@@ -4,97 +4,97 @@
   "kind": "msg",
   "speaker": "",
   "jp": "　地下廃墟　　地下１階",
-  "en": ""
+  "en": "Underground Ruins - Basement 1"
  },
  {
   "id": "K_CHI01:0001",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……？？　あれは何だ？",
-  "en": ""
+  "en": "...?? What's that?"
  },
  {
   "id": "K_CHI01:0002",
   "kind": "choice",
   "speaker": "",
   "jp": "　開ける\n　やめる",
-  "en": ""
+  "en": "Open it\nLeave it"
  },
  {
   "id": "K_CHI01:0003",
   "kind": "msg",
   "speaker": "翔",
   "jp": "<1>長寿薬<8>を手に入れた！",
-  "en": ""
+  "en": "Got a <1>Longevity Potion<8>!"
  },
  {
   "id": "K_CHI01:0004",
   "kind": "choice",
   "speaker": "",
   "jp": "　開ける\n　やめる",
-  "en": ""
+  "en": "Open it\nLeave it"
  },
  {
   "id": "K_CHI01:0005",
   "kind": "msg",
   "speaker": "翔",
   "jp": "何もないな………",
-  "en": ""
+  "en": "Nothing here..."
  },
  {
   "id": "K_CHI01:0006",
   "kind": "choice",
   "speaker": "",
   "jp": "　開ける\n　やめる",
-  "en": ""
+  "en": "Open it\nLeave it"
  },
  {
   "id": "K_CHI01:0007",
   "kind": "msg",
   "speaker": "翔",
   "jp": "何もないな………",
-  "en": ""
+  "en": "Nothing here..."
  },
  {
   "id": "K_CHI01:0008",
   "kind": "msg",
   "speaker": "翔",
   "jp": "<1>長寿薬<8>を手に入れた！",
-  "en": ""
+  "en": "Got a <1>Longevity Potion<8>!"
  },
  {
   "id": "K_CHI01:0009",
   "kind": "msg",
   "speaker": "翔",
   "jp": "<1>長寿薬<8>を手に入れた！",
-  "en": ""
+  "en": "Got a <1>Longevity Potion<8>!"
  },
  {
   "id": "K_CHI01:0010",
   "kind": "msg",
   "speaker": "翔",
   "jp": "<1>長寿薬<8>を手に入れた！",
-  "en": ""
+  "en": "Got a <1>Longevity Potion<8>!"
  },
  {
   "id": "K_CHI01:0011",
   "kind": "msg",
   "speaker": "翔",
   "jp": "<1>長寿薬<8>を手に入れた！",
-  "en": ""
+  "en": "Got a <1>Longevity Potion<8>!"
  },
  {
   "id": "K_CHI01:0012",
   "kind": "msg",
   "speaker": "翔",
   "jp": "<1>長寿薬<8>を手に入れた！",
-  "en": ""
+  "en": "Got a <1>Longevity Potion<8>!"
  },
  {
   "id": "K_CHI01:0013",
   "kind": "msg",
   "speaker": "翔",
   "jp": "<1>ケムケム草<8>を手に入れた！",
-  "en": ""
+  "en": "Got a <1>Kemukemu Herb<8>!"
  }
 ]

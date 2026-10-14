@@ -4,56 +4,56 @@
   "kind": "msg",
   "speaker": "店員",
   "jp": "……あ、いらっしゃい。\n今日はどのようなものをお求めですか？",
-  "en": ""
+  "en": "...Oh, welcome.\nWhat are you looking for today?"
  },
  {
   "id": "KA_KUSUR:0001",
   "kind": "msg",
   "speaker": "翔",
   "jp": "いえ、薬じゃないんです。\nショートカットの女の子が来ませんでしたか？",
-  "en": ""
+  "en": "No, I'm not here for medicine.\nDid a girl with short hair come by here?"
  },
  {
   "id": "KA_KUSUR:0002",
   "kind": "msg",
   "speaker": "店員",
   "jp": "その子は月光族？\nそれとも火竜族ですか？",
-  "en": ""
+  "en": "Is she Moonlight Clan?\nOr Fire Dragon Clan?"
  },
  {
   "id": "KA_KUSUR:0003",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……いや、その……",
-  "en": ""
+  "en": "...Well, um..."
  },
  {
   "id": "KA_KUSUR:0004",
   "kind": "msg",
   "speaker": "店員",
   "jp": "どちらにしても女の子は来ませんでしたよ。",
-  "en": ""
+  "en": "Either way, no girls have come in."
  },
  {
   "id": "KA_KUSUR:0005",
   "kind": "msg",
   "speaker": "店員",
   "jp": "来られたら、『若い男の人が探していた』と、\n伝言しておきますね。",
-  "en": ""
+  "en": "If she does, I'll pass on the message:\n\"A young man was looking for you.\""
  },
  {
   "id": "KA_KUSUR:0006",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ありがとうございます。\nそれじゃあ――",
-  "en": ""
+  "en": "Thank you very much.\nWell then--"
  },
  {
   "id": "KA_KUSUR:0007",
   "kind": "msg",
   "speaker": "店員",
   "jp": "……あ、いらっしゃい。\n今日はどのようなものをお求めですか？",
-  "en": ""
+  "en": "...Oh, welcome.\nWhat are you looking for today?"
  },
  {
   "id": "KA_KUSUR:0008",
@@ -67,62 +67,62 @@
   "kind": "msg",
   "speaker": "店員",
   "jp": "これが今ある薬です。\n効き目は保証しますよ。",
-  "en": ""
+  "en": "This is the medicine we have right now.\nThe effects are guaranteed."
  },
  {
   "id": "KA_KUSUR:0010",
   "kind": "msg",
   "speaker": "店員",
   "jp": "お買い上げ\nありがとうございます。",
-  "en": ""
+  "en": "Thank you\nfor your purchase."
  },
  {
   "id": "KA_KUSUR:0011",
   "kind": "msg",
   "speaker": "店員",
   "jp": "他になにか必要なものはありますか？",
-  "en": ""
+  "en": "Is there anything else you need?"
  },
  {
   "id": "KA_KUSUR:0012",
   "kind": "msg",
   "speaker": "店員",
   "jp": "お買い上げにならないのですか？\nうちのお薬の効き目は保証しますよ。",
-  "en": ""
+  "en": "You're not buying anything?\nThe effects of our medicine are guaranteed."
  },
  {
   "id": "KA_KUSUR:0013",
   "kind": "msg",
   "speaker": "店員",
   "jp": "あら？\nどんなものを持っているか見せてね。",
-  "en": ""
+  "en": "Oh?\nLet me see what you've got."
  },
  {
   "id": "KA_KUSUR:0014",
   "kind": "msg",
   "speaker": "店員",
   "jp": "売りたい物があったら、また持って来てね。",
-  "en": ""
+  "en": "If you have anything to sell,\nbring it by again."
  },
  {
   "id": "KA_KUSUR:0015",
   "kind": "msg",
   "speaker": "店員",
   "jp": "えぇ～！！\n見せてくれるだけなのぉ？",
-  "en": ""
+  "en": "Whaaat~!!\nYou're only going to show me?"
  },
  {
   "id": "KA_KUSUR:0016",
   "kind": "msg",
   "speaker": "店員",
   "jp": "ありがとうございました。\n使いきらないうちに、また来てくださいね。",
-  "en": ""
+  "en": "Thank you very much.\nCome again before you run out, okay?"
  },
  {
   "id": "KA_KUSUR:0017",
   "kind": "msg",
   "speaker": "翔",
   "jp": "（一度、アルバイジャンの家に戻ってみるか……\nもしかしたら、伊藤さんが\n見つかってるかもしれないからな）",
-  "en": ""
+  "en": "(Maybe I should stop by Albaijan's house...\nThere's a chance someone's found\nItou-san by now.)"
  }
 ]

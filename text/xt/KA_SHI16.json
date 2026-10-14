@@ -4,27 +4,27 @@
   "kind": "msg",
   "speaker": "",
   "jp": "　火竜城３階東小部屋",
-  "en": ""
+  "en": "Fire Dragon Castle - Floor 3 East Small Room"
  },
  {
   "id": "KA_SHI16:0001",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "ここだ！",
-  "en": ""
+  "en": "This is it!"
  },
  {
   "id": "KA_SHI16:0002",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "この部屋の像を押せば、扉が開くはずだ！",
-  "en": ""
+  "en": "Push the statue in this room, and the door\nshould open!"
  },
  {
   "id": "KA_SHI16:0003",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "ここを進んでいけば、謁見の間に出る。\nさあ、行こう！",
-  "en": ""
+  "en": "If we follow this, we'll come out in the\naudience chamber. Come on, let's go!"
  }
 ]

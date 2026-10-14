@@ -4,412 +4,412 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "……猫の声がうるさいな。\nもうすぐ朝みたいだし……\n散歩でもするか……",
-  "en": ""
+  "en": "...Those cats are loud.\nLooks like it's almost morning...\nMaybe I'll take a walk..."
  },
  {
   "id": "IVENT10:0001",
   "kind": "msg",
   "speaker": "翔",
   "jp": "外が暗いと\n雰囲気がちがうな……",
-  "en": ""
+  "en": "Things feel different\nwhen it's dark out..."
  },
  {
   "id": "IVENT10:0002",
   "kind": "msg",
   "speaker": "翔",
   "jp": "な、なんだ？",
-  "en": ""
+  "en": "Wh-What's that?"
  },
  {
   "id": "IVENT10:0003",
   "kind": "msg",
   "speaker": "猫",
   "jp": "ミャー……",
-  "en": ""
+  "en": "Meow..."
  },
  {
   "id": "IVENT10:0004",
   "kind": "msg",
   "speaker": "翔",
   "jp": "なんだ、猫か……\nそういやこの村って、\nやけに猫が多いな。",
-  "en": ""
+  "en": "Oh, just a cat...\nCome to think of it, this village\nhas an awful lot of cats."
  },
  {
   "id": "IVENT10:0005",
   "kind": "msg",
   "speaker": "猫",
   "jp": "ミャー！！",
-  "en": ""
+  "en": "Meow!!"
  },
  {
   "id": "IVENT10:0006",
   "kind": "msg",
   "speaker": "翔",
   "jp": "あれ？\nどこにいったんだ？",
-  "en": ""
+  "en": "Huh?\nWhere'd it go?"
  },
  {
   "id": "IVENT10:0007",
   "kind": "msg",
   "speaker": "猫",
   "jp": "ミャー！　ミャアーッ！！",
-  "en": ""
+  "en": "Meow! Meeeow!!"
  },
  {
   "id": "IVENT10:0008",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "きゃあああああっ！",
-  "en": ""
+  "en": "Kyaaaaaah!"
  },
  {
   "id": "IVENT10:0009",
   "kind": "msg",
   "speaker": "翔",
   "jp": "あ、あなたは！？",
-  "en": ""
+  "en": "W-Wait, you're...?!"
  },
  {
   "id": "IVENT10:0010",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "見られてしまいましたね……",
-  "en": ""
+  "en": "So you saw me..."
  },
  {
   "id": "IVENT10:0011",
   "kind": "msg",
   "speaker": "翔",
   "jp": "いったいなぜ、\nあなたが猫に……？",
-  "en": ""
+  "en": "But why on earth\nwere you a cat...?"
  },
  {
   "id": "IVENT10:0012",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "これは、私たち\n月光族全員が持っている\n<1>忌まわしき特質<8>なんです……",
-  "en": ""
+  "en": "This is an <1>accursed trait<8>\nthat every one of us in the\nMoonlight Clan carries..."
  },
  {
   "id": "IVENT10:0013",
   "kind": "msg",
   "speaker": "翔",
   "jp": "特質？",
-  "en": ""
+  "en": "A trait?"
  },
  {
   "id": "IVENT10:0014",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "ええ。\n<1>月に一度、身体が変化して\nしまう<8>んです。",
-  "en": ""
+  "en": "Yes.\n<1>Once a month, our bodies\nchange<8>."
  },
  {
   "id": "IVENT10:0015",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "人によって、いつ変化するかは\n異なりますけど……",
-  "en": ""
+  "en": "When it happens differs\nfrom person to person, though..."
  },
  {
   "id": "IVENT10:0016",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "いつから、なぜこうなったのか\nはわかりません。",
-  "en": ""
+  "en": "We don't know when it began,\nor why it happens."
  },
  {
   "id": "IVENT10:0017",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "……私たちはずっと、\nこのことを隠して\n暮らしてきました。",
-  "en": ""
+  "en": "...We've lived our whole lives\nkeeping this a secret."
  },
  {
   "id": "IVENT10:0018",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "……お願いです。\nこのことは秘密にして\nもらえますか？",
-  "en": ""
+  "en": "...Please.\nWould you keep this\nbetween us?"
  },
  {
   "id": "IVENT10:0019",
   "kind": "msg",
   "speaker": "翔",
   "jp": "いいですよ。\n誰かに言って、\n気持ちのいいことでもないし。",
-  "en": ""
+  "en": "Sure.\nBlabbing it to people\nwouldn't feel right anyway."
  },
  {
   "id": "IVENT10:0020",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "よかった……\nありがとう、翔<8>さん……",
-  "en": ""
+  "en": "Thank goodness...\nThank you, Shou<8>-san..."
  },
  {
   "id": "IVENT10:0021",
   "kind": "msg",
   "speaker": "翔",
   "jp": "翔<8>でいいですよ。",
-  "en": ""
+  "en": "Just Shou<8> is fine."
  },
  {
   "id": "IVENT10:0022",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "ふふ、ルー<8>みたいなことを\n言うんですね……\nええ、わかったわ。",
-  "en": ""
+  "en": "Hehe, that's just the kind of thing\nLou<8> would say...\nAll right, then."
  },
  {
   "id": "IVENT10:0023",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "そういえば……\n翔<8>、あの人のことを\nどう思いますか？",
-  "en": ""
+  "en": "By the way...\nShou<8>, what do you think\nof that man?"
  },
  {
   "id": "IVENT10:0024",
   "kind": "msg",
   "speaker": "翔",
   "jp": "<10>……<10>あの人？",
-  "en": ""
+  "en": "<10>...<10>That man?"
  },
  {
   "id": "IVENT10:0025",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "あの火竜族の……\nアルバイジャン<8>です。",
-  "en": ""
+  "en": "That one from the Fire Dragon Clan...\nAlbaijan<8>."
  },
  {
   "id": "IVENT10:0026",
   "kind": "msg",
   "speaker": "翔",
   "jp": "あの人は……",
-  "en": ""
+  "en": "That guy is..."
  },
  {
   "id": "IVENT10:0027",
   "kind": "choice",
   "speaker": "",
   "jp": "　信用できない\n　悪い人じゃないと思う",
-  "en": ""
+  "en": "I don't trust him\nHe's not a bad guy"
  },
  {
   "id": "IVENT10:0028",
   "kind": "msg",
   "speaker": "翔",
   "jp": "あまり信用できませんね。\nあの顔にあの言動。",
-  "en": ""
+  "en": "I don't really trust him.\nThat face, the way he talks..."
  },
  {
   "id": "IVENT10:0029",
   "kind": "msg",
   "speaker": "翔",
   "jp": "どう考えても、\n信用できるような人には見えませんよ。",
-  "en": ""
+  "en": "Any way you look at it,\nhe doesn't seem like someone you can trust."
  },
  {
   "id": "IVENT10:0030",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "……そうでしょうか？\n私は、悪い人ではないような気がします。",
-  "en": ""
+  "en": "...You think so?\nI have a feeling he's not a bad person."
  },
  {
   "id": "IVENT10:0031",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "あの人は、あなたのお友達を\n助けてくれたと聞きましたし。",
-  "en": ""
+  "en": "I heard he rescued\nyour friends, after all."
  },
  {
   "id": "IVENT10:0032",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "悪い人なら、\nそんなことはしないと思います。",
-  "en": ""
+  "en": "I don't think a bad person\nwould do something like that."
  },
  {
   "id": "IVENT10:0033",
   "kind": "msg",
   "speaker": "翔",
   "jp": "確かに……\nそれは、そうですね。",
-  "en": ""
+  "en": "That's... true,\nI suppose."
  },
  {
   "id": "IVENT10:0034",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "私、火竜族も悪い人ばかり\nじゃないと思うんです。",
-  "en": ""
+  "en": "I don't think everyone in the\nFire Dragon Clan is bad, either."
  },
  {
   "id": "IVENT10:0035",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "話せば、理解できる人もいる。",
-  "en": ""
+  "en": "Some of them would understand\nif we talked."
  },
  {
   "id": "IVENT10:0036",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "今は仲が悪いけど、\nいつかきっと、\n手を取りあえる日が来る。",
-  "en": ""
+  "en": "We don't get along now, but\nsomeday, I'm sure, the day will\ncome when we join hands."
  },
  {
   "id": "IVENT10:0037",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "……こう考えるのって、\n間違ってますか？",
-  "en": ""
+  "en": "...Is it wrong of me\nto think that way?"
  },
  {
   "id": "IVENT10:0038",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……いや、\n間違ってないと思う。\nいい考えだと思いますよ。",
-  "en": ""
+  "en": "...No,\nI don't think you're wrong.\nI think it's a great idea."
  },
  {
   "id": "IVENT10:0039",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "ありがとう……\nごめんなさい、\nつまらないこと言っちゃって。",
-  "en": ""
+  "en": "Thank you...\nI'm sorry for\nboring you with all this."
  },
  {
   "id": "IVENT10:0040",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "ちょっと悩んでたんです。\n私は、ほんとうに、\nこれでいいのかなって……",
-  "en": ""
+  "en": "I've been a little worried.\nWondering if I'm truly\ndoing the right thing..."
  },
  {
   "id": "IVENT10:0041",
   "kind": "msg",
   "speaker": "翔",
   "jp": "いいと思いますよ。\n誰だって、憎むよりは\n仲良くしたいだろうし。",
-  "en": ""
+  "en": "I think you are.\nAnybody would rather get along\nthan hate each other."
  },
  {
   "id": "IVENT10:0042",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "ありがとう、翔<8>……",
-  "en": ""
+  "en": "Thank you, Shou<8>..."
  },
  {
   "id": "IVENT10:0043",
   "kind": "msg",
   "speaker": "翔",
   "jp": "いいですよ。\n……そろそろ行きませんか？\nもう朝だし、送りますよ。",
-  "en": ""
+  "en": "No problem.\n...Shall we get going?\nIt's morning. I'll walk you back."
  },
  {
   "id": "IVENT10:0044",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "ええ……\nそれじゃあ、行きましょうか。",
-  "en": ""
+  "en": "Yes...\nLet's go, then."
  },
  {
   "id": "IVENT10:0045",
   "kind": "msg",
   "speaker": "翔",
   "jp": "悪い人じゃあないと思うけど。\n俺の友達を助けてくれたし。",
-  "en": ""
+  "en": "I don't think he's a bad guy.\nHe helped out my friends."
  },
  {
   "id": "IVENT10:0046",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "そうなんですか？",
-  "en": ""
+  "en": "Did he?"
  },
  {
   "id": "IVENT10:0047",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ええ、道に迷っていたところを\n助けられたそうです。",
-  "en": ""
+  "en": "Yes. Apparently he rescued them\nwhen they'd gotten lost."
  },
  {
   "id": "IVENT10:0048",
   "kind": "msg",
   "speaker": "翔",
   "jp": "確かに顔は恐いし、\n言葉づかいは乱暴だけど、\n悪い人じゃないと思いますね。",
-  "en": ""
+  "en": "Sure, his face is scary\nand he talks rough,\nbut I don't think he's a bad person."
  },
  {
   "id": "IVENT10:0049",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "私もそう思います。\nでも、実は族長は悩んでるんです。",
-  "en": ""
+  "en": "I think so too.\nBut the truth is, the Chief is worried."
  },
  {
   "id": "IVENT10:0050",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "イオピロスの塔の鍵をアルバイジャンに\n貸してしまったことを……",
-  "en": ""
+  "en": "Over having lent the key to Iopiros Tower\nto Albaijan..."
  },
  {
   "id": "IVENT10:0051",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "今まで、あの塔によそもの……\n火竜族を入れたことはありませんから。",
-  "en": ""
+  "en": "Until now, we've never let outsiders...\nthe Fire Dragon Clan, into that tower."
  },
  {
   "id": "IVENT10:0052",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "でも、そんなことはもう、\n言ってられないと思うんです。",
-  "en": ""
+  "en": "But I don't think we can afford\nto worry about that anymore."
  },
  {
   "id": "IVENT10:0053",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "何かが変わろうとしている。\n……そんな気がするんです。",
-  "en": ""
+  "en": "Something is about to change.\n...That's how it feels to me."
  },
  {
   "id": "IVENT10:0054",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "……ごめんなさい。\nつまらないこと言っちゃって。",
-  "en": ""
+  "en": "...I'm sorry.\nI'm boring you with all this."
  },
  {
   "id": "IVENT10:0055",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "この世界の人間じゃない\nあなたに言っても、\n意味がないですよね。",
-  "en": ""
+  "en": "It's pointless telling all this\nto you, when you're not\neven from this world, isn't it?"
  },
  {
   "id": "IVENT10:0056",
   "kind": "msg",
   "speaker": "翔",
   "jp": "いいですよ。\n……そろそろ行きましょうか？\nもう朝だし、送りますよ。",
-  "en": ""
+  "en": "It's fine.\n...Should we head out?\nIt's morning. I'll walk you back."
  },
  {
   "id": "IVENT10:0057",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "ありがとう……\nじゃあ、行きましょうか。",
-  "en": ""
+  "en": "Thank you...\nLet's go, then."
  },
  {
   "id": "IVENT10:0058",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "どう、疲れはとれた？\nじゃあ出発しよっか？",
-  "en": ""
+  "en": "Well, rested up?\nReady to head out?"
  }
 ]

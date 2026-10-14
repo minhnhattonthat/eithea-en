@@ -11,14 +11,14 @@
   "kind": "msg",
   "speaker": "",
   "jp": "<1>エレの樹の実<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>Ele Tree Fruit<8>!"
  },
  {
   "id": "KA_ROU01:0002",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……翔、今、いいかな？",
-  "en": ""
+  "en": "...Shou, got a minute?"
  },
  {
   "id": "KA_ROU01:0003",
@@ -32,105 +32,105 @@
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "さっきはごめんね。\nでも、もう、だいじょうぶ。",
-  "en": ""
+  "en": "Sorry about earlier.\nBut I'm okay now."
  },
  {
   "id": "KA_ROU01:0005",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "もう戦えるから……\nアルバイジャンを助けに行けるから！",
-  "en": ""
+  "en": "I can fight again...\nI can go save Albaijan!"
  },
  {
   "id": "KA_ROU01:0006",
   "kind": "choice",
   "speaker": "",
   "jp": "　無理するな\n　冗談じゃない",
-  "en": ""
+  "en": "Don't push yourself\nYou've gotta be kidding"
  },
  {
   "id": "KA_ROU01:0007",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ユカ、今はあまり無理をするな。",
-  "en": ""
+  "en": "Yuka, don't push yourself too hard right now."
  },
  {
   "id": "KA_ROU01:0008",
   "kind": "msg",
   "speaker": "翔",
   "jp": "落ちこむときは、誰にだってあるんだ。",
-  "en": ""
+  "en": "Everybody gets down sometimes."
  },
  {
   "id": "KA_ROU01:0009",
   "kind": "msg",
   "speaker": "翔",
   "jp": "もっと、力をぬけよ。",
-  "en": ""
+  "en": "Loosen up a little."
  },
  {
   "id": "KA_ROU01:0010",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……ありがと、翔。",
-  "en": ""
+  "en": "...Thanks, Shou."
  },
  {
   "id": "KA_ROU01:0011",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "そうだよね……\n無理してもしょうがないよね。",
-  "en": ""
+  "en": "You're right...\nNo point pushing myself, huh."
  },
  {
   "id": "KA_ROU01:0012",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "翔、がんばろう！\nいっしょにアルバイジャンを助けようね！",
-  "en": ""
+  "en": "Let's do our best, Shou!\nLet's save Albaijan together!"
  },
  {
   "id": "KA_ROU01:0013",
   "kind": "msg",
   "speaker": "翔",
   "jp": "冗談を言うな。\nおまえはまだ戦える状態じゃないだろ？",
-  "en": ""
+  "en": "Don't joke around.\nYou're not in any shape to fight yet, are you?"
  },
  {
   "id": "KA_ROU01:0014",
   "kind": "msg",
   "speaker": "翔",
   "jp": "もっと考えてものを言えよ！",
-  "en": ""
+  "en": "Think before you open your mouth!"
  },
  {
   "id": "KA_ROU01:0015",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……ごめん。\nまだ、無理なのかな……",
-  "en": ""
+  "en": "...Sorry.\nI guess I'm still not ready..."
  },
  {
   "id": "KA_ROU01:0016",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "翔、ごめんね……\n私、足ひっぱってる……",
-  "en": ""
+  "en": "Shou, I'm sorry...\nI'm dragging you all down..."
  },
  {
   "id": "KA_ROU01:0017",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ごめん……ごめんね……\n翔、許して……",
-  "en": ""
+  "en": "Sorry... I'm so sorry...\nForgive me, Shou..."
  },
  {
   "id": "KA_ROU01:0018",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "新見くん、やっぱり不安だわ……",
-  "en": ""
+  "en": "Niimi-kun, I can't help feeling uneasy..."
  },
  {
   "id": "KA_ROU01:0019",
@@ -144,28 +144,28 @@
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "アルバイジャンなんだけど、\n本当にだいじょうぶかしら？",
-  "en": ""
+  "en": "It's about Albaijan.\nDo you think he's really all right?"
  },
  {
   "id": "KA_ROU01:0021",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "殺されても死なないタイプという\n感じはするけど……\nやっぱり心配だわ。",
-  "en": ""
+  "en": "He does seem like the type who'd\nsurvive even if you killed him...\nbut I'm still worried."
  },
  {
   "id": "KA_ROU01:0022",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "新見くん、お願い、早く行きましょう。",
-  "en": ""
+  "en": "Niimi-kun, please, let's hurry."
  },
  {
   "id": "KA_ROU01:0023",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ねえ、翔……",
-  "en": ""
+  "en": "Hey, Shou..."
  },
  {
   "id": "KA_ROU01:0024",
@@ -179,35 +179,35 @@
   "kind": "msg",
   "speaker": "ルー",
   "jp": "やっぱりユカは\n泣かせたままのほうがよかったのかもね。",
-  "en": ""
+  "en": "Maybe we should've just left Yuka\ncrying after all."
  },
  {
   "id": "KA_ROU01:0026",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "なんか、またうるさくなったしさ。",
-  "en": ""
+  "en": "She's gotten all noisy again, y'know."
  },
  {
   "id": "KA_ROU01:0027",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "……でも、あの子の声を聞かないとさ、\nなんかさびしいんだ……",
-  "en": ""
+  "en": "...But if I don't hear her voice,\nit kinda gets lonely..."
  },
  {
   "id": "KA_ROU01:0028",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "なんでだろうね？\nあははは、おかしいよね。",
-  "en": ""
+  "en": "Why is that?\nAhahaha, that's weird, huh?"
  },
  {
   "id": "KA_ROU01:0029",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "新見くん、いいですか？",
-  "en": ""
+  "en": "Niimi-kun, do you have a moment?"
  },
  {
   "id": "KA_ROU01:0030",
@@ -221,49 +221,49 @@
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "ユカ、元気になりましたね。\nわたし、安心しました……",
-  "en": ""
+  "en": "Yuka's feeling better now.\nI'm so relieved..."
  },
  {
   "id": "KA_ROU01:0032",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "でも、少しくやしいんです。",
-  "en": ""
+  "en": "But it's a little frustrating, too."
  },
  {
   "id": "KA_ROU01:0033",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "わたし、ユカの友達なのに、\n何もしてあげられなかった……",
-  "en": ""
+  "en": "I'm Yuka's friend, and yet\nI couldn't do anything for her..."
  },
  {
   "id": "KA_ROU01:0034",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "ユカはわたしのこと、\nずっと守ってくれたのに……",
-  "en": ""
+  "en": "Even though Yuka's always\nprotected me..."
  },
  {
   "id": "KA_ROU01:0035",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "ルーがいなかったら、\nユカは……ユカは……",
-  "en": ""
+  "en": "If Lou hadn't been there,\nYuka would have... Yuka would have..."
  },
  {
   "id": "KA_ROU01:0036",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "わたし、ユカの友達失格ですね……",
-  "en": ""
+  "en": "I'm a failure as Yuka's friend, aren't I..."
  },
  {
   "id": "KA_ROU01:0037",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "新見くん、今、いいわよね？",
-  "en": ""
+  "en": "Niimi-kun, you have a moment, don't you?"
  },
  {
   "id": "KA_ROU01:0038",
@@ -277,90 +277,90 @@
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "アイシアに来てから、どのぐらい経ったのかしら？",
-  "en": ""
+  "en": "I wonder how long it's been\nsince we came to Eithéa?"
  },
  {
   "id": "KA_ROU01:0040",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "短いような、長いような……\nでも、いろいろあったことは事実だわ。",
-  "en": ""
+  "en": "It feels short, and long too...\nBut a lot has happened, that's for sure."
  },
  {
   "id": "KA_ROU01:0041",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "みんなもそうだけど、\n新見くんもずいぶん頼もしくなったわね。",
-  "en": ""
+  "en": "Everyone's grown, but you've become\nquite dependable too, Niimi-kun."
  },
  {
   "id": "KA_ROU01:0042",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "私なんて、もう出る幕がないかもね。\nうふふふふふふ。",
-  "en": ""
+  "en": "Maybe there's no role left for me now.\nUfufufufufu."
  },
  {
   "id": "KA_ROU01:0043",
   "kind": "choice",
   "speaker": "",
   "jp": "　そんなことはない\n　やっぱりわかりますか",
-  "en": ""
+  "en": "That's not true\nSo you can tell?"
  },
  {
   "id": "KA_ROU01:0044",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そんなこと、ないですよ。",
-  "en": ""
+  "en": "That's not true at all."
  },
  {
   "id": "KA_ROU01:0045",
   "kind": "msg",
   "speaker": "翔",
   "jp": "先生、俺たちのこと、\nちゃんと守ってくださいね。",
-  "en": ""
+  "en": "Sensei, keep looking out\nfor us, okay?"
  },
  {
   "id": "KA_ROU01:0046",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "あらあら、心にもないこと言っちゃって。",
-  "en": ""
+  "en": "My, my, saying things you don't mean."
  },
  {
   "id": "KA_ROU01:0047",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "『実るほど頭をたれる稲穂かな』よ。\n新見くん、その謙虚さを忘れないでね。",
-  "en": ""
+  "en": "\"The fuller the ear of rice, the lower\nit bows.\" Niimi-kun, never forget\nthat humility."
  },
  {
   "id": "KA_ROU01:0048",
   "kind": "msg",
   "speaker": "翔",
   "jp": "やっぱり、わかってましたか。",
-  "en": ""
+  "en": "So you could tell after all."
  },
  {
   "id": "KA_ROU01:0049",
   "kind": "msg",
   "speaker": "翔",
   "jp": "誰も年には勝てないってことじゃないですか？",
-  "en": ""
+  "en": "I guess nobody can win against age, right?"
  },
  {
   "id": "KA_ROU01:0050",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "……前言撤回よ。\nやっぱり、まだまだね。",
-  "en": ""
+  "en": "...I take that back.\nYou've still got a long way to go."
  },
  {
   "id": "KA_ROU01:0051",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "自分自身の実力をちゃんと認識しなさいね。",
-  "en": ""
+  "en": "Learn to judge your own abilities properly."
  }
 ]

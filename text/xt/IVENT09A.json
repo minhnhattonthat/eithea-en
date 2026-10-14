@@ -4,69 +4,69 @@
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "おおおっ！！　翔！\n生きとったんか！？\nもう会えへんかと思うたで。",
-  "en": ""
+  "en": "Whoooa!! Shou!\nYou're alive?!\nI figured I'd never see ya again."
  },
  {
   "id": "IVENT09A:0001",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ああっ！\nヒトシ！　学！！",
-  "en": ""
+  "en": "Ah!\nHitoshi! Manabu!!"
  },
  {
   "id": "IVENT09A:0002",
   "kind": "msg",
   "speaker": "翔",
   "jp": "どうやってここに来たんだ？",
-  "en": ""
+  "en": "How'd you guys get here?"
  },
  {
   "id": "IVENT09A:0003",
   "kind": "msg",
   "speaker": "学",
   "jp": "うん……\n道に迷っちゃってね。",
-  "en": ""
+  "en": "Well...\nWe kinda got lost."
  },
  {
   "id": "IVENT09A:0004",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "そのうえ足にケガするし、踏んだりけったりや。",
-  "en": ""
+  "en": "And then I went and hurt my foot.\nTalk about a lousy day."
  },
  {
   "id": "IVENT09A:0005",
   "kind": "msg",
   "speaker": "学",
   "jp": "運よくそこを、\n旅商人に助けてもらったんだ。",
-  "en": ""
+  "en": "Luckily, right then,\na traveling merchant saved us."
  },
  {
   "id": "IVENT09A:0006",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "あぶないところやったでぇ。\nところで、他のみんなは？",
-  "en": ""
+  "en": "That was a close one, lemme tell ya.\nAnyway, where's everybody else?"
  },
  {
   "id": "IVENT09A:0007",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ああ、ここにいるぜ。\nみんな元気だ。",
-  "en": ""
+  "en": "Yeah, they're here.\nEveryone's doing fine."
  },
  {
   "id": "IVENT09A:0008",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "よっしゃ学！\nとっとと挨拶に行ってこようや！",
-  "en": ""
+  "en": "Awright, Manabu!\nLet's go say hi already!"
  },
  {
   "id": "IVENT09A:0009",
   "kind": "msg",
   "speaker": "学",
   "jp": "うん！\nじゃあね、翔。\nまた、あとで……",
-  "en": ""
+  "en": "Okay!\nBye, Shou.\nSee you later..."
  }
 ]

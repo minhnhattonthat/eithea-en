@@ -4,7 +4,7 @@
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "翔、ちょっといい？",
-  "en": ""
+  "en": "Shou, got a sec?"
  },
  {
   "id": "K_CHI21F:0001",
@@ -18,70 +18,70 @@
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "だいじょうぶ？\n無理してない？",
-  "en": ""
+  "en": "Are you okay?\nYou're not pushing yourself too hard?"
  },
  {
   "id": "K_CHI21F:0003",
   "kind": "choice",
   "speaker": "",
   "jp": "　だいじょうぶだ\n　ほっといてくれ",
-  "en": ""
+  "en": "I'm fine\nLeave me alone"
  },
  {
   "id": "K_CHI21F:0004",
   "kind": "msg",
   "speaker": "翔",
   "jp": "だいじょうぶだ。\n何も無理はしてないさ。",
-  "en": ""
+  "en": "I'm fine.\nI'm not pushing myself at all."
  },
  {
   "id": "K_CHI21F:0005",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "そう？　ほんとにほんと？\n絶対に無理しないでね。",
-  "en": ""
+  "en": "Really? Really really?\nPromise you won't overdo it."
  },
  {
   "id": "K_CHI21F:0006",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "今まで迷惑かけたぶん、私に甘えて……ね？",
-  "en": ""
+  "en": "After all the trouble I've caused you,\nyou can lean on me now... okay?"
  },
  {
   "id": "K_CHI21F:0007",
   "kind": "msg",
   "speaker": "翔",
   "jp": "俺のことはほっとけよ。",
-  "en": ""
+  "en": "Just leave me alone."
  },
  {
   "id": "K_CHI21F:0008",
   "kind": "msg",
   "speaker": "翔",
   "jp": "人のことを心配する前に、\n自分のことを考えたらどうだ？",
-  "en": ""
+  "en": "Before you worry about other people,\nhow about thinking about yourself?"
  },
  {
   "id": "K_CHI21F:0009",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "何よ、その言い方は！？\nせっかく心配してあげたのに。",
-  "en": ""
+  "en": "What's with that attitude?!\nAnd here I was, worried about you."
  },
  {
   "id": "K_CHI21F:0010",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "もういいよ！\n翔なんて知らないんだから！",
-  "en": ""
+  "en": "Fine!\nSee if I care about you, Shou!"
  },
  {
   "id": "K_CHI21F:0011",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "新見くん、聞きたいことがあるんですけど……",
-  "en": ""
+  "en": "Niimi-kun, there's something\nI wanted to ask..."
  },
  {
   "id": "K_CHI21F:0012",
@@ -95,49 +95,49 @@
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "ヤムヤムの森から逃げるとき、\nイムルは元気そうでしたか？",
-  "en": ""
+  "en": "When we escaped from Yamyam Forest,\ndid Imul seem all right?"
  },
  {
   "id": "K_CHI21F:0014",
   "kind": "choice",
   "speaker": "",
   "jp": "　元気そうだった\n　元気じゃなかった",
-  "en": ""
+  "en": "Imul seemed fine\nImul didn't seem fine"
  },
  {
   "id": "K_CHI21F:0015",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ああ、いつもと変わらなかったよ。",
-  "en": ""
+  "en": "Yeah, same as always."
  },
  {
   "id": "K_CHI21F:0016",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "元気だったんですか。よかった……\nあのとき、お別れが言えなくて気になってたんです。\nイムル、無事だといいですよね……",
-  "en": ""
+  "en": "Imul was okay? Thank goodness...\nI couldn't say goodbye back then, and it's\nbeen on my mind. I hope Imul's safe..."
  },
  {
   "id": "K_CHI21F:0017",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そうだな……少しさびしそうだったけど。",
-  "en": ""
+  "en": "Yeah... though Imul seemed a little lonely."
  },
  {
   "id": "K_CHI21F:0018",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "そうだったんですか……\nあのとき、お別れが言えなくて気になってたんです。\nでもまた、会えますよね……",
-  "en": ""
+  "en": "Oh, I see...\nI couldn't say goodbye back then, and it's\nbeen on my mind. But we'll meet again..."
  },
  {
   "id": "K_CHI21F:0019",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "新見くん、少しいいかしら？",
-  "en": ""
+  "en": "Niimi-kun, do you have a moment?"
  },
  {
   "id": "K_CHI21F:0020",
@@ -151,91 +151,91 @@
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "身体の調子はどう？\n無理してないかしら？",
-  "en": ""
+  "en": "How are you feeling?\nYou're not overdoing it, are you?"
  },
  {
   "id": "K_CHI21F:0022",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "……ごめんね。心配だけしかできなくて。\n私、先生失格ね……",
-  "en": ""
+  "en": "...I'm sorry. All I can do is worry.\nI'm a failure as a teacher..."
  },
  {
   "id": "K_CHI21F:0023",
   "kind": "choice",
   "speaker": "",
   "jp": "　そんなことありません！\n　しょうがないですよ",
-  "en": ""
+  "en": "That's not true!\nIt can't be helped"
  },
  {
   "id": "K_CHI21F:0024",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そんなことないですよ！",
-  "en": ""
+  "en": "That's not true!"
  },
  {
   "id": "K_CHI21F:0025",
   "kind": "msg",
   "speaker": "翔",
   "jp": "先生はいつも俺たちを守ってくれたじゃないですか？",
-  "en": ""
+  "en": "You've always protected us,\nhaven't you, Sensei?"
  },
  {
   "id": "K_CHI21F:0026",
   "kind": "msg",
   "speaker": "翔",
   "jp": "先生がいなかったら、俺は……",
-  "en": ""
+  "en": "If it weren't for you, Sensei, I'd..."
  },
  {
   "id": "K_CHI21F:0027",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ありがとう……\n私、教師を仕事にしてほんとうによかったわ。",
-  "en": ""
+  "en": "Thank you...\nI'm truly glad I chose to become a teacher."
  },
  {
   "id": "K_CHI21F:0028",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "それに新見くん、\nあなたと会えてほんとうによかった。",
-  "en": ""
+  "en": "And Niimi-kun,\nI'm truly glad I met you."
  },
  {
   "id": "K_CHI21F:0029",
   "kind": "msg",
   "speaker": "翔",
   "jp": "無理をしてもしょうがないですよ。",
-  "en": ""
+  "en": "There's no point in pushing yourself."
  },
  {
   "id": "K_CHI21F:0030",
   "kind": "msg",
   "speaker": "翔",
   "jp": "もっと俺たちを頼ってくれませんか？",
-  "en": ""
+  "en": "Won't you rely on us more?"
  },
  {
   "id": "K_CHI21F:0031",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ありがとう。\n努力はしてたけど……ううん、いいわけよね。",
-  "en": ""
+  "en": "Thank you.\nI was trying, but... no,\nthat's just an excuse."
  },
  {
   "id": "K_CHI21F:0032",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "いろいろと迷惑をかけて、ほんとうにごめんね。",
-  "en": ""
+  "en": "I'm really sorry\nfor all the trouble I've caused."
  },
  {
   "id": "K_CHI21F:0033",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "翔、あの、さあ……",
-  "en": ""
+  "en": "Shou, um, so..."
  },
  {
   "id": "K_CHI21F:0034",
@@ -249,70 +249,70 @@
   "kind": "msg",
   "speaker": "ルー",
   "jp": "あの、別に何でもないの……けど、\nその……わたし……",
-  "en": ""
+  "en": "Um, it's nothing really... but,\nwell... I..."
  },
  {
   "id": "K_CHI21F:0036",
   "kind": "choice",
   "speaker": "",
   "jp": "　落ちつけよ\n　また今度な",
-  "en": ""
+  "en": "Calm down\nSome other time"
  },
  {
   "id": "K_CHI21F:0037",
   "kind": "msg",
   "speaker": "翔",
   "jp": "どうしたんだ？\n少し落ちつけよ。",
-  "en": ""
+  "en": "What's wrong?\nCalm down a little."
  },
  {
   "id": "K_CHI21F:0038",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そうだね……ごめんね、翔。",
-  "en": ""
+  "en": "Yeah... sorry, Shou."
  },
  {
   "id": "K_CHI21F:0039",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "いろいろと話したかったの。\nゆっくりとさ……",
-  "en": ""
+  "en": "There's a lot I wanted to talk about.\nTaking our time, you know..."
  },
  {
   "id": "K_CHI21F:0040",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ごめんね、翔。\nわたし、どうしたんだろ……？",
-  "en": ""
+  "en": "Sorry, Shou.\nWhat's wrong with me...?"
  },
  {
   "id": "K_CHI21F:0041",
   "kind": "msg",
   "speaker": "翔",
   "jp": "また今度な。\n今はゆっくり話したい気分じゃないんだ。",
-  "en": ""
+  "en": "Some other time.\nI'm not in the mood for a long talk right now."
  },
  {
   "id": "K_CHI21F:0042",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そうだよね。\n今はそんなときじゃないよね。",
-  "en": ""
+  "en": "Right.\nNow's not the time, huh."
  },
  {
   "id": "K_CHI21F:0043",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "……翔、ごめんね。\n気がむいたら、声かけてね。",
-  "en": ""
+  "en": "...Sorry, Shou.\nIf you feel like it, come talk to me."
  },
  {
   "id": "K_CHI21F:0044",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "きゃうう、お、お兄ちゃ～ん！",
-  "en": ""
+  "en": "Kyauu, b-big brother~!"
  },
  {
   "id": "K_CHI21F:0045",
@@ -326,125 +326,125 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "ハーミー、どうした！？何があったんだ！",
-  "en": ""
+  "en": "Hermie, what's wrong?! What happened?!"
  },
  {
   "id": "K_CHI21F:0047",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "あそこ、あそこなの！\n今、あそこの壁に目があって、\nハーミーをにらんだの！怖い、怖いのお！",
-  "en": ""
+  "en": "Over there, over there~!\nJust now there were eyes in that wall,\nand they glared at Hermie! So scary~!"
  },
  {
   "id": "K_CHI21F:0048",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……なんだ、錯覚か。\n驚かすなよ、ハーミー。",
-  "en": ""
+  "en": "...Oh, just your imagination.\nDon't scare me like that, Hermie."
  },
  {
   "id": "K_CHI21F:0049",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ちがうの！ちがうのお！ちゃんと見たの！",
-  "en": ""
+  "en": "No it wasn't! No~! Hermie really saw it~!"
  },
  {
   "id": "K_CHI21F:0050",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "怖いの、とっても怖いの！\nお兄ちゃん、出たいの！\nハーミー、ここから出るのお！",
-  "en": ""
+  "en": "I'm scared, so scared~!\nBig brother, I wanna get out~!\nHermie's getting out of here~!"
  },
  {
   "id": "K_CHI21F:0051",
   "kind": "choice",
   "speaker": "",
   "jp": "　キツくしかる\n　優しくしかる",
-  "en": ""
+  "en": "Scold her harshly\nScold her gently"
  },
  {
   "id": "K_CHI21F:0052",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ハーミー、わがままを言うんじゃない！",
-  "en": ""
+  "en": "Hermie, stop being so selfish!"
  },
  {
   "id": "K_CHI21F:0053",
   "kind": "msg",
   "speaker": "翔",
   "jp": "怖いのは、おまえだけじゃない！",
-  "en": ""
+  "en": "You're not the only one who's scared!"
  },
  {
   "id": "K_CHI21F:0054",
   "kind": "msg",
   "speaker": "翔",
   "jp": "みんな、それをがまんしてるんだ！",
-  "en": ""
+  "en": "Everyone's sticking it out!"
  },
  {
   "id": "K_CHI21F:0055",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "お兄ちゃん、怖いの……",
-  "en": ""
+  "en": "Big brother, you're scary..."
  },
  {
   "id": "K_CHI21F:0056",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "そんなお兄ちゃん、ハーミー、ヤなのお！",
-  "en": ""
+  "en": "Hermie doesn't like big brother like this~!"
  },
  {
   "id": "K_CHI21F:0057",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "プンだ！もう、知らない！",
-  "en": ""
+  "en": "Hmph! Fine, Hermie doesn't care anymore!"
  },
  {
   "id": "K_CHI21F:0058",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ハーミー、よく聞くんだ。",
-  "en": ""
+  "en": "Hermie, listen carefully."
  },
  {
   "id": "K_CHI21F:0059",
   "kind": "msg",
   "speaker": "翔",
   "jp": "怖いのはね、みんないっしょなんだ。",
-  "en": ""
+  "en": "Everyone gets scared, you know. All of us."
  },
  {
   "id": "K_CHI21F:0060",
   "kind": "msg",
   "speaker": "翔",
   "jp": "でも、逃げだしちゃダメ。",
-  "en": ""
+  "en": "But you can't run away."
  },
  {
   "id": "K_CHI21F:0061",
   "kind": "msg",
   "speaker": "翔",
   "jp": "じっとがまんするんだよ。\nハーミーはえらい子だから、がんばれるよね？",
-  "en": ""
+  "en": "You just have to hang on and be patient.\nYou're a good girl, Hermie,\nso you can do it, right?"
  },
  {
   "id": "K_CHI21F:0062",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "……は～いなのお。わかったの。\nハーミー、がんばるの。",
-  "en": ""
+  "en": "...Okaaay~. Hermie understands.\nHermie will do her best~."
  },
  {
   "id": "K_CHI21F:0063",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "だから、お兄ちゃん。\nぜんぶ終わったら、ギュッとしてねなの！",
-  "en": ""
+  "en": "So, big brother...\nWhen it's all over, give Hermie a big hug~!"
  }
 ]

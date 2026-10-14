@@ -4,146 +4,146 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "まさか、こんなことになるなんて……\nこれからどうすればいいんだ？",
-  "en": ""
+  "en": "I never thought it'd come to this...\nWhat do we do now?"
  },
  {
   "id": "IVENT35:0001",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "とっととユーロリアから出ようよ。",
-  "en": ""
+  "en": "Let's just get out of Eurolia already."
  },
  {
   "id": "IVENT35:0002",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "わたしたち、けっこう目立ってるわよ。",
-  "en": ""
+  "en": "We're kind of sticking out here."
  },
  {
   "id": "IVENT35:0003",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "まわりは火竜族だけしかいないものね。",
-  "en": ""
+  "en": "There's no one around here but\nthe Fire Dragon Clan, after all."
  },
  {
   "id": "IVENT35:0004",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "でも、少しだけ休めないかしら？",
-  "en": ""
+  "en": "Still, couldn't we rest for a little while?"
  },
  {
   "id": "IVENT35:0005",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "……いいけど。\nでも、よそ者に宿を貸してくれると思う？",
-  "en": ""
+  "en": "...Fine.\nBut you think they'll rent a room\nto outsiders?"
  },
  {
   "id": "IVENT35:0006",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "期待はしてないわ。\nけれど、伊藤さんも疲れているし。",
-  "en": ""
+  "en": "I'm not counting on it.\nBut Itou-san is tired, too."
  },
  {
   "id": "IVENT35:0007",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "……松岡さんはどうかしら？",
-  "en": ""
+  "en": "...And how about you, Matsuoka-san?"
  },
  {
   "id": "IVENT35:0008",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "…………",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "IVENT35:0009",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "……松岡さん？",
-  "en": ""
+  "en": "...Matsuoka-san?"
  },
  {
   "id": "IVENT35:0010",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "…………",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "IVENT35:0011",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ユカ、どうしたんだ？\nだいじょうぶか？",
-  "en": ""
+  "en": "Yuka, what's wrong?\nAre you okay?"
  },
  {
   "id": "IVENT35:0012",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "………え？\nあ…………うん。",
-  "en": ""
+  "en": "......Huh?\nOh...... yeah."
  },
  {
   "id": "IVENT35:0013",
   "kind": "msg",
   "speaker": "翔",
   "jp": "よし、宿を探そう。\n手分けして探したほうがいいな。",
-  "en": ""
+  "en": "Okay, let's find an inn.\nWe'd better split up and look."
  },
  {
   "id": "IVENT35:0014",
   "kind": "msg",
   "speaker": "翔",
   "jp": "見つかったら、ここに戻ってくる。\nそれでいいか？",
-  "en": ""
+  "en": "Whoever finds one comes back here.\nSound good?"
  },
  {
   "id": "IVENT35:0015",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "わかったわ。\nそれじゃあ、また後でね。",
-  "en": ""
+  "en": "All right.\nSee you later, then."
  },
  {
   "id": "IVENT35:0016",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……さてと、俺はどこを探そうかな？\nユカ、おまえはどうする？",
-  "en": ""
+  "en": "...Okay, where should I look?\nYuka, what are you gonna do?"
  },
  {
   "id": "IVENT35:0017",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……私も探しに行くから、\n先に行っててくれる……？",
-  "en": ""
+  "en": "...I'll go look too, so...\ncould you go on ahead...?"
  },
  {
   "id": "IVENT35:0018",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……だいじょうぶか？\nつらかったら、休んでろよ。",
-  "en": ""
+  "en": "...You okay?\nIf it's too much, just rest."
  },
  {
   "id": "IVENT35:0019",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "うん……だいじょうぶ……",
-  "en": ""
+  "en": "Yeah... I'm okay..."
  },
  {
   "id": "IVENT35:0020",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……ごめん……アルバイジャン……ごめんなさい……",
-  "en": ""
+  "en": "...I'm sorry... Albaijan... I'm so sorry..."
  }
 ]

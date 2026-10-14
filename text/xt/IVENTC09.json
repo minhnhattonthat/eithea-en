@@ -4,370 +4,370 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "……なんか眠れないな。\n少し外に出てみるか。",
-  "en": ""
+  "en": "...I can't sleep.\nMaybe I'll step outside for a bit."
  },
  {
   "id": "IVENTC09:0001",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……あれ？\n翔、どうしたの？",
-  "en": ""
+  "en": "...Huh?\nShou, what's up?"
  },
  {
   "id": "IVENTC09:0002",
   "kind": "msg",
   "speaker": "翔",
   "jp": "なんか眠れなくてな。\nおまえもか？",
-  "en": ""
+  "en": "Couldn't sleep.\nYou too?"
  },
  {
   "id": "IVENTC09:0003",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "うん、考えごとしてたら、\n目がさえてきちゃって……",
-  "en": ""
+  "en": "Yeah. I got thinking about stuff,\nand now I'm wide awake..."
  },
  {
   "id": "IVENTC09:0004",
   "kind": "msg",
   "speaker": "翔",
   "jp": "おまえにしちゃ珍しいな？\n知恵熱を出すんじゃないのか？",
-  "en": ""
+  "en": "That's rare for you.\nCareful you don't overheat your brain."
  },
  {
   "id": "IVENTC09:0005",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ひッど～い！\n私だって、いろいろあるんだからあ。",
-  "en": ""
+  "en": "That's so mean~!\nI've got stuff going on too, you know!"
  },
  {
   "id": "IVENTC09:0006",
   "kind": "msg",
   "speaker": "翔",
   "jp": "はははは、うそだよ。",
-  "en": ""
+  "en": "Hahaha, just kidding."
  },
  {
   "id": "IVENTC09:0007",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……なあ、隣りに座ってもいいか？",
-  "en": ""
+  "en": "...Hey, mind if I sit next to you?"
  },
  {
   "id": "IVENTC09:0008",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……え。\nう、うん、いいよ。",
-  "en": ""
+  "en": "...Huh?\nS-Sure, go ahead."
  },
  {
   "id": "IVENTC09:0009",
   "kind": "msg",
   "speaker": "翔",
   "jp": "二人きりになるのは、ひさしぶりだな。\n火竜城の地下牢以来だっけ？",
-  "en": ""
+  "en": "It's been a while since it was just us two.\nNot since the Fire Dragon Castle dungeon?"
  },
  {
   "id": "IVENTC09:0010",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "あのときはごめんね。\n私、どうかしてたから……",
-  "en": ""
+  "en": "I'm sorry about back then.\nI wasn't myself..."
  },
  {
   "id": "IVENTC09:0011",
   "kind": "msg",
   "speaker": "翔",
   "jp": "もう忘れろよ。\nすんだことだろ。",
-  "en": ""
+  "en": "Just forget it.\nIt's over and done with."
  },
  {
   "id": "IVENTC09:0012",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "そうだね……\nあのときのこと、忘れちゃうね。",
-  "en": ""
+  "en": "You're right...\nI'll forget about what happened then."
  },
  {
   "id": "IVENTC09:0013",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ただし、反省はしろよ。\nそれから、もう一つ。",
-  "en": ""
+  "en": "But you'd better learn from it.\nAnd one more thing."
  },
  {
   "id": "IVENTC09:0014",
   "kind": "msg",
   "speaker": "翔",
   "jp": "地下牢で俺に言ったこと。\nそれだけはおぼえててくれ。",
-  "en": ""
+  "en": "What you said to me in the dungeon.\nRemember that much, at least."
  },
  {
   "id": "IVENTC09:0015",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "え？　……あ、あのこと。\n恥ずかしいよ……\nもう忘れて……",
-  "en": ""
+  "en": "Huh? ...Oh, that.\nIt's embarrassing...\nJust forget it..."
  },
  {
   "id": "IVENTC09:0016",
   "kind": "msg",
   "speaker": "翔",
   "jp": "忘れていいのか？\nおまえが俺を好きだってこと……",
-  "en": ""
+  "en": "You want me to forget it?\nThat you like me..."
  },
  {
   "id": "IVENTC09:0017",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ダメ！　絶対に忘れないの！\n私……翔のこと……",
-  "en": ""
+  "en": "No! I'm never forgetting it!\nI... about you, Shou..."
  },
  {
   "id": "IVENTC09:0018",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "でも、ズルいよお！\n私ばっかり……言わせて。",
-  "en": ""
+  "en": "But that's not fair!\nMaking me be the only one to say it."
  },
  {
   "id": "IVENTC09:0019",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "翔こそ、私のこと、どう思ってるの？",
-  "en": ""
+  "en": "What about you, Shou?\nHow do you feel about me?"
  },
  {
   "id": "IVENTC09:0020",
   "kind": "msg",
   "speaker": "翔",
   "jp": "前に言ったじゃないか？\nあれじゃダメなのか？",
-  "en": ""
+  "en": "Didn't I already tell you before?\nIsn't that good enough?"
  },
  {
   "id": "IVENTC09:0021",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "あのときじゃないの。\n今の気持ちを教えてほしいの。",
-  "en": ""
+  "en": "Not back then.\nI want to know how you feel now."
  },
  {
   "id": "IVENTC09:0022",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ねえ、お願い。\n……翔、教えて。\nあなたの気持ちを……",
-  "en": ""
+  "en": "Come on, please.\n...Shou, tell me.\nTell me how you feel..."
  },
  {
   "id": "IVENTC09:0023",
   "kind": "choice",
   "speaker": "",
   "jp": "　キスする\n　ごめん\n　頭を殴る",
-  "en": ""
+  "en": "Kiss her\nSorry\nBop her on the head"
  },
  {
   "id": "IVENTC09:0024",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "あっ……………！",
-  "en": ""
+  "en": "Ah...!"
  },
  {
   "id": "IVENTC09:0025",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "あ……",
-  "en": ""
+  "en": "Oh..."
  },
  {
   "id": "IVENTC09:0026",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ユカ……\nこれが、俺の気持ちだよ。",
-  "en": ""
+  "en": "Yuka...\nThis is how I feel."
  },
  {
   "id": "IVENTC09:0027",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "翔……",
-  "en": ""
+  "en": "Shou..."
  },
  {
   "id": "IVENTC09:0028",
   "kind": "msg",
   "speaker": "翔",
   "jp": "好きだよ。ユカ。\n誰よりも、おまえを……",
-  "en": ""
+  "en": "I love you, Yuka.\nMore than anyone else..."
  },
  {
   "id": "IVENTC09:0029",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……ありがとう、翔。",
-  "en": ""
+  "en": "...Thank you, Shou."
  },
  {
   "id": "IVENTC09:0030",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "不安だったの……\n自分からばかりで、\n翔からは何にもなくて……",
-  "en": ""
+  "en": "I was worried...\nIt was always me reaching out,\nand nothing ever came back from you..."
  },
  {
   "id": "IVENTC09:0031",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "なんだか、\n一方通行みたいな感じがしてて……",
-  "en": ""
+  "en": "It kind of felt like\nit only went one way..."
  },
  {
   "id": "IVENTC09:0032",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "もしかしたら、しつこくて、\nもう嫌われてるんじゃないかなって……",
-  "en": ""
+  "en": "I thought maybe I'd been too pushy,\nand you were already sick of me..."
  },
  {
   "id": "IVENTC09:0033",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "だから……",
-  "en": ""
+  "en": "So..."
  },
  {
   "id": "IVENTC09:0034",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "だから……うれしかった。\nありがとう、翔……",
-  "en": ""
+  "en": "So... I'm really happy.\nThank you, Shou..."
  },
  {
   "id": "IVENTC09:0035",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "翔の気持ち、よくわかったよ……\n私も、好きだよ……愛してる。",
-  "en": ""
+  "en": "I know how you feel now, Shou...\nI love you too... I really do."
  },
  {
   "id": "IVENTC09:0036",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ね、翔……",
-  "en": ""
+  "en": "Hey, Shou..."
  },
  {
   "id": "IVENTC09:0037",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "やっぱりかあ……\nうすうす気づいてたけどね……",
-  "en": ""
+  "en": "I figured...\nI kinda had a feeling, though..."
  },
  {
   "id": "IVENTC09:0038",
   "kind": "msg",
   "speaker": "翔",
   "jp": "おまえがイヤなんじゃない。\n今はそんな気になれないんだ。",
-  "en": ""
+  "en": "It's not that I don't like you.\nI just can't feel that way right now."
  },
  {
   "id": "IVENTC09:0039",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "それって言いわけ？\n謝ることなんてないよ。",
-  "en": ""
+  "en": "Is that supposed to be an excuse?\nYou don't have to apologize."
  },
  {
   "id": "IVENTC09:0040",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "あ～あ、ふられちゃったかあ。\nしょうがないけどお。",
-  "en": ""
+  "en": "Aww, so I got turned down, huh.\nOh well, can't be helped~"
  },
  {
   "id": "IVENTC09:0041",
   "kind": "msg",
   "speaker": "翔",
   "jp": "あ、あの、ユカ……",
-  "en": ""
+  "en": "U-Um, Yuka..."
  },
  {
   "id": "IVENTC09:0042",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "じゃ、そろそろ、寝よっか？\n付きあってくれて、ありがと。",
-  "en": ""
+  "en": "Well, guess we should get to bed?\nThanks for hanging out with me."
  },
  {
   "id": "IVENTC09:0043",
   "kind": "msg",
   "speaker": "翔",
   "jp": "かまわないよ。\nでも、ほんとにすまない……",
-  "en": ""
+  "en": "Don't mention it.\nBut I'm really sorry..."
  },
  {
   "id": "IVENTC09:0044",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "なに言ってんのよ！\n気になんかしてないったらあ！\n翔こそ未練でもあるの？",
-  "en": ""
+  "en": "What are you talking about?!\nI told you, it doesn't bother me at all!\nOr are you having second thoughts, Shou?"
  },
  {
   "id": "IVENTC09:0045",
   "kind": "msg",
   "speaker": "翔",
   "jp": "い、いや……わかった。\nじゃあ、寝ようか。",
-  "en": ""
+  "en": "N-No... Okay.\nLet's get to bed, then."
  },
  {
   "id": "IVENTC09:0046",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……でもね、翔。\n少しは……期待してたんだよ。",
-  "en": ""
+  "en": "...But you know, Shou.\nI was kinda... hoping, just a little."
  },
  {
   "id": "IVENTC09:0047",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ふざけんな！\nそんなことばっか考えてるから、\n眠れなくなるんだ！",
-  "en": ""
+  "en": "Knock it off!\nThat's why you can't sleep--you're always\nthinking about stuff like that!"
  },
  {
   "id": "IVENTC09:0048",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "いったぁ～い！\n何すんのよお！？",
-  "en": ""
+  "en": "Owww~!\nWhat was that for?!"
  },
  {
   "id": "IVENTC09:0049",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "この鈍感！　ニブチン！　\nなんで女心がわかんないのよ！",
-  "en": ""
+  "en": "You're so dense! Totally clueless!\nWhy can't you understand how a girl feels?!"
  },
  {
   "id": "IVENTC09:0050",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "好きな人にはさ、いつだって、\n何度だって、好きって言ってほしいのよ！",
-  "en": ""
+  "en": "When it's someone you love, you want them\nto say \"I love you\" anytime, again and again!"
  },
  {
   "id": "IVENTC09:0051",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "翔のバカバカバカバカ！\nあんたなんか、\nルーのお尻に見とれてりゃいーのよ！",
-  "en": ""
+  "en": "Stupid Shou! Idiot, idiot, idiot!\nYou can just go\nstare at Lou's butt all day!"
  },
  {
   "id": "IVENTC09:0052",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "じゃ、私寝るから！\nフンだ！！",
-  "en": ""
+  "en": "Well, I'm going to bed!\nHmph!!"
  }
 ]

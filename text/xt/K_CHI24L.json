@@ -4,7 +4,7 @@
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "お兄ちゃん……ダメなの。",
-  "en": ""
+  "en": "Big brother... this is bad~"
  },
  {
   "id": "K_CHI24L:0001",
@@ -18,35 +18,35 @@
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "お兄ちゃん、いるの……\nハーミーたちのすぐ近くに、いるの……",
-  "en": ""
+  "en": "Big brother, it's here~...\nIt's right near us~..."
  },
  {
   "id": "K_CHI24L:0003",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "見てるの……こっちを見てるの……",
-  "en": ""
+  "en": "It's watching~... It's watching us~..."
  },
  {
   "id": "K_CHI24L:0004",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "やめてなの……！\n来ないでなの……！",
-  "en": ""
+  "en": "Stop it~...!\nDon't come any closer~...!"
  },
  {
   "id": "K_CHI24L:0005",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "お兄ちゃん、早くなの！\n早くここから出るのお！！",
-  "en": ""
+  "en": "Big brother, hurry~!\nWe have to get out of heeere~!!"
  },
  {
   "id": "K_CHI24L:0006",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "新見くん、こっちに来て……",
-  "en": ""
+  "en": "Niimi-kun, come over here..."
  },
  {
   "id": "K_CHI24L:0007",
@@ -60,42 +60,42 @@
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "私の目を見て。\n照れないで……お願い。",
-  "en": ""
+  "en": "Look me in the eye.\nDon't be shy... please."
  },
  {
   "id": "K_CHI24L:0009",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "今までずっと、よくがんばってきたわね。",
-  "en": ""
+  "en": "You've worked so hard all this time."
  },
  {
   "id": "K_CHI24L:0010",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "私、あなたに言いたかったことがあるの……",
-  "en": ""
+  "en": "There's something I've wanted to tell you..."
  },
  {
   "id": "K_CHI24L:0011",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "……新見くん、ありがとう。\nあなたがいたから、私もここまで来れたわ。",
-  "en": ""
+  "en": "...Thank you, Niimi-kun.\nI've made it this far because you were here."
  },
  {
   "id": "K_CHI24L:0012",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "必ず、そしていっしょに、\nもとの世界に戻りましょうね。",
-  "en": ""
+  "en": "Let's go back to our world.\nAll of us, together, no matter what."
  },
  {
   "id": "K_CHI24L:0013",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "新見くん、お願いがあるんです。",
-  "en": ""
+  "en": "Niimi-kun, I have a favor to ask."
  },
  {
   "id": "K_CHI24L:0014",
@@ -109,49 +109,49 @@
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "わたしのこと、名前で呼んでもらえませんか？",
-  "en": ""
+  "en": "Would you call me by my first name?"
  },
  {
   "id": "K_CHI24L:0016",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "わたしも、あなたのこと、名前で呼びたいから……",
-  "en": ""
+  "en": "Because I want to call you by yours, too..."
  },
  {
   "id": "K_CHI24L:0017",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "今すぐじゃなくていいんです……",
-  "en": ""
+  "en": "It doesn't have to be right now..."
  },
  {
   "id": "K_CHI24L:0018",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "最後の戦いが終わったら、もとの世界に帰ったら……",
-  "en": ""
+  "en": "Once the final battle's over,\nonce we're back home..."
  },
  {
   "id": "K_CHI24L:0019",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "わたしのこと、名前で呼んでくださいね。",
-  "en": ""
+  "en": "Please call me by my name then, okay?"
  },
  {
   "id": "K_CHI24L:0020",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "そうしてくれたら、わたしは……\n約束させてくださいね。",
-  "en": ""
+  "en": "If you do that, then I'll...\nPlease, let's make it a promise."
  },
  {
   "id": "K_CHI24L:0021",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "翔、こっちを向いて……",
-  "en": ""
+  "en": "Shou, look at me..."
  },
  {
   "id": "K_CHI24L:0022",
@@ -165,42 +165,42 @@
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……あのさ、翔。\nその……ありがと。",
-  "en": ""
+  "en": "...Hey, Shou.\nUm... thanks."
  },
  {
   "id": "K_CHI24L:0024",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "私のこと、\nいつも心配してくれて、\nいつも守ってくれて……",
-  "en": ""
+  "en": "For always worrying about me,\nand always protecting me..."
  },
  {
   "id": "K_CHI24L:0025",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "私、翔のこと、好き……",
-  "en": ""
+  "en": "Shou, I... I love you..."
  },
  {
   "id": "K_CHI24L:0026",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "翔のこと、好きになって、ほんとうによかった。",
-  "en": ""
+  "en": "I'm really glad I fell for you, Shou."
  },
  {
   "id": "K_CHI24L:0027",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "翔、いっしょにもとの世界に帰ろうね。",
-  "en": ""
+  "en": "Shou, let's go back to our world together."
  },
  {
   "id": "K_CHI24L:0028",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "お兄ちゃん……あのねなの……",
-  "en": ""
+  "en": "Big brother... um, you know~..."
  },
  {
   "id": "K_CHI24L:0029",
@@ -214,41 +214,41 @@
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "あのね、お兄ちゃん……\n一回だけでいいの。",
-  "en": ""
+  "en": "Um, big brother...\nJust once is enough~"
  },
  {
   "id": "K_CHI24L:0031",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ぜんぶ終わったら、ハーミーに……キスしてなの。",
-  "en": ""
+  "en": "When it's all over, give Hermie... a kiss~"
  },
  {
   "id": "K_CHI24L:0032",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "イムルが言ってたの。\nキスは好きな人とすると、\nすごく気持ちいいんだって……",
-  "en": ""
+  "en": "Imul said so~\nWhen you kiss someone you like,\nit feels really, really nice~..."
  },
  {
   "id": "K_CHI24L:0033",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ハーミーね、お兄ちゃんが一番好きなの……",
-  "en": ""
+  "en": "Hermie likes big brother the most~..."
  },
  {
   "id": "K_CHI24L:0034",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "だから、お願いなの。\n……ハーミーと、キスするの。",
-  "en": ""
+  "en": "So, pretty please~\n...Kiss Hermie, okay~?"
  },
  {
   "id": "K_CHI24L:0035",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "お兄ちゃん、約束したの……",
-  "en": ""
+  "en": "Big brother, you promised~..."
  }
 ]

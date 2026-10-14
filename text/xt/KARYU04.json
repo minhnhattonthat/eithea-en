@@ -4,104 +4,104 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "よぉ！翔。\nここならジャームどももいないようだし、\nゆっくりできるぜ！",
-  "en": ""
+  "en": "Yo, Shou!\nLooks like there aren't any Germs here,\nso we can kick back!"
  },
  {
   "id": "KARYU04:0001",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "で、何か欲しいものがあるなら売るぜ？",
-  "en": ""
+  "en": "So, if there's anything you want, I'll sell\nit to ya."
  },
  {
   "id": "KARYU04:0002",
   "kind": "choice",
   "speaker": "",
   "jp": "　買い物をする　　　　　　　休む\n　持ってるものを売る　　　　魔弾研究\n　セーブする　　　　　　　　出発する",
-  "en": ""
+  "en": "Shop                      Rest\nSell items                Magic Bullet Study\nSave                      Set out"
  },
  {
   "id": "KARYU04:0003",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "わかった。\nじゃあ、ゆっくり休めよ。",
-  "en": ""
+  "en": "Got it.\nGet some good rest, then."
  },
  {
   "id": "KARYU04:0004",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "疲れはとれたか？\n無理すんなよ。",
-  "en": ""
+  "en": "Feel rested?\nDon't push yourself."
  },
  {
   "id": "KARYU04:0005",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "どれを買うんだ？",
-  "en": ""
+  "en": "What're you buying?"
  },
  {
   "id": "KARYU04:0006",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "まいどあり。\n次は、もっと役に立つものを仕入れとくぜ。",
-  "en": ""
+  "en": "Thanks for your business.\nNext time I'll stock up on more useful stuff."
  },
  {
   "id": "KARYU04:0007",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "なにもいらねえのか？\nそいつは残念だな……",
-  "en": ""
+  "en": "Nothing you need?\nThat's a shame..."
  },
  {
   "id": "KARYU04:0008",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "次は、もっと役に立つものを仕入れとくぜ。",
-  "en": ""
+  "en": "Next time I'll stock up on more useful stuff."
  },
  {
   "id": "KARYU04:0009",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "どれを売るんだ？",
-  "en": ""
+  "en": "What're you selling?"
  },
  {
   "id": "KARYU04:0010",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "まいどあり。\nいい買い物したぜ！",
-  "en": ""
+  "en": "Pleasure doing business.\nThat was a good buy!"
  },
  {
   "id": "KARYU04:0011",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "そうか。\nま、気が変わったら言ってくれ。",
-  "en": ""
+  "en": "I see.\nWell, let me know if you change your mind."
  },
  {
   "id": "KARYU04:0012",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "もういいのか？\nじゃぁ、行くか！",
-  "en": ""
+  "en": "All done?\nThen let's go!"
  },
  {
   "id": "KARYU04:0013",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "よし、ちょっと待ってな！",
-  "en": ""
+  "en": "All right, hang on a sec!"
  },
  {
   "id": "KARYU04:0014",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "おいおい、どこに行くんだ？",
-  "en": ""
+  "en": "Whoa there, where're you going?"
  }
 ]

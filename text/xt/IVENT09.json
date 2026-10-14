@@ -4,489 +4,489 @@
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ねえ、族長がみんなを\n呼んでるの。\nいっしょに来てくれない？",
-  "en": ""
+  "en": "Hey, the Chief's calling\nfor everyone.\nWill you come with me?"
  },
  {
   "id": "IVENT09:0001",
   "kind": "msg",
   "speaker": "翔",
   "jp": "いいけど、何なんだ？",
-  "en": ""
+  "en": "Sure, but what's it about?"
  },
  {
   "id": "IVENT09:0002",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "さあ？\n何かは聞いてないわ。",
-  "en": ""
+  "en": "Who knows?\nHe didn't say what."
  },
  {
   "id": "IVENT09:0003",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……いったい、\n何なんでしょう？",
-  "en": ""
+  "en": "...What could it\nbe, I wonder?"
  },
  {
   "id": "IVENT09:0004",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "行けばわかるんじゃない？",
-  "en": ""
+  "en": "We'll find out when we get there, right?"
  },
  {
   "id": "IVENT09:0005",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "そのとおりね。\n虎穴に入らずんば虎子を得ず。\nさあ、早く行きましょう。",
-  "en": ""
+  "en": "Exactly.\nNothing ventured, nothing gained.\nCome on, let's hurry."
  },
  {
   "id": "IVENT09:0006",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "お呼び立てしてすいません。\n至急の用がありましたもので。",
-  "en": ""
+  "en": "I apologize for calling you here.\nA matter of some urgency has come up."
  },
  {
   "id": "IVENT09:0007",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "いったい何の用なのですか？",
-  "en": ""
+  "en": "What is it you need from us?"
  },
  {
   "id": "IVENT09:0008",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "そのまえにまず、\n紹介したい人がいます。",
-  "en": ""
+  "en": "Before that,\nthere's someone I'd like you to meet."
  },
  {
   "id": "IVENT09:0009",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "……紹介したい人？",
-  "en": ""
+  "en": "...Someone you'd like us to meet?"
  },
  {
   "id": "IVENT09:0010",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "俺のことさ。\n商人のアルバイジャンだ。\nよろしくな。",
-  "en": ""
+  "en": "That'd be me.\nThe name's Albaijan, merchant.\nNice to meet ya."
  },
  {
   "id": "IVENT09:0011",
   "kind": "msg",
   "speaker": "翔",
   "jp": "先生、この人がヒトシたちを\n助けてくれたんです。",
-  "en": ""
+  "en": "Sensei, he's the one who helped\nHitoshi and the others."
  },
  {
   "id": "IVENT09:0012",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "そうなの？",
-  "en": ""
+  "en": "Is that so?"
  },
  {
   "id": "IVENT09:0013",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ああ、まあ旅のついでだ。\n礼をくれるってんなら、\n遠慮せずにもらうけどよ。",
-  "en": ""
+  "en": "Yeah, well, it was on my way.\nBut if you're offerin' a reward,\nI won't say no."
  },
  {
   "id": "IVENT09:0014",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "は、はあ……",
-  "en": ""
+  "en": "O-Oh, I see..."
  },
  {
   "id": "IVENT09:0015",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "……こほん、よろしいですか？",
-  "en": ""
+  "en": "...Ahem. May I?"
  },
  {
   "id": "IVENT09:0016",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "あ、ああ、すまねえ。\n話を続けてもらえるか？",
-  "en": ""
+  "en": "Ah, r-right, sorry.\nGo ahead and continue."
  },
  {
   "id": "IVENT09:0017",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "今度はお静かに願いますよ。",
-  "en": ""
+  "en": "Quietly this time, if you please."
  },
  {
   "id": "IVENT09:0018",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "……さて、アルバイジャン<8>は、\n自らの目的を果たすため、\n旅しているそうです。",
-  "en": ""
+  "en": "...Now, Albaijan<8> tells me\nhe is traveling to accomplish\na goal of his own."
  },
  {
   "id": "IVENT09:0019",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "彼がこの村を訪れたのは、\nイオピロスの塔に入るために\n他なりません。",
-  "en": ""
+  "en": "He came to this village\nfor no other reason than\nto enter Iopiros Tower."
  },
  {
   "id": "IVENT09:0020",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "イオピロスの塔ってなに？",
-  "en": ""
+  "en": "What's Iopiros Tower?"
  },
  {
   "id": "IVENT09:0021",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "エレの樹と同じ頃からあると\n言われてる、古い塔です。",
-  "en": ""
+  "en": "An old tower said to have stood\nsince the time of the Ele Tree."
  },
  {
   "id": "IVENT09:0022",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "彼は、そこにある古代の文献を\n研究したいというのです。",
-  "en": ""
+  "en": "He wishes to study the old texts\nof the ancients kept there."
  },
  {
   "id": "IVENT09:0023",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "勉強のためなの？\nなら、貸してあげれば？",
-  "en": ""
+  "en": "It's for studying?\nThen why not just lend it to him?"
  },
  {
   "id": "IVENT09:0024",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "それに関しては、\n許可しました。\nただ……",
-  "en": ""
+  "en": "As for that,\nI've given permission.\nHowever..."
  },
  {
   "id": "IVENT09:0025",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "あそこの中は、盗賊よけに\nジャームがウジャウジャと\nいやがるらしいんだ。",
-  "en": ""
+  "en": "Word is the place is crawlin'\nwith Germs, to keep out\nthieves."
  },
  {
   "id": "IVENT09:0026",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "俺は商人だから、\n荒事は苦手でなあ。",
-  "en": ""
+  "en": "I'm a merchant, see,\nso rough stuff ain't my thing."
  },
  {
   "id": "IVENT09:0027",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ウソぉ！？　\n素手でも戦えそうな気が\nするんだけど。",
-  "en": ""
+  "en": "No way?!\nYou look like you could fight\nbare-handed."
  },
  {
   "id": "IVENT09:0028",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "身体がでかいだけさ。\nだから、族長<8>に頼んだんだよ。\n護衛を貸してくれってな。",
-  "en": ""
+  "en": "I'm just big, that's all.\nSo I asked the Chief<8>\nto lend me some bodyguards."
  },
  {
   "id": "IVENT09:0029",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "しかし今、\n私たちに余分な兵はいません。",
-  "en": ""
+  "en": "But at present,\nwe have no soldiers to spare."
  },
  {
   "id": "IVENT09:0030",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "そこで、あなたたちに\nお願いしたいのです。",
-  "en": ""
+  "en": "And so, I would like\nto ask you."
  },
  {
   "id": "IVENT09:0031",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "彼といっしょに塔に\n行ってもらえませんか？",
-  "en": ""
+  "en": "Would you go to the tower\nwith him?"
  },
  {
   "id": "IVENT09:0032",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "そんなあ！　勝手だわ！！",
-  "en": ""
+  "en": "What?! That's so selfish!!"
  },
  {
   "id": "IVENT09:0033",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "そうか？\nいい方法だと思うけどな。",
-  "en": ""
+  "en": "Is it?\nSounds like a good plan to me."
  },
  {
   "id": "IVENT09:0034",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "おまえたち、もとの世界に帰る\n方法を探してるんだろ？",
-  "en": ""
+  "en": "You're lookin' for a way back to\nyour own world, right?"
  },
  {
   "id": "IVENT09:0035",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "あの塔なら、その手がかりが\n見つかるかもしれないぜ。",
-  "en": ""
+  "en": "You might just find a clue\nin that tower."
  },
  {
   "id": "IVENT09:0036",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "なんたって、古代の知恵が\nがっぽりおさまってるって\n話だからな。",
-  "en": ""
+  "en": "After all, word is it's\npacked to the rafters with\nancient wisdom."
  },
  {
   "id": "IVENT09:0037",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "確かに、それも手かしらね。\n……みんなはどう思う？",
-  "en": ""
+  "en": "True, that might be one way.\n...What do you all think?"
  },
  {
   "id": "IVENT09:0038",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "う～ん。\n確かにそれなら、\n行くっきゃないか……",
-  "en": ""
+  "en": "Hmm~\nWell, if that's the case,\nI guess we have to go..."
  },
  {
   "id": "IVENT09:0039",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "わたしも、そう思います……",
-  "en": ""
+  "en": "I think so too..."
  },
  {
   "id": "IVENT09:0040",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "はよ帰れるのに、\nこしたこたあないからな。\nな、学<8>？",
-  "en": ""
+  "en": "Gettin' home sooner\nbeats the alternative.\nRight, Manabu<8>?"
  },
  {
   "id": "IVENT09:0041",
   "kind": "msg",
   "speaker": "学",
   "jp": "そうだね。\n今度は、ぼくらもいっしょに……",
-  "en": ""
+  "en": "Yeah.\nThis time, we'll come along too..."
  },
  {
   "id": "IVENT09:0042",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "おい、まてよ！\nおまえらもついてくる気か？",
-  "en": ""
+  "en": "Hey, hold on!\nYou two plannin' to tag along?"
  },
  {
   "id": "IVENT09:0043",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "せや。\nなんか文句あるんか？",
-  "en": ""
+  "en": "Yup.\nGot a problem with that?"
  },
  {
   "id": "IVENT09:0044",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "冗談じゃない！",
-  "en": ""
+  "en": "You gotta be kiddin'!"
  },
  {
   "id": "IVENT09:0045",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "おまえらみたいに弱い奴らを\n連れて行くわけには\nいかねえな。",
-  "en": ""
+  "en": "I can't go draggin' along\nweaklings like you\ntwo."
  },
  {
   "id": "IVENT09:0046",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "足を引っ張られるだけだ。",
-  "en": ""
+  "en": "You'd just slow me down."
  },
  {
   "id": "IVENT09:0047",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "なんやと、アルバイジャン<8>！？\n俺と学が役にたたんって\n言いたいんか！？",
-  "en": ""
+  "en": "Whaddaya say, Albaijan<8>?!\nYou sayin' me and Manabu\nare useless?!"
  },
  {
   "id": "IVENT09:0048",
   "kind": "msg",
   "speaker": "学",
   "jp": "ヒトシ<8>……悔しいけど、\n確かにアルバイジャン<8>の\n言うとおりだよ。",
-  "en": ""
+  "en": "Hitoshi<8>... I hate to say it,\nbut Albaijan<8>'s\nright."
  },
  {
   "id": "IVENT09:0049",
   "kind": "msg",
   "speaker": "学",
   "jp": "僕ら、逃げてばっかり\nだったじゃないか。",
-  "en": ""
+  "en": "All we did was\nrun away."
  },
  {
   "id": "IVENT09:0050",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "あう……\nそ、そりゃあそうやけどな。",
-  "en": ""
+  "en": "Ugh...\nW-Well, yeah, that's true, but..."
  },
  {
   "id": "IVENT09:0051",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "斉藤くん<8>。\n気持ちはわかるけど、\n今回ははずれてちょうだい。",
-  "en": ""
+  "en": "Saitou-kun<8>.\nI know how you feel, but\nplease sit this one out."
  },
  {
   "id": "IVENT09:0052",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "それに、全員で行くのもかえって危険なのよ。",
-  "en": ""
+  "en": "Besides, it's actually more dangerous\nfor all of us to go."
  },
  {
   "id": "IVENT09:0053",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "私たちになにかあったとき、\n探しに行く人が必要ですからね。",
-  "en": ""
+  "en": "If anything happens to us,\nwe'll need someone to come looking."
  },
  {
   "id": "IVENT09:0054",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "そ、そうやな。\nそれなら、しかたないわな。",
-  "en": ""
+  "en": "R-Right.\nGuess it can't be helped, then."
  },
  {
   "id": "IVENT09:0055",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "俺たちはおとなしく\n留守番しときますわ。",
-  "en": ""
+  "en": "We'll just stay put\nand mind the house."
  },
  {
   "id": "IVENT09:0056",
   "kind": "msg",
   "speaker": "学",
   "jp": "そうだね。\nみんな、僕たちのぶんも\nがんばってね。",
-  "en": ""
+  "en": "Yeah.\nEveryone, do your best\nfor us too."
  },
  {
   "id": "IVENT09:0057",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "じゃあ、アルバイジャン<8>さん。\nこの４人ということで、\nよろしいかしら？",
-  "en": ""
+  "en": "Well then, Albaijan<8>-san.\nThese four of us, then.\nWould that be all right?"
  },
  {
   "id": "IVENT09:0058",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "呼び捨てでいいぜ。\nえーっと……",
-  "en": ""
+  "en": "Just Albaijan's fine.\nUh..."
  },
  {
   "id": "IVENT09:0059",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "吉永秋穂<8>よ。\nこの子たちの教師をしてるの。",
-  "en": ""
+  "en": "Akiho Yoshinaga<8>.\nI'm these kids' teacher."
  },
  {
   "id": "IVENT09:0060",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "そうか。\nよろしくな、センセイ。",
-  "en": ""
+  "en": "Gotcha.\nNice to meet ya, Sensei."
  },
  {
   "id": "IVENT09:0061",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "まって！\nわたしもいっしょに行っちゃ、\nダメ？",
-  "en": ""
+  "en": "Wait!\nCan't I come along too?"
  },
  {
   "id": "IVENT09:0062",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ルー<8>！？",
-  "en": ""
+  "en": "Lou<8>?!"
  },
  {
   "id": "IVENT09:0063",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "あなた達だけを行かせるわけ\nにもいかないじゃない。",
-  "en": ""
+  "en": "I can't just let you guys go\nby yourselves."
  },
  {
   "id": "IVENT09:0064",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "それにわたしはまだ、こいつを\n信用したわけじゃないんだし。\nかまいませんよね？族長。",
-  "en": ""
+  "en": "Besides, I don't trust this guy\nyet. That's all right, isn't it,\nChief?"
  },
  {
   "id": "IVENT09:0065",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "ふむ……",
-  "en": ""
+  "en": "Hmm..."
  },
  {
   "id": "IVENT09:0066",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "俺はかまわねえぜ？\nコイツの言うことも\nよくわかるしな。",
-  "en": ""
+  "en": "Fine by me.\nI get where she's\ncomin' from."
  },
  {
   "id": "IVENT09:0067",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "そうですか……では、私たち\nからの戦士として、ルーを\nつけることにしましょう。",
-  "en": ""
+  "en": "I see... Then we shall send Lou\nas our warrior to accompany\nyou."
  },
  {
   "id": "IVENT09:0068",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "これからはともに行動すると\nいうことで、寝泊まりは\n彼女の家でお願いします。",
-  "en": ""
+  "en": "Since you'll be acting together\nfrom now on, please lodge\nat her house."
  },
  {
   "id": "IVENT09:0069",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ＯＫ、世話になるぜ、ルー<8>。\nじゃあ早速、明日からでも\n行くか！",
-  "en": ""
+  "en": "OK, I'll be in your care, Lou<8>.\nThen let's head out first thing\ntomorrow!"
  }
 ]

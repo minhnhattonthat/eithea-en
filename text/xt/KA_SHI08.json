@@ -4,14 +4,14 @@
   "kind": "msg",
   "speaker": "",
   "jp": "　火竜城２階中央廊下",
-  "en": ""
+  "en": "Fire Dragon Castle - Floor 2 Central Corridor"
  },
  {
   "id": "KA_SHI08:0001",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "新見くん……",
-  "en": ""
+  "en": "Niimi-kun..."
  },
  {
   "id": "KA_SHI08:0002",
@@ -25,63 +25,63 @@
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "なぜみんな、\nすぐに戦おうとするんでしょう……",
-  "en": ""
+  "en": "Why is everyone\nso quick to fight...?"
  },
  {
   "id": "KA_SHI08:0004",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "話し合いとか、\nもっといい方法があると思うんですけど……",
-  "en": ""
+  "en": "I think there are better ways,\nlike talking things out..."
  },
  {
   "id": "KA_SHI08:0005",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "新見くんは、どう思います？",
-  "en": ""
+  "en": "What do you think, Niimi-kun?"
  },
  {
   "id": "KA_SHI08:0006",
   "kind": "choice",
   "speaker": "",
   "jp": "　他にいい方法があるはず\n　戦うしかないだろう",
-  "en": ""
+  "en": "There must be a better way\nFighting's the only option"
  },
  {
   "id": "KA_SHI08:0007",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "そうですよね！",
-  "en": ""
+  "en": "That's right!"
  },
  {
   "id": "KA_SHI08:0008",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "なんでも暴力で解決しようなんて、\n間違ってますよね。",
-  "en": ""
+  "en": "Trying to solve everything with violence\nis just wrong, isn't it?"
  },
  {
   "id": "KA_SHI08:0009",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "よかった、新見くんも同じで……",
-  "en": ""
+  "en": "I'm glad you feel the same, Niimi-kun..."
  },
  {
   "id": "KA_SHI08:0010",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "そうなんですか？\nでもわたし、それってすごく\nさびしい考えだと思います……",
-  "en": ""
+  "en": "You think so?\nBut I think that's\nsuch a lonely way to think..."
  },
  {
   "id": "KA_SHI08:0011",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "翔！\n私、許せない！",
-  "en": ""
+  "en": "Shou!\nI can't forgive this!"
  },
  {
   "id": "KA_SHI08:0012",
@@ -95,35 +95,35 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "どうしたんだ？\nユカ、落ちつけよ。",
-  "en": ""
+  "en": "What's wrong?\nCalm down, Yuka."
  },
  {
   "id": "KA_SHI08:0014",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "落ちついてられないよ！",
-  "en": ""
+  "en": "How am I supposed to calm down?!"
  },
  {
   "id": "KA_SHI08:0015",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "これって何なの？\nメチャクチャだよ！",
-  "en": ""
+  "en": "What is all this?\nIt's a total mess!"
  },
  {
   "id": "KA_SHI08:0016",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "私、許せない……\nアゼルのこと、絶対に許さないんだから！",
-  "en": ""
+  "en": "I can't forgive it...\nI'll never, ever forgive Azel!"
  },
  {
   "id": "KA_SHI08:0017",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "新見くん……",
-  "en": ""
+  "en": "Niimi-kun..."
  },
  {
   "id": "KA_SHI08:0018",
@@ -137,35 +137,35 @@
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "イムルって、いい人ですよね。\n明るくて、優しくて……\n新見くんも、そう思いませんか？",
-  "en": ""
+  "en": "Imul's a good person, isn't he?\nCheerful, and kind...\nDon't you think so too, Niimi-kun?"
  },
  {
   "id": "KA_SHI08:0020",
   "kind": "choice",
   "speaker": "",
   "jp": "　そうだな\n　いいや",
-  "en": ""
+  "en": "I guess so\nNot really"
  },
  {
   "id": "KA_SHI08:0021",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "ですよね！\n早く、お母さんを助けてあげたいですね。",
-  "en": ""
+  "en": "I knew it!\nI hope we can save his mother soon."
  },
  {
   "id": "KA_SHI08:0022",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "そうですか……？\nわたしは、そんなこと無いと思いますけど……",
-  "en": ""
+  "en": "You don't...?\nI don't think that's true, though..."
  },
  {
   "id": "KA_SHI08:0023",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "翔……いま……いい？",
-  "en": ""
+  "en": "Shou... got a minute...?"
  },
  {
   "id": "KA_SHI08:0024",
@@ -179,27 +179,27 @@
   "kind": "msg",
   "speaker": "ルー",
   "jp": "こんなこと、\n早く終わらせないといけないよね……",
-  "en": ""
+  "en": "We've got to put an end\nto all this soon..."
  },
  {
   "id": "KA_SHI08:0026",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "おかしいよね。",
-  "en": ""
+  "en": "It's weird, isn't it?"
  },
  {
   "id": "KA_SHI08:0027",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "最初は、火竜族なんて\nどうなってもいいと思ってた。",
-  "en": ""
+  "en": "At first, I didn't care what\nhappened to the Fire Dragon Clan."
  },
  {
   "id": "KA_SHI08:0028",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "けど、今はちがうの……",
-  "en": ""
+  "en": "But now it's different..."
  }
 ]

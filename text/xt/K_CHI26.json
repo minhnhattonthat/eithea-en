@@ -4,48 +4,48 @@
   "kind": "msg",
   "speaker": "",
   "jp": "　地下廃墟　　地下６階",
-  "en": ""
+  "en": "Underground Ruins - Basement 6"
  },
  {
   "id": "K_CHI26:0001",
   "kind": "msg",
   "speaker": "",
   "jp": "<1>エレーティア<8>を手に入れた！",
-  "en": ""
+  "en": "Got the <1>Eletia<8>!"
  },
  {
   "id": "K_CHI26:0002",
   "kind": "choice",
   "speaker": "",
   "jp": "　開ける\n　やめる",
-  "en": ""
+  "en": "Open it\nLeave it"
  },
  {
   "id": "K_CHI26:0003",
   "kind": "msg",
   "speaker": "",
   "jp": "<1>プレイオブエレ<8>を手に入れた！",
-  "en": ""
+  "en": "Got the <1>Pray of Ele<8>!"
  },
  {
   "id": "K_CHI26:0004",
   "kind": "choice",
   "speaker": "",
   "jp": "　開ける\n　やめる",
-  "en": ""
+  "en": "Open it\nLeave it"
  },
  {
   "id": "K_CHI26:0005",
   "kind": "msg",
   "speaker": "翔",
   "jp": "何もないな………",
-  "en": ""
+  "en": "Nothing here..."
  },
  {
   "id": "K_CHI26:0006",
   "kind": "choice",
   "speaker": "",
   "jp": "　キャンプで休む\n　セーブする\n　休まない",
-  "en": ""
+  "en": "Rest at camp\nSave\nDon't rest"
  }
 ]

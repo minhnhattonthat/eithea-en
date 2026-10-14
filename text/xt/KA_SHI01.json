@@ -4,41 +4,41 @@
   "kind": "msg",
   "speaker": "",
   "jp": "　火竜城　　１階広間",
-  "en": ""
+  "en": "Fire Dragon Castle - Floor 1 Hall"
  },
  {
   "id": "KA_SHI01:0001",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "母上は、謁見の間にいるはずだ。",
-  "en": ""
+  "en": "Mother should be in the audience chamber."
  },
  {
   "id": "KA_SHI01:0002",
   "kind": "msg",
   "speaker": "翔",
   "jp": "どっちへ行けばいいんだ？",
-  "en": ""
+  "en": "Which way do we go?"
  },
  {
   "id": "KA_SHI01:0003",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "右の扉が近道だ。さあ、行こう！",
-  "en": ""
+  "en": "The door on the right is a shortcut.\nCome on, let's go!"
  },
  {
   "id": "KA_SHI01:0004",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "<1>コークスクリュー<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>Corkscrew<8>!"
  },
  {
   "id": "KA_SHI01:0005",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "<1>金色の冠<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>Golden Crown<8>!"
  }
 ]

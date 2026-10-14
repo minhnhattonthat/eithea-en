@@ -4,195 +4,195 @@
   "kind": "msg",
   "speaker": "イムル",
   "jp": "……は、母上ッ！！",
-  "en": ""
+  "en": "...M-Mother!!"
  },
  {
   "id": "IVENT41:0001",
   "kind": "msg",
   "speaker": "レア",
   "jp": "来たのですね、イムル<8>……",
-  "en": ""
+  "en": "You've come, Imul<8>..."
  },
  {
   "id": "IVENT41:0002",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "母上！\nそのお姿は……",
-  "en": ""
+  "en": "Mother!\nYou're hurt..."
  },
  {
   "id": "IVENT41:0003",
   "kind": "msg",
   "speaker": "レア",
   "jp": "私はだいじょうぶです。\nそれよりも、ナムリア<8>を……",
-  "en": ""
+  "en": "I'm all right.\nMore importantly, Namuria<8>..."
  },
  {
   "id": "IVENT41:0004",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "姉上！？\n姉上はどこにいらっしゃるのです？",
-  "en": ""
+  "en": "Sister?!\nWhere is Sister?"
  },
  {
   "id": "IVENT41:0005",
   "kind": "msg",
   "speaker": "レア",
   "jp": "黒の間です。\nさあ、早くお行きなさい。\nここは、私にまかせて……",
-  "en": ""
+  "en": "In the Black Chamber.\nNow, go quickly.\nLeave this place to me..."
  },
  {
   "id": "IVENT41:0006",
   "kind": "msg",
   "speaker": "レア",
   "jp": "また来たわね……",
-  "en": ""
+  "en": "So you've come again..."
  },
  {
   "id": "IVENT41:0007",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "戦う気！？\nそんな身体じゃ無理よ！",
-  "en": ""
+  "en": "You're going to fight?!\nYou can't, not in that condition!"
  },
  {
   "id": "IVENT41:0008",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "<1>アーティアバスト<8>を手渡された！",
-  "en": ""
+  "en": "Received <1>Artia Burst<8>!"
  },
  {
   "id": "IVENT41:0009",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "これは……？　は、母上！",
-  "en": ""
+  "en": "What is this...? M-Mother!"
  },
  {
   "id": "IVENT41:0010",
   "kind": "msg",
   "speaker": "レア",
   "jp": "行きなさい！　早く！！",
-  "en": ""
+  "en": "Go! Hurry!!"
  },
  {
   "id": "IVENT41:0011",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "あんなのじゃ負けちゃうよ！\n助けないと……ねえ、翔！！",
-  "en": ""
+  "en": "She'll lose against that thing!\nWe have to help her... right, Shou?!"
  },
  {
   "id": "IVENT41:0012",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ああ！",
-  "en": ""
+  "en": "Yeah!"
  },
  {
   "id": "IVENT41:0013",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "まってください！",
-  "en": ""
+  "en": "Please, wait!"
  },
  {
   "id": "IVENT41:0014",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "黒の間に急ぎましょう……",
-  "en": ""
+  "en": "Let's hurry to the Black Chamber..."
  },
  {
   "id": "IVENT41:0015",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "なんでよ！？\nこのままじゃ女王様がやられちゃうよ！",
-  "en": ""
+  "en": "Why?!\nThe Queen's going to get killed at this rate!"
  },
  {
   "id": "IVENT41:0016",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "母上は、みんなを\n助けるために戦っています。",
-  "en": ""
+  "en": "Mother is fighting to\nprotect everyone."
  },
  {
   "id": "IVENT41:0017",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "私たちを、姉上を助けるために……",
-  "en": ""
+  "en": "To save us, and to save Sister..."
  },
  {
   "id": "IVENT41:0018",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "今、私たちがすべきことは、\n一刻も早く、姉上を助けることです！",
-  "en": ""
+  "en": "What we must do now\nis save Sister as quickly as we can!"
  },
  {
   "id": "IVENT41:0019",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "でも！",
-  "en": ""
+  "en": "But...!"
  },
  {
   "id": "IVENT41:0020",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "私は、母上を信じています。\n母上はだいじょうぶだとおっしゃいました。",
-  "en": ""
+  "en": "I believe in Mother.\nShe said she would be all right."
  },
  {
   "id": "IVENT41:0021",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "だから、行きましょう。\n姉上をさがしに！",
-  "en": ""
+  "en": "So let's go.\nTo find Sister!"
  },
  {
   "id": "IVENT41:0022",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "……イムルの言うとおりよ。\n先へ進みましょう。",
-  "en": ""
+  "en": "...Imul is right.\nLet's keep going."
  },
  {
   "id": "IVENT41:0023",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "今は、お姉さんを助けるのが先決よ。\n女王は、信じるしかないわ。",
-  "en": ""
+  "en": "Right now, saving his sister comes first.\nAll we can do is trust the Queen."
  },
  {
   "id": "IVENT41:0024",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "そうだ。ここでモタモタしてナムリアに\nなにかあったら、どう言い訳する気だ？",
-  "en": ""
+  "en": "He's right. If you dawdle here and something\nhappens to Namuria, what's your excuse?"
  },
  {
   "id": "IVENT41:0025",
   "kind": "msg",
   "speaker": "翔",
   "jp": "確かにそのとおりだ……行こう、ユカ<8>！",
-  "en": ""
+  "en": "He's got a point... Let's go, Yuka<8>!"
  },
  {
   "id": "IVENT41:0026",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "うん……",
-  "en": ""
+  "en": "Okay..."
  },
  {
   "id": "IVENT41:0027",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "……母上……",
-  "en": ""
+  "en": "...Mother..."
  }
 ]

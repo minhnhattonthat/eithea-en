@@ -4,342 +4,342 @@
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "お兄ちゃん、ちょっとまっててなの。",
-  "en": ""
+  "en": "Big brother, wait here a sec~"
  },
  {
   "id": "IVENT51:0001",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "おじいちゃん、ただいまなのお！",
-  "en": ""
+  "en": "Grandpa, I'm home~!"
  },
  {
   "id": "IVENT51:0002",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "おお、お帰り、ハーミー。\n今日はどこまで木の実を拾いにいっとったんじゃ？",
-  "en": ""
+  "en": "Oh, welcome back, Hermie.\nHow far did you go gathering nuts today?"
  },
  {
   "id": "IVENT51:0003",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "今日はねえ、丘のあたりまでなの。",
-  "en": ""
+  "en": "Today, all the way to the hill~"
  },
  {
   "id": "IVENT51:0004",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "あのね、おじいちゃんのお友達が来てるの。\nハーミーがつれてきたの。",
-  "en": ""
+  "en": "Guess what, Grandpa, a friend of yours came~\nHermie brought him~"
  },
  {
   "id": "IVENT51:0005",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "えらいのお。\nしかし、わしの友達とは、誰じゃろうのう。",
-  "en": ""
+  "en": "Good girl.\nBut a friend of mine? Now who\ncould that be?"
  },
  {
   "id": "IVENT51:0006",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "うふふふふふ。",
-  "en": ""
+  "en": "Hee hee hee hee~"
  },
  {
   "id": "IVENT51:0007",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "お兄ちゃん、オヤジ！　入って来るの。",
-  "en": ""
+  "en": "Big brother, Old Man! Come on in~"
  },
  {
   "id": "IVENT51:0008",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ひさしぶりだな、ピエン。\nガキはちゃんとしつけやがれ。",
-  "en": ""
+  "en": "Long time no see, Pien.\nTeach that brat some manners, will ya."
  },
  {
   "id": "IVENT51:0009",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "なんじゃ、誰かと思えば……\nまあ、そろそろ来る頃じゃとは思っとったがの。",
-  "en": ""
+  "en": "Well, well, look who it is...\nMind you, I figured you'd turn up about now."
  },
  {
   "id": "IVENT51:0010",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……カレンがな、まだバカなことを続けてるんだ。",
-  "en": ""
+  "en": "...Karen's still keepin' up that nonsense."
  },
  {
   "id": "IVENT51:0011",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "<10>…<10>…わしも聞いとるよ。\nあー、立ち話もなんじゃろう。\n座ったらどうじゃ？",
-  "en": ""
+  "en": "<10>...<10>...So I've heard.\nNow, no sense talking on your feet.\nWhy don't you sit down?"
  },
  {
   "id": "IVENT51:0012",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "その前にどこか休むところを貸してくれねえか？",
-  "en": ""
+  "en": "First, got somewhere my friends can rest?"
  },
  {
   "id": "IVENT51:0013",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ツレがちっとばかり、疲れてるようでな。",
-  "en": ""
+  "en": "My companions are a bit worn out."
  },
  {
   "id": "IVENT51:0014",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "おお、気がまわらんかった。\nハーミー<10>…<10>…頼むぞ。",
-  "en": ""
+  "en": "Oh, how thoughtless of me.\nHermie<10>...<10>...I'm counting on you."
  },
  {
   "id": "IVENT51:0015",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "うん、ハーミーたちの家に連れてくの。\nみんな、こっちに来るの。",
-  "en": ""
+  "en": "Okay, Hermie'll take them to our house~\nEveryone, come this way~"
  },
  {
   "id": "IVENT51:0016",
   "kind": "msg",
   "speaker": "翔",
   "jp": "俺はここに残るよ。\n先生、ユカたちをお願いします。",
-  "en": ""
+  "en": "I'll stay here.\nSensei, please look after Yuka and the others."
  },
  {
   "id": "IVENT51:0017",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "わかったわ。\nでも、新見くんも無理しちゃダメよ。",
-  "en": ""
+  "en": "All right.\nBut don't push yourself either, Niimi-kun."
  },
  {
   "id": "IVENT51:0018",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "<10>…<10>…さて、どっから話すかな？\n翔たちのこともあるし、\nダルいが、最初っからにするか。",
-  "en": ""
+  "en": "<10>...<10>...Now, where to start?\nThere's Shou and the others too, so...\nIt's a pain, but I'll start from the top."
  },
  {
   "id": "IVENT51:0019",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "<10>…<10>…そうか。\nそりゃ大変じゃったのう。",
-  "en": ""
+  "en": "<10>...<10>...I see.\nThat must have been quite an ordeal."
  },
  {
   "id": "IVENT51:0020",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "おそらく今ごろ、カレンはここに向かってるはずだ。",
-  "en": ""
+  "en": "Karen's probably headed here right about now."
  },
  {
   "id": "IVENT51:0021",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "残る２本の神木を手に入れ、\nさらに大量のエネルギーを得ようってハラだろう。",
-  "en": ""
+  "en": "Her plan's gotta be to grab the last two\nSacred Trees and get even more energy."
  },
  {
   "id": "IVENT51:0022",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "じゃな。\nきっとわしらもそうするじゃろう。",
-  "en": ""
+  "en": "Aye.\nWe'd surely do the same in her place."
  },
  {
   "id": "IVENT51:0023",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "なにせ、わしら３人は、同じ夜夢族じゃからのう。",
-  "en": ""
+  "en": "After all, the three of us all hail\nfrom the same Night Dream Clan, eh."
  },
  {
   "id": "IVENT51:0024",
   "kind": "msg",
   "speaker": "翔",
   "jp": "アルバイジャン、\nおまえは火竜族じゃなかったのか！？",
-  "en": ""
+  "en": "Albaijan,\nweren't you from the Fire Dragon Clan?!"
  },
  {
   "id": "IVENT51:0025",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "あん……あ…まあな……\nいろいろと不便なんでな。",
-  "en": ""
+  "en": "Ah... uh... well, yeah...\nLet's just say it'd be inconvenient otherwise."
  },
  {
   "id": "IVENT51:0026",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "アイシアでのう、\n夜夢族は半ば伝説となっておるんじゃ。",
-  "en": ""
+  "en": "Y'see, here in Eithéa,\nthe Night Dream Clan is half a legend."
  },
  {
   "id": "IVENT51:0027",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "ヘタに名乗れば、まあ騒動はさけられん。",
-  "en": ""
+  "en": "Say you're one carelessly, and well,\nthere's bound to be an uproar."
  },
  {
   "id": "IVENT51:0028",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "だから俺は、火竜族で通してるんだ。",
-  "en": ""
+  "en": "So I pass myself off as Fire Dragon Clan."
  },
  {
   "id": "IVENT51:0029",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "まっ、そんなことはどうでもいい。",
-  "en": ""
+  "en": "Anyway, none of that matters."
  },
  {
   "id": "IVENT51:0030",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "問題は、どうやって、カレンを止めるかだ。",
-  "en": ""
+  "en": "The problem is how we're gonna stop Karen."
  },
  {
   "id": "IVENT51:0031",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "あいつの後ろには、奴らがいるみてえだしよ。",
-  "en": ""
+  "en": "Looks like she's got \"them\" backing her, too."
  },
  {
   "id": "IVENT51:0032",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "それはまさか……\nいや、いて然るべきじゃろう。",
-  "en": ""
+  "en": "Surely not... No, I suppose\nit'd be stranger if they weren't."
  },
  {
   "id": "IVENT51:0033",
   "kind": "msg",
   "speaker": "翔",
   "jp": "なあ、誰なんだ？\nその、奴らっていうのは？",
-  "en": ""
+  "en": "Hey, who are they?\nThese \"them\" you keep mentioning?"
  },
  {
   "id": "IVENT51:0034",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "そのうち教えてやるさ。",
-  "en": ""
+  "en": "I'll tell you one of these days."
  },
  {
   "id": "IVENT51:0035",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "……それがええ。\nとにかく今はカレンをどうやって止めるかじゃ。",
-  "en": ""
+  "en": "...That would be best.\nFor now, the question is how to stop Karen."
  },
  {
   "id": "IVENT51:0036",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "奴ら<8>に対抗できる力、<10>か。\n<10>…<10>…これしかないのう。",
-  "en": ""
+  "en": "A power to stand against them<8>,<10> eh?\n<10>...<10>...There's only one thing for it."
  },
  {
   "id": "IVENT51:0037",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "……のう、アルバイジャン。\nひとつ頼まれてくれるか？",
-  "en": ""
+  "en": "...Say, Albaijan.\nWould you do me one favor?"
  },
  {
   "id": "IVENT51:0038",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "断れないことは、頼みごととは言わねえぞ。",
-  "en": ""
+  "en": "If I can't turn it down, it ain't a favor."
  },
  {
   "id": "IVENT51:0039",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "どうせアーティアを取りに行けっていうんだろ？",
-  "en": ""
+  "en": "You want me to go fetch the Artia, right?"
  },
  {
   "id": "IVENT51:0040",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "察しがいいのう。\nアーティアは、<1>ほこら<8>に隠してある。",
-  "en": ""
+  "en": "Sharp as ever.\nThe Artia is hidden in a <1>shrine<8>."
  },
  {
   "id": "IVENT51:0041",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "ヤムヤムの森の奥にある、ほこらじゃよ。",
-  "en": ""
+  "en": "The shrine deep in the Yamyam Forest."
  },
  {
   "id": "IVENT51:0042",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "それを取ってきてもらえんか？",
-  "en": ""
+  "en": "Would you go and get it for me?"
  },
  {
   "id": "IVENT51:0043",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ああ、いいとも。\nだが、少しだけ時間をくれ。",
-  "en": ""
+  "en": "Sure, I'll do it.\nBut give me a little time."
  },
  {
   "id": "IVENT51:0044",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "仲間があんな調子だ。\n回復したら取りに行く。",
-  "en": ""
+  "en": "My friends are in rough shape.\nOnce they've recovered, I'll go get it."
  },
  {
   "id": "IVENT51:0045",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "……時間が許してくれれば、じゃがの。",
-  "en": ""
+  "en": "...If time allows it, that is."
  },
  {
   "id": "IVENT51:0046",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "翔、おまえさんもそろそろ休むがいい。",
-  "en": ""
+  "en": "Shou, you'd best get some rest yourself."
  },
  {
   "id": "IVENT51:0047",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "アルバイジャンのことじゃ。\nアーティアを取りに付きあわされるぞ。",
-  "en": ""
+  "en": "Knowing Albaijan, he'll drag you along\nwhen he goes for the Artia."
  },
  {
   "id": "IVENT51:0048",
   "kind": "msg",
   "speaker": "ピエン",
   "jp": "休むところは、どこでもいい。\n好きなところで眠っておくれ。",
-  "en": ""
+  "en": "Rest anywhere you like.\nSleep wherever suits you."
  }
 ]

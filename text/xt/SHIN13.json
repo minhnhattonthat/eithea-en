@@ -4,14 +4,14 @@
   "kind": "msg",
   "speaker": "",
   "jp": "　　神木ドーム　９階",
-  "en": ""
+  "en": "Sacred Tree Dome - Floor 9"
  },
  {
   "id": "SHIN13:0001",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "お兄ちゃん、ヤなの……",
-  "en": ""
+  "en": "Big brother, Hermie doesn't like this~..."
  },
  {
   "id": "SHIN13:0002",
@@ -25,35 +25,35 @@
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ここ、ヤな雰囲気するの。\n……ううん、ここじゃないの。\nここにいるものが、ヤなの。",
-  "en": ""
+  "en": "This place feels yucky~.\n...No, it's not the place.\nIt's what's in here that's yucky~."
  },
  {
   "id": "SHIN13:0004",
   "kind": "msg",
   "speaker": "翔",
   "jp": "どういうことだ？\n何がいるっていうんだ？",
-  "en": ""
+  "en": "What do you mean?\nWhat's in here?"
  },
  {
   "id": "SHIN13:0005",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "わからないの……\nでも、おっきくて、つよくて、悪い力なの！",
-  "en": ""
+  "en": "Hermie doesn't know~...\nBut it's a big, strong, evil power~!"
  },
  {
   "id": "SHIN13:0006",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "お兄ちゃん、早く出るの。\nすごくヤな感じがするの！",
-  "en": ""
+  "en": "Big brother, let's get out quick~.\nIt feels really, really yucky~!"
  },
  {
   "id": "SHIN13:0007",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ハーミー、怖いの……",
-  "en": ""
+  "en": "Hermie's scared~..."
  },
  {
   "id": "SHIN13:0008",
@@ -74,91 +74,91 @@
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "あの、この間ですけど、倒れて、ごめんなさい……",
-  "en": ""
+  "en": "Um, about the other day... I'm sorry I\ncollapsed..."
  },
  {
   "id": "SHIN13:0011",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "もう、だいじょうぶですから。\nどこも痛くないし……",
-  "en": ""
+  "en": "I'm all right now.\nNothing hurts anymore..."
  },
  {
   "id": "SHIN13:0012",
   "kind": "choice",
   "speaker": "",
   "jp": "　がんばれよ\n　まだ休んでいろ",
-  "en": ""
+  "en": "Hang in there\nRest a while longer"
  },
  {
   "id": "SHIN13:0013",
   "kind": "msg",
   "speaker": "翔",
   "jp": "あまり気にしないでくれ。",
-  "en": ""
+  "en": "Don't worry about it too much."
  },
  {
   "id": "SHIN13:0014",
   "kind": "msg",
   "speaker": "翔",
   "jp": "また、いっしょにがんばろうな。",
-  "en": ""
+  "en": "Let's keep giving it our all together."
  },
  {
   "id": "SHIN13:0015",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "は、はい……！\nわたし、がんばります！",
-  "en": ""
+  "en": "Y-Yes...!\nI'll do my best!"
  },
  {
   "id": "SHIN13:0016",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "新見くん、ありがとう……",
-  "en": ""
+  "en": "Thank you, Niimi-kun..."
  },
  {
   "id": "SHIN13:0017",
   "kind": "msg",
   "speaker": "翔",
   "jp": "まだ休んでていいよ。",
-  "en": ""
+  "en": "You can keep resting, you know."
  },
  {
   "id": "SHIN13:0018",
   "kind": "msg",
   "speaker": "翔",
   "jp": "無理して戦ってもらっても、お互いにつらいしな。",
-  "en": ""
+  "en": "If you push yourself to fight, it's rough\non both of us."
  },
  {
   "id": "SHIN13:0019",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……だいじょうぶです。\nそれに、わたし……\n休みたくないです……",
-  "en": ""
+  "en": "...I'm all right.\nAnd besides, I...\nI don't want to rest..."
  },
  {
   "id": "SHIN13:0020",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "今がんばらないと、わたし、また足手まといに……",
-  "en": ""
+  "en": "If I don't try hard now, I'll just be\nholding everyone back again..."
  },
  {
   "id": "SHIN13:0021",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "だから、休みません。\nわたし、がんばります……！",
-  "en": ""
+  "en": "So I won't rest.\nI'll do my best...!"
  },
  {
   "id": "SHIN13:0022",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "お兄ちゃん、えへへへへ！",
-  "en": ""
+  "en": "Big brother, ehehehehe!"
  },
  {
   "id": "SHIN13:0023",
@@ -172,55 +172,55 @@
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ねえねえ、お兄ちゃん。\nハーミーねえ、お兄ちゃんのタイプぅ？",
-  "en": ""
+  "en": "Hey hey, big brother.\nIs Hermie your type~?"
  },
  {
   "id": "SHIN13:0025",
   "kind": "choice",
   "speaker": "",
   "jp": "　タイプだよ\n　子供はなあ……",
-  "en": ""
+  "en": "You're my type\nKids, though..."
  },
  {
   "id": "SHIN13:0026",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "わあ～いなのお！\nハーミー、うれしいの！",
-  "en": ""
+  "en": "Yaaay~!\nHermie's so happy~!"
  },
  {
   "id": "SHIN13:0027",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "お兄ちゃん、お願いなの！\nハーミーをお嫁さんにしてなの！",
-  "en": ""
+  "en": "Big brother, please~!\nMake Hermie your bride~!"
  },
  {
   "id": "SHIN13:0028",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "……あ、やっぱりダメなの。\nお嫁さんになると、\nお兄ちゃんがお兄ちゃんじゃなくなるの。",
-  "en": ""
+  "en": "...Oh, never mind, that's no good~.\nIf Hermie becomes your bride,\nbig brother won't be big brother anymore~."
  },
  {
   "id": "SHIN13:0029",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "やっぱりハーミー、今のままでいいの！",
-  "en": ""
+  "en": "Hermie's fine just the way things are~!"
  },
  {
   "id": "SHIN13:0030",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ぶううううう！\nハーミー、子供じゃないの！\nもう立派なレディーなの！",
-  "en": ""
+  "en": "Hmmmph!\nHermie's not a kid~!\nHermie's already a proper lady~!"
  },
  {
   "id": "SHIN13:0031",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "もういいの！\nお兄ちゃんこそハーミーのタイプじゃないの！",
-  "en": ""
+  "en": "Fine~!\nBig brother's not Hermie's type either~!"
  }
 ]

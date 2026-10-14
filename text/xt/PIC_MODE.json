@@ -4,28 +4,28 @@
   "kind": "msg",
   "speaker": "シャイ",
   "jp": "……で、なんの用？",
-  "en": ""
+  "en": "...So, what do you want?"
  },
  {
   "id": "PIC_MODE:0001",
   "kind": "msg",
   "speaker": "ファンナ",
   "jp": "最近、エレの樹からの力が\nとぎれがちなんです。",
-  "en": ""
+  "en": "Lately, the power from the Ele Tree\nkeeps cutting out."
  },
  {
   "id": "PIC_MODE:0002",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "ルー、村の外に出るときは気をつけるんですよ。",
-  "en": ""
+  "en": "Lou, be careful whenever you leave the\nvillage."
  },
  {
   "id": "PIC_MODE:0003",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "翔、みなさん、ルーをよろしくお願いします。",
-  "en": ""
+  "en": "Shou, everyone, please take care of Lou."
  },
  {
   "id": "PIC_MODE:0004",

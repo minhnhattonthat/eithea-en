@@ -4,70 +4,70 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "すいません。",
-  "en": ""
+  "en": "Excuse me."
  },
  {
   "id": "KA_RING:0001",
   "kind": "msg",
   "speaker": "店主",
   "jp": "…………",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "KA_RING:0002",
   "kind": "msg",
   "speaker": "翔",
   "jp": "あ、あのお……",
-  "en": ""
+  "en": "U-Um..."
  },
  {
   "id": "KA_RING:0003",
   "kind": "msg",
   "speaker": "店主",
   "jp": "…………",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "KA_RING:0004",
   "kind": "msg",
   "speaker": "翔",
   "jp": "あのお、すいませんが……",
-  "en": ""
+  "en": "Um, excuse me, but..."
  },
  {
   "id": "KA_RING:0005",
   "kind": "msg",
   "speaker": "店主",
   "jp": "………聞こえてます。",
-  "en": ""
+  "en": "......I can hear you."
  },
  {
   "id": "KA_RING:0006",
   "kind": "msg",
   "speaker": "翔",
   "jp": "――え？\nあの、ショートカットの女の子が来ませんでしたか？",
-  "en": ""
+  "en": "--Huh?\nUm, did a girl with short hair come by here?"
  },
  {
   "id": "KA_RING:0007",
   "kind": "msg",
   "speaker": "店主",
   "jp": "…………来ていません。",
-  "en": ""
+  "en": "......She has not."
  },
  {
   "id": "KA_RING:0008",
   "kind": "msg",
   "speaker": "翔",
   "jp": "すいませんでした……\nそれじゃあ。",
-  "en": ""
+  "en": "Sorry to bother you...\nBye, then."
  },
  {
   "id": "KA_RING:0009",
   "kind": "msg",
   "speaker": "店主",
   "jp": "……なにを買うのです？",
-  "en": ""
+  "en": "...What will you buy?"
  },
  {
   "id": "KA_RING:0010",
@@ -81,55 +81,55 @@
   "kind": "msg",
   "speaker": "店主",
   "jp": "………必要なものがあれば、\nおっしゃってください。",
-  "en": ""
+  "en": "......If there is anything you need,\nplease say so."
  },
  {
   "id": "KA_RING:0012",
   "kind": "msg",
   "speaker": "店主",
   "jp": "……そのリングが、あなたを守るでしょう……\n……他になにか？",
-  "en": ""
+  "en": "...That ring will protect you...\n...Anything else?"
  },
  {
   "id": "KA_RING:0013",
   "kind": "msg",
   "speaker": "店主",
   "jp": "…………うちのリングはお気に召しませんか？",
-  "en": ""
+  "en": "......Do my rings not please you?"
  },
  {
   "id": "KA_RING:0014",
   "kind": "msg",
   "speaker": "店員",
   "jp": "………なにを売ってくれるのです？",
-  "en": ""
+  "en": "......What will you sell me?"
  },
  {
   "id": "KA_RING:0015",
   "kind": "msg",
   "speaker": "店員",
   "jp": "…………また、売って下さい。",
-  "en": ""
+  "en": "......Please sell to me again."
  },
  {
   "id": "KA_RING:0016",
   "kind": "msg",
   "speaker": "店員",
   "jp": "…………売ってくれんのですか？",
-  "en": ""
+  "en": "......You will not sell?"
  },
  {
   "id": "KA_RING:0017",
   "kind": "msg",
   "speaker": "店主",
   "jp": "……では……",
-  "en": ""
+  "en": "...Well then..."
  },
  {
   "id": "KA_RING:0018",
   "kind": "msg",
   "speaker": "翔",
   "jp": "（一度、アルバイジャンの家に戻ってみるか……\nもしかしたら、伊藤さんが\n見つかってるかもしれないからな）",
-  "en": ""
+  "en": "(Maybe I should stop by Albaijan's house...\nThere's a chance someone's found\nItou-san by now.)"
  }
 ]

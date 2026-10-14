@@ -4,405 +4,405 @@
   "kind": "msg",
   "speaker": "ルー",
   "jp": "あ、翔。\nどう、宿は見つかった？",
-  "en": ""
+  "en": "Oh, Shou.\nSo, did you find an inn?"
  },
  {
   "id": "KARYU02:0001",
   "kind": "msg",
   "speaker": "翔",
   "jp": "いや、まだだ。\nそっちはどうだ？",
-  "en": ""
+  "en": "No, not yet.\nHow about you?"
  },
  {
   "id": "KARYU02:0002",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "見つかったんなら、こんなとこにいないわ。\nもうちょっと探してみるわ。",
-  "en": ""
+  "en": "If I had, I wouldn't be standing here.\nI'll keep looking a bit more."
  },
  {
   "id": "KARYU02:0003",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "じゃ、またあとでね。",
-  "en": ""
+  "en": "See you later, then."
  },
  {
   "id": "KARYU02:0004",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "もう、やんなっちゃうわ。\nどこにいっても、ダメの一点張りなんだもの。",
-  "en": ""
+  "en": "Ugh, I'm so sick of this.\nEverywhere I go, it's just \"no,\" period."
  },
  {
   "id": "KARYU02:0005",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ホント火竜族って、冷たい奴らばっかだね。",
-  "en": ""
+  "en": "The Fire Dragon Clan really are all a bunch of\ncold jerks."
  },
  {
   "id": "KARYU02:0006",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "あのアゼルって奴……\nいまいち信用できないわ。",
-  "en": ""
+  "en": "That Azel...\nI just can't quite trust her."
  },
  {
   "id": "KARYU02:0007",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ああ、新見くん。\nどう、宿は見つかった？",
-  "en": ""
+  "en": "Ah, Niimi-kun.\nSo, did you find an inn?"
  },
  {
   "id": "KARYU02:0008",
   "kind": "msg",
   "speaker": "翔",
   "jp": "まだですね。\n先生はどうですか？",
-  "en": ""
+  "en": "Not yet.\nHow about you, Sensei?"
  },
  {
   "id": "KARYU02:0009",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "私も同じよ。\nもう少しこのあたりを探してみるわ。",
-  "en": ""
+  "en": "Same here.\nI'll look around this area a little longer."
  },
  {
   "id": "KARYU02:0010",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "見つかるといいのだけれど……",
-  "en": ""
+  "en": "I hope we find one..."
  },
  {
   "id": "KARYU02:0011",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "新見くん。\nどう、宿は見つかった？",
-  "en": ""
+  "en": "Niimi-kun.\nSo, did you find an inn?"
  },
  {
   "id": "KARYU02:0012",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "一見平和な町だけど、\nなんだか剣呑な雰囲気を\n感じるわ。",
-  "en": ""
+  "en": "It seems like a peaceful town at first\nglance, but I sense something dangerous\nin the air."
  },
  {
   "id": "KARYU02:0013",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "もしかして、あの飛竜の牙も\nその一因なのかしら……？",
-  "en": ""
+  "en": "I wonder if that Wyvern's Fang\nis part of the reason...?"
  },
  {
   "id": "KARYU02:0014",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "期限の三日が\nすぎちゃったわね……",
-  "en": ""
+  "en": "The three-day deadline\nhas passed, hasn't it..."
  },
  {
   "id": "KARYU02:0015",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "新見くん、\n目立つようなことは控えてね。",
-  "en": ""
+  "en": "Niimi-kun,\nplease try not to draw attention."
  },
  {
   "id": "KARYU02:0016",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "…………………………",
-  "en": ""
+  "en": ".........."
  },
  {
   "id": "KARYU02:0017",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "アルバイジャン、\n早く助け出さなくちゃ！",
-  "en": ""
+  "en": "We have to rescue\nAlbaijan, and fast!"
  },
  {
   "id": "KARYU02:0018",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "このままじっとしてるのなんて、\nたえられないよ。",
-  "en": ""
+  "en": "I can't stand just sitting around\nlike this."
  },
  {
   "id": "KARYU02:0019",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "翔！　もう、三日が\n過ぎちゃったよ！",
-  "en": ""
+  "en": "Shou! The three days\nare already up!"
  },
  {
   "id": "KARYU02:0020",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "早くアルバイジャンを\n助け出さないと！",
-  "en": ""
+  "en": "We have to rescue\nAlbaijan soon!"
  },
  {
   "id": "KARYU02:0021",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……あ、新見くん。\n宿は見つかりましたか……？",
-  "en": ""
+  "en": "...Ah, Niimi-kun.\nDid you find an inn...?"
  },
  {
   "id": "KARYU02:0022",
   "kind": "msg",
   "speaker": "翔",
   "jp": "いや、まだだ。\n伊藤さんはどう？",
-  "en": ""
+  "en": "No, not yet.\nHow about you, Itou-san?"
  },
  {
   "id": "KARYU02:0023",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "やっぱりよそ者だと知ると……",
-  "en": ""
+  "en": "As soon as they find out we're outsiders..."
  },
  {
   "id": "KARYU02:0024",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……もう少しだけ、このあたりを探してみます。",
-  "en": ""
+  "en": "...I'll look around this area just a little\nlonger."
  },
  {
   "id": "KARYU02:0025",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "新見くん、がんばってくださいね。",
-  "en": ""
+  "en": "Good luck, Niimi-kun."
  },
  {
   "id": "KARYU02:0026",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……なかなか、見つかりませんね。",
-  "en": ""
+  "en": "...It's hard to find one, isn't it?"
  },
  {
   "id": "KARYU02:0027",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "もうちょっと、がんばってみます。",
-  "en": ""
+  "en": "I'll try a little harder."
  },
  {
   "id": "KARYU02:0028",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "ルーのおかげで、ユカが元気になってくれて\nよかったです。",
-  "en": ""
+  "en": "I'm glad Lou cheered Yuka up."
  },
  {
   "id": "KARYU02:0029",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "やっぱりユカは、\n明るくて元気なのが\n一番ですよね。",
-  "en": ""
+  "en": "Yuka's really\nat her best when she's\nbright and cheerful, isn't she?"
  },
  {
   "id": "KARYU02:0030",
   "kind": "msg",
   "speaker": "若い男",
   "jp": "きみひとりなら俺の家に泊めてあげたのにな。",
-  "en": ""
+  "en": "If it were just you, I'd have let you stay at\nmy place."
  },
  {
   "id": "KARYU02:0031",
   "kind": "msg",
   "speaker": "若い男",
   "jp": "どこか店に入って、\n宿屋の事を聞いてみたらどうだ？",
-  "en": ""
+  "en": "Why not go into some shop\nand ask about an inn?"
  },
  {
   "id": "KARYU02:0032",
   "kind": "msg",
   "speaker": "若い男",
   "jp": "うちはそんな大勢泊めてやれるほど広くないんだよ。",
-  "en": ""
+  "en": "My place isn't big enough to put up that many\npeople."
  },
  {
   "id": "KARYU02:0033",
   "kind": "msg",
   "speaker": "若い男",
   "jp": "おれ、今度、\nカーライルに行ってくるんだ。",
-  "en": ""
+  "en": "Hey, I'm heading to\nCarlyle soon."
  },
  {
   "id": "KARYU02:0034",
   "kind": "msg",
   "speaker": "青年",
   "jp": "どうしたんだ急に？",
-  "en": ""
+  "en": "What's this all of a sudden?"
  },
  {
   "id": "KARYU02:0035",
   "kind": "msg",
   "speaker": "若い男",
   "jp": "いや、ちょっとヤボ用でな。",
-  "en": ""
+  "en": "Eh, just a little personal errand."
  },
  {
   "id": "KARYU02:0036",
   "kind": "msg",
   "speaker": "青年",
   "jp": "ははぁ～ん、コレか？",
-  "en": ""
+  "en": "Ahh~, it's a girl, isn't it?"
  },
  {
   "id": "KARYU02:0037",
   "kind": "msg",
   "speaker": "若い男",
   "jp": "バ、バカ言ってんじゃねえよ！",
-  "en": ""
+  "en": "D-Don't be stupid!"
  },
  {
   "id": "KARYU02:0038",
   "kind": "msg",
   "speaker": "青年",
   "jp": "あはははは！",
-  "en": ""
+  "en": "Ahahahaha!"
  },
  {
   "id": "KARYU02:0039",
   "kind": "msg",
   "speaker": "若い男",
   "jp": "あぁ、\nなんできみはそんなにキレイなんだ。",
-  "en": ""
+  "en": "Ahh,\nwhy are you so beautiful?"
  },
  {
   "id": "KARYU02:0040",
   "kind": "msg",
   "speaker": "若い女",
   "jp": "そう言うあなたこそ\nどうしてそんなにカッコイイの？",
-  "en": ""
+  "en": "And why are you\nso handsome?"
  },
  {
   "id": "KARYU02:0041",
   "kind": "msg",
   "speaker": "若い男",
   "jp": "きみがそばにいてくれるからさ。",
-  "en": ""
+  "en": "Because you're by my side."
  },
  {
   "id": "KARYU02:0042",
   "kind": "msg",
   "speaker": "若い女",
   "jp": "私もあなたがそばにいてくれるからよ。",
-  "en": ""
+  "en": "And I'm like this because you're by my side."
  },
  {
   "id": "KARYU02:0043",
   "kind": "msg",
   "speaker": "翔",
   "jp": "…………",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "KARYU02:0044",
   "kind": "msg",
   "speaker": "老人",
   "jp": "はぁ？　すまんのう。\nわしゃ耳がとおくてよく聞こえんのじゃ。\nもう一回、言ってもらえんかのう。",
-  "en": ""
+  "en": "Eh? Sorry, sonny.\nMy ears aren't what they used to be.\nCould you say that one more time?"
  },
  {
   "id": "KARYU02:0045",
   "kind": "msg",
   "speaker": "老人",
   "jp": "はぁ？　すまんのう。\nもうすこし大きな声で言ってもらえんかのう。",
-  "en": ""
+  "en": "Eh? Sorry, sonny.\nCould you say that a little louder?"
  },
  {
   "id": "KARYU02:0046",
   "kind": "msg",
   "speaker": "老人",
   "jp": "はぁ？　すまんのう。\n若いお嬢さん方にも聞かれたんじゃが、\nあいにくうちは宿屋をやっておらんのじゃ。",
-  "en": ""
+  "en": "Eh? Sorry, sonny.\nSome young ladies asked me too, but I'm\nafraid I don't run an inn."
  },
  {
   "id": "KARYU02:0047",
   "kind": "msg",
   "speaker": "老人",
   "jp": "はぁ？　すまんのう。\nわしゃ耳がとおくてよく聞こえんのじゃ。\nもう一回、言ってもらえんかのう。",
-  "en": ""
+  "en": "Eh? Sorry, sonny.\nMy ears aren't what they used to be.\nCould you say that one more time?"
  },
  {
   "id": "KARYU02:0048",
   "kind": "msg",
   "speaker": "老人",
   "jp": "はぁ？　すまんのう。\nもうすこし大きな声で言ってもらえんかのう。",
-  "en": ""
+  "en": "Eh? Sorry, sonny.\nCould you say that a little louder?"
  },
  {
   "id": "KARYU02:0049",
   "kind": "msg",
   "speaker": "老人",
   "jp": "わしゃぁ～\n今年で８６になったんじゃ。",
-  "en": ""
+  "en": "I turned\n86 this year, I did."
  },
  {
   "id": "KARYU02:0050",
   "kind": "msg",
   "speaker": "若い女",
   "jp": "最近、物騒な話って多くない？",
-  "en": ""
+  "en": "Don't you think there's been a lot of scary\ntalk lately?"
  },
  {
   "id": "KARYU02:0051",
   "kind": "msg",
   "speaker": "若い女",
   "jp": "そうそう、\nこの町にも飛竜の牙って言う\nレジスタンスがいるらしいわよ。",
-  "en": ""
+  "en": "Right, right.\nApparently there's a resistance group called\nthe Wyvern's Fang in this town too."
  },
  {
   "id": "KARYU02:0052",
   "kind": "msg",
   "speaker": "若い女",
   "jp": "あの、ユーロリア王家に反する組織でしょ？",
-  "en": ""
+  "en": "That group that opposes the Eurolia royal\nfamily, right?"
  },
  {
   "id": "KARYU02:0053",
   "kind": "msg",
   "speaker": "若い女",
   "jp": "王家に逆らうなんてねぇ。",
-  "en": ""
+  "en": "Defying the royal family, of all things."
  },
  {
   "id": "KARYU02:0054",
   "kind": "msg",
   "speaker": "翔",
   "jp": "宿屋を探さないとな。",
-  "en": ""
+  "en": "I need to find an inn."
  },
  {
   "id": "KARYU02:0055",
   "kind": "msg",
   "speaker": "翔",
   "jp": "みんな、宿は見つかったかな？",
-  "en": ""
+  "en": "I wonder if anyone's found an inn yet."
  },
  {
   "id": "KARYU02:0056",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "翔！　そっちじゃないよ！",
-  "en": ""
+  "en": "Shou! Not that way!"
  },
  {
   "id": "KARYU02:0057",
   "kind": "msg",
   "speaker": "翔",
   "jp": "町の外に出てもしょうがないな………",
-  "en": ""
+  "en": "No point heading out of town..."
  }
 ]

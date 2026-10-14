@@ -47,5 +47,26 @@ def to_image(d, ci=0):
     return im
 
 
+def indices(d):
+    """pixel palette indices as a list of rows (4/8 bpp)."""
+    bpp, clut, (x, y, w, h), px = read(d)
+    W = w * (4 if bpp == 0 else 2)
+    if bpp == 0:
+        return [[(px[yy * w * 2 + xx // 2] >> (4 * (xx & 1))) & 15 for xx in range(W)] for yy in range(h)]
+    return [list(px[yy * w * 2:(yy + 1) * w * 2]) for yy in range(h)]
+
+
+def write_indices(d, rows):
+    """same TIM (header, CLUT, size) with new pixel indices."""
+    bpp, clut, (x, y, w, h), px = read(d)
+    if bpp == 0:
+        out = bytes(r[i] | r[i + 1] << 4 for r in rows for i in range(0, len(r), 2))
+    else:
+        out = bytes(v for r in rows for v in r)
+    assert len(out) == len(px), (len(out), len(px))
+    p = d.rfind(px)
+    return d[:p] + out + d[p + len(px):]
+
+
 if __name__ == "__main__":
     to_image(open(sys.argv[1], "rb").read(), int(sys.argv[3]) if len(sys.argv) > 3 else 0).save(sys.argv[2])

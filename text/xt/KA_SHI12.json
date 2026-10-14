@@ -4,21 +4,21 @@
   "kind": "msg",
   "speaker": "",
   "jp": "　火竜城　３階西廊下",
-  "en": ""
+  "en": "Fire Dragon Castle - Floor 3 West Corridor"
  },
  {
   "id": "KA_SHI12:0001",
   "kind": "msg",
   "speaker": "",
   "jp": "<1>幻想の弓<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>Illusion Bow<8>!"
  },
  {
   "id": "KA_SHI12:0002",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "あの、新見くん……",
-  "en": ""
+  "en": "Um, Niimi-kun..."
  },
  {
   "id": "KA_SHI12:0003",
@@ -32,48 +32,48 @@
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "イムルって、\nおもしろい人ですよね。",
-  "en": ""
+  "en": "Imul's\nreally funny, isn't he?"
  },
  {
   "id": "KA_SHI12:0005",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "あのしゃべり方とか、\nとってもユニークだと思いません？",
-  "en": ""
+  "en": "The way he talks and all...\ndon't you think it's really unique?"
  },
  {
   "id": "KA_SHI12:0006",
   "kind": "choice",
   "speaker": "",
   "jp": "　おもしろい\n　かっこわるいよ",
-  "en": ""
+  "en": "He's funny\nHe's lame"
  },
  {
   "id": "KA_SHI12:0007",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "そうですよね！",
-  "en": ""
+  "en": "I thought so!"
  },
  {
   "id": "KA_SHI12:0008",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "わたし、あの人はタレントでも\nやっていけるんじゃないかなって思うんです。",
-  "en": ""
+  "en": "I think he could even\nmake it as a TV personality."
  },
  {
   "id": "KA_SHI12:0009",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "そうですか？\nわたしは、おもしろいと思うんですけど……",
-  "en": ""
+  "en": "You think so?\nI think he's funny, though..."
  },
  {
   "id": "KA_SHI12:0010",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "新見くんは、\nああいうのは嫌いなんですね。",
-  "en": ""
+  "en": "So you don't like\nthat kind of thing, Niimi-kun."
  }
 ]

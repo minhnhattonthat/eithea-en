@@ -4,20 +4,20 @@
   "kind": "msg",
   "speaker": "",
   "jp": "　火竜城４階西小部屋",
-  "en": ""
+  "en": "Fire Dragon Castle - Floor 4 West Small Room"
  },
  {
   "id": "KA_SHI11:0001",
   "kind": "choice",
   "speaker": "",
   "jp": "　キャンプで休む\n　セーブする\n　休まない",
-  "en": ""
+  "en": "Rest at camp\nSave\nDon't rest"
  },
  {
   "id": "KA_SHI11:0002",
   "kind": "msg",
   "speaker": "翔",
   "jp": "疲れたな………少し休むか………",
-  "en": ""
+  "en": "I'm beat... Maybe I'll rest a bit..."
  }
 ]

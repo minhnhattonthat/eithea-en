@@ -11,174 +11,174 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……どうやら無事ついたようだな。",
-  "en": ""
+  "en": "...Looks like we made it in one piece."
  },
  {
   "id": "IVENT70:0002",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "う……。\nどうしたの……ええ！？\nなに、なに、ここどこ？",
-  "en": ""
+  "en": "Ugh...\nWhat happened... Huh?!\nWhat, what, where are we?"
  },
  {
   "id": "IVENT70:0003",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ねえねえ、お兄ちゃん！\nここ、どこなの？\nヤムヤムの森じゃないの？",
-  "en": ""
+  "en": "Hey, hey, Big Brother!\nWhere are we~?\nIsn't this the Yamyam Forest~?"
  },
  {
   "id": "IVENT70:0004",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ここは、イオピロスの塔……？\nでも、どうしてここに？",
-  "en": ""
+  "en": "This is... Iopiros Tower...?\nBut how did we get here?"
  },
  {
   "id": "IVENT70:0005",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ピエンのおかげさ。",
-  "en": ""
+  "en": "You can thank Pien for that."
  },
  {
   "id": "IVENT70:0006",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "奴の持っていた転送機を使って、\nヤムヤムから脱出したんだ。",
-  "en": ""
+  "en": "We used the Transporter he had\nto escape from Yamyam."
  },
  {
   "id": "IVENT70:0007",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "けど、よくあのドームから脱出できたね。",
-  "en": ""
+  "en": "But I can't believe we got out of that dome."
  },
  {
   "id": "IVENT70:0008",
   "kind": "msg",
   "speaker": "翔",
   "jp": "伊藤さんのおかげさ。\n俺たちが倒れたとき、助けてくれたんだ。",
-  "en": ""
+  "en": "We owe it to Itou-san.\nShe saved us when we went down."
  },
  {
   "id": "IVENT70:0009",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ひかるが！？",
-  "en": ""
+  "en": "Hikaru did?!"
  },
  {
   "id": "IVENT70:0010",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "本当だ。\nひかるがいなかったら、危ないところだったぜ。",
-  "en": ""
+  "en": "It's true.\nWithout Hikaru, we'd have been goners."
  },
  {
   "id": "IVENT70:0011",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "そ、そんな！\nそんなこと、ないですよ……",
-  "en": ""
+  "en": "N-No way!\nThat's not true at all..."
  },
  {
   "id": "IVENT70:0012",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ところでアルバイジャン、\nさっき脱出って言ったわね？",
-  "en": ""
+  "en": "By the way, Albaijan,\nyou said \"escape\" just now, didn't you?"
  },
  {
   "id": "IVENT70:0013",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ということは………まさか……",
-  "en": ""
+  "en": "Which means......... don't tell me..."
  },
  {
   "id": "IVENT70:0014",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……手遅れだった。\n暴走は押さえられないところまできていてな。",
-  "en": ""
+  "en": "...It was too late.\nIt was already too far gone to stop."
  },
  {
   "id": "IVENT70:0015",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "おまえたちを助けるのだけで精一杯だったんだ……",
-  "en": ""
+  "en": "Saving you guys was all I could manage..."
  },
  {
   "id": "IVENT70:0016",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そ、そんな……",
-  "en": ""
+  "en": "N-No..."
  },
  {
   "id": "IVENT70:0017",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そんなに落ちこむなよ。\nしょうがなかったんだ。",
-  "en": ""
+  "en": "Don't beat yourself up so much.\nIt couldn't be helped."
  },
  {
   "id": "IVENT70:0018",
   "kind": "msg",
   "speaker": "翔",
   "jp": "とにかく、この塔から出よう。\n何をするにしても、まずはそれからだ。",
-  "en": ""
+  "en": "Anyway, let's get out of this tower.\nWhatever we do, that comes first."
  },
  {
   "id": "IVENT70:0019",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "そうね。\nイオピロスの村に入る方法も\n見つけなければならないしね。",
-  "en": ""
+  "en": "You're right.\nWe also need to find a way\ninto the village of Iopiros."
  },
  {
   "id": "IVENT70:0020",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "そっか、私たち、\n村から追放されてたんだっけ……",
-  "en": ""
+  "en": "Oh, right, we got banished\nfrom the village, didn't we..."
  },
  {
   "id": "IVENT70:0021",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "とにかく行こうぜ。\nじゃなきゃ、何も始まらないからな。",
-  "en": ""
+  "en": "Anyway, let's get moving.\nOtherwise nothing's gonna get started."
  },
  {
   "id": "IVENT70:0022",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ねぇねぇ、オヤジ！\nおじいちゃんやポーポーはどこなの？",
-  "en": ""
+  "en": "Hey, hey, Old Man!\nWhere are Grandpa and Popo~?"
  },
  {
   "id": "IVENT70:0023",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ピエンたちなら、まだヤムヤムに残ってるはずだぜ。",
-  "en": ""
+  "en": "Pien and the others should still be in Yamyam."
  },
  {
   "id": "IVENT70:0024",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "ヤムヤムに！？\nだいじょうぶなの、オヤジ！？",
-  "en": ""
+  "en": "In Yamyam?!\nWill they be okay, Old Man~?!"
  },
  {
   "id": "IVENT70:0025",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ああ、ピエンたちならうまくやるさ。",
-  "en": ""
+  "en": "Yeah, Pien and his folks'll manage just fine."
  }
 ]
