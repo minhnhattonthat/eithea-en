@@ -4,125 +4,125 @@
   "kind": "msg",
   "speaker": "ルー",
   "jp": "どこ行くの？\n村は、そっちじゃないわよ。",
-  "en": ""
+  "en": "Where are you going?\nThe village isn't that way."
  },
  {
   "id": "I_MORI03:0001",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……ふう、やっと終わったな。",
-  "en": ""
+  "en": "...Phew, it's finally over."
  },
  {
   "id": "I_MORI03:0002",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "アイシアってさあ、なんでジャームがいるのお？\n……もうヤだよお。",
-  "en": ""
+  "en": "Why are there Germs in Eithéa anyway~?\n...I'm so sick of this~."
  },
  {
   "id": "I_MORI03:0003",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "わたしも知らないよ。",
-  "en": ""
+  "en": "I don't know either."
  },
  {
   "id": "I_MORI03:0004",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "生まれた時からいたし、\nそんなこと、考えもしなかったわ。",
-  "en": ""
+  "en": "They've been around since I was born,\nso I never even thought about it."
  },
  {
   "id": "I_MORI03:0005",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "<10>…<10>…あ、そういえば族長<8>が\n“ジャームは哀しき存在だ”って言ってけど。",
-  "en": ""
+  "en": "<10>..<10>..Oh, but the Chief<8> did say\n\"The Germs are sorrowful beings.\""
  },
  {
   "id": "I_MORI03:0006",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "哀しき存在？\nそれはどういう意味なの？",
-  "en": ""
+  "en": "Sorrowful beings?\nWhat does that mean?"
  },
  {
   "id": "I_MORI03:0007",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "わかんないよ。\nあと何かあるとしたら……\n村に伝わっている昔話かな？",
-  "en": ""
+  "en": "No idea.\nOther than that, maybe...\nthe old tale passed down in our village?"
  },
  {
   "id": "I_MORI03:0008",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "“ジャームは誰かに造られた”って聞いたっけ。",
-  "en": ""
+  "en": "I remember hearing \"the Germs were created\nby someone.\""
  },
  {
   "id": "I_MORI03:0009",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "その造った“誰か”は聞かなかったの？",
-  "en": ""
+  "en": "And you didn't hear who that \"someone\" was?"
  },
  {
   "id": "I_MORI03:0010",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "<10>…<10>…ごめん、忘れちゃった。",
-  "en": ""
+  "en": "<10>...<10>...Sorry, I forgot."
  },
  {
   "id": "I_MORI03:0011",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ちいさい頃に聞いたものだし、\n昔話っていうかおとぎ話だし。",
-  "en": ""
+  "en": "I heard it when I was little, and it's\nless a legend than a fairy tale anyway."
  },
  {
   "id": "I_MORI03:0012",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "それに、話してくれた人は、\nもう<10>…<10>…ううん、何でもない。",
-  "en": ""
+  "en": "Besides, the person who told me is\nalready<10>...<10>...No, never mind."
  },
  {
   "id": "I_MORI03:0013",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "哀しき存在というのが気になるわね。",
-  "en": ""
+  "en": "That \"sorrowful being\" part bothers me."
  },
  {
   "id": "I_MORI03:0014",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "気になるんだったら、村で族長<8>に聞けば？",
-  "en": ""
+  "en": "If it bugs you, why not ask the chief<8>\nback in the village?"
  },
  {
   "id": "I_MORI03:0015",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "そうね、急ぎましょう。",
-  "en": ""
+  "en": "You're right. Let's hurry."
  },
  {
   "id": "I_MORI03:0016",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "<1>傷薬<8>を手に入れた！",
-  "en": ""
+  "en": "Got a <1>Salve<8>!"
  },
  {
   "id": "I_MORI03:0017",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "<1>傷薬<8>を手に入れた！",
-  "en": ""
+  "en": "Got a <1>Salve<8>!"
  }
 ]

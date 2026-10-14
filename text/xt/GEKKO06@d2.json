@@ -4,48 +4,48 @@
   "kind": "msg",
   "speaker": "ルー",
   "jp": "あら、翔。\nあなたもいっしょにどう？\n涼しくて、気持ちいいわよ。",
-  "en": ""
+  "en": "Oh, Shou.\nWant to join us?\nIt's nice and cool. Feels great."
  },
  {
   "id": "GEKKO06@d2:0001",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "きゃーっ！！　気持ちいいー！！",
-  "en": ""
+  "en": "Kyaaah!! This feels so good!!"
  },
  {
   "id": "GEKKO06@d2:0002",
   "kind": "msg",
   "speaker": "翔",
   "jp": "………なんだ？",
-  "en": ""
+  "en": "......What's going on?"
  },
  {
   "id": "GEKKO06@d2:0003",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "きゃははは！　冷たーい！\nほら、ひかる！　えいっ！えいっ！",
-  "en": ""
+  "en": "Kyahahaha! It's freezing!\nHere, Hikaru! Take that! And that!"
  },
  {
   "id": "GEKKO06@d2:0004",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "きゃっ！　もう、ひかるったら！\nうふふ…………",
-  "en": ""
+  "en": "Eek! Geez, Yuka!\nEhehe..."
  },
  {
   "id": "GEKKO06@d2:0005",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ふう…………気持ちいい…………",
-  "en": ""
+  "en": "Phew... this feels wonderful..."
  },
  {
   "id": "GEKKO06@d2:0006",
   "kind": "msg",
   "speaker": "翔",
   "jp": "なんか………近寄りがたい雰囲気だな………",
-  "en": ""
+  "en": "Kinda feels like...\nI shouldn't go any closer..."
  }
 ]

@@ -4,363 +4,363 @@
   "kind": "msg",
   "speaker": "ルー",
   "jp": "さあ、出発しよっか。",
-  "en": ""
+  "en": "Okay, let's get going."
  },
  {
   "id": "IVENT02A:0001",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "みんなわたしの村に来るわけね？",
-  "en": ""
+  "en": "So you're all coming to my village?"
  },
  {
   "id": "IVENT02A:0002",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "それはいいんだけど、\n自分の身は自分で守ってもらうわよ。",
-  "en": ""
+  "en": "That's fine, but\nyou'll have to protect yourselves."
  },
  {
   "id": "IVENT02A:0003",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "用心のために、これを貸してあげるわ。",
-  "en": ""
+  "en": "Just to be safe, I'll lend you this."
  },
  {
   "id": "IVENT02A:0004",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "わあ、キレイな<1>指輪<8>！\nでも、これって何なの？",
-  "en": ""
+  "en": "Wow, what a pretty <1>ring<8>!\nBut what is it?"
  },
  {
   "id": "IVENT02A:0005",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "これは<1>ソウルリング<8>よ。\nジャームの攻撃を防いでくれる力があるの。",
-  "en": ""
+  "en": "This is a <1>Soul Ring<8>.\nIt has the power to block Germ attacks."
  },
  {
   "id": "IVENT02A:0006",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "へぇ～、そうなんだ。",
-  "en": ""
+  "en": "Ohh~, I see."
  },
  {
   "id": "IVENT02A:0007",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "でもね。\n注意しなきゃならないことが１つあるの。",
-  "en": ""
+  "en": "But listen.\nThere's one thing you need to watch out for."
  },
  {
   "id": "IVENT02A:0008",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "それは付けているものの心の力、<1>ＬＡＶ<8>の高さなの。",
-  "en": ""
+  "en": "That's the wearer's strength of heart:\nhow high their <1>LAV<8> is."
  },
  {
   "id": "IVENT02A:0009",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "その力に応じて、\n指輪の力は強くなったり、弱くなったりするのよ。",
-  "en": ""
+  "en": "Depending on that strength,\nthe ring's power gets stronger or weaker."
  },
  {
   "id": "IVENT02A:0010",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "それってどういうこと？\n元気だったら力が強くなって、\n落ちこんだら弱くなるの？",
-  "en": ""
+  "en": "What does that mean?\nIf I'm full of energy, it gets stronger,\nand if I'm feeling down, it gets weaker?"
  },
  {
   "id": "IVENT02A:0011",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "試してみる？",
-  "en": ""
+  "en": "Want to try it?"
  },
  {
   "id": "IVENT02A:0012",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "キャアッ！\n<10>……いたぁ～い。\nちょっと、何するのよお！？",
-  "en": ""
+  "en": "Kyaaah!\n<10>...Owww~.\nHey, what do you think you're doing?!"
  },
  {
   "id": "IVENT02A:0013",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "怒った？",
-  "en": ""
+  "en": "Mad?"
  },
  {
   "id": "IVENT02A:0014",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "あたりまえじゃないの！\nあったまにきた！",
-  "en": ""
+  "en": "Of course I'm mad!\nThat's it, I've had it!"
  },
  {
   "id": "IVENT02A:0015",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "今度という今度は、もう許さないんだから！",
-  "en": ""
+  "en": "This time I'm really not letting you off!"
  },
  {
   "id": "IVENT02A:0016",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "キャアアッ！\n<10>…<10>…って、あれ？\n今度は痛くない……",
-  "en": ""
+  "en": "Kyaaaah!\n<10>..<10>...wait, huh?\nIt didn't hurt this time..."
  },
  {
   "id": "IVENT02A:0017",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "こういうことよ。",
-  "en": ""
+  "en": "That's how it works."
  },
  {
   "id": "IVENT02A:0018",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ユカがぼお～としていれば、\nソウルリングの力は小さなものよ。",
-  "en": ""
+  "en": "When you're spacing out, Yuka,\nthe Soul Ring's power is pretty weak."
  },
  {
   "id": "IVENT02A:0019",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "けど、怒ったりしてＬＡＶが高まれば、\nそれに応じて攻撃を防ぐ力は強くなるの。",
-  "en": ""
+  "en": "But if you get angry and your LAV rises,\nits power to block attacks gets stronger."
  },
  {
   "id": "IVENT02A:0020",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "へぇ～、要は私のＬＡＶ次第ってことね。",
-  "en": ""
+  "en": "Huh~, so basically it all depends on my LAV."
  },
  {
   "id": "IVENT02A:0021",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そのとおり。\nなんだ、そんなにニブくないじゃない。",
-  "en": ""
+  "en": "Exactly.\nHuh, you're not that slow after all."
  },
  {
   "id": "IVENT02A:0022",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ムカつく～！\n私をバカみたいに言わないでよ！",
-  "en": ""
+  "en": "Grrr, so annoying~!\nDon't talk like I'm some idiot!"
  },
  {
   "id": "IVENT02A:0023",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "バカじゃないわ。\nニブいって言っただけよ。",
-  "en": ""
+  "en": "I didn't say idiot.\nI just said slow."
  },
  {
   "id": "IVENT02A:0024",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "なによ、似たようなもんじゃない！",
-  "en": ""
+  "en": "What's the difference?!"
  },
  {
   "id": "IVENT02A:0025",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "ユカ、おさえて……",
-  "en": ""
+  "en": "Yuka, calm down..."
  },
  {
   "id": "IVENT02A:0026",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……あうううう。",
-  "en": ""
+  "en": "...Uuuugh."
  },
  {
   "id": "IVENT02A:0027",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "<1>ガードリング<8>を４つ手に入れた！",
-  "en": ""
+  "en": "Got 4 <1>Guard Rings<8>!"
  },
  {
   "id": "IVENT02A:0028",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "翔はその銃で戦って。\n<1>ＴＩＰ<8>を使って撃つのは知ってるよね？",
-  "en": ""
+  "en": "Shou, you fight with that gun.\nYou know you shoot it using <1>TIP<8>, right?"
  },
  {
   "id": "IVENT02A:0029",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ＴＩＰって何なんだ？",
-  "en": ""
+  "en": "What's TIP?"
  },
  {
   "id": "IVENT02A:0030",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "この金属製の玉のことよ。\nジャームたちが持ってるの。",
-  "en": ""
+  "en": "These metal balls.\nThe Germs carry them around."
  },
  {
   "id": "IVENT02A:0031",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "わたしたちは銃の弾丸に使ってるわ。",
-  "en": ""
+  "en": "We use them as bullets for our guns."
  },
  {
   "id": "IVENT02A:0032",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "単純に弾丸として撃つ以外にも\nいろいろと力があるんだって。\nわたしは知らないけどさ。",
-  "en": ""
+  "en": "Besides just firing them as bullets,\nthey're supposed to have all kinds of powers.\nNot that I'd know."
  },
  {
   "id": "IVENT02A:0033",
   "kind": "msg",
   "speaker": "翔",
   "jp": "もしも、ＴＩＰが無くなったらどうするんだ？",
-  "en": ""
+  "en": "What if I run out of TIP?"
  },
  {
   "id": "IVENT02A:0034",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ソウルリングでＴＩＰを作れるわ。",
-  "en": ""
+  "en": "You can make TIP with the Soul Ring."
  },
  {
   "id": "IVENT02A:0035",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "けど、偽物だから、\n本物のＴＩＰと比べて銃の威力は低くなるの。",
-  "en": ""
+  "en": "But they're fakes, so your gun hits weaker\nthan it does with real TIP."
  },
  {
   "id": "IVENT02A:0036",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ああ、わかってると思うけど、\n銃は大切に使ってよね。\nあとで返してもらうんだから。",
-  "en": ""
+  "en": "Oh, and I'm sure you know this, but\ntake good care of that gun.\nI'm getting it back later, after all."
  },
  {
   "id": "IVENT02A:0037",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "それで、どこに行くんだっけ？",
-  "en": ""
+  "en": "So, where are we headed again?"
  },
  {
   "id": "IVENT02A:0038",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "わたしの村、イオピロスの村よ。",
-  "en": ""
+  "en": "My village. The village of Iopiros."
  },
  {
   "id": "IVENT02A:0039",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "よぉーし、それじゃぁ、<1>デロリロズ<8>に向かって\nしゅっぱーつ！！",
-  "en": ""
+  "en": "Allll right! Then off to <1>Deloriros<8>,\nlet's gooo!!"
  },
  {
   "id": "IVENT02A:0040",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ちがう、イオピロスだって！",
-  "en": ""
+  "en": "No, it's Iopiros!"
  },
  {
   "id": "IVENT02A:0041",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "いいじゃない、少しぐらい。",
-  "en": ""
+  "en": "So what? It was close enough."
  },
  {
   "id": "IVENT02A:0042",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "デロデロもピロピロも、たいして変わんないよ。\n気にしない、気にしない。",
-  "en": ""
+  "en": "Delo-delo, piro-piro, what's the difference?\nDon't sweat it, don't sweat it."
  },
  {
   "id": "IVENT02A:0043",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "わざとまちがってるでしょ？",
-  "en": ""
+  "en": "You're saying it wrong on purpose, huh?"
  },
  {
   "id": "IVENT02A:0044",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "そんなことないってえ。",
-  "en": ""
+  "en": "No, I'm not~."
  },
  {
   "id": "IVENT02A:0045",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "わたしをからかうと、\nあんまりいいことにはならないよ。",
-  "en": ""
+  "en": "Messing with me\nisn't going to end well for you."
  },
  {
   "id": "IVENT02A:0046",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "その気があったら、試してみる……？",
-  "en": ""
+  "en": "If you're up for it, want to find out...?"
  },
  {
   "id": "IVENT02A:0047",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "こら、二人とも！\nケンカは村に着いてからになさい！",
-  "en": ""
+  "en": "That's enough, you two!\nSave your fighting until we reach the village!"
  },
  {
   "id": "IVENT02A:0048",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "わかったら返事は？",
-  "en": ""
+  "en": "Understood? Let me hear an answer."
  },
  {
   "id": "IVENT02A:0049",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "は～い。",
-  "en": ""
+  "en": "Yes, ma'am~."
  },
  {
   "id": "IVENT02A:0050",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "はい<10>…<10>…って、\nなんでわたしまで……",
-  "en": ""
+  "en": "Yes<10>.<10>.. Wait,\nwhy am I getting scolded too..."
  },
  {
   "id": "IVENT02A:0051",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ルーが仲間になった！",
-  "en": ""
+  "en": "Lou joined the party!"
  }
 ]

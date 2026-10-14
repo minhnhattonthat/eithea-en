@@ -4,447 +4,447 @@
   "kind": "msg",
   "speaker": "店員",
   "jp": "いらっしゃ～い。\n……なんだあ、ルーかあ。",
-  "en": ""
+  "en": "Welcome~!\n...Oh, it's just you, Lou."
  },
  {
   "id": "GSHOP:0001",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "なんだとはずいぶんね。\nせっかく買い物に来たのに。",
-  "en": ""
+  "en": "\"Just me\"? Wow, thanks.\nAnd here I came to buy something."
  },
  {
   "id": "GSHOP:0002",
   "kind": "msg",
   "speaker": "店員",
   "jp": "ええ！　今のはウソ！\n大ウソだって！",
-  "en": ""
+  "en": "Ack! I take it back!\nI totally take it back!"
  },
  {
   "id": "GSHOP:0003",
   "kind": "msg",
   "speaker": "店員",
   "jp": "あれれれ？\nいっしょにいるのは誰？\nはじめて見る顔ね。",
-  "en": ""
+  "en": "Huh?\nWho's that with you?\nI've never seen that face before."
  },
  {
   "id": "GSHOP:0004",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "わたしの<10>…<10>…<10>友達よ。",
-  "en": ""
+  "en": "He's my<10>.<10>.<10>. friend."
  },
  {
   "id": "GSHOP:0005",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ここのこと、よく知らないから、\nいろいろと教えてやってよ。",
-  "en": ""
+  "en": "He doesn't know much about this place,\nso fill him in on stuff, okay?"
  },
  {
   "id": "GSHOP:0006",
   "kind": "msg",
   "speaker": "店員",
   "jp": "いいけどさ、あとで何か買ってよね。",
-  "en": ""
+  "en": "Sure, but you'd better buy something after."
  },
  {
   "id": "GSHOP:0007",
   "kind": "choice",
   "speaker": "",
   "jp": "　買い物をする　　　　　　　立ち去る\n　持っている物を売る\n　質問する",
-  "en": ""
+  "en": "Buy                       Leave\n  Sell items\n  Ask a question"
  },
  {
   "id": "GSHOP:0008",
   "kind": "msg",
   "speaker": "店員",
   "jp": "ありがとう！",
-  "en": ""
+  "en": "Thank you!"
  },
  {
   "id": "GSHOP:0009",
   "kind": "msg",
   "speaker": "店員",
   "jp": "あら、なにもいらないの？",
-  "en": ""
+  "en": "Oh, you don't need anything?"
  },
  {
   "id": "GSHOP:0010",
   "kind": "msg",
   "speaker": "店員",
   "jp": "ありがとう、またよろしくね。",
-  "en": ""
+  "en": "Thanks, come again!"
  },
  {
   "id": "GSHOP:0011",
   "kind": "msg",
   "speaker": "店員",
   "jp": "そう。\n売りたい物があったら、いつでも持ってきてね。",
-  "en": ""
+  "en": "Okay.\nIf you've got something to sell,\nbring it by anytime."
  },
  {
   "id": "GSHOP:0012",
   "kind": "choice",
   "speaker": "",
   "jp": "　通貨について　　　　　　　戻る\n　銃について\n　ステータス異常について",
-  "en": ""
+  "en": "About currency            Back\n  About guns\n  About status ailments"
  },
  {
   "id": "GSHOP:0013",
   "kind": "msg",
   "speaker": "店員",
   "jp": "アイシアの通貨はＣＡＮっていうの。",
-  "en": ""
+  "en": "Eithéa's currency is called CAN."
  },
  {
   "id": "GSHOP:0014",
   "kind": "msg",
   "speaker": "店員",
   "jp": "それはここイオピロスも同じよ。",
-  "en": ""
+  "en": "Same goes here in Iopiros."
  },
  {
   "id": "GSHOP:0015",
   "kind": "msg",
   "speaker": "店員",
   "jp": "……え？\nＣＡＮをどうやって手に入れるかって？",
-  "en": ""
+  "en": "...Huh?\nHow do you get CAN?"
  },
  {
   "id": "GSHOP:0016",
   "kind": "msg",
   "speaker": "店員",
   "jp": "働いて稼ぐに決まってるじゃない。",
-  "en": ""
+  "en": "By working for it, obviously."
  },
  {
   "id": "GSHOP:0017",
   "kind": "msg",
   "speaker": "店員",
   "jp": "でもね、知っていると思うけど、\nジャームを倒しても手に入るわよ。",
-  "en": ""
+  "en": "But, as I'm sure you know,\nyou can also get it by defeating Germs."
  },
  {
   "id": "GSHOP:0018",
   "kind": "msg",
   "speaker": "店員",
   "jp": "強いジャームほど、ＣＡＮをたくさん持ってるわ。\n死なない程度にがんばってね。",
-  "en": ""
+  "en": "Stronger Germs carry more CAN.\nJust try not to get killed, okay?"
  },
  {
   "id": "GSHOP:0019",
   "kind": "msg",
   "speaker": "店員",
   "jp": "銃はね、他の武器とちがって\n銃自体を買い換えるんじゃなくて、\n部品を換えて強化するの。",
-  "en": ""
+  "en": "Guns are different from other weapons.\nInstead of buying a new one, you\nswap out parts to power it up."
  },
  {
   "id": "GSHOP:0020",
   "kind": "msg",
   "speaker": "店員",
   "jp": "銃本来の持っている性能を\n部品で補ったり強化したりするってわけ。",
-  "en": ""
+  "en": "The parts make up for or boost\nthe gun's own built-in performance."
  },
  {
   "id": "GSHOP:0021",
   "kind": "msg",
   "speaker": "店員",
   "jp": "わかった？\nだから大事に扱わないとね。",
-  "en": ""
+  "en": "Got it?\nSo you'd better take good care of it."
  },
  {
   "id": "GSHOP:0022",
   "kind": "msg",
   "speaker": "店員",
   "jp": "アイテム弾のチュートリアルが入ります。",
-  "en": ""
+  "en": "The Item Bullet tutorial goes here."
  },
  {
   "id": "GSHOP:0023",
   "kind": "msg",
   "speaker": "店員",
   "jp": "他に何か用事がある？",
-  "en": ""
+  "en": "Anything else I can help you with?"
  },
  {
   "id": "GSHOP:0024",
   "kind": "msg",
   "speaker": "店員",
   "jp": "ジャームには特殊な攻撃をしてくるものもいるの。\nその攻撃を受けると、場合によってはこちらの状態が\n変わってしまうこともあるの。",
-  "en": ""
+  "en": "Some Germs use special attacks.\nGetting hit by one can sometimes\nchange your condition."
  },
  {
   "id": "GSHOP:0025",
   "kind": "msg",
   "speaker": "店員",
   "jp": "ステータス異常には毒、眠り、マヒの\n３つのパターンがあるわ。",
-  "en": ""
+  "en": "There are three kinds of status ailments:\npoison, sleep and paralysis."
  },
  {
   "id": "GSHOP:0026",
   "kind": "msg",
   "speaker": "店員",
   "jp": "『毒』は毎ターンごとにダメージを受ける上に、\n戦闘が終わっても効果が続いてしまうの。\nだから、早めに治してね。",
-  "en": ""
+  "en": "\"Poison\" deals damage every turn, and it\nkeeps going even after the battle ends.\nSo cure it quickly, okay?"
  },
  {
   "id": "GSHOP:0027",
   "kind": "msg",
   "speaker": "店員",
   "jp": "『眠り』は行動不可能になるわ。\n全員眠ってしまっても全体コマンドは使えるけど、\n無防備な状態には変わりないから気をつけてね。",
-  "en": ""
+  "en": "\"Sleep\" makes you unable to act. If all of\nyou fall asleep, you can still use party\ncommands, but you're helpless, so watch out."
  },
  {
   "id": "GSHOP:0028",
   "kind": "msg",
   "speaker": "店員",
   "jp": "『眠り』の場合は戦闘が終われば効果が\n切れるから安心して。",
-  "en": ""
+  "en": "With \"Sleep,\" the effect wears off once the\nbattle's over, so don't worry."
  },
  {
   "id": "GSHOP:0029",
   "kind": "msg",
   "speaker": "店員",
   "jp": "『マヒ』も行動不可能になるわ。\n眠りと違うのは戦闘中に全員がマヒになると\nゲームオーバーになっちゃうって点ね。",
-  "en": ""
+  "en": "\"Paralysis\" also leaves you unable to act.\nThe difference from sleep is that if everyone\ngets paralyzed in battle, it's game over."
  },
  {
   "id": "GSHOP:0030",
   "kind": "msg",
   "speaker": "店員",
   "jp": "しかも戦闘後も効果は続くから、十分に注意してね。",
-  "en": ""
+  "en": "And it lasts after battle too,\nso be really careful."
  },
  {
   "id": "GSHOP:0031",
   "kind": "msg",
   "speaker": "店員",
   "jp": "それから、これらの状態を治す道具は\nウチの店で売ってるから、よろしくね。",
-  "en": ""
+  "en": "Also, we sell items that cure these\nconditions right here, so keep us in mind!"
  },
  {
   "id": "GSHOP:0032",
   "kind": "msg",
   "speaker": "店員",
   "jp": "あなたたちも装備する武器によっては\nそういう特殊効果を生むこともできるわ。",
-  "en": ""
+  "en": "Depending on the weapons you equip, you can\ncause special effects like those too."
  },
  {
   "id": "GSHOP:0033",
   "kind": "msg",
   "speaker": "店員",
   "jp": "いろいろな武器を買って試してみると\nいいんじゃない？",
-  "en": ""
+  "en": "Why not buy all sorts of weapons\nand try them out?"
  },
  {
   "id": "GSHOP:0034",
   "kind": "msg",
   "speaker": "店員",
   "jp": "あら、もういいの？\nまた、買い物に来てね。\nまってるわ。",
-  "en": ""
+  "en": "Oh, done already?\nCome shop again.\nI'll be waiting."
  },
  {
   "id": "GSHOP:0035",
   "kind": "msg",
   "speaker": "店員",
   "jp": "いらっしゃい。\n今日はなんの用？",
-  "en": ""
+  "en": "Welcome.\nWhat can I do for you today?"
  },
  {
   "id": "GSHOP:0036",
   "kind": "msg",
   "speaker": "店員",
   "jp": "いらっしゃ～い。",
-  "en": ""
+  "en": "Welcome~!"
  },
  {
   "id": "GSHOP:0037",
   "kind": "msg",
   "speaker": "店員",
   "jp": "あれれれ？\n見かけない人ね。\n今日はなんの用？",
-  "en": ""
+  "en": "Huh?\nHaven't seen you around.\nWhat can I do for you today?"
  },
  {
   "id": "GSHOP:0038",
   "kind": "choice",
   "speaker": "",
   "jp": "　買い物をする　　　　　　　立ち去る\n　持っている物を売る\n　質問する",
-  "en": ""
+  "en": "Buy                       Leave\n  Sell items\n  Ask a question"
  },
  {
   "id": "GSHOP:0039",
   "kind": "msg",
   "speaker": "店員",
   "jp": "ありがとう！",
-  "en": ""
+  "en": "Thank you!"
  },
  {
   "id": "GSHOP:0040",
   "kind": "msg",
   "speaker": "店員",
   "jp": "あら、なにもいらないの？",
-  "en": ""
+  "en": "Oh, you don't need anything?"
  },
  {
   "id": "GSHOP:0041",
   "kind": "msg",
   "speaker": "店員",
   "jp": "ありがとう、またよろしくね。",
-  "en": ""
+  "en": "Thanks, come again!"
  },
  {
   "id": "GSHOP:0042",
   "kind": "msg",
   "speaker": "店員",
   "jp": "そう。\n売りたい物があったら、いつでも持ってきてね。",
-  "en": ""
+  "en": "Okay.\nIf you've got something to sell,\nbring it by anytime."
  },
  {
   "id": "GSHOP:0043",
   "kind": "choice",
   "speaker": "",
   "jp": "　通貨について　　　　　　　戻る\n　銃について\n　ステータス異常について",
-  "en": ""
+  "en": "About currency            Back\n  About guns\n  About status ailments"
  },
  {
   "id": "GSHOP:0044",
   "kind": "msg",
   "speaker": "店員",
   "jp": "アイシアの通貨はＣＡＮっていうの。",
-  "en": ""
+  "en": "Eithéa's currency is called CAN."
  },
  {
   "id": "GSHOP:0045",
   "kind": "msg",
   "speaker": "店員",
   "jp": "それはここイオピロスも同じよ。",
-  "en": ""
+  "en": "Same goes here in Iopiros."
  },
  {
   "id": "GSHOP:0046",
   "kind": "msg",
   "speaker": "店員",
   "jp": "……え？\nＣＡＮをどうやって手に入れるかって？",
-  "en": ""
+  "en": "...Huh?\nHow do you get CAN?"
  },
  {
   "id": "GSHOP:0047",
   "kind": "msg",
   "speaker": "店員",
   "jp": "働いて稼ぐに決まってるじゃない。",
-  "en": ""
+  "en": "By working for it, obviously."
  },
  {
   "id": "GSHOP:0048",
   "kind": "msg",
   "speaker": "店員",
   "jp": "でもね、知っていると思うけど、\nジャームを倒しても手に入るわよ。",
-  "en": ""
+  "en": "But, as I'm sure you know,\nyou can also get it by defeating Germs."
  },
  {
   "id": "GSHOP:0049",
   "kind": "msg",
   "speaker": "店員",
   "jp": "強いジャームほど、ＣＡＮをたくさん持ってるわ。\n死なない程度にがんばってね。",
-  "en": ""
+  "en": "Stronger Germs carry more CAN.\nJust try not to get killed, okay?"
  },
  {
   "id": "GSHOP:0050",
   "kind": "msg",
   "speaker": "店員",
   "jp": "銃はね、他の武器とちがって\n銃自体を買い換えるんじゃなくて、\n部品を換えて強化するの。",
-  "en": ""
+  "en": "Guns are different from other weapons.\nInstead of buying a new one, you\nswap out parts to power it up."
  },
  {
   "id": "GSHOP:0051",
   "kind": "msg",
   "speaker": "店員",
   "jp": "銃本来の持っている性能を\n部品で補ったり強化したりするってわけ。",
-  "en": ""
+  "en": "The parts make up for or boost\nthe gun's own built-in performance."
  },
  {
   "id": "GSHOP:0052",
   "kind": "msg",
   "speaker": "店員",
   "jp": "わかった？\nだから大事に扱わないとね。",
-  "en": ""
+  "en": "Got it?\nSo you'd better take good care of it."
  },
  {
   "id": "GSHOP:0053",
   "kind": "msg",
   "speaker": "店員",
   "jp": "他に何か用事がある？",
-  "en": ""
+  "en": "Anything else I can help you with?"
  },
  {
   "id": "GSHOP:0054",
   "kind": "msg",
   "speaker": "店員",
   "jp": "ジャームには特殊な攻撃をしてくるものもいるの。\nその攻撃を受けると、場合によってはこちらの状態が\n変わってしまうこともあるの。",
-  "en": ""
+  "en": "Some Germs use special attacks.\nGetting hit by one can sometimes\nchange your condition."
  },
  {
   "id": "GSHOP:0055",
   "kind": "msg",
   "speaker": "店員",
   "jp": "ステータス異常には毒、眠り、マヒの\n３つのパターンがあるわ。",
-  "en": ""
+  "en": "There are three kinds of status ailments:\npoison, sleep and paralysis."
  },
  {
   "id": "GSHOP:0056",
   "kind": "msg",
   "speaker": "店員",
   "jp": "『毒』は毎ターンごとにダメージを受ける上に、\n戦闘が終わっても効果が続いてしまうの。\nだから、早めに治してね。",
-  "en": ""
+  "en": "\"Poison\" deals damage every turn, and it\nkeeps going even after the battle ends.\nSo cure it quickly, okay?"
  },
  {
   "id": "GSHOP:0057",
   "kind": "msg",
   "speaker": "店員",
   "jp": "『眠り』は行動不可能になるわ。\n全員眠ってしまっても全体コマンドは使えるけど、\n無防備な状態には変わりないから気をつけてね。",
-  "en": ""
+  "en": "\"Sleep\" makes you unable to act. If all of\nyou fall asleep, you can still use party\ncommands, but you're helpless, so watch out."
  },
  {
   "id": "GSHOP:0058",
   "kind": "msg",
   "speaker": "店員",
   "jp": "『眠り』の場合は戦闘が終われば効果が\n切れるから安心して。",
-  "en": ""
+  "en": "With \"Sleep,\" the effect wears off once the\nbattle's over, so don't worry."
  },
  {
   "id": "GSHOP:0059",
   "kind": "msg",
   "speaker": "店員",
   "jp": "『マヒ』も行動不可能になるわ。\n眠りと違うのは戦闘中に全員がマヒになると\nゲームオーバーになっちゃうって点ね。",
-  "en": ""
+  "en": "\"Paralysis\" also leaves you unable to act.\nThe difference from sleep is that if everyone\ngets paralyzed in battle, it's game over."
  },
  {
   "id": "GSHOP:0060",
   "kind": "msg",
   "speaker": "店員",
   "jp": "しかも戦闘後も効果は続くから、十分に注意してね。",
-  "en": ""
+  "en": "And it lasts after battle too,\nso be really careful."
  },
  {
   "id": "GSHOP:0061",
   "kind": "msg",
   "speaker": "店員",
   "jp": "それから、これらの状態を治す道具は\nウチの店で売ってるから、よろしくね。",
-  "en": ""
+  "en": "Also, we sell items that cure these\nconditions right here, so keep us in mind!"
  },
  {
   "id": "GSHOP:0062",
   "kind": "msg",
   "speaker": "店員",
   "jp": "あなたたちも装備する武器によっては\nそういう特殊効果を生むこともできるわ。",
-  "en": ""
+  "en": "Depending on the weapons you equip, you can\ncause special effects like those too."
  },
  {
   "id": "GSHOP:0063",
   "kind": "msg",
   "speaker": "店員",
   "jp": "いろいろな武器を買って試してみると\nいいんじゃない？",
-  "en": ""
+  "en": "Why not buy all sorts of weapons\nand try them out?"
  }
 ]

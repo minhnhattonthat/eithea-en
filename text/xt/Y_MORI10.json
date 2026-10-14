@@ -11,13 +11,13 @@
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "<1>力の秘薬<8>を手に入れた！",
-  "en": ""
+  "en": "Got a <1>Power Elixir<8>!"
  },
  {
   "id": "Y_MORI10:0002",
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "<1>エレの樹の秘薬<8>を手に入れた！",
-  "en": ""
+  "en": "Got an <1>Ele Tree Elixir<8>!"
  }
 ]

@@ -39,7 +39,7 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "<1>エレの樹の秘薬<8>を手に入れた！",
-  "en": ""
+  "en": "Got an <1>Ele Tree Elixir<8>!"
  },
  {
   "id": "K_CHI25:0006",
@@ -74,7 +74,7 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "<1>３００ＣＡＮ<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>300 CAN<8>!"
  },
  {
   "id": "K_CHI25:0011",
@@ -88,14 +88,14 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "<1>力の秘薬<8>を手に入れた！",
-  "en": ""
+  "en": "Got a <1>Power Elixir<8>!"
  },
  {
   "id": "K_CHI25:0013",
   "kind": "msg",
   "speaker": "翔",
   "jp": "<1>エレの樹の秘薬<8>を手に入れた！",
-  "en": ""
+  "en": "Got an <1>Ele Tree Elixir<8>!"
  },
  {
   "id": "K_CHI25:0014",
@@ -109,7 +109,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "K_CHI25:0016",
@@ -151,7 +151,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "K_CHI25:0022",
@@ -200,7 +200,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "K_CHI25:0029",
@@ -256,7 +256,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "K_CHI25:0037",
@@ -305,7 +305,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "K_CHI25:0044",

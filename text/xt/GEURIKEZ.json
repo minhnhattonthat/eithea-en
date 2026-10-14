@@ -4,48 +4,48 @@
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "あなたですか………………",
-  "en": ""
+  "en": "Oh, it's you......"
  },
  {
   "id": "GEURIKEZ:0001",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "族長の許しがあったとは言え、あなたがオキテを\n破った存在であることは変わりありません。",
-  "en": ""
+  "en": "Even with the chief's pardon, it doesn't\nchange the fact that you broke the Law."
  },
  {
   "id": "GEURIKEZ:0002",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "私はあなたを、許しませんよ。",
-  "en": ""
+  "en": "I will not forgive you."
  },
  {
   "id": "GEURIKEZ:0003",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "おお、あなたですか。\n先ほどは失礼しました。",
-  "en": ""
+  "en": "Oh, it's you.\nForgive my rudeness earlier."
  },
  {
   "id": "GEURIKEZ:0004",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "いろいろとご迷惑をおかけします。",
-  "en": ""
+  "en": "I'm sorry for all the trouble."
  },
  {
   "id": "GEURIKEZ:0005",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "魔女を打ち倒し、\nイオピロスに平和を取り戻してください。",
-  "en": ""
+  "en": "Please defeat the witch\nand restore peace to Iopiros."
  },
  {
   "id": "GEURIKEZ:0006",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "よろしくお願いします。",
-  "en": ""
+  "en": "I'm counting on you."
  }
 ]

@@ -4,223 +4,223 @@
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "うわあ、ここもボロボロだ……",
-  "en": ""
+  "en": "Whoa, this place is wrecked too..."
  },
  {
   "id": "GAKKO04:0001",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "なぜ、こんなことに<10>…<10>…",
-  "en": ""
+  "en": "Why did this happen<10>...<10>..."
  },
  {
   "id": "GAKKO04:0002",
   "kind": "msg",
   "speaker": "翔",
   "jp": "お～い、誰かいるかーっ！？",
-  "en": ""
+  "en": "Heeey! Is anybody in here?!"
  },
  {
   "id": "GAKKO04:0003",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "斉藤くん、高木くん！！\nいるなら返事をして！",
-  "en": ""
+  "en": "Saitou-kun, Takagi-kun!!\nIf you're here, answer me!"
  },
  {
   "id": "GAKKO04:0004",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "やっぱり見間違えだったのかしら……",
-  "en": ""
+  "en": "Maybe I was just seeing things after all..."
  },
  {
   "id": "GAKKO04:0005",
   "kind": "msg",
   "speaker": "翔",
   "jp": "それにしても体育館もこの有様か……\nいったいなにが起きたって言うんだ……",
-  "en": ""
+  "en": "So the gym's in this state too...\nWhat the heck happened here...?"
  },
  {
   "id": "GAKKO04:0006",
   "kind": "msg",
   "speaker": "翔",
   "jp": "くそっ！　囲まれたか！？\nみんな、気をつけろ！",
-  "en": ""
+  "en": "Damn! Are we surrounded?!\nEveryone, be careful!"
  },
  {
   "id": "GAKKO04:0007",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "怪我はない？　もうだいじょうぶよ。",
-  "en": ""
+  "en": "Are you hurt? You're safe now."
  },
  {
   "id": "GAKKO04:0008",
   "kind": "msg",
   "speaker": "翔",
   "jp": "助かったよ、ありがとう………！？",
-  "en": ""
+  "en": "You saved us. Thank you...?!"
  },
  {
   "id": "GAKKO04:0009",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "どうかしたか？",
-  "en": ""
+  "en": "What's wrong?"
  },
  {
   "id": "GAKKO04:0010",
   "kind": "msg",
   "speaker": "翔",
   "jp": "あ、あの……　君は……",
-  "en": ""
+  "en": "U-Um... You're..."
  },
  {
   "id": "GAKKO04:0011",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "<3>ルー<8>。\n<1>月光族<8>のルーよ。",
-  "en": ""
+  "en": "<3>Lou<8>.\nLou of the <1>Moonlight Clan<8>."
  },
  {
   "id": "GAKKO04:0012",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "月光族……？\nとにかく助かったわ。　ありがとう、ルーさん。",
-  "en": ""
+  "en": "Moonlight Clan...?\nAnyway, you saved us. Thank you, Lou-san."
  },
  {
   "id": "GAKKO04:0013",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ルーでいい。\n堅苦しいのは嫌いなんだ。",
-  "en": ""
+  "en": "Just Lou is fine.\nI hate formalities."
  },
  {
   "id": "GAKKO04:0014",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "それよりおまえたちはどこから来たんだ？",
-  "en": ""
+  "en": "More importantly, where'd you all come from?"
  },
  {
   "id": "GAKKO04:0015",
   "kind": "msg",
   "speaker": "翔",
   "jp": "え？　どこから来たと言われても……\nここは学校だろう？\n君こそどこから入ってきたんだ？",
-  "en": ""
+  "en": "Huh? Where'd we come from? Well...\nThis is our school, isn't it?\nWhere did you come in from?"
  },
  {
   "id": "GAKKO04:0016",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "洞窟の外から入ってきたに決まってるだろう。",
-  "en": ""
+  "en": "From outside the cave, obviously."
  },
  {
   "id": "GAKKO04:0017",
   "kind": "msg",
   "speaker": "翔",
   "jp": "洞窟？　ここは洞窟の中なのか？",
-  "en": ""
+  "en": "Cave? We're inside a cave?"
  },
  {
   "id": "GAKKO04:0018",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "当たり前だろう。\n変なこと聞く奴だな。",
-  "en": ""
+  "en": "Of course.\nYou ask weird questions."
  },
  {
   "id": "GAKKO04:0019",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "先生、どう思います？　あの人……",
-  "en": ""
+  "en": "Sensei, what do you think? About her..."
  },
  {
   "id": "GAKKO04:0020",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "レスキューや消防隊員という様子じゃないわね。\nそれにさっきから気になっているんだけど、\n彼女の唇の動きと……",
-  "en": ""
+  "en": "She doesn't look like a rescue worker or a\nfirefighter. And something's been bothering\nme for a while now. Her lip movements and..."
  },
  {
   "id": "GAKKO04:0021",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "どうする？",
-  "en": ""
+  "en": "So what'll it be?"
  },
  {
   "id": "GAKKO04:0022",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "まだ<1>ジャーム<8>の仲間がいるみたいだ。\nもしも迷子になってるんなら、\n洞窟の出口まで案内してやるけど？",
-  "en": ""
+  "en": "Looks like there are more <1>Germ<8> around.\nIf you're lost, I can lead you\nto the cave exit, if you want."
  },
  {
   "id": "GAKKO04:0023",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "誰があんたみたいな\n得体の知れない人間の言う事なんて聞くもんですか！",
-  "en": ""
+  "en": "As if we'd listen to some shady\nstranger like you!"
  },
  {
   "id": "GAKKO04:0024",
   "kind": "msg",
   "speaker": "翔",
   "jp": "止せ、ユカ！",
-  "en": ""
+  "en": "Knock it off, Yuka!"
  },
  {
   "id": "GAKKO04:0025",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ルー、よかったら出口まで案内してくれないか？",
-  "en": ""
+  "en": "Lou, would you mind showing us the way out?"
  },
  {
   "id": "GAKKO04:0026",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "わかった。　ついてこい！",
-  "en": ""
+  "en": "Fine. Follow me!"
  },
  {
   "id": "GAKKO04:0027",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "<1>学食のパン<8>を手に入れた！",
-  "en": ""
+  "en": "Got some <1>Cafeteria Bread<8>!"
  },
  {
   "id": "GAKKO04:0028",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "<1>傷薬<8>を手に入れた！",
-  "en": ""
+  "en": "Got a <1>Salve<8>!"
  },
  {
   "id": "GAKKO04:0029",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "おまえたち、\nいったいなにやってるの！！",
-  "en": ""
+  "en": "You people,\nwhat do you think you're doing?!!"
  },
  {
   "id": "GAKKO04:0030",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "そいつらに背中を見せたら、すぐにやられるわよ！！",
-  "en": ""
+  "en": "Turn your backs on them and you're done for!!"
  },
  {
   "id": "GAKKO04:0031",
   "kind": "msg",
   "speaker": "翔",
   "jp": "おまえ、誰だ！？",
-  "en": ""
+  "en": "Who are you?!"
  }
 ]

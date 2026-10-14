@@ -4,461 +4,461 @@
   "kind": "msg",
   "speaker": "ルー",
   "jp": "村は、そっちじゃないわよ。",
-  "en": ""
+  "en": "The village isn't that way."
  },
  {
   "id": "I_MORI01:0001",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ちょうどいいわ、\nあなたたちに戦い方を教えてあげるから、\n足手まといにならないようにちゃんと聞いてね。",
-  "en": ""
+  "en": "Perfect timing. I'll teach you how to fight,\nso listen carefully, and try not to\nslow us down."
  },
  {
   "id": "I_MORI01:0002",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "どれでもいいからコマンドを選んでみて。\nその内容について説明するわ。",
-  "en": ""
+  "en": "Pick any command you like.\nI'll explain what it does."
  },
  {
   "id": "I_MORI01:0003",
   "kind": "choice",
   "speaker": "",
   "jp": "　全体コマンドについて\n　個人コマンドについて\n　説明の必要はない",
-  "en": ""
+  "en": "About Party Commands\n  About Individual Commands\n  No explanation needed"
  },
  {
   "id": "I_MORI01:0004",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ちょっと翔、本当に大丈夫なの？",
-  "en": ""
+  "en": "Hey, Shou, are you really sure about this?"
  },
  {
   "id": "I_MORI01:0005",
   "kind": "choice",
   "speaker": "",
   "jp": "　はい\n　いいえ",
-  "en": ""
+  "en": "Yes\n  No"
  },
  {
   "id": "I_MORI01:0006",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "わかったわ。",
-  "en": ""
+  "en": "All right."
  },
  {
   "id": "I_MORI01:0007",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "あとね、翔。　みんなから話しかけられた時は\nなるべく返事をしてあげてね。",
-  "en": ""
+  "en": "Oh, and Shou. When the others talk to you,\ntry to answer them whenever you can."
  },
  {
   "id": "I_MORI01:0008",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "冷たい態度をとられるとＬＡＶが下がってしまうの。",
-  "en": ""
+  "en": "If you treat them coldly, their LAV goes down."
  },
  {
   "id": "I_MORI01:0009",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "女の子にはやさしくしてね、翔。",
-  "en": ""
+  "en": "Be nice to the girls, Shou."
  },
  {
   "id": "I_MORI01:0010",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そうそう、それから、ジャームどもを倒すと\n<1>ＣＡＮ<8>っていうのが手に入るんだけど…",
-  "en": ""
+  "en": "Oh yeah, and when you beat those Germs,\nyou get something called <1>CAN<8>..."
  },
  {
   "id": "I_MORI01:0011",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ＣＡＮはアイシアで通貨として使われているの。\nだから、捨てたりしないでね。\n後でお店とかで使えるんだから。",
-  "en": ""
+  "en": "CAN is the currency used in Eithéa.\nSo don't throw it away, okay?\nYou can spend it at shops and stuff later."
  },
  {
   "id": "I_MORI01:0012",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "それじゃあこんな奴らさっさとかたづけましょう。",
-  "en": ""
+  "en": "Now let's make short work of these creeps."
  },
  {
   "id": "I_MORI01:0013",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "わかったわ、何が聞きたいの？",
-  "en": ""
+  "en": "All right, what do you want to know?"
  },
  {
   "id": "I_MORI01:0014",
   "kind": "choice",
   "speaker": "",
   "jp": "　『アタック』について　　　『やり直し』について\n　『ガード』について　　　　戻る\n　『アイテム』について",
-  "en": ""
+  "en": "About \"Attack\"            About \"Redo\"\n  About \"Guard\"             Back\n  About \"Item\""
  },
  {
   "id": "I_MORI01:0015",
   "kind": "choice",
   "speaker": "",
   "jp": "　『アイテム』について\n　『やり直し』について\n　戻る",
-  "en": ""
+  "en": "About \"Item\"\n  About \"Redo\"\n  Back"
  },
  {
   "id": "I_MORI01:0016",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "他に何が聞きたいの？",
-  "en": ""
+  "en": "What else do you want to know?"
  },
  {
   "id": "I_MORI01:0017",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "『アタック』を選ぶとジャームを攻撃出来るわ。",
-  "en": ""
+  "en": "Choose \"Attack\" to attack a Germ."
  },
  {
   "id": "I_MORI01:0018",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "その時に黒い範囲が出ているけど、\nこれが攻撃可能範囲を表しているの。",
-  "en": ""
+  "en": "When you do, a black area shows up.\nThat's your attack range."
  },
  {
   "id": "I_MORI01:0019",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "攻撃可能範囲内にいるジャームなら、\n好きなヤツを攻撃できるわ。",
-  "en": ""
+  "en": "You can attack any Germ you like,\nas long as it's inside that range."
  },
  {
   "id": "I_MORI01:0020",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "装備している武器によって\n攻撃可能範囲が違うから注意してね。",
-  "en": ""
+  "en": "Your attack range depends on the weapon\nyou have equipped, so keep that in mind."
  },
  {
   "id": "I_MORI01:0021",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "わたしや翔が持っている『銃』は範囲の中でも\n手前にいるジャームにしか攻撃できないの。",
-  "en": ""
+  "en": "The \"Guns\" Shou and I carry can only hit the\nGerms nearest to us within the range."
  },
  {
   "id": "I_MORI01:0022",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ひかるや秋穂が持っている『弓』は『銃』よりも\n範囲がせまいけど、その分奥にいるジャームも\n攻撃する事ができるわ。",
-  "en": ""
+  "en": "The \"Bows\" Hikaru and Akiho carry have a\nnarrower range than \"Guns\", but in exchange\nthey can hit Germs farther back too."
  },
  {
   "id": "I_MORI01:0023",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ツリギョロの持ってる『クロー』は\n範囲が一番広いから、活躍してもらわないとね。",
-  "en": ""
+  "en": "Tsurigyoro's \"Claws\" have the widest range,\nso we'll be counting on those."
  },
  {
   "id": "I_MORI01:0024",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ツリギョロはチョコマカうるさいから\nジャームの前まで行って攻撃するのもいいかもね。",
-  "en": ""
+  "en": "Tsurigyoro can't sit still anyway, so going\nright up to the Germs to attack might not be\na bad idea."
  },
  {
   "id": "I_MORI01:0025",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "範囲内にジャームがいない場合は\n『フォーム』コマンドで敵のいる方に\n向きを変えてね。",
-  "en": ""
+  "en": "If there are no Germs in range, use the\n\"Formation\" command to turn toward\nthe enemy."
  },
  {
   "id": "I_MORI01:0026",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "『フォーム』については\n『全体コマンドについて』の中で\n説明しているからそっちも確認してね。",
-  "en": ""
+  "en": "\"Formation\" is explained under\n\"About Party Commands\", so check\nthat out too."
  },
  {
   "id": "I_MORI01:0027",
   "kind": "choice",
   "speaker": "",
   "jp": "　もう一度聞く\n　もう聞かない",
-  "en": ""
+  "en": "Ask again\n  That's enough"
  },
  {
   "id": "I_MORI01:0028",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "『ガード』ね。\nこれはジャームの攻撃から身を守るのに使うわ。",
-  "en": ""
+  "en": "\"Guard\", right.\nIt protects you from the Germs' attacks."
  },
  {
   "id": "I_MORI01:0029",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "これをすることで相手から受けるダメージを\n半分にすることができるの。",
-  "en": ""
+  "en": "Using it cuts the damage you take\nfrom the enemy in half."
  },
  {
   "id": "I_MORI01:0030",
   "kind": "choice",
   "speaker": "",
   "jp": "　もう一度聞く\n　もう聞かない",
-  "en": ""
+  "en": "Ask again\n  That's enough"
  },
  {
   "id": "I_MORI01:0031",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "『アイテム』についてね。\nこれはもっているアイテムを使用するコマンドよ。\nムダ遣いは避けて、効果的に使ってね。",
-  "en": ""
+  "en": "\"Item\", right.\nThis command uses an item you're carrying.\nDon't waste them--use them wisely."
  },
  {
   "id": "I_MORI01:0032",
   "kind": "choice",
   "speaker": "",
   "jp": "　もう一度聞く\n　もう聞かない",
-  "en": ""
+  "en": "Ask again\n  That's enough"
  },
  {
   "id": "I_MORI01:0033",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "『やり直し』は、これまでに選んだ\n全てのコマンドをキャンセルして、\n『全体コマンド』に戻るの。",
-  "en": ""
+  "en": "\"Redo\" cancels every command\nyou've chosen so far and takes you back\nto \"Party Commands\"."
  },
  {
   "id": "I_MORI01:0034",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "一から考え直したいときに使ってね。",
-  "en": ""
+  "en": "Use it when you want to rethink from scratch."
  },
  {
   "id": "I_MORI01:0035",
   "kind": "choice",
   "speaker": "",
   "jp": "　もう一度聞く\n　もう聞かない",
-  "en": ""
+  "en": "Ask again\n  That's enough"
  },
  {
   "id": "I_MORI01:0036",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "わかったわ、何が聞きたいの？",
-  "en": ""
+  "en": "All right, what do you want to know?"
  },
  {
   "id": "I_MORI01:0037",
   "kind": "choice",
   "speaker": "",
   "jp": "　『戦う』について　　　　　『オート』について\n　『フォーム』について　　　戻る\n　『逃げる』について",
-  "en": ""
+  "en": "About \"Fight\"             About \"Auto\"\n  About \"Formation\"         Back\n  About \"Escape\""
  },
  {
   "id": "I_MORI01:0038",
   "kind": "choice",
   "speaker": "",
   "jp": "　『逃げる』について\n　『オート』について\n　戻る",
-  "en": ""
+  "en": "About \"Escape\"\n  About \"Auto\"\n  Back"
  },
  {
   "id": "I_MORI01:0039",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "他に何が聞きたいの？",
-  "en": ""
+  "en": "What else do you want to know?"
  },
  {
   "id": "I_MORI01:0040",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "『戦う』ね。\nこれは一人一人の行動を決定する時に使うの。",
-  "en": ""
+  "en": "\"Fight\", right.\nYou use it to decide what each person does."
  },
  {
   "id": "I_MORI01:0041",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "『戦う』を選ぶと個人コマンドに移るわ。",
-  "en": ""
+  "en": "Choosing \"Fight\" takes you to the\nIndividual Commands."
  },
  {
   "id": "I_MORI01:0042",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "詳しくは『個人コマンドについて』を選んでね。\nその時に教えてあげるわ。",
-  "en": ""
+  "en": "For details, pick\n\"About Individual Commands\".\nI'll explain it then."
  },
  {
   "id": "I_MORI01:0043",
   "kind": "choice",
   "speaker": "",
   "jp": "　もう一度聞く\n　もう聞かない",
-  "en": ""
+  "en": "Ask again\n  That's enough"
  },
  {
   "id": "I_MORI01:0044",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "『フォーム』ね。",
-  "en": ""
+  "en": "\"Formation\", right."
  },
  {
   "id": "I_MORI01:0045",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "これは１ターンを消費して\nわたしたちのフォームとその向きを決定するの。",
-  "en": ""
+  "en": "This uses up one turn to set our\nformation and which way it faces."
  },
  {
   "id": "I_MORI01:0046",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "フォームにはそれぞれ特長があるから、\n状況に応じてベストなものを選択してね。",
-  "en": ""
+  "en": "Each formation has its own strengths,\nso pick the best one for the situation."
  },
  {
   "id": "I_MORI01:0047",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "今は２つしかないけど、これから\n戦いの経験をつんでいけば、\nもっとたくさんのフォームを使いこなせるはずよ。",
-  "en": ""
+  "en": "We only have two right now, but as we\ngain more battle experience, we should be\nable to master a lot more formations."
  },
  {
   "id": "I_MORI01:0048",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "それから大事なのは、フォームの向きね。",
-  "en": ""
+  "en": "And the important part is which way\nthe formation faces."
  },
  {
   "id": "I_MORI01:0049",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "フォームを形成する事でバリアをはる事ができるの。",
-  "en": ""
+  "en": "Getting into formation lets us\nput up a Barrier."
  },
  {
   "id": "I_MORI01:0050",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "バリアでジャームの攻撃を弱める事ができるわ。",
-  "en": ""
+  "en": "The Barrier weakens the Germs' attacks."
  },
  {
   "id": "I_MORI01:0051",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "それに、敵の方向を向いてないと\nこちらからも攻撃ができないから、\n攻守にわたって大切な要素になってくるわ。",
-  "en": ""
+  "en": "Also, if we're not facing the enemy,\nwe can't attack them either, so it's a key\nfactor for both offense and defense."
  },
  {
   "id": "I_MORI01:0052",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "もう一つ大事なのは、\nバリアを構成している人が気絶しちゃうと、\nバリアが壊れちゃうの。",
-  "en": ""
+  "en": "One more important thing:\nif someone holding up the Barrier gets\nknocked out, the Barrier breaks."
  },
  {
   "id": "I_MORI01:0053",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "バリアがない状態で戦うのはすごく危険だから、\nみんなの体力にはくれぐれも気を配ってね。",
-  "en": ""
+  "en": "Fighting with no Barrier is really dangerous,\nso keep a close eye on everyone's health."
  },
  {
   "id": "I_MORI01:0054",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "バリアを構成する人は、フィールド画面での\n『フォーム』コマンドで変更できるわ。\nそっちも確認してみてね。",
-  "en": ""
+  "en": "You can change who forms the Barrier with\nthe \"Formation\" command on the field screen.\nCheck that out too."
  },
  {
   "id": "I_MORI01:0055",
   "kind": "choice",
   "speaker": "",
   "jp": "　もう一度聞く\n　もう聞かない",
-  "en": ""
+  "en": "Ask again\n  That's enough"
  },
  {
   "id": "I_MORI01:0056",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "このコマンドはその名の通り、\n戦闘から離脱する時に使うわ。",
-  "en": ""
+  "en": "Just like the name says, this command\nis for getting out of a battle."
  },
  {
   "id": "I_MORI01:0057",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "逃げられなかった時は何もできなくなるので、\n使い方に気をつけてね。",
-  "en": ""
+  "en": "If you fail to escape, you can't do anything,\nso be careful how you use it."
  },
  {
   "id": "I_MORI01:0058",
   "kind": "choice",
   "speaker": "",
   "jp": "　もう一度聞く\n　もう聞かない",
-  "en": ""
+  "en": "Ask again\n  That's enough"
  },
  {
   "id": "I_MORI01:0059",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "『オート』ね。",
-  "en": ""
+  "en": "\"Auto\", right."
  },
  {
   "id": "I_MORI01:0060",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "銃・弓を装備している人はＴＩＰ使用攻撃を、\nクローを装備している人は通常攻撃を繰り返すわ。",
-  "en": ""
+  "en": "Anyone with a gun or bow keeps using TIP\nattacks, and anyone with claws keeps using\nnormal attacks."
  },
  {
   "id": "I_MORI01:0061",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "攻撃可能範囲に敵がいなくなるまで\nこれを繰り返すから、時間の短縮になるわね。",
-  "en": ""
+  "en": "They keep this up until there are no enemies\nleft in attack range, so it saves time."
  },
  {
   "id": "I_MORI01:0062",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "攻撃可能範囲についても\n『個人コマンドについて』の『アタックについて』で\n説明するからね。",
-  "en": ""
+  "en": "Attack range is also explained under\n\"About Attack\" in\n\"About Individual Commands\"."
  },
  {
   "id": "I_MORI01:0063",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そうそう、『オート』中に×ボタンを押せば\nそのターンまでで『オート』を中断できるわ。\n危なくなったら止められるわよ。",
-  "en": ""
+  "en": "Oh, and if you press the X button during\n\"Auto\", it stops \"Auto\" after that turn.\nSo you can stop it if things get dicey."
  },
  {
   "id": "I_MORI01:0064",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "でも、強敵と戦うときは\nしっかり戦略を考えた方がいいと思うよ。",
-  "en": ""
+  "en": "But when you're up against a tough enemy,\nI think you'd better plan your strategy."
  },
  {
   "id": "I_MORI01:0065",
   "kind": "choice",
   "speaker": "",
   "jp": "　もう一度聞く\n　もう聞かない",
-  "en": ""
+  "en": "Ask again\n  That's enough"
  }
 ]

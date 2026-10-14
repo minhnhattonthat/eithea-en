@@ -4,741 +4,741 @@
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ここは……いったい……？",
-  "en": ""
+  "en": "Where... are we...?"
  },
  {
   "id": "IVENT02:0001",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "先生、わたしたちどうなってしまったんですか……",
-  "en": ""
+  "en": "Sensei, what's happened to us...?"
  },
  {
   "id": "IVENT02:0002",
   "kind": "msg",
   "speaker": "翔",
   "jp": "この景色……\nおかしい、初めて見るはずなのに……",
-  "en": ""
+  "en": "This scenery...\nIt's weird. I've never seen it before, but..."
  },
  {
   "id": "IVENT02:0003",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ちょ、ちょっと！！",
-  "en": ""
+  "en": "H-Hey, wait a sec!!"
  },
  {
   "id": "IVENT02:0004",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "あんた、いったいここはどこなのよ！！\n説明しなさいよ！",
-  "en": ""
+  "en": "You! Where on earth are we?!\nExplain yourself!"
  },
  {
   "id": "IVENT02:0005",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ここ？\n<1>イオピロス<8>の東にある<1>うつろいの洞窟<8>に\n決まってるじゃないか。",
-  "en": ""
+  "en": "Here? The <1>Shifting Cave<8> east of <1>Iopiros<8>,\nobviously."
  },
  {
   "id": "IVENT02:0006",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "だから、そのイロなんとかってどこにあるのよ！！",
-  "en": ""
+  "en": "Okay, so where's this Iro-whatever, then?!"
  },
  {
   "id": "IVENT02:0007",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "……妙な事を言う奴だな。\nここの西に決まってるだろ。",
-  "en": ""
+  "en": "...You say weird things.\nIt's west of here, obviously."
  },
  {
   "id": "IVENT02:0008",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "あ～、もうわけわかんない！！",
-  "en": ""
+  "en": "Ugh, I don't get any of this!!"
  },
  {
   "id": "IVENT02:0009",
   "kind": "msg",
   "speaker": "翔",
   "jp": "あぁ！？",
-  "en": ""
+  "en": "Huh?!"
  },
  {
   "id": "IVENT02:0010",
   "kind": "msg",
   "speaker": "翔",
   "jp": "が、学校が消えた！？",
-  "en": ""
+  "en": "Th-The school's gone?!"
  },
  {
   "id": "IVENT02:0011",
   "kind": "msg",
   "speaker": "翔",
   "jp": "大変だ、みんな！\n学校が、学校に通じる洞窟が消えちまった！",
-  "en": ""
+  "en": "Everyone, this is bad! The school-- the cave\nleading to the school is gone!"
  },
  {
   "id": "IVENT02:0012",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "おまえたちがいた洞窟のことか？",
-  "en": ""
+  "en": "You mean the cave you were in?"
  },
  {
   "id": "IVENT02:0013",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "あの洞窟はうつろいの洞窟って言って、\nどこからともなく見たこともない動物が現れたり、\n逆にジャームが消えたりするんだ。",
-  "en": ""
+  "en": "That's called the Shifting Cave. Animals\nno one's ever seen show up out of nowhere,\nor the other way around, Germs vanish."
  },
  {
   "id": "IVENT02:0014",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "族長や神官は異世界とつながっている\nなんて言ってるけど、\n本当のところはどうなんだかな……",
-  "en": ""
+  "en": "The chief and the priests say it's connected\nto another world, but who knows what the\ntruth is..."
  },
  {
   "id": "IVENT02:0015",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "……異世界。",
-  "en": ""
+  "en": "...Another world."
  },
  {
   "id": "IVENT02:0016",
   "kind": "msg",
   "speaker": "翔",
   "jp": "先生、信じられないかもしれないけど……\n俺たち、やっぱり……",
-  "en": ""
+  "en": "Sensei, this might be hard to believe, but...\nwe really are..."
  },
  {
   "id": "IVENT02:0017",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "そうね……\n現実は現実として認めなきゃいけないわね。\nでも……だけど……",
-  "en": ""
+  "en": "Yes...\nWe have to accept reality for what it is.\nBut... even so..."
  },
  {
   "id": "IVENT02:0018",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "御免なさい、新見くん。\n私、ちょっと気が動転して……",
-  "en": ""
+  "en": "I'm sorry, Niimi-kun.\nI'm just a little shaken..."
  },
  {
   "id": "IVENT02:0019",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "どうしたのよ、翔も先生も？",
-  "en": ""
+  "en": "What's wrong with you two, Shou? Sensei?"
  },
  {
   "id": "IVENT02:0020",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そう言えば、おまえたちどこから来たんだ？\nまさか<1>火竜族<8>なんじゃ……！？",
-  "en": ""
+  "en": "Come to think of it, where'd you come from?\nDon't tell me you're the <1>Fire Dragon Clan<8>...?!"
  },
  {
   "id": "IVENT02:0021",
   "kind": "msg",
   "speaker": "翔",
   "jp": "火竜族？　なんだそれは？",
-  "en": ""
+  "en": "Fire Dragon Clan? What's that?"
  },
  {
   "id": "IVENT02:0022",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "とぼけるつもり？\nわたしをだまそうとしても……",
-  "en": ""
+  "en": "Playing dumb? If you think you can fool me..."
  },
  {
   "id": "IVENT02:0023",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ちょっとまってルー！\n私達は、その火竜族じゃないわ！",
-  "en": ""
+  "en": "Wait a moment, Lou!\nWe're not from the Fire Dragon Clan!"
  },
  {
   "id": "IVENT02:0024",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "本当？　そうならいったいどこから来たの？\nだまそうとしていないんなら、\nちゃんと説明できるはずよ。",
-  "en": ""
+  "en": "Really? Then where did you come from?\nIf you're not trying to trick me, you should\nbe able to explain."
  },
  {
   "id": "IVENT02:0025",
   "kind": "msg",
   "speaker": "翔",
   "jp": "さぁな……\n俺たちのほうが教えて欲しいくらいだよ。",
-  "en": ""
+  "en": "Who knows...\nWe're the ones who'd like to be told."
  },
  {
   "id": "IVENT02:0026",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ルー、本当にここはどこなんだ？\nもっとわかりやすく教えてくれないか？",
-  "en": ""
+  "en": "Lou, seriously, where are we?\nCan you explain it in a way we'll understand?"
  },
  {
   "id": "IVENT02:0027",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ここ？　アイシアに決まっているだろ？",
-  "en": ""
+  "en": "Here? Eithéa, obviously."
  },
  {
   "id": "IVENT02:0028",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "アイシア？　何それ、いったいどこなの？\n日本、外国？　聞いたことないわよ。",
-  "en": ""
+  "en": "Eithéa? What's that? Where is it?\nJapan? Overseas? I've never heard of it."
  },
  {
   "id": "IVENT02:0029",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "アイシアはアイシアに決まってる。\nそっちこそなんだ、ニホンとかガイコクなんて場所は\n聞いたことがないぞ！",
-  "en": ""
+  "en": "Eithéa is Eithéa, obviously. And what about\nyou? I've never heard of any place called\n\"Japan\" or \"Overseas\"!"
  },
  {
   "id": "IVENT02:0030",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "え……？",
-  "en": ""
+  "en": "Huh...?"
  },
  {
   "id": "IVENT02:0031",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "この景色、そしてあのモンスター……\n松岡さん、私達はやっぱり……",
-  "en": ""
+  "en": "This scenery, and those monsters...\nMatsuoka-san, I think we really are..."
  },
  {
   "id": "IVENT02:0032",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "あっ！　わかった！！　わかっちゃった！！",
-  "en": ""
+  "en": "Ah! I get it!! I totally get it!!"
  },
  {
   "id": "IVENT02:0033",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ユカ？！",
-  "en": ""
+  "en": "Yuka?!"
  },
  {
   "id": "IVENT02:0034",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "これ、テレビの『進ぬ！　電気少年』でしょ！！",
-  "en": ""
+  "en": "It's that TV show \"Don't Go! Electric Boy\"!!"
  },
  {
   "id": "IVENT02:0035",
   "kind": "msg",
   "speaker": "翔",
   "jp": "はぁ？\nあの売れないお笑い芸人に\nヒッチハイクさせたりする番組の事か？",
-  "en": ""
+  "en": "Huh?\nYou mean that show where they make washed-up\ncomedians hitchhike and stuff?"
  },
  {
   "id": "IVENT02:0036",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "そうよ！",
-  "en": ""
+  "en": "Exactly!"
  },
  {
   "id": "IVENT02:0037",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "それで今回は新人アイドル伊藤ひかるとその友達を、\n異世界ぽいセットの中へ放りこんでしまってその反応\nを見ようって訳！きっとこの樹だって作りものよ！",
-  "en": ""
+  "en": "And this time they dumped rookie idol\nHikaru Itou and her friends on some\notherworldly set to see how they'd react!<p>I bet this tree's fake too!"
  },
  {
   "id": "IVENT02:0038",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "いったぁい！",
-  "en": ""
+  "en": "Owwww!"
  },
  {
   "id": "IVENT02:0039",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そうか、わかった。",
-  "en": ""
+  "en": "Okay, I get it."
  },
  {
   "id": "IVENT02:0040",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "なによ、白状する気になったの？",
-  "en": ""
+  "en": "What, ready to confess?"
  },
  {
   "id": "IVENT02:0041",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "要するに『バカ』なんだな。",
-  "en": ""
+  "en": "Basically, you're an \"idiot.\""
  },
  {
   "id": "IVENT02:0042",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "な、な、なによ！！　その言い草は！！\nどうせあんただって正体は、売れないお色気タレント\nなんでしょ！　そんなエッチな格好しちゃってさ！",
-  "en": ""
+  "en": "Wh-Wh-What?! How dare you!!\nI bet you're just some washed-up sexy model\ntoo! Dressed all naughty like that!"
  },
  {
   "id": "IVENT02:0043",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "なっ、なんだと、バカのくせに！\n意味はわからないけど、\nおまえが悪口を言っていることぐらいはわかるぞ！",
-  "en": ""
+  "en": "Wh-What did you say, you idiot!\nI don't know what that means, but I can tell\nyou're bad-mouthing me!"
  },
  {
   "id": "IVENT02:0044",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "そう、それよ！！\n翔も先生もおかしいと思わないの？",
-  "en": ""
+  "en": "See, that's it!!\nShou, Sensei, don't you think it's weird?"
  },
  {
   "id": "IVENT02:0045",
   "kind": "msg",
   "speaker": "翔",
   "jp": "おかしい？",
-  "en": ""
+  "en": "Weird?"
  },
  {
   "id": "IVENT02:0046",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "だってこいつ、日本語が通じるのよ！\nニホンなんて知らないって言ってるくせに\n変だと思わない！？",
-  "en": ""
+  "en": "I mean, she speaks Japanese! She says she's\nnever heard of Japan, yet she speaks it.\nDon't you think that's strange?!"
  },
  {
   "id": "IVENT02:0047",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "何を言ってる。\n人間どうし、\n言葉が通じるのは当たり前じゃないか！！",
-  "en": ""
+  "en": "What are you talking about?\nWe're all people.\nOf course we can understand each other!!"
  },
  {
   "id": "IVENT02:0048",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "松岡さん、残念だけど……",
-  "en": ""
+  "en": "Matsuoka-san, I'm afraid..."
  },
  {
   "id": "IVENT02:0049",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "先生！　先生もそう思うでしょ！！\nそうだと言って下さい、お願いです！",
-  "en": ""
+  "en": "Sensei! You think so too, right?!\nPlease tell me I'm right, please!"
  },
  {
   "id": "IVENT02:0050",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "事実は曲げられないわ。　松岡さん。\nルーさんの唇の動きを見ていてご覧なさい。\n彼女がしゃべっているのは日本語じゃないわ。",
-  "en": ""
+  "en": "We can't twist the facts, Matsuoka-san.\nWatch Lou-san's lips when she talks.\nShe isn't speaking Japanese."
  },
  {
   "id": "IVENT02:0051",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "でも不思議な事に私達には、\n彼女のしゃべっている言葉が日本語に聞こえるの。\n一種のテレパシーのようなものかもしれない……",
-  "en": ""
+  "en": "But strangely enough, to us, the words she\nspeaks sound like Japanese. It might be a kind\nof telepathy..."
  },
  {
   "id": "IVENT02:0052",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "そんな……",
-  "en": ""
+  "en": "No way..."
  },
  {
   "id": "IVENT02:0053",
   "kind": "msg",
   "speaker": "翔",
   "jp": "先生、やっぱり……",
-  "en": ""
+  "en": "Sensei, so we really..."
  },
  {
   "id": "IVENT02:0054",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "そうね……ここは日本じゃない。\nそして地球上のどこかでもない……\nアイシアという異世界に来てしまった。",
-  "en": ""
+  "en": "Yes... This isn't Japan.\nAnd it isn't anywhere on Earth, either...\nWe've come to another world called Eithéa."
  },
  {
   "id": "IVENT02:0055",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "……恐ろしいけど、\nそれは事実として認めるしかないようね……",
-  "en": ""
+  "en": "...It's frightening, but it seems\nwe have no choice but to accept it..."
  },
  {
   "id": "IVENT02:0056",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "そんな、そんな……",
-  "en": ""
+  "en": "No, no way..."
  },
  {
   "id": "IVENT02:0057",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "ユカ……",
-  "en": ""
+  "en": "Yuka..."
  },
  {
   "id": "IVENT02:0058",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ううぅ……\nなんで、なんでこんな事に……",
-  "en": ""
+  "en": "Uuugh...\nWhy... why is this happening..."
  },
  {
   "id": "IVENT02:0059",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ユカ……",
-  "en": ""
+  "en": "Yuka..."
  },
  {
   "id": "IVENT02:0060",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ルー、みんなちょっと気が動転しているの。\n私も含めてね。少し休めるかしら？",
-  "en": ""
+  "en": "Lou, everyone's a little shaken right now.\nMe included. Could we rest for a while?"
  },
  {
   "id": "IVENT02:0061",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そうだね。どうやら異世界から来たっていう話も\n嘘じゃないみたいだし……そろそろ日もくれるし、\nテントを張ってからにしよう。",
-  "en": ""
+  "en": "Sure. Looks like that story about coming from\nanother world isn't a lie... The sun's going\ndown soon, so let's pitch the tents first."
  },
  {
   "id": "IVENT02:0062",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "うわぁ、なにこの樹。　光ってる。\n先生、何の樹だかわかる？",
-  "en": ""
+  "en": "Whoa, what is this tree? It's glowing.\nSensei, do you know what kind it is?"
  },
  {
   "id": "IVENT02:0063",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "見たことがないわね。",
-  "en": ""
+  "en": "I've never seen one before."
  },
  {
   "id": "IVENT02:0064",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "確かに光を放つ植物はあるけど、\nこんな高等植物が、それもこれだけの\n光を放つなんて現象は聞いたことがないわ。",
-  "en": ""
+  "en": "There are plants that give off light, but I've\nnever heard of a higher plant like this one\nshining this brightly."
  },
  {
   "id": "IVENT02:0065",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "……少なくとも私達の世界ではね。",
-  "en": ""
+  "en": "...At least, not in our world."
  },
  {
   "id": "IVENT02:0066",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "私達の世界では……ですか……",
-  "en": ""
+  "en": "Not in our world... huh..."
  },
  {
   "id": "IVENT02:0067",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "だけどこの樹の光を見ていると、\n心が落ち着きますね……",
-  "en": ""
+  "en": "But looking at this tree's light...\nit's calming, isn't it..."
  },
  {
   "id": "IVENT02:0068",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そうだな。　それに何か妙に懐かしい気がする。",
-  "en": ""
+  "en": "Yeah. And it feels strangely nostalgic, too."
  },
  {
   "id": "IVENT02:0069",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "これはエレの樹の幼木。",
-  "en": ""
+  "en": "This is an Ele Tree sapling."
  },
  {
   "id": "IVENT02:0070",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "エレの樹はわたしたち月光族を守り、\nそして月光族はエレの樹を守るもの。",
-  "en": ""
+  "en": "The Ele Tree protects us, the Moonlight Clan,\nand the Moonlight Clan protects the Ele Tree."
  },
  {
   "id": "IVENT02:0071",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "エレの樹の力はこの世界を、アイシアを\n形づくるもの。　エレの樹があるからこそ、\nわたし達は生きていけるのよ……",
-  "en": ""
+  "en": "The power of the Ele Tree shapes this world,\nEithéa. It's because of the Ele Tree that\nwe're able to live at all..."
  },
  {
   "id": "IVENT02:0072",
   "kind": "msg",
   "speaker": "翔",
   "jp": "アイシア？　エレの樹……",
-  "en": ""
+  "en": "Eithéa? The Ele Tree..."
  },
  {
   "id": "IVENT02:0073",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "だけどエレの樹の事を何にも知らないなんて、\nやっぱり異世界から来たのは間違いないようね。\nそれで、どうするつもりだ？",
-  "en": ""
+  "en": "But not knowing a thing about the Ele Tree...\nyou really must be from another world.\nSo, what are you going to do?"
  },
  {
   "id": "IVENT02:0074",
   "kind": "msg",
   "speaker": "翔",
   "jp": "さぁな。\n俺たちのほうが知りたいぐらいだ。",
-  "en": ""
+  "en": "Who knows.\nWe'd like to know that ourselves."
  },
  {
   "id": "IVENT02:0075",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "もう、元の世界には戻れないんですか？",
-  "en": ""
+  "en": "Can we never go back to our own world?"
  },
  {
   "id": "IVENT02:0076",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "それはわからないなぁ。　異世界の伝承は\n聞いたことがあるけど、よくはおぼえていない。\n族長や神官に聞けば何かわかるかも……",
-  "en": ""
+  "en": "That I don't know. I've heard legends about\nother worlds, but I don't remember them well.\nThe chief or the priests might know..."
  },
  {
   "id": "IVENT02:0077",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "その人たちに会えば\n元の世界に戻る方法がわかるのかしら……？",
-  "en": ""
+  "en": "If we meet those people, will we find out\nhow to get back to our world...?"
  },
  {
   "id": "IVENT02:0078",
   "kind": "msg",
   "speaker": "翔",
   "jp": "なんにせよ、こっちに来る事が出来たんだ。絶対に\n戻る方法もある。　ルー、何でもいいから俺たちに教\nえてくれ。まずはこのアイシアという世界の事を…",
-  "en": ""
+  "en": "Either way, we managed to get here, so there\nhas to be a way back too. Lou, tell us\nanything you can. First, about Eithéa..."
  },
  {
   "id": "IVENT02:0079",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "う～～ん、\n教えたり教わったりするのは苦手なんだけどな……",
-  "en": ""
+  "en": "Hmmmm...\nI'm not great at teaching or being taught..."
  },
  {
   "id": "IVENT02:0080",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "まあ、いいわ。\nアイシアのこと、教えてあげる。",
-  "en": ""
+  "en": "Well, fine.\nI'll tell you about Eithéa."
  },
  {
   "id": "IVENT02:0081",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "さっきも言ったけど、ここはアイシアって言うの。",
-  "en": ""
+  "en": "Like I said, this place is called Eithéa."
  },
  {
   "id": "IVENT02:0082",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "東のイオピロス。",
-  "en": ""
+  "en": "Iopiros in the east."
  },
  {
   "id": "IVENT02:0083",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "西の<1>ユーロリア<8>。",
-  "en": ""
+  "en": "<1>Eurolia<8> in the west."
  },
  {
   "id": "IVENT02:0084",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そして北の聖地<1>ヤムヤム<8>。",
-  "en": ""
+  "en": "And in the north, the holy land of <1>Yamyam<8>."
  },
  {
   "id": "IVENT02:0085",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "各々の地に根ざす、\n３本のエレの樹に守護された世界よ。",
-  "en": ""
+  "en": "It's a world protected by three Ele Trees,\neach one rooted in its own land."
  },
  {
   "id": "IVENT02:0086",
   "kind": "msg",
   "speaker": "翔",
   "jp": "エレの樹？",
-  "en": ""
+  "en": "Ele Trees?"
  },
  {
   "id": "IVENT02:0087",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "今いるのは、イオピロス。\nわたしたち月光族の住むところよ。",
-  "en": ""
+  "en": "Where we are now is Iopiros.\nIt's where we, the Moonlight Clan, live."
  },
  {
   "id": "IVENT02:0088",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "さっきから気になってたんだけど、\n月光族ってなんなの？",
-  "en": ""
+  "en": "Something's been bugging me for a while...\nwhat is this Moonlight Clan?"
  },
  {
   "id": "IVENT02:0089",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "わたしたちの部族の名前よ。\n月光族はね、狩人の一族なの。",
-  "en": ""
+  "en": "It's the name of our tribe.\nThe Moonlight Clan is a clan of hunters."
  },
  {
   "id": "IVENT02:0090",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "銃と弓を使わせたら、\nアイシアでかなうものはいないわ。",
-  "en": ""
+  "en": "When it comes to guns and bows,\nno one in Eithéa can beat us."
  },
  {
   "id": "IVENT02:0091",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "で、次はここ。\nアイシアの西にあるユーロリアよ。\n火竜族の町があるわ。",
-  "en": ""
+  "en": "Next is here.\nEurolia, in the west of Eithéa.\nThe Fire Dragon Clan has a town there."
  },
  {
   "id": "IVENT02:0092",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "あそこは、イオピロスよりも\n暑いとこだって聞いてる。\n最後が……",
-  "en": ""
+  "en": "I hear it's even hotter there\nthan Iopiros.\nAnd last..."
  },
  {
   "id": "IVENT02:0093",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ちょ、ちょっとまって！\nそれだけじゃわからないわよ。",
-  "en": ""
+  "en": "W-Wait a moment!\nThat's not nearly enough to go on."
  },
  {
   "id": "IVENT02:0094",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "なら、自分で行ってみれば？\nわたし、火竜族の国なんて、興味ないの。\nそれとも、話をここでやめてほしい？",
-  "en": ""
+  "en": "Then why not go see for yourself?\nThe Fire Dragon Clan's land? Not interested.\nOr do you want me to stop right here?"
  },
  {
   "id": "IVENT02:0095",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "わかったわ。\n話を続けてくれるかしら。",
-  "en": ""
+  "en": "All right.\nWould you please go on?"
  },
  {
   "id": "IVENT02:0096",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "北にある聖地ヤムヤムなんだけど……\nわたしもよく知らないんだ。",
-  "en": ""
+  "en": "Up north is the holy land of Yamyam, but...\nI don't really know much about it either."
  },
  {
   "id": "IVENT02:0097",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ただ、村の族長に聞いたんだけど、\nあそこにある森林はアイシアで\n一番大きいんだってさ。",
-  "en": ""
+  "en": "Still, the village chief told me\nthe forest there is the biggest\nin all of Eithéa."
  },
  {
   "id": "IVENT02:0098",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……すごいですね。\n怖そうだけど、行ってみたいです……",
-  "en": ""
+  "en": "...That's amazing.\nIt sounds scary, but I'd like to go see it..."
  },
  {
   "id": "IVENT02:0099",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "じゃ、そうすれば？\nそれだけの値打ちはあるよ。",
-  "en": ""
+  "en": "So why don't you?\nIt's worth the trip."
  },
  {
   "id": "IVENT02:0100",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "近くで見るエレの樹はすごくきれいで、\nすごく安心するからさ。",
-  "en": ""
+  "en": "An Ele Tree up close is so beautiful,\nand it makes you feel so safe."
  },
  {
   "id": "IVENT02:0101",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ねえ、さっきから聞きたかったんだけど、\nエレの樹って何なの？",
-  "en": ""
+  "en": "Hey, I've been wanting to ask this whole time.\nWhat exactly is an Ele Tree?"
  },
  {
   "id": "IVENT02:0102",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "むこうに見える大きな樹のことよ。\nわたしたちは<1>神木<8>とも呼ぶわ。",
-  "en": ""
+  "en": "It's that big tree you can see over there.\nWe also call it the <1>Sacred Tree<8>."
  },
  {
   "id": "IVENT02:0103",
   "kind": "msg",
   "speaker": "翔",
   "jp": "神木って、そんなにもありがたい樹なのか？",
-  "en": ""
+  "en": "A Sacred Tree? Is it really that precious?"
  },
  {
   "id": "IVENT02:0104",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "エレの樹は、アイシアのあちこちに芽を出してるの。",
-  "en": ""
+  "en": "Ele Trees sprout all over Eithéa."
  },
  {
   "id": "IVENT02:0105",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そこから放たれる光がなければ、\nわたしたちは暮らしてけないわ。\nそう、ちょうど今みたいにね。",
-  "en": ""
+  "en": "Without the light they give off,\nwe couldn't get by.\nYeah, just like right now."
  }
 ]

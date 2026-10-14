@@ -4,146 +4,146 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "ん………ルーがいるな。\nシャイになにか渡してるみたいだけど………？",
-  "en": ""
+  "en": "Hm... Lou's here.\nLooks like she's handing Shai something...?"
  },
  {
   "id": "GSYAIZ:0001",
   "kind": "msg",
   "speaker": "翔",
   "jp": "あ、あれはさっき拾ったペンダントじゃないか？",
-  "en": ""
+  "en": "Wait, isn't that the pendant\nI picked up earlier?"
  },
  {
   "id": "GSYAIZ:0002",
   "kind": "msg",
   "speaker": "翔",
   "jp": "なんか入りづらい雰囲気だな。\nまた来るか………あ、ルーが出てくるぞ………",
-  "en": ""
+  "en": "Feels kind of awkward to walk in on this.\nI'll come back later...\nOh, Lou's coming out..."
  },
  {
   "id": "GSYAIZ:0003",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "！………翔？",
-  "en": ""
+  "en": "!...Shou?"
  },
  {
   "id": "GSYAIZ:0004",
   "kind": "msg",
   "speaker": "翔",
   "jp": "あ、ルー………どうしたんだ？\nシャイとは、その……",
-  "en": ""
+  "en": "Oh, Lou... What happened?\nYou and Shai, um..."
  },
  {
   "id": "GSYAIZ:0005",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "………誤解がとけたの。",
-  "en": ""
+  "en": "...We cleared up a misunderstanding."
  },
  {
   "id": "GSYAIZ:0006",
   "kind": "msg",
   "speaker": "翔",
   "jp": "？　誤解？　\nそれってさっきのペンダントとなにか関係あるのか？",
-  "en": ""
+  "en": "Huh? A misunderstanding?\nHas it got something to do with that pendant\nfrom earlier?"
  },
  {
   "id": "GSYAIZ:0007",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "………内緒！",
-  "en": ""
+  "en": "...It's a secret!"
  },
  {
   "id": "GSYAIZ:0008",
   "kind": "msg",
   "speaker": "翔",
   "jp": "？　なんなんだ………？",
-  "en": ""
+  "en": "Huh? What's that supposed to mean...?"
  },
  {
   "id": "GSYAIZ:0009",
   "kind": "msg",
   "speaker": "シャイ",
   "jp": "翔、ひさしぶりね。　元気だった？",
-  "en": ""
+  "en": "Shou, it's been a while. How have you been?"
  },
  {
   "id": "GSYAIZ:0010",
   "kind": "msg",
   "speaker": "シャイ",
   "jp": "ひかると秋穂に伝えておいてくれる？",
-  "en": ""
+  "en": "Could you pass a message to Hikaru and Akiho?"
  },
  {
   "id": "GSYAIZ:0011",
   "kind": "msg",
   "speaker": "シャイ",
   "jp": "また弓の撃ち方を教えてあげるよって。",
-  "en": ""
+  "en": "Tell them I'll give them more archery lessons."
  },
  {
   "id": "GSYAIZ:0012",
   "kind": "msg",
   "speaker": "シャイ",
   "jp": "２人に弓を教えるの、すごく楽しみなんだ。",
-  "en": ""
+  "en": "I'm really looking forward to\nteaching those two."
  },
  {
   "id": "GSYAIZ:0013",
   "kind": "msg",
   "speaker": "シャイ",
   "jp": "翔、お願いね。",
-  "en": ""
+  "en": "I'm counting on you, Shou."
  },
  {
   "id": "GSYAIZ:0014",
   "kind": "msg",
   "speaker": "シャイ",
   "jp": "………なんか、村全体にヤな雰囲気が流れてる。",
-  "en": ""
+  "en": "...There's a nasty feeling hanging over the\nwhole village."
  },
  {
   "id": "GSYAIZ:0015",
   "kind": "msg",
   "speaker": "シャイ",
   "jp": "何かよくないことが起きそうな感じがするわ。",
-  "en": ""
+  "en": "I have a feeling something bad\nis going to happen."
  },
  {
   "id": "GSYAIZ:0016",
   "kind": "msg",
   "speaker": "シャイ",
   "jp": "翔、ルーのこと、まもってあげてね。",
-  "en": ""
+  "en": "Shou, look after Lou for me, okay?"
  },
  {
   "id": "GSYAIZ:0017",
   "kind": "msg",
   "speaker": "シャイ",
   "jp": "そうだ、翔。",
-  "en": ""
+  "en": "Oh, that's right, Shou."
  },
  {
   "id": "GSYAIZ:0018",
   "kind": "msg",
   "speaker": "シャイ",
   "jp": "ルーにこれを渡してくれる？",
-  "en": ""
+  "en": "Could you give this to Lou?"
  },
  {
   "id": "GSYAIZ:0019",
   "kind": "msg",
   "speaker": "シャイ",
   "jp": "ルーに持っていて欲しいの。\nお願いね、翔。",
-  "en": ""
+  "en": "I want Lou to have it.\nPlease, Shou."
  },
  {
   "id": "GSYAIZ:0020",
   "kind": "msg",
   "speaker": "シャイ",
   "jp": "<1>約束のペンダント<8>を手に入れた！",
-  "en": ""
+  "en": "Got the <1>Promise Pendant<8>!"
  }
 ]

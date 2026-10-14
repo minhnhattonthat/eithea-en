@@ -18,7 +18,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "SHIN13:0003",
@@ -60,14 +60,14 @@
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "新見くん、いいですか……？",
-  "en": ""
+  "en": "Niimi-kun, do you have a moment...?"
  },
  {
   "id": "SHIN13:0009",
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "SHIN13:0010",
@@ -165,7 +165,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "SHIN13:0024",

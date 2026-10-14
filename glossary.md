@@ -41,6 +41,82 @@
 | 女神 | Goddess |
 | 写真部 | Photography Club |
 | 弓道部 | Archery Club |
+| 月光の塔 | Moonlight Tower |
+| イオピロスの塔 | Iopiros Tower |
+| 神木 | Sacred Tree |
+| 族長 | Chief |
+| 守護者 | Guardian |
+| 魔女 | Witch |
+| 神託所 | Oracle Shrine |
+| ＣＡＮ | CAN |
+| アイテム弾 | Item Bullet |
+| ムスラ | Musra |
+| セレネの丘 | Selene Hill |
+
+## Other names (not lint-enforced; use exactly)
+| JP | EN |
+|---|---|
+| エレボタル | Ele Firefly / Ele Fireflies |
+| オキテ | the Law |
+| 合成 | fusion / fuse |
+| ツリギョロ (Lou's nickname for Yuka) | Googly-Glare |
+| うつろいの洞窟 | Shifting Cave |
+| 体育館 | gym |
+| 職員室 | faculty room |
+| 文献 | old texts |
+| アザ (Shou's mark) | mark |
+
+## Elements and Artia (not lint-enforced; use exactly)
+| JP | EN |
+|---|---|
+| イマージュ | Image |
+| スフィ | Sphi |
+| デッド | Dead |
+| エイド | Aid |
+| キューブ | Cube |
+| エア | Air |
+| バスト | Burst |
+| ボルト | Bolt |
+| スノ | Snow |
+| フレイ | Frey |
+| ○○アーティア / アーティア○○ | Image Artia ... / Artia Frey ... (keep the JP order) |
+| 陽神 | Sun God (summons: Tenrou, Dekamusura, Desgaddes, Meviuse, Rockgolem, Windam, Jinn, Shiden, Aquon, Volcano) |
+
+## Items (not lint-enforced; use exactly)
+| JP | EN |
+|---|---|
+| 傷薬 | Salve |
+| 回復薬 | Restorative |
+| 長寿薬 | Longevity Potion |
+| 特効薬 | Wonder Drug |
+| 万能薬 | Panacea |
+| エレの樹の雫 | Ele Tree Dew |
+| エレの樹の葉 | Ele Tree Leaf |
+| エレの樹の実 | Ele Tree Fruit |
+| エレの樹の秘薬 | Ele Tree Elixir |
+| 命の秘薬 / 力の秘薬 / 守りの秘薬 / 速さの秘薬 | Life Elixir / Power Elixir / Guard Elixir / Speed Elixir |
+| 毒消し草 | Antidote Herb |
+| 目覚めの粉 | Waking Powder |
+| 復活の宝珠 | Revival Orb |
+| 光跡 | Light Trail |
+| チコの実 | Chico Fruit |
+| ゴールドＴＩＰ | Gold TIP |
+| 給食のパン / 学食のパン | School Lunch Bread / Cafeteria Bread |
+| 弓道の弓 / 弓道の矢 | Archery Bow / Archery Arrow |
+| ガードリング | Guard Ring |
+| 約束のペンダント | Promise Pendant |
+| フレディの爪 | Freddy's Claw |
+| カスタムグランツ | Custom Grants |
+| ブック | Book |
+
+## UI words (not lint-enforced)
+| JP | EN |
+|---|---|
+| アタック / ガード / アイテム / やり直し | Attack / Guard / Item / Redo |
+| 戦う / フォーム / 逃げる / オート | Fight / Formation / Escape / Auto |
+| 銃 / 弓 / クロー | Gun / Bow / Claw |
+| 全体コマンド / 個人コマンド | Party Commands / Individual Commands |
+| ～を手に入れた！ | Got <1>X<8>! |
 
 ## Characters
 | JP | EN |

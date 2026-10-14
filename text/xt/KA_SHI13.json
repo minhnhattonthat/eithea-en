@@ -18,7 +18,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "KA_SHI13:0003",
@@ -81,7 +81,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "KA_SHI13:0012",
@@ -116,7 +116,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "KA_SHI13:0017",
@@ -242,7 +242,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "KA_SHI13:0035",
@@ -298,7 +298,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "KA_SHI13:0043",

@@ -18,7 +18,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "K_CHI02H:0003",
@@ -81,7 +81,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "K_CHI02H:0012",
@@ -207,7 +207,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "K_CHI02H:0030",
@@ -263,7 +263,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "K_CHI02H:0038",
@@ -298,7 +298,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "K_CHI02H:0043",
@@ -424,7 +424,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "K_CHI02H:0061",
@@ -536,7 +536,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "K_CHI02H:0077",
@@ -641,7 +641,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "K_CHI02H:0092",
@@ -676,7 +676,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "K_CHI02H:0097",

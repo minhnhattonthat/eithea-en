@@ -4,132 +4,132 @@
   "kind": "msg",
   "speaker": "店員",
   "jp": "あら、いらっしゃい！",
-  "en": ""
+  "en": "Oh, welcome!"
  },
  {
   "id": "GSHOPZ:0001",
   "kind": "msg",
   "speaker": "店員",
   "jp": "いらっしゃ～い。\n……あら、戻ってきたの？",
-  "en": ""
+  "en": "Welcome~!\n...Oh, you're back?"
  },
  {
   "id": "GSHOPZ:0002",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ああ。",
-  "en": ""
+  "en": "Yeah."
  },
  {
   "id": "GSHOPZ:0003",
   "kind": "msg",
   "speaker": "店員",
   "jp": "そう。\nまたよろしくね！",
-  "en": ""
+  "en": "I see.\nWell, nice to have you again!"
  },
  {
   "id": "GSHOPZ:0004",
   "kind": "choice",
   "speaker": "",
   "jp": "　買い物をする\n　持っている物を売る\n　立ち去る",
-  "en": ""
+  "en": "Buy\n  Sell items\n  Leave"
  },
  {
   "id": "GSHOPZ:0005",
   "kind": "msg",
   "speaker": "店員",
   "jp": "ありがとう！",
-  "en": ""
+  "en": "Thank you!"
  },
  {
   "id": "GSHOPZ:0006",
   "kind": "msg",
   "speaker": "店員",
   "jp": "あら、なにもいらないの？",
-  "en": ""
+  "en": "Oh, you don't need anything?"
  },
  {
   "id": "GSHOPZ:0007",
   "kind": "msg",
   "speaker": "店員",
   "jp": "ありがとう、またよろしくね。",
-  "en": ""
+  "en": "Thanks, come again!"
  },
  {
   "id": "GSHOPZ:0008",
   "kind": "msg",
   "speaker": "店員",
   "jp": "そう。\n売りたい物があったら、いつでも持ってきてね。",
-  "en": ""
+  "en": "Okay.\nIf you've got something to sell,\nbring it by anytime."
  },
  {
   "id": "GSHOPZ:0009",
   "kind": "choice",
   "speaker": "",
   "jp": "　<1>通貨<8>について\n　<1>アイテム弾<8>について\n　戻る",
-  "en": ""
+  "en": "About <1>currency<8>\n  About <1>Item Bullets<8>\n  Back"
  },
  {
   "id": "GSHOPZ:0010",
   "kind": "msg",
   "speaker": "店員",
   "jp": "アイシアの通貨は\n<1>ＣＡＮ<8>っていうの。",
-  "en": ""
+  "en": "Eithéa's currency is\ncalled <1>CAN<8>."
  },
  {
   "id": "GSHOPZ:0011",
   "kind": "msg",
   "speaker": "店員",
   "jp": "それはここ\nイオピロスも同じよ。",
-  "en": ""
+  "en": "Same goes here\nin Iopiros."
  },
  {
   "id": "GSHOPZ:0012",
   "kind": "msg",
   "speaker": "店員",
   "jp": "……え？　\n<1>ＣＡＮ<8>をどうやって\n手に入れるかって？",
-  "en": ""
+  "en": "...Huh?\nHow do you get\n<1>CAN<8>?"
  },
  {
   "id": "GSHOPZ:0013",
   "kind": "msg",
   "speaker": "店員",
   "jp": "働いて稼ぐに\n決まってるじゃない。",
-  "en": ""
+  "en": "By working for it,\nobviously."
  },
  {
   "id": "GSHOPZ:0014",
   "kind": "msg",
   "speaker": "店員",
   "jp": "でもね、危険だけど、\nジャームを倒しても\n手に入るわよ。",
-  "en": ""
+  "en": "But, though it's risky,\nyou can also get it\nby defeating Germs."
  },
  {
   "id": "GSHOPZ:0015",
   "kind": "msg",
   "speaker": "店員",
   "jp": "強いジャームほど、\n<1>ＣＡＮ<8>をたくさん持ってるわ。\n死なない程度にがんばってね。",
-  "en": ""
+  "en": "Stronger Germs carry\nmore <1>CAN<8>.\nJust try not to get killed, okay?"
  },
  {
   "id": "GSHOPZ:0016",
   "kind": "msg",
   "speaker": "店員",
   "jp": "アイテム弾のチュートリアルが入ります。",
-  "en": ""
+  "en": "The Item Bullet tutorial goes here."
  },
  {
   "id": "GSHOPZ:0017",
   "kind": "msg",
   "speaker": "店員",
   "jp": "他に何か聞きたいの？",
-  "en": ""
+  "en": "Anything else you want to ask?"
  },
  {
   "id": "GSHOPZ:0018",
   "kind": "msg",
   "speaker": "店員",
   "jp": "あら、もういいの？\nまた買い物に来てね。\nまってるわ。",
-  "en": ""
+  "en": "Oh, done already?\nCome shop again.\nI'll be waiting."
  }
 ]

@@ -4,209 +4,209 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "あれ、ルー……",
-  "en": ""
+  "en": "Oh, Lou..."
  },
  {
   "id": "GEKKO06:0001",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "あら、翔。",
-  "en": ""
+  "en": "Oh, Shou."
  },
  {
   "id": "GEKKO06:0002",
   "kind": "msg",
   "speaker": "翔",
   "jp": "よく、ここに来るのかい？",
-  "en": ""
+  "en": "Do you come here often?"
  },
  {
   "id": "GEKKO06:0003",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ええ。\nほら、ここからだと、村の全体が見渡せるでしょ？",
-  "en": ""
+  "en": "Yeah.\nLook, from here you can see the whole\nvillage, right?"
  },
  {
   "id": "GEKKO06:0004",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "だから、好きなの。",
-  "en": ""
+  "en": "That's why I like it."
  },
  {
   "id": "GEKKO06:0005",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そうか。\n確かにここは、いい眺めだよな。",
-  "en": ""
+  "en": "I see.\nIt really is a nice view up here."
  },
  {
   "id": "GEKKO06:0006",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ねえ、翔……\nおまえたちってさ、なんでああなの？",
-  "en": ""
+  "en": "Hey, Shou...\nwhy are you guys like that?"
  },
  {
   "id": "GEKKO06:0007",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ああなのって、どういうことだ？",
-  "en": ""
+  "en": "Like what? What do you mean?"
  },
  {
   "id": "GEKKO06:0008",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ほら……おまえを呼び捨てにしたりとか、\n親しくしてたら、ユカが怒るじゃない。",
-  "en": ""
+  "en": "You know... when I call you just \"Shou\"\nor act friendly with you, Yuka gets mad."
  },
  {
   "id": "GEKKO06:0009",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "なんでそうなの？",
-  "en": ""
+  "en": "Why is that?"
  },
  {
   "id": "GEKKO06:0010",
   "kind": "msg",
   "speaker": "翔",
   "jp": "なんでって……\nう～ん、うまく説明できないな。",
-  "en": ""
+  "en": "Why? Well...\nHmm, I can't really explain it."
  },
  {
   "id": "GEKKO06:0011",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そうなの？",
-  "en": ""
+  "en": "You can't?"
  },
  {
   "id": "GEKKO06:0012",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ああ、こればっかりはね。",
-  "en": ""
+  "en": "Yeah, some things just can't be explained."
  },
  {
   "id": "GEKKO06:0013",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ふうん……\nなんだか、ややこしいのね。",
-  "en": ""
+  "en": "Hmm...\nSounds complicated."
  },
  {
   "id": "GEKKO06:0014",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そう言われてみると……\n確かに、そうかもしれないな。",
-  "en": ""
+  "en": "Now that you mention it...\nmaybe you've got a point."
  },
  {
   "id": "GEKKO06:0015",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ややこしいよ。ぜったい。",
-  "en": ""
+  "en": "It'd get messy. Trust me."
  },
  {
   "id": "GEKKO06:0016",
   "kind": "msg",
   "speaker": "翔",
   "jp": "う～ん……\nちょっと、他のところを散歩してくるよ。\nそれじゃ。",
-  "en": ""
+  "en": "Hmm...\nI think I'll go take a walk somewhere else.\nSee ya."
  },
  {
   "id": "GEKKO06:0017",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ええ、またね。",
-  "en": ""
+  "en": "Sure, see you."
  },
  {
   "id": "GEKKO06:0018",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "あら、翔。\nあなたもいっしょにどう？\n涼しくて、気持ちいいわよ。",
-  "en": ""
+  "en": "Oh, Shou.\nWant to join us?\nIt's nice and cool. Feels great."
  },
  {
   "id": "GEKKO06:0019",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "きゃーっ！！　気持ちいいー！！",
-  "en": ""
+  "en": "Kyaaah!! This feels so good!!"
  },
  {
   "id": "GEKKO06:0020",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……なんだ？",
-  "en": ""
+  "en": "...What's going on?"
  },
  {
   "id": "GEKKO06:0021",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "きゃははは！　冷たーい！\nほーら、ひかる！　えいっ！あはっ！",
-  "en": ""
+  "en": "Kyahahaha! It's freezing!\nHere ya go, Hikaru! Take that! Ahaha!"
  },
  {
   "id": "GEKKO06:0022",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "あんっ！　もう、ユカったら！\nうふふふ………",
-  "en": ""
+  "en": "Ah! Geez, Yuka!\nEhehehe..."
  },
  {
   "id": "GEKKO06:0023",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ふう……気持ちいい………",
-  "en": ""
+  "en": "Phew... this feels wonderful..."
  },
  {
   "id": "GEKKO06:0024",
   "kind": "msg",
   "speaker": "翔",
   "jp": "なんか……近寄りがたい雰囲気だな……",
-  "en": ""
+  "en": "Kinda feels like...\nI shouldn't go any closer..."
  },
  {
   "id": "GEKKO06:0025",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "うわーっ、すっごーい！\n先生、胸大きいー！",
-  "en": ""
+  "en": "Whoa, amazing!\nSensei, your boobs are huge!"
  },
  {
   "id": "GEKKO06:0026",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "あっ、ま、松岡さん、どこさわってるの！\nや、やめ…あっ！",
-  "en": ""
+  "en": "Ah! M-Matsuoka-san, where are you touching?!\nS-Stop... ah!"
  },
  {
   "id": "GEKKO06:0027",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "ユ、ユカ…",
-  "en": ""
+  "en": "Y-Yuka..."
  },
  {
   "id": "GEKKO06:0028",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "だってー！\n気持ちいいんだもーん！",
-  "en": ""
+  "en": "Aww, come on!\nIt feels so goooood!"
  },
  {
   "id": "GEKKO06:0029",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ますます近寄りがたくなってきた…\nのぞきだと思われても困るな、他の場所に行こう…",
-  "en": ""
+  "en": "Now I really can't go over there...\nCan't have them thinking I'm a peeping Tom.\nI'll go somewhere else..."
  }
 ]

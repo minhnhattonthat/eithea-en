@@ -48,6 +48,16 @@ Run `python -X utf8 tools/batches.py check <batch>` from the repo root and fix e
 - Hermie's なのぉ verbal tic: soft trailing `~` on her sentences, childlike wording.
 - Don't translate the speaker column; it is context.
 
+## Notes from earlier batches (binding)
+- Read the "Other names", "Elements and Artia", "Items" and "UI words" tables in `glossary.md` and use those forms.
+- Choice menus are a grid: 3 rows per column. When a Japanese choice line holds TWO options (a second option after a
+  run of full-width spaces), write column 1 (<= 24 chars), pad with spaces so column 2 starts at character 26
+  (counting from the first letter of column 1), and keep column 2 <= 20 chars. Don't add leading spaces to options.
+  The check enforces this.
+- A stray `<8>` with no opening code exists in the source (e.g. "翔<8>"): keep it right after the same word.
+- `???` speakers whose identity is clear from context: write them in that character's voice.
+- Floor/area banners: plain text like "Moonlight Tower - Floor 3".
+
 ## Consistency
 Never edit `glossary.md`. For a recurring name or term not in it, pick a form, use it consistently, and report it.
 

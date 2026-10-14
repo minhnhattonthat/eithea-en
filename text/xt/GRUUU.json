@@ -4,503 +4,503 @@
   "kind": "msg",
   "speaker": "ルー",
   "jp": "おつかれさま。\n疲れたんなら休んでく？",
-  "en": ""
+  "en": "Nice work out there.\nTired? Wanna rest here for a bit?"
  },
  {
   "id": "GRUUU:0001",
   "kind": "choice",
   "speaker": "",
   "jp": "　休ませてもらう\n　セーブする\n　休まない",
-  "en": ""
+  "en": "Get some rest\n  Save\n  Don't rest"
  },
  {
   "id": "GRUUU:0002",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "休むのね？\nじゃあ、毛布を貸してあげるわ。",
-  "en": ""
+  "en": "Resting, huh?\nOkay, I'll lend you a blanket."
  },
  {
   "id": "GRUUU:0003",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "翔、起きたか？\n用意はできてるようだな……\n出発するか？",
-  "en": ""
+  "en": "Shou, you up?\nLooks like you're all set...\nReady to head out?"
  },
  {
   "id": "GRUUU:0004",
   "kind": "choice",
   "speaker": "",
   "jp": "　出発しよう\n　もうちょっとまってくれ",
-  "en": ""
+  "en": "Let's head out\n  Give me a minute"
  },
  {
   "id": "GRUUU:0005",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "よーっし、それじゃあ出発するか。",
-  "en": ""
+  "en": "Alrighty, let's get moving, then."
  },
  {
   "id": "GRUUU:0006",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "俺は村の入り口でまってるぜ。\n用意ができたら来てくれよ。",
-  "en": ""
+  "en": "I'll be waiting at the village entrance.\nCome find me when you're ready."
  },
  {
   "id": "GRUUU:0007",
   "kind": "choice",
   "speaker": "",
   "jp": "　ユカと話をする　　　　　　セーブする\n　秋穂と話をする　　　　　　立ち去る\n　ひかると話をする",
-  "en": ""
+  "en": "Talk to Yuka              Save\n  Talk to Akiho             Leave\n  Talk to Hikaru"
  },
  {
   "id": "GRUUU:0008",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "翔……ごめんね、私のせいで……",
-  "en": ""
+  "en": "Shou... I'm sorry, it's all my fault..."
  },
  {
   "id": "GRUUU:0009",
   "kind": "msg",
   "speaker": "翔",
   "jp": "俺も正直、神官の連中はあやしいと思ってた、\nだけど軽はずみだったな",
-  "en": ""
+  "en": "Honestly, I thought those priests were\nshady too. But that was reckless of you."
  },
  {
   "id": "GRUUU:0010",
   "kind": "msg",
   "speaker": "翔",
   "jp": "元気がいいのが\nおまえのいいところなんだからな",
-  "en": ""
+  "en": "Being full of energy is\nthe best thing about you, after all."
  },
  {
   "id": "GRUUU:0011",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ユカ、いつまでも気にするなよ。\nおまえらしくないぞ。",
-  "en": ""
+  "en": "Yuka, stop beating yourself up over it.\nIt's not like you."
  },
  {
   "id": "GRUUU:0012",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "う、うん……そうだね。\nクヨクヨしてても、しょうがないよね。",
-  "en": ""
+  "en": "Y-Yeah... you're right.\nMoping around won't get me anywhere."
  },
  {
   "id": "GRUUU:0013",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "翔……ありがと。\n元気が出たよ。",
-  "en": ""
+  "en": "Shou... thanks.\nI feel better now."
  },
  {
   "id": "GRUUU:0014",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "カーライルの町って、\nどんなところなのかしらね。",
-  "en": ""
+  "en": "I wonder what the town of Carlyle\nis like."
  },
  {
   "id": "GRUUU:0015",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "たぶん、こことは\nぜんぜんちがった雰囲気のところなんでしょうね……",
-  "en": ""
+  "en": "I imagine it feels completely\ndifferent from this place..."
  },
  {
   "id": "GRUUU:0016",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……カーライルって、どんな町なんでしょうね。",
-  "en": ""
+  "en": "...I wonder what kind of town Carlyle is."
  },
  {
   "id": "GRUUU:0017",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "みないい人だといいんですけど……",
-  "en": ""
+  "en": "I hope the people there are all nice..."
  },
  {
   "id": "GRUUU:0018",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "おつかれさま。\n疲れたんなら休んでく？",
-  "en": ""
+  "en": "Nice work out there.\nTired? Wanna rest here for a bit?"
  },
  {
   "id": "GRUUU:0019",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そうだな……\n休んでいくか",
-  "en": ""
+  "en": "Yeah...\nI think I'll rest."
  },
  {
   "id": "GRUUU:0020",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "わかったわ。\nじゃ、毛布を貸してあげるわ。",
-  "en": ""
+  "en": "Got it.\nI'll lend you a blanket, then."
  },
  {
   "id": "GRUUU:0021",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "あ、翔！",
-  "en": ""
+  "en": "Oh, Shou!"
  },
  {
   "id": "GRUUU:0022",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "族長が、あなたたちを呼んでるの。\nいっしょに来てくれないかな？",
-  "en": ""
+  "en": "The chief's asking for you guys.\nCan you come with me?"
  },
  {
   "id": "GRUUU:0023",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "他のみんなは、もう集まってるわ。",
-  "en": ""
+  "en": "Everyone else is already there."
  },
  {
   "id": "GRUUU:0024",
   "kind": "choice",
   "speaker": "",
   "jp": "　セーブする\n　セーブしない",
-  "en": ""
+  "en": "Save\nDon't save"
  },
  {
   "id": "GRUUU:0025",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "みなさん、よく来てくれました。",
-  "en": ""
+  "en": "Thank you all for coming."
  },
  {
   "id": "GRUUU:0026",
   "kind": "msg",
   "speaker": "翔",
   "jp": "族長。\nいったい、なんの用ですか？",
-  "en": ""
+  "en": "Chief.\nWhat did you want with us?"
  },
  {
   "id": "GRUUU:0027",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "その前に……\n彼を紹介しましょう。",
-  "en": ""
+  "en": "Before that...\nallow me to introduce him."
  },
  {
   "id": "GRUUU:0028",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "よう！！\nおまえらか？\n異世界から来たってのは。",
-  "en": ""
+  "en": "Yo!!\nSo you're the ones\nwho came from another world?"
  },
  {
   "id": "GRUUU:0029",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "か……火竜族！？",
-  "en": ""
+  "en": "F... Fire Dragon Clan?!"
  },
  {
   "id": "GRUUU:0030",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "俺の名は<3>アルバイジャン<8>。\n見てのとおり商人だ。\nよろしくな。",
-  "en": ""
+  "en": "The name's <3>Albaijan<8>.\nA merchant, as you can see.\nNice to meet you."
  },
  {
   "id": "GRUUU:0031",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "おまえも知ってるだろ？\nユーロリアがイオピロスの神木を狙ってるって噂。",
-  "en": ""
+  "en": "You've heard the rumor too, haven't you?\nThat Eurolia has its eye on the Sacred Tree\nof Iopiros."
  },
  {
   "id": "GRUUU:0032",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "あそこのエレの樹はもう限界に近づいているんだ。",
-  "en": ""
+  "en": "Their Ele Tree is already close to its limit."
  },
  {
   "id": "GRUUU:0033",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "俺はユーロリアがエレの樹から\n必要以上のエネルギーを取り出す事を阻止したい。",
-  "en": ""
+  "en": "I want to stop Eurolia from drawing more\nenergy out of the Ele Tree than it needs."
  },
  {
   "id": "GRUUU:0034",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "そうすればここの神木が狙われなくてすむだろう？",
-  "en": ""
+  "en": "Do that, and they won't need to go after\nthe Sacred Tree here, right?"
  },
  {
   "id": "GRUUU:0035",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "それには<1>イオピロスの塔<8>にある文献が必要なんだ。",
-  "en": ""
+  "en": "And for that, I need the records kept in the\n<1>Tower of Iopiros<8>."
  },
  {
   "id": "GRUUU:0036",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "それにはイオピロスの塔にある文献が必要なんだ。",
-  "en": ""
+  "en": "And for that, I need the records kept in the\nTower of Iopiros."
  },
  {
   "id": "GRUUU:0037",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "どうだか……\n本当かどうか、あやしいものね。",
-  "en": ""
+  "en": "Oh, sure...\nSounds pretty fishy to me."
  },
  {
   "id": "GRUUU:0038",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "……イオピロスの塔？",
-  "en": ""
+  "en": "...The Tower of Iopiros?"
  },
  {
   "id": "GRUUU:0039",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "古代のさまざまな知識が眠ると言われている、\n月光族の聖なる塔です。",
-  "en": ""
+  "en": "It is the sacred tower of the Moonlight Clan,\nsaid to hold all manner of ancient knowledge."
  },
  {
   "id": "GRUUU:0040",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "そう。\n俺はそこで、手がかりを手に入れたいってわけさ。",
-  "en": ""
+  "en": "Right.\nThat's where I'm hoping to find some clues."
  },
  {
   "id": "GRUUU:0041",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "だがな……",
-  "en": ""
+  "en": "But here's the thing..."
  },
  {
   "id": "GRUUU:0042",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "こまったことに、\n塔の中にはジャームどもが\nウジャウジャいやがるんだ……",
-  "en": ""
+  "en": "Unfortunately,\nthe tower's just crawling\nwith Germs..."
  },
  {
   "id": "GRUUU:0043",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "新しいエネルギーを探すという彼の意思は、\n立派なものとは思います。",
-  "en": ""
+  "en": "His wish to search for a new source of energy\nis an admirable one, I believe."
  },
  {
   "id": "GRUUU:0044",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "しかし今、\n私たちに兵士を貸すよゆうはありません……",
-  "en": ""
+  "en": "However, at the moment,\nwe cannot spare any soldiers to lend him..."
  },
  {
   "id": "GRUUU:0045",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "そこで、あなたたちに\n彼の護衛をお願いしたいのです。",
-  "en": ""
+  "en": "And so, I would like to ask you\nto serve as his escort."
  },
  {
   "id": "GRUUU:0046",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "悪い話じゃないと思うけどな。\nおまえらも、\nもとの世界に帰る方法を探してるんだろ？",
-  "en": ""
+  "en": "Not a bad deal, if you ask me.\nYou lot are looking for a way\nback to your own world, right?"
  },
  {
   "id": "GRUUU:0047",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "文献の中には異世界の記述もあるらしいぜ。",
-  "en": ""
+  "en": "Word is, the records even mention\nother worlds."
  },
  {
   "id": "GRUUU:0048",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "塔で手に入れた情報は全部タダで教えてやるよ。\nどうだ？",
-  "en": ""
+  "en": "Everything I learn in that tower, I'll share\nwith you free of charge. How about it?"
  },
  {
   "id": "GRUUU:0049",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そう言うからにはアテはあるんだろうな。",
-  "en": ""
+  "en": "If you're saying that,\nyou must have some kind of lead."
  },
  {
   "id": "GRUUU:0050",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "もちろん。",
-  "en": ""
+  "en": "Of course."
  },
  {
   "id": "GRUUU:0051",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "いいんじゃない？\nどうせ、ここにいてもやることないんだしさ。",
-  "en": ""
+  "en": "Why not?\nIt's not like there's anything for us\nto do here anyway."
  },
  {
   "id": "GRUUU:0052",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そうだな……行ってみるか。",
-  "en": ""
+  "en": "Yeah... let's give it a shot."
  },
  {
   "id": "GRUUU:0053",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "まって！　わたしも行くわ。",
-  "en": ""
+  "en": "Wait! I'm going too."
  },
  {
   "id": "GRUUU:0054",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "ええ、かまいませんよ。\nついでに、滞在の面倒もお願いします。",
-  "en": ""
+  "en": "Very well, I have no objection.\nWhile you're at it, please see to his lodging."
  },
  {
   "id": "GRUUU:0055",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "えええっ！？\nこ、こ、こいつをですかあ！？",
-  "en": ""
+  "en": "Whaaat?!\nY-Y-You mean him?!"
  },
  {
   "id": "GRUUU:0056",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "その方が、いろいろと都合がいいでしょう。",
-  "en": ""
+  "en": "It would make things easier in many ways."
  },
  {
   "id": "GRUUU:0057",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "う……\nわ、わかりました……",
-  "en": ""
+  "en": "Ugh...\nF-Fine, I understand..."
  },
  {
   "id": "GRUUU:0058",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ま、よろしく頼むわ。\n世話んなるぜ、ルー。",
-  "en": ""
+  "en": "Well, take good care of me.\nI'll be in your hands, Lou."
  },
  {
   "id": "GRUUU:0059",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "気安く呼ばないで！！",
-  "en": ""
+  "en": "Don't talk to me like we're friends!!"
  },
  {
   "id": "GRUUU:0060",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "俺は村の入り口でまってるぜ。\n用意ができたら来てくれよ。",
-  "en": ""
+  "en": "I'll be waiting at the village entrance.\nCome find me when you're ready."
  },
  {
   "id": "GRUUU:0061",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ここがわたしの家よ。\n村にいるときは、ここで休むといいわ。",
-  "en": ""
+  "en": "This is my house.\nWhen you're in the village, rest here."
  },
  {
   "id": "GRUUU:0062",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ありがとう、ルー。\n何からなにまでごめんなさいね。",
-  "en": ""
+  "en": "Thank you, Lou.\nI'm sorry we're relying on you for everything."
  },
  {
   "id": "GRUUU:0063",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "いいよ、気にしないで。\nさてと……みんな、疲れてない？",
-  "en": ""
+  "en": "It's fine, don't worry about it.\nAnyway... are you all tired?"
  },
  {
   "id": "GRUUU:0064",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "さっそく休んでってもいいよ。",
-  "en": ""
+  "en": "You can rest up right away if you want."
  },
  {
   "id": "GRUUU:0065",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "おつかれさま。\n疲れたんなら休んでく？",
-  "en": ""
+  "en": "Nice work out there.\nTired? Wanna rest here for a bit?"
  },
  {
   "id": "GRUUU:0066",
   "kind": "choice",
   "speaker": "",
   "jp": "　休ませてもらう\n　セーブする\n　休まない",
-  "en": ""
+  "en": "Get some rest\n  Save\n  Don't rest"
  },
  {
   "id": "GRUUU:0067",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "休むのね？\nじゃあ、毛布を貸してあげるわ。",
-  "en": ""
+  "en": "Resting, huh?\nOkay, I'll lend you a blanket."
  },
  {
   "id": "GRUUU:0068",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "おはよう、翔。\n疲れはとれた？",
-  "en": ""
+  "en": "Morning, Shou.\nFeeling rested?"
  },
  {
   "id": "GRUUU:0069",
   "kind": "msg",
   "speaker": "翔",
   "jp": "よし、じゃあ出かけるか。",
-  "en": ""
+  "en": "All right, let's head out."
  },
  {
   "id": "GRUUU:0070",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そう？\nでも、疲れたら言ってね。\nいつでも休ませてあげるから。",
-  "en": ""
+  "en": "Yeah?\nWell, tell me if you get tired.\nYou can rest here anytime."
  },
  {
   "id": "GRUUU:0071",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "あら新見くん、お帰りなさい。　あっ…あ、これ？\nルーの家にお世話になってるんだから、\nお掃除くらいはしないとね。",
-  "en": ""
+  "en": "Oh, welcome back, Niimi-kun. Ah... oh, this?\nWe're staying at Lou's house, so the least\nI can do is help with the cleaning."
  }
 ]

@@ -18,14 +18,14 @@
   "kind": "msg",
   "speaker": "ルー",
   "jp": "休むのね？\nじゃあ、毛布を貸してあげるわ。",
-  "en": ""
+  "en": "Resting, huh?\nOkay, I'll lend you a blanket."
  },
  {
   "id": "IVENT17A:0003",
   "kind": "choice",
   "speaker": "",
   "jp": "　セーブする\n　セーブしない",
-  "en": ""
+  "en": "Save\nDon't save"
  },
  {
   "id": "IVENT17A:0004",
@@ -39,20 +39,20 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　出発しよう\n　もうちょっとまってくれ",
-  "en": ""
+  "en": "Let's head out\n  Give me a minute"
  },
  {
   "id": "IVENT17A:0006",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "よーっし、それじゃあ出発するか。",
-  "en": ""
+  "en": "Alrighty, let's get moving, then."
  },
  {
   "id": "IVENT17A:0007",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "俺は村の入り口でまってるぜ。\n用意ができたら来てくれよ。",
-  "en": ""
+  "en": "I'll be waiting at the village entrance.\nCome find me when you're ready."
  }
 ]

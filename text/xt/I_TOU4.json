@@ -4,209 +4,209 @@
   "kind": "msg",
   "speaker": "",
   "jp": "　イオピロスの塔　４階",
-  "en": ""
+  "en": "Iopiros Tower - 4th Floor"
  },
  {
   "id": "I_TOU4:0001",
   "kind": "msg",
   "speaker": "",
   "jp": "<1>エレの樹の葉<8>を手に入れた！",
-  "en": ""
+  "en": "Got an <1>Ele Tree Leaf<8>!"
  },
  {
   "id": "I_TOU4:0002",
   "kind": "msg",
   "speaker": "",
   "jp": "<1>回復薬<8>を手に入れた！",
-  "en": ""
+  "en": "Got a <1>Restorative<8>!"
  },
  {
   "id": "I_TOU4:0003",
   "kind": "msg",
   "speaker": "",
   "jp": "<1>カスタムグランツ<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>Custom Grants<8>!"
  },
  {
   "id": "I_TOU4:0004",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ねえ、翔！",
-  "en": ""
+  "en": "Hey, Shou!"
  },
  {
   "id": "I_TOU4:0005",
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "I_TOU4:0006",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "知ってた？\nヒトシが料理、得意だっていうこと！",
-  "en": ""
+  "en": "Did you know?\nHitoshi's really good at cooking!"
  },
  {
   "id": "I_TOU4:0007",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "意外だよね。\n私、びっくりしちゃった！",
-  "en": ""
+  "en": "Who'd have guessed, right?\nI was totally surprised!"
  },
  {
   "id": "I_TOU4:0008",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "あのさ<10>…<10>…翔は料理のできる\n女の子って、<10>好き？",
-  "en": ""
+  "en": "So<10>...<10>...Shou, girls who can cook--\ndo you<10> like that?"
  },
  {
   "id": "I_TOU4:0009",
   "kind": "choice",
   "speaker": "",
   "jp": "　好き\n　どうでもいい",
-  "en": ""
+  "en": "I do\nDon't really care"
  },
  {
   "id": "I_TOU4:0010",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "そうなんだ……\n料理っていっても、\n目玉焼きしか作れないんじゃ、ダメだよね？",
-  "en": ""
+  "en": "I see...\nBut if the only thing I can cook\nis fried eggs, that's no good, huh?"
  },
  {
   "id": "I_TOU4:0011",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "がんばるから、もう少しまっててね。",
-  "en": ""
+  "en": "I'll work hard, so just wait a little longer."
  },
  {
   "id": "I_TOU4:0012",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "おいしい手料理を食べさせてあげるから、ね？",
-  "en": ""
+  "en": "I'll make you a delicious home-cooked\nmeal, okay?"
  },
  {
   "id": "I_TOU4:0013",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "そうだよね！\n料理ができなくても、彼氏はつくれるもんね！",
-  "en": ""
+  "en": "Right!\nA girl can get a boyfriend even if she\ncan't cook!"
  },
  {
   "id": "I_TOU4:0014",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "よお～し、がんばろっと！",
-  "en": ""
+  "en": "Alriiight, let's do this~!"
  },
  {
   "id": "I_TOU4:0015",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "新見くん、いいですか……？",
-  "en": ""
+  "en": "Niimi-kun, do you have a moment...?"
  },
  {
   "id": "I_TOU4:0016",
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "I_TOU4:0017",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "アルバイジャンのこと、どう思いますか？",
-  "en": ""
+  "en": "What do you think of Albaijan?"
  },
  {
   "id": "I_TOU4:0018",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "外見は怖そうですけど、\nほんとうは、すごくいい人だと思うんです……",
-  "en": ""
+  "en": "He looks scary on the outside, but\nI think he's actually a really good person..."
  },
  {
   "id": "I_TOU4:0019",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "新見くんは、どう思いますか？",
-  "en": ""
+  "en": "What do you think, Niimi-kun?"
  },
  {
   "id": "I_TOU4:0020",
   "kind": "choice",
   "speaker": "",
   "jp": "　いい人だと思う\n　悪い人だと思う",
-  "en": ""
+  "en": "I think he's a good guy\nI think he's a bad guy"
  },
  {
   "id": "I_TOU4:0021",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……そうですよね。\nわたしも、そう思います。",
-  "en": ""
+  "en": "...Right?\nI think so too."
  },
  {
   "id": "I_TOU4:0022",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "今度、がんばって話しかけてみようかな……",
-  "en": ""
+  "en": "Maybe next time I'll work up the courage\nto talk to him..."
  },
  {
   "id": "I_TOU4:0023",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "<10>…<10>…そうですか？\nわたしは、いい人だと思うんですけど……",
-  "en": ""
+  "en": "<10>...<10>...You think so?\nI think he's a good person, though..."
  },
  {
   "id": "I_TOU4:0024",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "新見くん……いいですか？",
-  "en": ""
+  "en": "Niimi-kun... do you have a moment?"
  },
  {
   "id": "I_TOU4:0025",
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "I_TOU4:0026",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "あの……この間のことなんですが……",
-  "en": ""
+  "en": "Um... about the other day..."
  },
  {
   "id": "I_TOU4:0027",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "今度は練習じゃなくて、その……\nちゃんとした歌を聴いてもらえませんか？",
-  "en": ""
+  "en": "This time, not practice, but, um...\nwould you listen to me sing a real song?"
  },
  {
   "id": "I_TOU4:0028",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "わたしのデビュー曲を聴いてもらいたいんです……",
-  "en": ""
+  "en": "I want you to hear my debut song..."
  },
  {
   "id": "I_TOU4:0029",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "いつでもいいです。\n新見くんの時間があいたら、お願いします……",
-  "en": ""
+  "en": "Anytime is fine.\nWhenever you have some free time, please..."
  }
 ]

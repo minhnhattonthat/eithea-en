@@ -4,244 +4,244 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "こっちは<1>体育館<8>か。",
-  "en": ""
+  "en": "So this way's the <1>gym<8>."
  },
  {
   "id": "GAKKO03:0001",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "みんな、中にいるんでしょうか……？",
-  "en": ""
+  "en": "Do you think everyone's inside...?"
  },
  {
   "id": "GAKKO03:0002",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "その可能性はあるわね。\n<1>体育館<8>なら、避難場所としては最適だし。",
-  "en": ""
+  "en": "It's possible.\nThe <1>gym<8> would be the perfect place\nto take shelter."
  },
  {
   "id": "GAKKO03:0003",
   "kind": "msg",
   "speaker": "翔",
   "jp": "なんだ今のは？\n手傷を負っていたようだけど……",
-  "en": ""
+  "en": "What was that just now?\nLooked like it was wounded..."
  },
  {
   "id": "GAKKO03:0004",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "翔、ほらそこ！！",
-  "en": ""
+  "en": "Shou, look, over there!!"
  },
  {
   "id": "GAKKO03:0005",
   "kind": "msg",
   "speaker": "翔",
   "jp": "さっきの弾丸みたいのなら拾ったよ。",
-  "en": ""
+  "en": "If you mean that bullet-looking thing,\nI already picked it up."
  },
  {
   "id": "GAKKO03:0006",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "そうじゃないわよ、\n今の犬みたいなのがくわえていた物。\n気が付かなかったの？　そこに落ちてるわよ。",
-  "en": ""
+  "en": "Not that! I mean the thing that dog-looking\ncreature was carrying in its mouth. Didn't\nyou notice? It's right there on the ground."
  },
  {
   "id": "GAKKO03:0007",
   "kind": "msg",
   "speaker": "翔",
   "jp": "え、これか？",
-  "en": ""
+  "en": "Huh, this?"
  },
  {
   "id": "GAKKO03:0008",
   "kind": "msg",
   "speaker": "翔",
   "jp": "なんだ、こりゃ？\n特撮テレビの変身ヒーローが使う<1>銃<8>みたいだな。",
-  "en": ""
+  "en": "What the heck is this?\nLooks like the kind of <1>gun<8> a costumed\nhero would use to transform on a TV show."
  },
  {
   "id": "GAKKO03:0009",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "玩具にしては精巧ね。\nあっ、新見くん。気を付けて。",
-  "en": ""
+  "en": "It's awfully elaborate for a toy.\nAh, Niimi-kun. Be careful."
  },
  {
   "id": "GAKKO03:0010",
   "kind": "msg",
   "speaker": "翔",
   "jp": "だいじょうぶですよ、先生。\nおっとこれは結構重いな。\n確かに玩具じゃないみたいだぞ。",
-  "en": ""
+  "en": "It's fine, Sensei.\nWhoa, this thing's pretty heavy.\nIt sure doesn't seem like a toy."
  },
  {
   "id": "GAKKO03:0011",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "玩具じゃないとすると……",
-  "en": ""
+  "en": "If it isn't a toy, then..."
  },
  {
   "id": "GAKKO03:0012",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ちぃ！　数が多いぞ、いったい何匹いるんだ！？",
-  "en": ""
+  "en": "Tch! There's a ton of them! Just how many\nare there?!"
  },
  {
   "id": "GAKKO03:0013",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "翔！　さっき拾った奴が光ってるよ！！",
-  "en": ""
+  "en": "Shou! That thing you picked up is glowing!!"
  },
  {
   "id": "GAKKO03:0014",
   "kind": "msg",
   "speaker": "翔",
   "jp": "これか？",
-  "en": ""
+  "en": "This?"
  },
  {
   "id": "GAKKO03:0015",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "それやっぱり武器なんじゃない？",
-  "en": ""
+  "en": "Isn't that a weapon after all?"
  },
  {
   "id": "GAKKO03:0016",
   "kind": "msg",
   "speaker": "翔",
   "jp": "まさか。　こんな形の武器が……\n武器……、銃……",
-  "en": ""
+  "en": "No way. A weapon shaped like this...\nA weapon... a gun..."
  },
  {
   "id": "GAKKO03:0017",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そうか……、これは武器、銃なんだ！！",
-  "en": ""
+  "en": "That's it... this is a weapon. It's a gun!!"
  },
  {
   "id": "GAKKO03:0018",
   "kind": "msg",
   "speaker": "翔",
   "jp": "すげぇ……なんて凄い威力なんだ！",
-  "en": ""
+  "en": "Whoa... this thing's got incredible power!"
  },
  {
   "id": "GAKKO03:0019",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ホントに銃だったなんて……",
-  "en": ""
+  "en": "I can't believe it really was a gun..."
  },
  {
   "id": "GAKKO03:0020",
   "kind": "msg",
   "speaker": "翔",
   "jp": "うわぁ！？\nな、なんだ？　銃が消えていくぞ！！\nどうなってるんだ、いったい！？",
-  "en": ""
+  "en": "Whoa?!\nWh-What? The gun's disappearing!!\nWhat the heck is going on?!"
  },
  {
   "id": "GAKKO03:0021",
   "kind": "msg",
   "speaker": "翔",
   "jp": "完全に消えちまった……\n畜生、せっかく手に入れた武器だったのに……",
-  "en": ""
+  "en": "It's completely gone...\nDammit, and I'd finally found a weapon..."
  },
  {
   "id": "GAKKO03:0022",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "翔、ほら手のところ。\n銃を持っていたほうの手！\nそこにそんなアザなんてあったっけ？",
-  "en": ""
+  "en": "Shou, look at your hand.\nThe one you were holding the gun with!\nDid you always have that mark there?"
  },
  {
   "id": "GAKKO03:0023",
   "kind": "msg",
   "speaker": "翔",
   "jp": "いや、なかったはずだけど。\nまさか銃がアザに変わったとか？",
-  "en": ""
+  "en": "No, I'm pretty sure I didn't.\nDon't tell me the gun turned into the mark?"
  },
  {
   "id": "GAKKO03:0024",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "まさかぁ。　はははは……",
-  "en": ""
+  "en": "Yeah, right. Hahaha..."
  },
  {
   "id": "GAKKO03:0025",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そうだよなぁ。　はははは……",
-  "en": ""
+  "en": "Right, of course not. Hahaha..."
  },
  {
   "id": "GAKKO03:0026",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "あら……",
-  "en": ""
+  "en": "Oh..."
  },
  {
   "id": "GAKKO03:0027",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "どうかしたの伊藤さん？",
-  "en": ""
+  "en": "Is something wrong, Itou-san?"
  },
  {
   "id": "GAKKO03:0028",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "ええ、ちょっと体育館のほうで\n何か動いたような気がしたもので……",
-  "en": ""
+  "en": "Well, I just thought I saw something\nmove over by the gym..."
  },
  {
   "id": "GAKKO03:0029",
   "kind": "msg",
   "speaker": "翔",
   "jp": "モンスターか？",
-  "en": ""
+  "en": "A monster?"
  },
  {
   "id": "GAKKO03:0030",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "ううん。　人影に見えたの。",
-  "en": ""
+  "en": "No. It looked like a person."
  },
  {
   "id": "GAKKO03:0031",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ヒトシと学かも知れない。\n先生、ちょっと体育館を覗いてもいいですか？",
-  "en": ""
+  "en": "Could be Hitoshi and Manabu.\nSensei, mind if I take a look inside the gym?"
  },
  {
   "id": "GAKKO03:0032",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "構わないけど、気を付けてね。　新見くん。",
-  "en": ""
+  "en": "I don't mind, but be careful, Niimi-kun."
  },
  {
   "id": "GAKKO03:0033",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "<1>学食のパン<8>を手に入れた！",
-  "en": ""
+  "en": "Got some <1>Cafeteria Bread<8>!"
  },
  {
   "id": "GAKKO03:0034",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "<1>学食のパン<8>を手に入れた！",
-  "en": ""
+  "en": "Got some <1>Cafeteria Bread<8>!"
  }
 ]

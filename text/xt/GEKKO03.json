@@ -4,153 +4,153 @@
   "kind": "msg",
   "speaker": "",
   "jp": "これより先　セレネの丘",
-  "en": ""
+  "en": "Ahead: Selene Hill"
  },
  {
   "id": "GEKKO03:0001",
   "kind": "msg",
   "speaker": "神官",
   "jp": "ここは月光の塔の入り口です。\n今、中にはエレボタルがいっぱいいて\n危険な状態になっています。",
-  "en": ""
+  "en": "This is the entrance to the Moonlight Tower.\nRight now it's full of Ele Fireflies\nand very dangerous."
  },
  {
   "id": "GEKKO03:0002",
   "kind": "msg",
   "speaker": "神官",
   "jp": "あなたたちが、\nエレボタルを退治してくださるのですか？",
-  "en": ""
+  "en": "Will you be the ones\nto exterminate the Ele Fireflies?"
  },
  {
   "id": "GEKKO03:0003",
   "kind": "msg",
   "speaker": "神官",
   "jp": "大変かと思いますが、\nよろしくお願いいたします。",
-  "en": ""
+  "en": "I'm sure it will be difficult,\nbut we are counting on you."
  },
  {
   "id": "GEKKO03:0004",
   "kind": "msg",
   "speaker": "神官",
   "jp": "エレボタルは危険な甲虫です。\n気をつけて……",
-  "en": ""
+  "en": "Ele Fireflies are dangerous beetles.\nPlease be careful..."
  },
  {
   "id": "GEKKO03:0005",
   "kind": "msg",
   "speaker": "神官",
   "jp": "くれぐれも、命は大切にしてください。",
-  "en": ""
+  "en": "Above all, please value your lives."
  },
  {
   "id": "GEKKO03:0006",
   "kind": "msg",
   "speaker": "神官",
   "jp": "おお！\n倒してくださったのですね！",
-  "en": ""
+  "en": "Oh!\nYou've defeated them!"
  },
  {
   "id": "GEKKO03:0007",
   "kind": "msg",
   "speaker": "神官",
   "jp": "ありがとうございます。\nこれで、この村も救われます。",
-  "en": ""
+  "en": "Thank you so much.\nNow this village is saved."
  },
  {
   "id": "GEKKO03:0008",
   "kind": "msg",
   "speaker": "神官",
   "jp": "ありがとうございました。",
-  "en": ""
+  "en": "Thank you very much."
  },
  {
   "id": "GEKKO03:0009",
   "kind": "msg",
   "speaker": "神官",
   "jp": "……………",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "GEKKO03:0010",
   "kind": "msg",
   "speaker": "神官",
   "jp": "ここは月光の塔の入り口です。\n今、中にはエレボタルがいっぱいいて\n危険な状態になっています。",
-  "en": ""
+  "en": "This is the entrance to the Moonlight Tower.\nRight now it's full of Ele Fireflies\nand very dangerous."
  },
  {
   "id": "GEKKO03:0011",
   "kind": "msg",
   "speaker": "神官",
   "jp": "あなたがたが、\n退治してくださるのですか。",
-  "en": ""
+  "en": "You'll be the ones\nto exterminate them?"
  },
  {
   "id": "GEKKO03:0012",
   "kind": "msg",
   "speaker": "神官",
   "jp": "いや、ありがたい。\nこれで私たちが行かなくて……",
-  "en": ""
+  "en": "Why, how fortunate.\nNow we won't have to go..."
  },
  {
   "id": "GEKKO03:0013",
   "kind": "msg",
   "speaker": "神官",
   "jp": "あ、いやなんでもありません。\nお気をつけて、行って来てください。",
-  "en": ""
+  "en": "Ah, no, it's nothing.\nPlease take care on your way."
  },
  {
   "id": "GEKKO03:0014",
   "kind": "msg",
   "speaker": "神官",
   "jp": "どうです？\n倒せましたか？",
-  "en": ""
+  "en": "Well?\nDid you defeat them?"
  },
  {
   "id": "GEKKO03:0015",
   "kind": "msg",
   "speaker": "神官",
   "jp": "まだですか？\nそれは残念ですなあ……",
-  "en": ""
+  "en": "Not yet?\nThat's a shame..."
  },
  {
   "id": "GEKKO03:0016",
   "kind": "msg",
   "speaker": "神官",
   "jp": "なんと！\n倒してくださったのですか？",
-  "en": ""
+  "en": "What!\nYou defeated them?"
  },
  {
   "id": "GEKKO03:0017",
   "kind": "msg",
   "speaker": "神官",
   "jp": "ありがたい、\nこれで私が行かな……",
-  "en": ""
+  "en": "How fortunate,\nnow I won't have to go..."
  },
  {
   "id": "GEKKO03:0018",
   "kind": "msg",
   "speaker": "神官",
   "jp": "あ、いやいや。\nとにかく、ありがとうございました。",
-  "en": ""
+  "en": "Ah, no, no.\nIn any case, thank you very much."
  },
  {
   "id": "GEKKO03:0019",
   "kind": "msg",
   "speaker": "神官",
   "jp": "ありがとうございました。",
-  "en": ""
+  "en": "Thank you very much."
  },
  {
   "id": "GEKKO03:0020",
   "kind": "msg",
   "speaker": "学",
   "jp": "翔達はここにのぼったんだよね？\nすっごいね～。",
-  "en": ""
+  "en": "Shou, you guys climbed up here, right?\nThat's amazing~."
  },
  {
   "id": "GEKKO03:0021",
   "kind": "msg",
   "speaker": "翔",
   "jp": "もうここに用はないな………",
-  "en": ""
+  "en": "Nothing left for me here..."
  }
 ]

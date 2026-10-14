@@ -4,412 +4,412 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "誰もいないな……",
-  "en": ""
+  "en": "No one's here..."
  },
  {
   "id": "GEURIKE:0001",
   "kind": "msg",
   "speaker": "翔",
   "jp": "誰もいないな……ん？\nこれはなんだ……？",
-  "en": ""
+  "en": "No one's here... Hm?\nWhat's this...?"
  },
  {
   "id": "GEURIKE:0002",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ただ今族長の家にて重要会議中。\nご用の方は族長の家まで。",
-  "en": ""
+  "en": "Important meeting now in progress at the\nchief's house. Visitors, please come to\nthe chief's house."
  },
  {
   "id": "GEURIKE:0003",
   "kind": "msg",
   "speaker": "翔",
   "jp": "まだいないのか……また後で来よう………",
-  "en": ""
+  "en": "Still no one here... I'll come back later..."
  },
  {
   "id": "GEURIKE:0004",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "おや？\nエレボタルを退治してきたのですか？",
-  "en": ""
+  "en": "Oh?\nHave you exterminated the Ele Fireflies?"
  },
  {
   "id": "GEURIKE:0005",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ええ。\nその報告をしにきたんだけど。",
-  "en": ""
+  "en": "Yeah.\nThat's what we came to report."
  },
  {
   "id": "GEURIKE:0006",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "なにか、証拠はありますか？",
-  "en": ""
+  "en": "Do you have any proof?"
  },
  {
   "id": "GEURIKE:0007",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "証拠ですって！？",
-  "en": ""
+  "en": "Proof?!"
  },
  {
   "id": "GEURIKE:0008",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "そう、証拠です。\nたとえば……塔の最上階には\n何かありませんでしたか？",
-  "en": ""
+  "en": "Yes, proof.\nFor instance... wasn't there something\non the top floor of the tower?"
  },
  {
   "id": "GEURIKE:0009",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "塔の最上階？\nなにかあったっけ……？",
-  "en": ""
+  "en": "The top floor of the tower?\nWas there something up there...?"
  },
  {
   "id": "GEURIKE:0010",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "そう、たとえばア………あ！\nい、今のは忘れてください。",
-  "en": ""
+  "en": "Yes, for instance, an Ar... ah!\nP-Please forget I said that."
  },
  {
   "id": "GEURIKE:0011",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "と、ともかく、\nエレボタルを倒した証拠を\n早く持ってくるのです！",
-  "en": ""
+  "en": "A-Anyway,\nbring me proof that you defeated\nthe Ele Fireflies, and be quick about it!"
  },
  {
   "id": "GEURIKE:0012",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "さ……さあ！\n早く、お行きなさい！",
-  "en": ""
+  "en": "N-Now then!\nOff with you, quickly!"
  },
  {
   "id": "GEURIKE:0013",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "証拠かあ……どうしよう。",
-  "en": ""
+  "en": "Proof, huh... What do we do?"
  },
  {
   "id": "GEURIKE:0014",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "アーティアだっけ？\nあれがいいんじゃない？",
-  "en": ""
+  "en": "Artia, was it?\nWouldn't that work?"
  },
  {
   "id": "GEURIKE:0015",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "……そうね、\nそれが確実かもね……",
-  "en": ""
+  "en": "...Yeah,\nthat might be the surest bet..."
  },
  {
   "id": "GEURIKE:0016",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "……証拠はまだですか？\n早くもってきなさい！",
-  "en": ""
+  "en": "...Still no proof?\nBring it here, quickly!"
  },
  {
   "id": "GEURIKE:0017",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "なんですか、何か用ですか？",
-  "en": ""
+  "en": "What is it? Do you need something?"
  },
  {
   "id": "GEURIKE:0018",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "エレボタル退治の報告以外は\n早々にお引取り願いたいのですがね……",
-  "en": ""
+  "en": "Unless it's a report on the Ele Firefly\nextermination, I'd like you to take your\nleave promptly..."
  },
  {
   "id": "GEURIKE:0019",
   "kind": "choice",
   "speaker": "",
   "jp": "　月光の塔について　　　　　立ち去る\n　神官について\n　エレボタルについて",
-  "en": ""
+  "en": "About Moonlight Tower     Leave\nAbout the priests\nAbout the Ele Fireflies"
  },
  {
   "id": "GEURIKE:0020",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "月光の塔は、月光族の生命線です。",
-  "en": ""
+  "en": "The Moonlight Tower is the Moonlight Clan's\nlifeline."
  },
  {
   "id": "GEURIKE:0021",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "ご神木であるエレの樹から送られてくる、神の力。",
-  "en": ""
+  "en": "The divine power sent from the Ele Tree,\nour sacred tree."
  },
  {
   "id": "GEURIKE:0022",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "あの塔は、\nそれをこの村まで送る重要な施設なのです。",
-  "en": ""
+  "en": "That tower is a vital facility\nthat sends it all the way to this village."
  },
  {
   "id": "GEURIKE:0023",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "それゆえに、早く\n塔に巣くうエレボタルを\n退治していただきたいのですがね……",
-  "en": ""
+  "en": "That is why I'd like you to hurry\nand exterminate the Ele Fireflies\nnesting in the tower..."
  },
  {
   "id": "GEURIKE:0024",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "私たち神官は、\n族長ランドー様の相談役でございます。",
-  "en": ""
+  "en": "We priests serve as advisors\nto our chief, Rando-sama."
  },
  {
   "id": "GEURIKE:0025",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "そして、月光の塔から送られてくる\n力の管理も、私達の仕事です。",
-  "en": ""
+  "en": "We are also in charge of managing\nthe power sent from the Moonlight Tower."
  },
  {
   "id": "GEURIKE:0026",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "エレボタルは、エレの樹から\n発せられる力を糧とする虫です。",
-  "en": ""
+  "en": "Ele Fireflies are insects that feed on\nthe power the Ele Tree gives off."
  },
  {
   "id": "GEURIKE:0027",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "しかし、あの凶悪さはもはや、\nジャームと呼ぶべきでしょう。",
-  "en": ""
+  "en": "But they're so vicious by now\nthat they may as well be called Germs."
  },
  {
   "id": "GEURIKE:0028",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "大きさはあなたたちほどもあり、\nその顎は鉄をも噛み砕くほどです。",
-  "en": ""
+  "en": "They're as large as you are,\nand their jaws can crush even iron."
  },
  {
   "id": "GEURIKE:0029",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "……ああ、恐ろしい！\n村のためにも早く退治してください。",
-  "en": ""
+  "en": "...Ah, how dreadful!\nPlease exterminate them quickly, for the\nvillage's sake."
  },
  {
   "id": "GEURIKE:0030",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "さて、他にご用はありますでしょうか？",
-  "en": ""
+  "en": "Now, is there anything else you need?"
  },
  {
   "id": "GEURIKE:0031",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "一刻も早く、エレボタルたちを\n退治してください。",
-  "en": ""
+  "en": "Please exterminate those Ele Fireflies\nas soon as possible."
  },
  {
   "id": "GEURIKE:0032",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "退治が終わりましたら、\nそのことを私に報告してくださるようお願いします。",
-  "en": ""
+  "en": "Once you've finished,\nI ask that you report it to me."
  },
  {
   "id": "GEURIKE:0033",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "それでは……",
-  "en": ""
+  "en": "Well then..."
  },
  {
   "id": "GEURIKE:0034",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "ほほう、まだこの村にいたのですか。",
-  "en": ""
+  "en": "Well, well, you're still in this village?"
  },
  {
   "id": "GEURIKE:0035",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "早々に立ち去りなさい！\n……と言いたいところですが、まあ、いいでしょう。",
-  "en": ""
+  "en": "Leave at once!\n...Is what I'd like to say, but very well."
  },
  {
   "id": "GEURIKE:0036",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "私からのせんべつです。\n聞きたいことがあれば、なんなりとお聞きなさい。",
-  "en": ""
+  "en": "Consider this my parting gift.\nAsk me anything you wish to know."
  },
  {
   "id": "GEURIKE:0037",
   "kind": "choice",
   "speaker": "",
   "jp": "　月光族について　　　　　　立ち去る\n　火竜族について\n　エレの樹について",
-  "en": ""
+  "en": "About the Moonlight Clan  Leave\nAbout the Fire Dragon Clan\nAbout the Ele Tree"
  },
  {
   "id": "GEURIKE:0038",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "私たち月光族は、もともと\n無知な狩人の民でした。",
-  "en": ""
+  "en": "We of the Moonlight Clan were originally\na people of ignorant hunters."
  },
  {
   "id": "GEURIKE:0039",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "定められた住居もなく、\n動物のように暮らしていたそうです。",
-  "en": ""
+  "en": "We had no fixed dwellings,\nand lived like animals, so it's said."
  },
  {
   "id": "GEURIKE:0040",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "しかし、エレの樹に触れたとき、\n私たちは知恵を与えられました。",
-  "en": ""
+  "en": "But when we touched the Ele Tree,\nwe were granted wisdom."
  },
  {
   "id": "GEURIKE:0041",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "そして、村を造り、\n住むようになったのです。",
-  "en": ""
+  "en": "And so we built a village\nand came to live in it."
  },
  {
   "id": "GEURIKE:0042",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "それゆえに私たちはエレの樹をうやまい、\nその恩恵を忘れてはならないのです。",
-  "en": ""
+  "en": "That is why we revere the Ele Tree,\nand must never forget its blessings."
  },
  {
   "id": "GEURIKE:0043",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "火竜族は、\n西にあるユーロリアに住んでいます。",
-  "en": ""
+  "en": "The Fire Dragon Clan\nlives in Eurolia, to the west."
  },
  {
   "id": "GEURIKE:0044",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "彼らは神木であるエレの樹を傷つけ、\nそこから力を得る、恐ろしくも強力な一族です！！",
-  "en": ""
+  "en": "They wound the Ele Tree, a sacred tree,\nand draw power from it -- a fearsome and\nmighty clan!!"
  },
  {
   "id": "GEURIKE:0045",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "むろん、それによって築かれた文明が\n正しいものではないでしょうが……",
-  "en": ""
+  "en": "Naturally, a civilization built that way\ncan hardly be a righteous one..."
  },
  {
   "id": "GEURIKE:0046",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "ユーロリア……\nそれは悪徳によって栄える地なのです。",
-  "en": ""
+  "en": "Eurolia...\nIt is a land that prospers through vice."
  },
  {
   "id": "GEURIKE:0047",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "また、最近は不穏な噂を耳にします。",
-  "en": ""
+  "en": "And lately, I've heard troubling rumors."
  },
  {
   "id": "GEURIKE:0048",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "奴らが私たちのエレの樹を\n狙っているらしいのです。",
-  "en": ""
+  "en": "It seems they have designs\non our Ele Tree."
  },
  {
   "id": "GEURIKE:0049",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "……ああ、恐ろしい。\nそれが偽りであればよいのですが……",
-  "en": ""
+  "en": "...Ah, how dreadful.\nI do hope it's only a lie..."
  },
  {
   "id": "GEURIKE:0050",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "エレの樹は、私たちを守護する神木です。",
-  "en": ""
+  "en": "The Ele Tree is the sacred tree that\nprotects us."
  },
  {
   "id": "GEURIKE:0051",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "この世界には、\n神木が３つの場所に根ざしています。",
-  "en": ""
+  "en": "In this world,\nsacred trees are rooted in three places."
  },
  {
   "id": "GEURIKE:0052",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "それは、ここイオピロス、\n火竜族の国ユーロリア、そして\n北の聖地ヤムヤムです。",
-  "en": ""
+  "en": "Here in Iopiros, in Eurolia,\nland of the Fire Dragon Clan, and in\nYamyam, the holy land to the north."
  },
  {
   "id": "GEURIKE:0053",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "３本の神木は、\nアイシア中のいたるところに小枝を生やし……",
-  "en": ""
+  "en": "The three sacred trees sprout twigs\nall across Eithéa..."
  },
  {
   "id": "GEURIKE:0054",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "そこから不可思議な力を発しています。",
-  "en": ""
+  "en": "And from them, a mysterious power flows."
  },
  {
   "id": "GEURIKE:0055",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "それを用いることで、私たちは今のように\n何不自由のない暮らしを送ることができるのです。",
-  "en": ""
+  "en": "By using it, we can live as we do now,\nwanting for nothing."
  },
  {
   "id": "GEURIKE:0056",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "あなたたちも、\nエレの樹の恩恵を忘れてはなりませんよ。",
-  "en": ""
+  "en": "You, too, must never forget\nthe blessings of the Ele Tree."
  },
  {
   "id": "GEURIKE:0057",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "おや、まだ何かあるのですか？\n少しは、遠慮というものを……\nまあいいでしょう。",
-  "en": ""
+  "en": "Oh, there's still more?\nYou might show a little restraint...\nWell, very well."
  },
  {
   "id": "GEURIKE:0058",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "それでは、ごきげんよう。",
-  "en": ""
+  "en": "Good day to you, then."
  }
 ]

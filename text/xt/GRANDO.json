@@ -4,692 +4,692 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "あれ？\n鍵がかかってる……",
-  "en": ""
+  "en": "Huh?\nIt's locked..."
  },
  {
   "id": "GRANDO:0001",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "先に、エウリケのところへ報告に行きましょ。",
-  "en": ""
+  "en": "Let's go report to Eurike first."
  },
  {
   "id": "GRANDO:0002",
   "kind": "msg",
   "speaker": "翔",
   "jp": "あれ？\n鍵がかかってる……",
-  "en": ""
+  "en": "Huh?\nIt's locked..."
  },
  {
   "id": "GRANDO:0003",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "あの異世界から来たという少年。\nまさか『守護者』ではないでしょうか？",
-  "en": ""
+  "en": "The boy who says he's from another world...\nCould he be the \"Guardian\"?"
  },
  {
   "id": "GRANDO:0004",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "ご冗談を………\nそもそも異世界から来たという話自体、\nあやしいではないですか。",
-  "en": ""
+  "en": "Surely you jest...\nThe very claim that he came from another world\nis suspicious to begin with."
  },
  {
   "id": "GRANDO:0005",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "しかし銃が外れなくなったという事は、\n銃があの少年を選んだという事になります。\nルーの前では話しませんでしたが………",
-  "en": ""
+  "en": "But if the gun won't come off, then it has\nchosen that boy.\nI didn't say so in front of Lou, but..."
  },
  {
   "id": "GRANDO:0006",
   "kind": "msg",
   "speaker": "エウリケ",
   "jp": "そもそも守護者などは迷信の類であり、\n実在するかどうかも疑わしいのです。",
-  "en": ""
+  "en": "Guardians and such are mere superstition.\nIt's doubtful they even exist at all."
  },
  {
   "id": "GRANDO:0007",
   "kind": "msg",
   "speaker": "翔",
   "jp": "………俺のことか？\n守護者ってなんだろう。\n………まっ、いっか。",
-  "en": ""
+  "en": "...Are they talking about me?\nWhat's a Guardian, anyway?\n...Eh, whatever."
  },
  {
   "id": "GRANDO:0008",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "もうしわけありません。\nこの村では、オキテは絶対のものなのです。",
-  "en": ""
+  "en": "I'm terribly sorry.\nIn this village, the Law is absolute."
  },
  {
   "id": "GRANDO:0009",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "カーライルでも、お元気で……",
-  "en": ""
+  "en": "Take care in Carlyle..."
  },
  {
   "id": "GRANDO:0010",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "おや、いらっしゃい。\n何か聞きたいことでもあるのですか？",
-  "en": ""
+  "en": "Oh, welcome.\nIs there something you'd like to ask?"
  },
  {
   "id": "GRANDO:0011",
   "kind": "choice",
   "speaker": "",
   "jp": "　月光の塔　　　　　　　　　イオピロス\n　エレボタル　　　　　　　　ジャーム\n　立ち去る",
-  "en": ""
+  "en": "Moonlight Tower           Iopiros\nEle Fireflies             Germs\nLeave"
  },
  {
   "id": "GRANDO:0012",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "月光の塔は、<1>村の南側<8>にある古い塔です。",
-  "en": ""
+  "en": "The Moonlight Tower is an old tower\n<1>south of the village<8>."
  },
  {
   "id": "GRANDO:0013",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "この塔は、エレの樹から発せられる力を\n村にわけ与えるために造られました。",
-  "en": ""
+  "en": "The tower was built to share the power\nflowing from the Ele Tree with the village."
  },
  {
   "id": "GRANDO:0014",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "それゆえに、今のこの事態は、\n村にとって死活問題なのです。",
-  "en": ""
+  "en": "That's why the current situation\nis a matter of life and death for us."
  },
  {
   "id": "GRANDO:0015",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "一刻も早く塔に巣くうエレボタルを\n退治してください。",
-  "en": ""
+  "en": "Please, exterminate the Ele Fireflies\nnesting in the tower as soon as you can."
  },
  {
   "id": "GRANDO:0016",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "エレボタルは、\n私たちの身体ほどもある、巨大な甲虫です。",
-  "en": ""
+  "en": "Ele Fireflies are giant beetles\nas big as we are."
  },
  {
   "id": "GRANDO:0017",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "虫たちは、\nエレの樹から放たれる力を糧としています。",
-  "en": ""
+  "en": "The insects feed on the power\nthat the Ele Tree gives off."
  },
  {
   "id": "GRANDO:0018",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "その顎は、強固な石壁でさえも\n噛み砕いてしまうほどです。",
-  "en": ""
+  "en": "Their jaws can crush\neven sturdy stone walls."
  },
  {
   "id": "GRANDO:0019",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "このままでは村が滅びてしまいます。",
-  "en": ""
+  "en": "At this rate, the village will be destroyed."
  },
  {
   "id": "GRANDO:0020",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "一刻も早くエレボタルを退治してください。",
-  "en": ""
+  "en": "Please exterminate the Ele Fireflies\nas soon as you can."
  },
  {
   "id": "GRANDO:0021",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "イオピロスは、私たち月光族の村です。",
-  "en": ""
+  "en": "Iopiros is the village of our Moonlight Clan."
  },
  {
   "id": "GRANDO:0022",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "この周辺は、２つの塔があります。",
-  "en": ""
+  "en": "There are two towers in this area."
  },
  {
   "id": "GRANDO:0023",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "１つめは、いま問題となっている月光の塔。",
-  "en": ""
+  "en": "The first is the Moonlight Tower,\nthe one causing all this trouble."
  },
  {
   "id": "GRANDO:0024",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "先にお話ししたとおり、\nエレの樹からの力を村にわけ与えるためのものです。",
-  "en": ""
+  "en": "As I said before, it was built to\nshare the Ele Tree's power with the village."
  },
  {
   "id": "GRANDO:0025",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "そして２つめは、<1>イオピロスの塔<8>。",
-  "en": ""
+  "en": "And the second is <1>Iopiros Tower<8>."
  },
  {
   "id": "GRANDO:0026",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "村より東に遠く離れたところにある、\n私たちの<1>聖域<8>です。",
-  "en": ""
+  "en": "It lies far to the east of the village,\nand it is our <1>sanctuary<8>."
  },
  {
   "id": "GRANDO:0027",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "文献によれば、\nジャームは悪しき存在によって\n造り上げられたと聞きます。",
-  "en": ""
+  "en": "According to the old texts,\nthe Germs were created\nby an evil being."
  },
  {
   "id": "GRANDO:0028",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "あのような姿で生きなければならない彼らは、\n哀しい存在といえるでしょう。",
-  "en": ""
+  "en": "Forced to live in such forms,\nthey are truly pitiable creatures."
  },
  {
   "id": "GRANDO:0029",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "しかも最近、ジャームたちは\nとみに狂暴さを増してきています。",
-  "en": ""
+  "en": "What's more, the Germs have lately\ngrown far more violent."
  },
  {
   "id": "GRANDO:0030",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "私にはこれが、\nなにか悪いことの前触れのような気がします。",
-  "en": ""
+  "en": "To me, it feels like\nan omen of something terrible."
  },
  {
   "id": "GRANDO:0031",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "なにごともおきなければ、よいのですが……",
-  "en": ""
+  "en": "I only hope nothing comes of it..."
  },
  {
   "id": "GRANDO:0032",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "他に聞きたいことはありますか？",
-  "en": ""
+  "en": "Is there anything else you'd like to ask?"
  },
  {
   "id": "GRANDO:0033",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "エレボタル退治をよろしくお願いします。\n気をつけてください。",
-  "en": ""
+  "en": "Please deal with the Ele Fireflies for us.\nAnd do be careful."
  },
  {
   "id": "GRANDO:0034",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "おお！\nエレボタルを倒してくれたのですね。",
-  "en": ""
+  "en": "Oh!\nYou defeated the Ele Fireflies!"
  },
  {
   "id": "GRANDO:0035",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "ありがとうございます。\nこれで、この村も救われました。",
-  "en": ""
+  "en": "Thank you so much.\nNow our village is saved."
  },
  {
   "id": "GRANDO:0036",
   "kind": "msg",
   "speaker": "翔",
   "jp": "たいしたことじゃないですよ。",
-  "en": ""
+  "en": "It was no big deal."
  },
  {
   "id": "GRANDO:0037",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そういえば、\nこんなものを見つけたんですけど……",
-  "en": ""
+  "en": "By the way,\nI found this..."
  },
  {
   "id": "GRANDO:0038",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "……これはアーティア！？",
-  "en": ""
+  "en": "...This is Artia?!"
  },
  {
   "id": "GRANDO:0039",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そんなに珍しいものなんですか？",
-  "en": ""
+  "en": "Is it really that rare?"
  },
  {
   "id": "GRANDO:0040",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "ええ……\n私も、見るのは初めてです。\nいったい、どこに？",
-  "en": ""
+  "en": "Yes...\nEven I have never seen one before.\nWhere on earth did you find it?"
  },
  {
   "id": "GRANDO:0041",
   "kind": "msg",
   "speaker": "翔",
   "jp": "塔の最上階です。\nどうしようかと思ったんだけど……",
-  "en": ""
+  "en": "On the top floor of the tower.\nI wasn't sure what to do with it..."
  },
  {
   "id": "GRANDO:0042",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "ふむ……\nあの塔にあったという話は、\n聞いたことがないですね。",
-  "en": ""
+  "en": "Hmm...\nI've never heard of one\nbeing in that tower."
  },
  {
   "id": "GRANDO:0043",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "翔。それは\nあなたが持っていてください。",
-  "en": ""
+  "en": "Shou, I'd like you\nto keep it."
  },
  {
   "id": "GRANDO:0044",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "あなたが見つけたものですから、\nあなたが持つのがよいでしょう。",
-  "en": ""
+  "en": "You're the one who found it,\nso it's only right that you keep it."
  },
  {
   "id": "GRANDO:0045",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "貴重なものですから、\nなくしたりしないでくださいね。",
-  "en": ""
+  "en": "It's very valuable,\nso please don't lose it."
  },
  {
   "id": "GRANDO:0046",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "ところで、\nもとの世界に帰る方法なのですが……",
-  "en": ""
+  "en": "By the way, about a way\nback to your own world..."
  },
  {
   "id": "GRANDO:0047",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "……もうしわけありません。",
-  "en": ""
+  "en": "...I'm terribly sorry."
  },
  {
   "id": "GRANDO:0048",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "あれから文献をいくつか\nあたってみたのですが、いまだに……",
-  "en": ""
+  "en": "I've gone through several texts\nsince then, but still..."
  },
  {
   "id": "GRANDO:0049",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "そう……\n残念だわ。",
-  "en": ""
+  "en": "I see...\nWhat a shame."
  },
  {
   "id": "GRANDO:0050",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "もう少し、文献を調べてみます。",
-  "en": ""
+  "en": "I'll look through the texts a little more."
  },
  {
   "id": "GRANDO:0051",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "なにかわかれば、お知らせしましょう。\nそれでは、また……",
-  "en": ""
+  "en": "If I learn anything, I'll let you know.\nUntil next time..."
  },
  {
   "id": "GRANDO:0052",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ふぅ～……\nもう、くったくただわ。",
-  "en": ""
+  "en": "Phew~...\nI'm totally beat."
  },
  {
   "id": "GRANDO:0053",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "おつかれさま、みんな。\n今日はゆっくり休みましょう……",
-  "en": ""
+  "en": "Good work today, everyone.\nLet's get some proper rest..."
  },
  {
   "id": "GRANDO:0054",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……ねえ、みんな。\nこれからはさ、バラバラに行動しない？",
-  "en": ""
+  "en": "...Hey, everyone.\nFrom now on, why don't we split up?"
  },
  {
   "id": "GRANDO:0055",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "どうしたの、ユカ？\nいきなりそんなこと言って……",
-  "en": ""
+  "en": "What's wrong, Yuka?\nWhy say that all of a sudden...?"
  },
  {
   "id": "GRANDO:0056",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "私たち、しばらくここで暮らすんでしょ？",
-  "en": ""
+  "en": "We're gonna be living here for a while, right?"
  },
  {
   "id": "GRANDO:0057",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "だったら、村の人たちと\n仲良くなったほうがいいと思ってさ。",
-  "en": ""
+  "en": "So I figured we should make friends\nwith the people in the village."
  },
  {
   "id": "GRANDO:0058",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "いつもいっしょだったら、\nきっかけがつかめないじゃない。\nね？",
-  "en": ""
+  "en": "If we're always together,\nwe'll never get the chance.\nRight?"
  },
  {
   "id": "GRANDO:0059",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "……確かに、\n松岡さんの言うことも一理あるわね。",
-  "en": ""
+  "en": "...Matsuoka-san does\nhave a point."
  },
  {
   "id": "GRANDO:0060",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "私は彼女の意見に賛成よ。",
-  "en": ""
+  "en": "I agree with her."
  },
  {
   "id": "GRANDO:0061",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "でも……だいじょうぶでしょうか？\nわたしたち、この世界の人じゃないし……",
-  "en": ""
+  "en": "But... will we be all right?\nWe're not from this world..."
  },
  {
   "id": "GRANDO:0062",
   "kind": "msg",
   "speaker": "翔",
   "jp": "だいじょうぶだ。\n村の人たちはいい人そうだったし。",
-  "en": ""
+  "en": "We'll be fine.\nThe villagers seemed like nice people."
  },
  {
   "id": "GRANDO:0063",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……そうですね。\nがんばって話しかけてみます……",
-  "en": ""
+  "en": "...You're right.\nI'll do my best to talk to them..."
  },
  {
   "id": "GRANDO:0064",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "これからこの村では、\nそれぞれ自由行動をとることにしましょう。",
-  "en": ""
+  "en": "From now on, while we're in this village,\nwe'll each act on our own."
  },
  {
   "id": "GRANDO:0065",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "はーいっ！\nそれじゃあさっそく、いってきまーっす！",
-  "en": ""
+  "en": "Okaaay!\nWell then, I'm off right now~!"
  },
  {
   "id": "GRANDO:0066",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "あ、ユカ！",
-  "en": ""
+  "en": "Ah, Yuka!"
  },
  {
   "id": "GRANDO:0067",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "あらあら……\nいつもながら、元気な子ね。",
-  "en": ""
+  "en": "My, my...\nEnergetic as ever, that girl."
  },
  {
   "id": "GRANDO:0068",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "おや、いらっしゃい。\n何か聞きたいことでもあるのですか？",
-  "en": ""
+  "en": "Oh, welcome.\nIs there something you'd like to ask?"
  },
  {
   "id": "GRANDO:0069",
   "kind": "choice",
   "speaker": "",
   "jp": "　銃について　　　　　    　　　火竜族について\n　月光族について\n　立ち去る",
-  "en": ""
+  "en": "The gun                   Fire Dragon Clan\nMoonlight Clan\nLeave"
  },
  {
   "id": "GRANDO:0070",
   "kind": "choice",
   "speaker": "",
   "jp": "　銃について　　　　　    　　　火竜族について\n　月光族について\n　立ち去る",
-  "en": ""
+  "en": "The gun                   Fire Dragon Clan\nMoonlight Clan\nLeave"
  },
  {
   "id": "GRANDO:0071",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "あなたの持っている銃は、\n月光族に伝わる大切な宝です。",
-  "en": ""
+  "en": "The gun you carry is a precious treasure\nhanded down in the Moonlight Clan."
  },
  {
   "id": "GRANDO:0072",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "古代の技術で造られたこの銃は、\n不思議な力を持っているそうです。",
-  "en": ""
+  "en": "Crafted with ancient technology, this gun\nis said to hold mysterious powers."
  },
  {
   "id": "GRANDO:0073",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "銃が必要に応じて現れたり、\nアザができた理由も、\nそれが関係しているのでしょう。",
-  "en": ""
+  "en": "That must also be why the gun appears\nwhen it's needed, and why you\ngot that mark."
  },
  {
   "id": "GRANDO:0074",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "また、その銃は強大な力を宿しています。",
-  "en": ""
+  "en": "The gun also holds tremendous power."
  },
  {
   "id": "GRANDO:0075",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "それは、銃を使っている\nあなたが一番おわかりでしょう。",
-  "en": ""
+  "en": "But you, who wield it,\nmust know that better than anyone."
  },
  {
   "id": "GRANDO:0076",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "ただ、その力ゆえに私たちは\n銃を隠し持ってきました。",
-  "en": ""
+  "en": "However, because of that power,\nwe kept the gun hidden."
  },
  {
   "id": "GRANDO:0077",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "悪しきことに用いられないために。",
-  "en": ""
+  "en": "So that it would never be used for evil."
  },
  {
   "id": "GRANDO:0078",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "悪しきものに用いられないために……",
-  "en": ""
+  "en": "So that it would never be used by evil..."
  },
  {
   "id": "GRANDO:0079",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "翔<8>、そのことを忘れないでくださいね。",
-  "en": ""
+  "en": "Shou<8>, please don't forget that."
  },
  {
   "id": "GRANDO:0080",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "私たち月光族は、\nもともと狩人の民でした。",
-  "en": ""
+  "en": "We of the Moonlight Clan\nwere originally a hunting people."
  },
  {
   "id": "GRANDO:0081",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "森に平野に、そして丘に、\nアイシアのあちこちに、\nその居を築いていたそうです。",
-  "en": ""
+  "en": "In forests, on plains, and in the hills,\nit's said we made our homes\nall across Eithéa."
  },
  {
   "id": "GRANDO:0082",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "しかし、いつの頃からでしょう。",
-  "en": ""
+  "en": "But at some point..."
  },
  {
   "id": "GRANDO:0083",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "エレの樹の近くに村をつくり、\nそこで生活するようになりました。",
-  "en": ""
+  "en": "we began building villages near the Ele Trees\nand living there."
  },
  {
   "id": "GRANDO:0084",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "その中の１つがこのイオピロスなのです。",
-  "en": ""
+  "en": "Iopiros is one of them."
  },
  {
   "id": "GRANDO:0085",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "私たちは神木の恩恵により\n日々を暮らしています。",
-  "en": ""
+  "en": "We live our days\nthrough the blessings of the sacred tree."
  },
  {
   "id": "GRANDO:0086",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "たぶん、この穏かな暮らしは、\nこの先も変わることがないでしょうね。",
-  "en": ""
+  "en": "And I imagine this peaceful life\nwill stay the same for years to come."
  },
  {
   "id": "GRANDO:0087",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "火竜族は、\n西にあるユーロリアに住まう一族です。",
-  "en": ""
+  "en": "The Fire Dragon Clan is a people\nwho live in Eurolia, to the west."
  },
  {
   "id": "GRANDO:0088",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "そして、神をも恐れぬ不届きものです！",
-  "en": ""
+  "en": "And they are blasphemers\nwho fear not even the gods!"
  },
  {
   "id": "GRANDO:0089",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "私たち月光族が、\nエレの樹に触れることはありません。",
-  "en": ""
+  "en": "We of the Moonlight Clan\nnever lay a hand on the Ele Tree."
  },
  {
   "id": "GRANDO:0090",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "しかし、火竜族はちがいます。",
-  "en": ""
+  "en": "But the Fire Dragon Clan is different."
  },
  {
   "id": "GRANDO:0091",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "彼のものたちは、\n古代の知恵を用いて神木に手を加えているのです。",
-  "en": ""
+  "en": "Those people use ancient knowledge\nto tamper with the sacred tree."
  },
  {
   "id": "GRANDO:0092",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "……確かに火竜族の文明は\n月光族よりも豊かなものです。",
-  "en": ""
+  "en": "...True, the Fire Dragon Clan's civilization\nis more prosperous than the Moonlight Clan's."
  },
  {
   "id": "GRANDO:0093",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "しかし、そんな文明は\n正しいものなのでしょうか？",
-  "en": ""
+  "en": "But is such a civilization\ntruly right?"
  },
  {
   "id": "GRANDO:0094",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "それに最近、\n不穏な噂を耳にしています。",
-  "en": ""
+  "en": "And recently, I've heard\nsome unsettling rumors."
  },
  {
   "id": "GRANDO:0095",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "火竜族がイオピロスの\nエレの樹を狙っているらしいのです……！",
-  "en": ""
+  "en": "It seems the Fire Dragon Clan is after\nthe Ele Tree of Iopiros...!"
  },
  {
   "id": "GRANDO:0096",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "ただの噂であればよいのですが……",
-  "en": ""
+  "en": "I hope it's only a rumor..."
  },
  {
   "id": "GRANDO:0097",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "他に何か聞きたいことはありますか？",
-  "en": ""
+  "en": "Is there anything else you wish to ask?"
  },
  {
   "id": "GRANDO:0098",
   "kind": "msg",
   "speaker": "ランドー",
   "jp": "それでは、気をつけて。\n何かありましたら、いつでも来てください。",
-  "en": ""
+  "en": "Well then, take care.\nIf anything comes up, come by anytime."
  }
 ]

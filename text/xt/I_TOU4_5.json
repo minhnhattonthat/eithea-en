@@ -4,62 +4,62 @@
   "kind": "msg",
   "speaker": "ルー",
   "jp": "翔、風にあたらない？",
-  "en": ""
+  "en": "Shou, wanna get some fresh air?"
  },
  {
   "id": "I_TOU4_5:0001",
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "I_TOU4_5:0002",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ここの風<10>…<10>…気持ちいい。\nエレの樹の香りがする……",
-  "en": ""
+  "en": "The wind here<10>...<10>...feels nice.\nIt smells like the Ele Tree..."
  },
  {
   "id": "I_TOU4_5:0003",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "翔、帰ったら、村の丘にいかない？",
-  "en": ""
+  "en": "Shou, when we get back, wanna go to\nthe hill by the village?"
  },
  {
   "id": "I_TOU4_5:0004",
   "kind": "choice",
   "speaker": "",
   "jp": "　いいよ\n　そんなヒマはない",
-  "en": ""
+  "en": "Sure\nNo time for that"
  },
  {
   "id": "I_TOU4_5:0005",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そういえば、\nゆっくりと話す時間って、なかったね。",
-  "en": ""
+  "en": "Come to think of it,\nwe've never had time to just talk, huh?"
  },
  {
   "id": "I_TOU4_5:0006",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "楽しみにしてるよ。",
-  "en": ""
+  "en": "I'm looking forward to it."
  },
  {
   "id": "I_TOU4_5:0007",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そっか……\nいろいろと忙しいしね。",
-  "en": ""
+  "en": "I see...\nYou've got a lot going on, huh."
  },
  {
   "id": "I_TOU4_5:0008",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "時間があいたら、声をかけてよ。",
-  "en": ""
+  "en": "Let me know when you've got time."
  }
 ]

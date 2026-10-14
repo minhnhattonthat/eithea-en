@@ -4,188 +4,188 @@
   "kind": "msg",
   "speaker": "警備兵",
   "jp": "あら、ルーじゃない？\nどう、銃は見つかった？",
-  "en": ""
+  "en": "Oh, isn't that Lou?\nSo, did you find the gun?"
  },
  {
   "id": "IVENT03:0001",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "見つかったわよ。\n<10>……けど、ちょっとさ、困ったことになって……",
-  "en": ""
+  "en": "I found it.\n<10>...But, well, there's a bit of a problem..."
  },
  {
   "id": "IVENT03:0002",
   "kind": "msg",
   "speaker": "警備兵",
   "jp": "困ったこと<10>……またなの？",
-  "en": ""
+  "en": "A problem<10>... Again?"
  },
  {
   "id": "IVENT03:0003",
   "kind": "msg",
   "speaker": "警備兵",
   "jp": "そういえば、後ろにいるのは誰？\n見かけない顔だけど？",
-  "en": ""
+  "en": "By the way, who's that behind you?\nI don't recognize them."
  },
  {
   "id": "IVENT03:0004",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "あとで説明するわ。\nその前に、族長に会いたいの。\nここを通して。",
-  "en": ""
+  "en": "I'll explain later.\nFirst, I need to see the Chief.\nLet me through."
  },
  {
   "id": "IVENT03:0005",
   "kind": "msg",
   "speaker": "警備兵",
   "jp": "ダメよ！\nあなたも知ってるでしょ？",
-  "en": ""
+  "en": "No way!\nYou've heard too, haven't you?"
  },
  {
   "id": "IVENT03:0006",
   "kind": "msg",
   "speaker": "警備兵",
   "jp": "火竜族の動きがあやしいって噂。",
-  "en": ""
+  "en": "The rumors that the Fire Dragon Clan's been\nacting suspicious."
  },
  {
   "id": "IVENT03:0007",
   "kind": "msg",
   "speaker": "警備兵",
   "jp": "だから、よそものは村に入れちゃいけないのよ。",
-  "en": ""
+  "en": "That's why we can't let outsiders into the\nvillage."
  },
  {
   "id": "IVENT03:0008",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "この人たちは火竜族と関係ないわ。",
-  "en": ""
+  "en": "These people have nothing to do with the\nFire Dragon Clan."
  },
  {
   "id": "IVENT03:0009",
   "kind": "msg",
   "speaker": "警備兵",
   "jp": "関係なくても、よそものにはちがいないでしょ？",
-  "en": ""
+  "en": "Even so, they're still outsiders, aren't they?"
  },
  {
   "id": "IVENT03:0010",
   "kind": "msg",
   "speaker": "警備兵",
   "jp": "いつもみたいに、また厄介ごとをつくるつもりなの？",
-  "en": ""
+  "en": "Are you going to stir up trouble again,\nlike always?"
  },
  {
   "id": "IVENT03:0011",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "なんだって！？",
-  "en": ""
+  "en": "What did you say?!"
  },
  {
   "id": "IVENT03:0012",
   "kind": "msg",
   "speaker": "警備兵",
   "jp": "なによ！\nほんとのことじゃない！",
-  "en": ""
+  "en": "What?!\nIt's the truth, isn't it?"
  },
  {
   "id": "IVENT03:0013",
   "kind": "msg",
   "speaker": "警備兵",
   "jp": "銃をジャームに奪われたのも、ルーのせいでしょう？",
-  "en": ""
+  "en": "It's your fault the Germ stole the gun,\nisn't it, Lou?"
  },
  {
   "id": "IVENT03:0014",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "…………",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "IVENT03:0015",
   "kind": "msg",
   "speaker": "警備兵",
   "jp": "そもそもルーがいけないのよ。",
-  "en": ""
+  "en": "This whole thing is your fault to begin with."
  },
  {
   "id": "IVENT03:0016",
   "kind": "msg",
   "speaker": "警備兵",
   "jp": "村一番の銃の達人だからって、調子にのるから……",
-  "en": ""
+  "en": "Just because you're the best shot in the\nvillage, you got full of yourself..."
  },
  {
   "id": "IVENT03:0017",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "<10>…<10>…悪かったわよ。\nでも、そう思ったから、\n取り戻しに行ったんじゃない。",
-  "en": ""
+  "en": "<10>..<10>..Fine, I messed up.\nBut that's exactly why\nI went to get it back, isn't it?"
  },
  {
   "id": "IVENT03:0018",
   "kind": "msg",
   "speaker": "警備兵",
   "jp": "当然でしょう？\n努力は認めてあげるけど。",
-  "en": ""
+  "en": "Well, of course you did.\nI'll give you credit for trying, though."
  },
  {
   "id": "IVENT03:0019",
   "kind": "msg",
   "speaker": "警備兵",
   "jp": "まあ、なんにしても、\nよそものを村にいれる理由にはならないわね。",
-  "en": ""
+  "en": "Anyway, that's still no reason\nto let outsiders into the village."
  },
  {
   "id": "IVENT03:0020",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "でも、その銃がこの人の腕から\n取れなくなっちゃったのよ。",
-  "en": ""
+  "en": "But the gun's gotten stuck on this guy's\narm, and it won't come off."
  },
  {
   "id": "IVENT03:0021",
   "kind": "msg",
   "speaker": "警備兵",
   "jp": "ええ！？",
-  "en": ""
+  "en": "Whaaat?!"
  },
  {
   "id": "IVENT03:0022",
   "kind": "msg",
   "speaker": "警備兵",
   "jp": "でも、その銃って、月光族に伝わるものじゃあ……\nルー、どういうことなの？",
-  "en": ""
+  "en": "But that gun's an heirloom of the\nMoonlight Clan... Lou, what's going on?"
  },
  {
   "id": "IVENT03:0023",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "話はあとでするわ。\n村に入れてくれる？",
-  "en": ""
+  "en": "I'll explain later.\nWill you let us in?"
  },
  {
   "id": "IVENT03:0024",
   "kind": "msg",
   "speaker": "警備兵",
   "jp": "<10>…<10>…しょうがないわね。\nでも、何かあったら、ルー<8>が責任とってよ。",
-  "en": ""
+  "en": "<10>..<10>..Oh, fine.\nBut if anything happens, it's on you, Lou<8>."
  },
  {
   "id": "IVENT03:0025",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ルー、銃のこと、ほんとなのか？",
-  "en": ""
+  "en": "Lou, is that true, about the gun?"
  },
  {
   "id": "IVENT03:0026",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "<10>……あとでちゃんと話すわ。\nさ、行こっか。",
-  "en": ""
+  "en": "<10>...I'll tell you properly later.\nCome on, let's go."
  }
 ]

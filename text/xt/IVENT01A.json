@@ -4,90 +4,90 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "な、なんだ。\n空がない……！？",
-  "en": ""
+  "en": "Wh-What the...\nThe sky's gone...!?"
  },
  {
   "id": "IVENT01A:0001",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ほんと……\n校舎をすっぽり岩の天井が覆っているわ。\nそれもあの岩、光っているわ。",
-  "en": ""
+  "en": "You're right...\nA rock ceiling covers the whole school.\nAnd that rock is glowing."
  },
  {
   "id": "IVENT01A:0002",
   "kind": "msg",
   "speaker": "翔",
   "jp": "だから岩の中にいても明るかったのか……",
-  "en": ""
+  "en": "So that's why it was bright, even inside\nthe rock..."
  },
  {
   "id": "IVENT01A:0003",
   "kind": "msg",
   "speaker": "翔",
   "jp": "さっきの奴だ、気をつけろ！！",
-  "en": ""
+  "en": "It's that thing from before, watch out!!"
  },
  {
   "id": "IVENT01A:0004",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "きゃあああっ！",
-  "en": ""
+  "en": "Kyaaaah!"
  },
  {
   "id": "IVENT01A:0005",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ひかる、だいじょうぶだよ！\nここは、私にまかせて！",
-  "en": ""
+  "en": "Hikaru, it's okay!\nLeave this to me!"
  },
  {
   "id": "IVENT01A:0006",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "松岡さん！　無茶しないで！",
-  "en": ""
+  "en": "Matsuoka-san! Don't do anything reckless!"
  },
  {
   "id": "IVENT01A:0007",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ふう……\n思ったよりも大した奴じゃなかったな。",
-  "en": ""
+  "en": "Phew...\nThat wasn't as tough as I thought."
  },
  {
   "id": "IVENT01A:0008",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "うん……\nあれ、翔。　それなに？",
-  "en": ""
+  "en": "Yeah...\nHuh? Shou, what's that?"
  },
  {
   "id": "IVENT01A:0009",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ん？　どうした？",
-  "en": ""
+  "en": "Hm? What's wrong?"
  },
  {
   "id": "IVENT01A:0010",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "そこよ、ほら。\n怪物が倒れていたあたり。\n何かの<1>弾丸<8>みたいなのが落ちてる。",
-  "en": ""
+  "en": "There, look.\nWhere the monster fell.\nSomething like a <1>bullet<8> is lying there."
  },
  {
   "id": "IVENT01A:0011",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ホントだ……\nなんだろう、とにかく拾っておいてみるか。",
-  "en": ""
+  "en": "You're right...\nWonder what it is. I'll pick it up anyway."
  },
  {
   "id": "IVENT01A:0012",
   "kind": "msg",
   "speaker": "翔",
   "jp": "<1>弾丸<8>のような物を２０個手に入れた！",
-  "en": ""
+  "en": "Got 20 <1>bullet<8>-looking things!"
  }
 ]

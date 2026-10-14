@@ -4,671 +4,671 @@
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "おう、翔！",
-  "en": ""
+  "en": "Yo, Shou!"
  },
  {
   "id": "GMATE:0001",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ヒトシ……\nなにしてるんだ？",
-  "en": ""
+  "en": "Hitoshi...\nWhat are you doing?"
  },
  {
   "id": "GMATE:0002",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "見てのとおり。\n料理の真っ最中や！",
-  "en": ""
+  "en": "What's it look like?\nI'm right in the middle of cookin'!"
  },
  {
   "id": "GMATE:0003",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "おや……この子、キミの知り合い？",
-  "en": ""
+  "en": "Oh... this kid a friend of yours?"
  },
  {
   "id": "GMATE:0004",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "ああ、そうや！\n翔っていってな、俺の親友や！",
-  "en": ""
+  "en": "Yeah, that's right!\nName's Shou, he's my best buddy!"
  },
  {
   "id": "GMATE:0005",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "ふうん……　そうなんだ。",
-  "en": ""
+  "en": "Hmm... I see."
  },
  {
   "id": "GMATE:0006",
   "kind": "msg",
   "speaker": "翔",
   "jp": "しかし……\nおまえにそういう才能が\nあるとは思わなかったな。",
-  "en": ""
+  "en": "Still...\nI never figured you had\na talent like that."
  },
  {
   "id": "GMATE:0007",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "意外か？\nユカと同じことを言うんやな。",
-  "en": ""
+  "en": "Surprised?\nYa said the same thing as Yuka."
  },
  {
   "id": "GMATE:0008",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ユカが来てたのか？",
-  "en": ""
+  "en": "Yuka was here?"
  },
  {
   "id": "GMATE:0009",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "ああ、さっき来とったで。\nやっぱ、幼なじみは考え方も似てくるんやな。",
-  "en": ""
+  "en": "Yeah, she came by a bit ago.\nGuess childhood friends think alike, huh."
  },
  {
   "id": "GMATE:0010",
   "kind": "msg",
   "speaker": "翔",
   "jp": "関係ないだろ、そんなの。\nそれじゃあな……",
-  "en": ""
+  "en": "That's got nothing to do with it.\nSee you..."
  },
  {
   "id": "GMATE:0011",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "よお、翔。\nどや、俺の手料理でも食っていくか？",
-  "en": ""
+  "en": "Hey, Shou.\nHow 'bout it, wanna try some of my cookin'?"
  },
  {
   "id": "GMATE:0012",
   "kind": "msg",
   "speaker": "翔",
   "jp": "いや、いいよ。\nそれじゃ……",
-  "en": ""
+  "en": "Nah, I'm good.\nSee ya..."
  },
  {
   "id": "GMATE:0013",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "あ、翔。　どうしたの？",
-  "en": ""
+  "en": "Oh, Shou. What's up?"
  },
  {
   "id": "GMATE:0014",
   "kind": "choice",
   "speaker": "",
   "jp": "　アイテム弾研究\n　立ち去る",
-  "en": ""
+  "en": "Item Bullet research\nLeave"
  },
  {
   "id": "GMATE:0015",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "わかった、ちょっとまってね。",
-  "en": ""
+  "en": "Got it, just a sec."
  },
  {
   "id": "GMATE:0016",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "あ、キミがエレボタルを退治してくれた子だね？\n確か……翔だっけ？",
-  "en": ""
+  "en": "Oh, you're the kid who wiped out the\nEle Fireflies, right? Shou, was it?"
  },
  {
   "id": "GMATE:0017",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ああ、そうだ。\nおまえは？",
-  "en": ""
+  "en": "Yeah, that's right.\nAnd you are?"
  },
  {
   "id": "GMATE:0018",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "私は<3>マテリア<8>、\n月光族イチの大天才よ。",
-  "en": ""
+  "en": "I'm <3>Materia<8>,\nthe Moonlight Clan's number one genius."
  },
  {
   "id": "GMATE:0019",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "わからないことがあったら、\n何でも言ってちょうだい。",
-  "en": ""
+  "en": "If there's anything you don't know,\njust ask me."
  },
  {
   "id": "GMATE:0020",
   "kind": "msg",
   "speaker": "翔",
   "jp": "それなら……なあ、マテリア、\nこの銃を外すことはできないか？",
-  "en": ""
+  "en": "In that case... hey, Materia,\nany way you can get this gun off me?"
  },
  {
   "id": "GMATE:0021",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "えええっ！？　これって、\nこの村に伝わる銃じゃない！\n外せなくなっちゃったの？",
-  "en": ""
+  "en": "Whaaat?! Hey, this is\nthe gun handed down in this village!\nYou can't take it off?"
  },
  {
   "id": "GMATE:0022",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "ちょっとまって、調べてみるから。",
-  "en": ""
+  "en": "Hang on, let me look into it."
  },
  {
   "id": "GMATE:0023",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "……う～ん、よくわからないなあ。",
-  "en": ""
+  "en": "...Hmm, I can't really figure it out."
  },
  {
   "id": "GMATE:0024",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……天才なんだろ？",
-  "en": ""
+  "en": "...Aren't you supposed to be a genius?"
  },
  {
   "id": "GMATE:0025",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "ちょっと調べてみるからさ。\nまた今度、来てもらえるかな？",
-  "en": ""
+  "en": "I'll look into it some more.\nCould you come back another time?"
  },
  {
   "id": "GMATE:0026",
   "kind": "msg",
   "speaker": "翔",
   "jp": "わかった、またあとで来る。\nそれじゃあな。",
-  "en": ""
+  "en": "All right, I'll come back later.\nSee you."
  },
  {
   "id": "GMATE:0027",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "……お、翔やないか……",
-  "en": ""
+  "en": "...Oh, if it ain't Shou..."
  },
  {
   "id": "GMATE:0028",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ヒトシ、足はだいじょうぶか？",
-  "en": ""
+  "en": "Hitoshi, is your leg okay?"
  },
  {
   "id": "GMATE:0029",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "だいじょうぶや、これくらい……\nアタタタタタタタ……",
-  "en": ""
+  "en": "I'm fine, this ain't nothin'...\nOwowowowowow..."
  },
  {
   "id": "GMATE:0030",
   "kind": "msg",
   "speaker": "学",
   "jp": "ヒトシ！\nまだ動いちゃダメだよ！",
-  "en": ""
+  "en": "Hitoshi!\nYou can't move yet!"
  },
  {
   "id": "GMATE:0031",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "なんとかしてあげたいけど、\n薬は私の範囲外だから……",
-  "en": ""
+  "en": "I'd like to help, but\nmedicine isn't my field..."
  },
  {
   "id": "GMATE:0032",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "い、いや、そのほうが……\nアイタタタタタタ……",
-  "en": ""
+  "en": "N-Nah, that's prob'ly for the best...\nOwowowowow..."
  },
  {
   "id": "GMATE:0033",
   "kind": "msg",
   "speaker": "学",
   "jp": "学校の保健室で見つけた薬があるから\n心配ないと思うよ。",
-  "en": ""
+  "en": "I've got medicine I found in the school\nnurse's office, so I think he'll be fine."
  },
  {
   "id": "GMATE:0034",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "しょ、翔、俺はだいじょうぶやから………\nアイタタタタタタ………",
-  "en": ""
+  "en": "Sh-Shou, I'm fine, really...\nOwowowowow..."
  },
  {
   "id": "GMATE:0035",
   "kind": "msg",
   "speaker": "学",
   "jp": "ごめんね、翔。\nヒトシがこんなだから、見送りはできないよ。",
-  "en": ""
+  "en": "Sorry, Shou.\nWith Hitoshi like this, we can't see you off."
  },
  {
   "id": "GMATE:0036",
   "kind": "msg",
   "speaker": "翔",
   "jp": "いいさ。\nそれより、身体をだいじにしてくれよ。",
-  "en": ""
+  "en": "It's fine.\nJust take care of yourself, okay?"
  },
  {
   "id": "GMATE:0037",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "翔、すまん…アイタタタ……",
-  "en": ""
+  "en": "Shou, sorry... Owowow..."
  },
  {
   "id": "GMATE:0038",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "やあ、翔。",
-  "en": ""
+  "en": "Hey, Shou."
  },
  {
   "id": "GMATE:0039",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "ヒトシの面倒は\n私と学でみてるから、安心してよ。",
-  "en": ""
+  "en": "Manabu and I are looking after\nHitoshi, so don't worry."
  },
  {
   "id": "GMATE:0040",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ああ、わかったよ。\nそれじゃ……",
-  "en": ""
+  "en": "Yeah, got it.\nSee you..."
  },
  {
   "id": "GMATE:0041",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "やあルー、戻ってたのか？\n……ありゃ、キミらは誰だい？",
-  "en": ""
+  "en": "Hey Lou, you're back?\n...Whoa, and who are all of you?"
  },
  {
   "id": "GMATE:0042",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "紹介するよ。\n翔に秋穂、こっちがひかる。\nこのナマイキそうなのはユカ。",
-  "en": ""
+  "en": "Let me introduce you.\nThis is Shou, Akiho, and that's Hikaru.\nThe cheeky-looking one is Yuka."
  },
  {
   "id": "GMATE:0043",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "ほんと、ナマイキそうだね。\n私は<3>マテリア<8>、月光族イチの大天才よ。",
-  "en": ""
+  "en": "She sure does look cheeky.\nI'm <3>Materia<8>, the Moonlight Clan's\nnumber one genius."
  },
  {
   "id": "GMATE:0044",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "な、なまいきって……",
-  "en": ""
+  "en": "Ch-Cheeky...?!"
  },
  {
   "id": "GMATE:0045",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "ユカ、おさえて……\n冗談よ、きっと……",
-  "en": ""
+  "en": "Yuka, calm down...\nShe's just kidding, I'm sure..."
  },
  {
   "id": "GMATE:0046",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ちがうと思う……",
-  "en": ""
+  "en": "I don't think so..."
  },
  {
   "id": "GMATE:0047",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そうそう。",
-  "en": ""
+  "en": "Yep, yep."
  },
  {
   "id": "GMATE:0048",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ルー！！",
-  "en": ""
+  "en": "Lou!!"
  },
  {
   "id": "GMATE:0049",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "そ、そういえば、\n外にあるの、水車ですよね？",
-  "en": ""
+  "en": "Th-That reminds me,\nthat thing outside is a waterwheel, isn't it?"
  },
  {
   "id": "GMATE:0050",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "いいところに眼をつけるね。\nそう、水車、水車なの！",
-  "en": ""
+  "en": "Good eye.\nYep, a waterwheel, a waterwheel!"
  },
  {
   "id": "GMATE:0051",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "神木の力が足りないでしょ？\nだから、水車を利用して力をつくってるんだ。",
-  "en": ""
+  "en": "The sacred tree's power isn't enough, right?\nSo I'm using the waterwheel to make power."
  },
  {
   "id": "GMATE:0052",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "へえ……\nすごいんですね……",
-  "en": ""
+  "en": "Wow...\nThat's amazing..."
  },
  {
   "id": "GMATE:0053",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "でしょ？\nそのうち、村全体に水車の力を\nわけようって考えてるんだ。",
-  "en": ""
+  "en": "Right?\nSomeday I'm planning to share the\nwaterwheel's power with the whole village."
  },
  {
   "id": "GMATE:0054",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "天才の名は、ダテじゃないのよ！",
-  "en": ""
+  "en": "I'm not called a genius for nothing!"
  },
  {
   "id": "GMATE:0055",
   "kind": "msg",
   "speaker": "翔",
   "jp": "それなら……なあ、マテリア、\n銃を外すことはできないか？\nこの村に伝わる銃が外れなくなったんだ。",
-  "en": ""
+  "en": "In that case... hey, Materia,\ncan you get this gun off me?\nThe village's heirloom gun won't come off."
  },
  {
   "id": "GMATE:0056",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "ええええっ！？\n何でそんな大切なものを！",
-  "en": ""
+  "en": "Whaaaat?!\nWhy'd you do that to something so precious?!"
  },
  {
   "id": "GMATE:0057",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "少し時間をもらえる？\n文献をあさってみるわ。",
-  "en": ""
+  "en": "Can you give me a little time?\nI'll dig through the old texts."
  },
  {
   "id": "GMATE:0058",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "また今度、来てもらえるかな？",
-  "en": ""
+  "en": "Could you come back another time?"
  },
  {
   "id": "GMATE:0059",
   "kind": "msg",
   "speaker": "翔",
   "jp": "わかった、それじゃあな。",
-  "en": ""
+  "en": "Got it. See ya, then."
  },
  {
   "id": "GMATE:0060",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "やあ、調子はどう？",
-  "en": ""
+  "en": "Hey, how's it going?"
  },
  {
   "id": "GMATE:0061",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ああ、だいじょうぶだ。\nあれから銃についてなにかわかったか？",
-  "en": ""
+  "en": "Yeah, I'm fine.\nFind out anything about the gun since then?"
  },
  {
   "id": "GMATE:0062",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "今、調べている最中なんだけど、\nおもしろいことがわかったよ。",
-  "en": ""
+  "en": "I'm still looking into it, but\nI found out something interesting."
  },
  {
   "id": "GMATE:0063",
   "kind": "msg",
   "speaker": "翔",
   "jp": "どんなことだ？",
-  "en": ""
+  "en": "Like what?"
  },
  {
   "id": "GMATE:0064",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "うふふふ……まだナイショ。",
-  "en": ""
+  "en": "Hehehe... It's a secret for now."
  },
  {
   "id": "GMATE:0065",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "もう少し調べてたいんだ。\nもっと詳しくわかったら、教えるよ。",
-  "en": ""
+  "en": "I wanna look into it a bit more.\nOnce I know more, I'll tell you."
  },
  {
   "id": "GMATE:0066",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "ゴメンね。\nそれじゃ……",
-  "en": ""
+  "en": "Sorry.\nSee ya, then..."
  },
  {
   "id": "GMATE:0067",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "もう少し調べてたいんだ。\nもっと詳しくわかったら、教えるよ。",
-  "en": ""
+  "en": "I wanna look into it a bit more.\nOnce I know more, I'll tell you."
  },
  {
   "id": "GMATE:0068",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "ゴメンね。\nそれじゃ……",
-  "en": ""
+  "en": "Sorry.\nSee ya, then..."
  },
  {
   "id": "GMATE:0069",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "あら、翔、何が聞きたい？",
-  "en": ""
+  "en": "Oh, Shou. What do you want to know?"
  },
  {
   "id": "GMATE:0070",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "あ、翔。\nちょうどいいとこに来たね。",
-  "en": ""
+  "en": "Oh, Shou.\nYou came at just the right time."
  },
  {
   "id": "GMATE:0071",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "やっと作業が一段落したの。\nこのまえ話してなかったこと、教えたげるよ。",
-  "en": ""
+  "en": "My work's finally at a stopping point.\nI'll tell you what I held back last time."
  },
  {
   "id": "GMATE:0072",
   "kind": "msg",
   "speaker": "翔",
   "jp": "この間のこと？",
-  "en": ""
+  "en": "Last time?"
  },
  {
   "id": "GMATE:0073",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "ありゃ、もう忘れちゃったの？\nほら、前に言ったじゃない。",
-  "en": ""
+  "en": "Whaaat, you forgot already?\nCome on, I told you before, remember?"
  },
  {
   "id": "GMATE:0074",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "その銃について、調べてみるって。",
-  "en": ""
+  "en": "That I'd look into that gun of yours."
  },
  {
   "id": "GMATE:0075",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ああ、あのことか……\nなんだったんだ？",
-  "en": ""
+  "en": "Oh, that...\nSo what was it?"
  },
  {
   "id": "GMATE:0076",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "その銃の弾丸には\nＴＩＰを使ってるでしょ？",
-  "en": ""
+  "en": "That gun's bullets use\nTIP, right?"
  },
  {
   "id": "GMATE:0077",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "ところが、あるものを使うと、\nいろいろな品物とＴＩＰを\n合成することができるのよ！",
-  "en": ""
+  "en": "But if you use a certain something,\nyou can fuse all kinds of items\nwith TIP!"
  },
  {
   "id": "GMATE:0078",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "つまり、弾丸に\n合成させた物の力を与えることができるんだよ！",
-  "en": ""
+  "en": "In other words, you can give a bullet\nthe power of whatever you fused into it!"
  },
  {
   "id": "GMATE:0079",
   "kind": "msg",
   "speaker": "翔",
   "jp": "たとえば、どんなことができるんだ？",
-  "en": ""
+  "en": "Like, what kind of stuff can you do?"
  },
  {
   "id": "GMATE:0080",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "う～んとね……って、\nいろいろとあるから、聞きたいことを言ってよ。",
-  "en": ""
+  "en": "Hmmm, let's see... Actually, there's a lot,\nso just tell me what you want to know."
  },
  {
   "id": "GMATE:0081",
   "kind": "choice",
   "speaker": "",
   "jp": "　合成に必要なものについて\n　合成した弾丸について\n　立ち去る",
-  "en": ""
+  "en": "What fusion requires\nAbout fused bullets\nLeave"
  },
  {
   "id": "GMATE:0082",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "アイテムと弾丸の合成にはね、\n翔がもっている銃が必要なの。",
-  "en": ""
+  "en": "To fuse items with bullets,\nyou need the gun you're carrying, Shou."
  },
  {
   "id": "GMATE:0083",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "この銃の力を使えば、ＴＩＰと\nアイテムを合成して特別な弾丸をつくれるの。",
-  "en": ""
+  "en": "With this gun's power, you can fuse TIP\nand items to make special bullets."
  },
  {
   "id": "GMATE:0084",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "じゃあ、合成の手順を教えたげる。\n翔の銃を見せてくれる？",
-  "en": ""
+  "en": "Okay, I'll show you how to fuse them.\nCan I see your gun, Shou?"
  },
  {
   "id": "GMATE:0085",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "ありがと。",
-  "en": ""
+  "en": "Thanks."
  },
  {
   "id": "GMATE:0086",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "まずは、銃のここを……\nで、次は、合成する品物と\nＴＩＰを用意して、それで……",
-  "en": ""
+  "en": "First, this part of the gun here...\nThen next, you get the item to fuse\nand some TIP ready, and then..."
  },
  {
   "id": "GMATE:0087",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "……わかった？\nあとは実践あるのみかな。",
-  "en": ""
+  "en": "...Got it?\nThe rest is just practice, I guess."
  },
  {
   "id": "GMATE:0088",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "わかんないことがあったら、また聞いてね。",
-  "en": ""
+  "en": "If there's anything you don't get, just ask."
  },
  {
   "id": "GMATE:0089",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "合成してできた弾丸にはね、\n合成に用いた品物の力が備わってるの。",
-  "en": ""
+  "en": "A fused bullet carries the power\nof the item used to make it."
  },
  {
   "id": "GMATE:0090",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "たとえば、毒薬を用いれば、\nその弾丸にあたったものは毒に犯されるわ。",
-  "en": ""
+  "en": "Say you use poison: anything hit\nby that bullet gets poisoned."
  },
  {
   "id": "GMATE:0091",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "その逆に治療薬を合成すれば、\n弾丸があたったものの傷は\n癒されることになるの。",
-  "en": ""
+  "en": "On the flip side, fuse in medicine,\nand whatever the bullet hits\ngets its wounds healed."
  },
  {
   "id": "GMATE:0092",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "だから、戦うモンスターに\n応じた弾丸を合成すれば、\n戦闘を楽に解決できるわけ。",
-  "en": ""
+  "en": "So if you fuse bullets to suit\nthe monsters you're fighting,\nbattles get a whole lot easier."
  },
  {
   "id": "GMATE:0093",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "どう？あたしがスゴいって\n言ったわけ、わかったでしょ？",
-  "en": ""
+  "en": "Well? Now you see why I said\nI was amazing, right?"
  },
  {
   "id": "GMATE:0094",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "次に聞きたいことはなに？",
-  "en": ""
+  "en": "What else do you want to know?"
  },
  {
   "id": "GMATE:0095",
   "kind": "msg",
   "speaker": "マテリア",
   "jp": "じゃ、がんばってね。\nまたなにかわかったら、すぐに教えたげるから。",
-  "en": ""
+  "en": "Well, good luck.\nIf I find out anything else, I'll tell you\nright away."
  }
 ]

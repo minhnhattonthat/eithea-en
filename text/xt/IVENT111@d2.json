@@ -158,7 +158,7 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "俺は新見　翔だ。\nよろしくな。",
-  "en": ""
+  "en": "I'm Shou Niimi.\nNice to meet you."
  },
  {
   "id": "IVENT111@d2:0023",
@@ -228,7 +228,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　セーブする\n　セーブしない",
-  "en": ""
+  "en": "Save\nDon't save"
  },
  {
   "id": "IVENT111@d2:0033",

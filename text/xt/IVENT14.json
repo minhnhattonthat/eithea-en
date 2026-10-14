@@ -18,7 +18,7 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "よく、ここに来るのかい？",
-  "en": ""
+  "en": "Do you come here often?"
  },
  {
   "id": "IVENT14:0003",
@@ -39,7 +39,7 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "そうか。\n確かにここは、いい眺めだよな。",
-  "en": ""
+  "en": "I see.\nIt really is a nice view up here."
  },
  {
   "id": "IVENT14:0006",
@@ -53,7 +53,7 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "ああなのって、どういうことだ？",
-  "en": ""
+  "en": "Like what? What do you mean?"
  },
  {
   "id": "IVENT14:0008",
@@ -74,7 +74,7 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "なんでって……\nう～ん、うまく説明できないな。",
-  "en": ""
+  "en": "Why? Well...\nHmm, I can't really explain it."
  },
  {
   "id": "IVENT14:0011",
@@ -88,35 +88,35 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "ああ、こればっかりはね。",
-  "en": ""
+  "en": "Yeah, some things just can't be explained."
  },
  {
   "id": "IVENT14:0013",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ふうん……\nなんだか、ややこしいのね。",
-  "en": ""
+  "en": "Hmm...\nSounds complicated."
  },
  {
   "id": "IVENT14:0014",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そう言われてみると……\n確かに、そうかもしれないな。",
-  "en": ""
+  "en": "Now that you mention it...\nmaybe you've got a point."
  },
  {
   "id": "IVENT14:0015",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ややこしいよ。ぜったい。",
-  "en": ""
+  "en": "It'd get messy. Trust me."
  },
  {
   "id": "IVENT14:0016",
   "kind": "msg",
   "speaker": "翔",
   "jp": "う～ん……\nちょっと、他のところを散歩してくるよ。\nそれじゃ。",
-  "en": ""
+  "en": "Hmm...\nI think I'll go take a walk somewhere else.\nSee ya."
  },
  {
   "id": "IVENT14:0017",

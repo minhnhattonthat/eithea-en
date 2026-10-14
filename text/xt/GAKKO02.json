@@ -4,517 +4,517 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "変だな。　……静かすぎる。\nこんな騒ぎになったんだ。　そろそろ消防車や\nパトカーも駆け付けてきているはずだ。",
-  "en": ""
+  "en": "Weird... It's way too quiet.\nWith a disaster like this, fire trucks and\npolice cars should be showing up by now."
  },
  {
   "id": "GAKKO02:0001",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ちょっといいかしら、新見くん。\n<1>職員室<8>の中を見ていきたいんだけど。",
-  "en": ""
+  "en": "Do you have a moment, Niimi-kun?\nI'd like to take a look in the <1>faculty room<8>."
  },
  {
   "id": "GAKKO02:0002",
   "kind": "msg",
   "speaker": "翔",
   "jp": "かまいませんけど、急がないと……",
-  "en": ""
+  "en": "Sure, but we need to hurry..."
  },
  {
   "id": "GAKKO02:0003",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "職員室には防災無線もあるし、\n外部と連絡をつける方法もあると思うの……",
-  "en": ""
+  "en": "There's an emergency radio in there,\nso we might be able to contact the outside..."
  },
  {
   "id": "GAKKO02:0004",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そうですね。\n他にも何かあるかもしれない。\n身を守るものとか……",
-  "en": ""
+  "en": "Good point.\nThere might be other stuff in there, too.\nSomething to defend ourselves with..."
  },
  {
   "id": "GAKKO02:0005",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "うわ……\nここも、ずいぶんヒドイね。",
-  "en": ""
+  "en": "Whoa...\nIt's a total wreck in here too."
  },
  {
   "id": "GAKKO02:0006",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "誰も、いませんね……",
-  "en": ""
+  "en": "There's no one here..."
  },
  {
   "id": "GAKKO02:0007",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "とりあえず、中を調べてみましょうか。",
-  "en": ""
+  "en": "For now, let's search the room."
  },
  {
   "id": "GAKKO02:0008",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "新見くん。\nまずは職員室を調べてからよ。",
-  "en": ""
+  "en": "Niimi-kun.\nLet's check the faculty room first."
  },
  {
   "id": "GAKKO02:0009",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "他にも何かないかしら……",
-  "en": ""
+  "en": "I wonder if there's anything else..."
  },
  {
   "id": "GAKKO02:0010",
   "kind": "msg",
   "speaker": "翔",
   "jp": "伊藤さん。\n何か、みつかった？",
-  "en": ""
+  "en": "Itou-san.\nFind anything?"
  },
  {
   "id": "GAKKO02:0011",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "あ、新見くん……\nお薬がありました……",
-  "en": ""
+  "en": "Oh, Niimi-kun...\nI found some medicine..."
  },
  {
   "id": "GAKKO02:0012",
   "kind": "msg",
   "speaker": "翔",
   "jp": "これでケガをしてもだいじょうぶだな。",
-  "en": ""
+  "en": "Now we'll be fine if anyone gets hurt."
  },
  {
   "id": "GAKKO02:0013",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "でも、できるなら、\n使うようなことにならないといいんですけど……",
-  "en": ""
+  "en": "But if we can, I hope we never\nend up needing to use it..."
  },
  {
   "id": "GAKKO02:0014",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "<1>傷薬<8>を手に入れた！",
-  "en": ""
+  "en": "Got a <1>Salve<8>!"
  },
  {
   "id": "GAKKO02:0015",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "あとは何かないかな？",
-  "en": ""
+  "en": "Is there anything else?"
  },
  {
   "id": "GAKKO02:0016",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ねえ、翔。\nこれ、なんだろう？",
-  "en": ""
+  "en": "Hey, Shou.\nWhat do you think this is?"
  },
  {
   "id": "GAKKO02:0017",
   "kind": "msg",
   "speaker": "翔",
   "jp": "これは……？\nよくわからないけど、手につける物みたいだ………",
-  "en": ""
+  "en": "What's this...?\nNo idea, but it looks like you wear it on\nyour hand..."
  },
  {
   "id": "GAKKO02:0018",
   "kind": "msg",
   "speaker": "翔",
   "jp": "演劇部か何かの小道具じゃないかな？\nそういえば前に文化祭で使ってたような………",
-  "en": ""
+  "en": "Maybe it's a prop from the drama club?\nNow that I think about it, I think they used\nit at the school festival..."
  },
  {
   "id": "GAKKO02:0019",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "これも持っていったほうがいいかな？",
-  "en": ""
+  "en": "Should we take this with us too?"
  },
  {
   "id": "GAKKO02:0020",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そうだな、使えるかもしれないしな。",
-  "en": ""
+  "en": "Yeah, it might come in handy."
  },
  {
   "id": "GAKKO02:0021",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "うん。\nでも、これ一個しかないんだよね。",
-  "en": ""
+  "en": "Okay.\nBut there's only one of these."
  },
  {
   "id": "GAKKO02:0022",
   "kind": "msg",
   "speaker": "翔",
   "jp": "とりあえず、それは\nおまえが持っておいたほうがいい。",
-  "en": ""
+  "en": "For now, you should\nhang on to it."
  },
  {
   "id": "GAKKO02:0023",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "え、いいの？\n私なら、素手でもかまわないよ？",
-  "en": ""
+  "en": "Huh, are you sure?\nI'm fine fighting bare-handed, you know?"
  },
  {
   "id": "GAKKO02:0024",
   "kind": "msg",
   "speaker": "翔",
   "jp": "いいさ。\n女の子を素手にしとくわけにはいかないからな。",
-  "en": ""
+  "en": "It's fine.\nI can't let a girl go in bare-handed."
  },
  {
   "id": "GAKKO02:0025",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "そんな、気をつかわなくてもいいのに……",
-  "en": ""
+  "en": "You didn't have to worry about me..."
  },
  {
   "id": "GAKKO02:0026",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "<1>フレディの爪<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>Freddy's Claw<8>!"
  },
  {
   "id": "GAKKO02:0027",
   "kind": "msg",
   "speaker": "翔",
   "jp": "先生、何かありましたか？",
-  "en": ""
+  "en": "Sensei, did you find anything?"
  },
  {
   "id": "GAKKO02:0028",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ええ、ちょっとね……\n私はいいから、他の子達を見てきて。",
-  "en": ""
+  "en": "Yes, sort of...\nDon't worry about me. Go check on the others."
  },
  {
   "id": "GAKKO02:0029",
   "kind": "msg",
   "speaker": "翔",
   "jp": "どうでした。　先生。",
-  "en": ""
+  "en": "How did it go, Sensei?"
  },
  {
   "id": "GAKKO02:0030",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "駄目だったわ。\n非常用電源は生きているんだけど、\nテレビやラジオはもちろん防災無線も通じないわ。",
-  "en": ""
+  "en": "No luck.\nThe emergency power is still on, but the TV,\nradio, even the emergency radio, are dead."
  },
  {
   "id": "GAKKO02:0031",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "校舎内に翔たち以外、誰も残っていない",
-  "en": ""
+  "en": "There's no one left in the school but us."
  },
  {
   "id": "GAKKO02:0032",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……そうですか……",
-  "en": ""
+  "en": "...I see..."
  },
  {
   "id": "GAKKO02:0033",
   "kind": "msg",
   "speaker": "翔",
   "jp": "俺に出来る事があれば、何でも言って下さい。\nこういう状況だからこそ、\nみんなで助け合わないと……",
-  "en": ""
+  "en": "If there's anything I can do, just say so.\nIt's times like this when we all need to\nhelp each other out..."
  },
  {
   "id": "GAKKO02:0034",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ありがとう、新見くん。",
-  "en": ""
+  "en": "Thank you, Niimi-kun."
  },
  {
   "id": "GAKKO02:0035",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "だいたい、探しつくしたようね……\nみんな、集まって！",
-  "en": ""
+  "en": "Looks like we've searched just about\neverywhere... Everyone, gather round!"
  },
  {
   "id": "GAKKO02:0036",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "武器になりそうな物に<1>傷薬<8>……\nまあ、こんなものね。",
-  "en": ""
+  "en": "Something to use as a weapon, a <1>Salve<8>...\nWell, that's about it."
  },
  {
   "id": "GAKKO02:0037",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "先生は、何か見つかりました？",
-  "en": ""
+  "en": "Did you find anything, Sensei?"
  },
  {
   "id": "GAKKO02:0038",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ええ、こっちは<1>弓<8>があったわ。",
-  "en": ""
+  "en": "Yes, I found some <1>bows<8> over here."
  },
  {
   "id": "GAKKO02:0039",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "えええっ！？\nなんで、そんなものが……？",
-  "en": ""
+  "en": "Whaaat!?\nWhy would there be something like that...?"
  },
  {
   "id": "GAKKO02:0040",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "部活で使うものよ。\n少し傷がついてるけど、ちゃんと使えるわ。",
-  "en": ""
+  "en": "They're for club activities.\nA little scratched, but they'll work fine."
  },
  {
   "id": "GAKKO02:0041",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……あ、そっか。\n先生、<1>弓道部<8>の顧問だったんですよね。",
-  "en": ""
+  "en": "...Oh, right.\nYou're the <1>Archery Club<8> advisor, Sensei."
  },
  {
   "id": "GAKKO02:0042",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "それじゃあ、松岡さんはそれを使って。",
-  "en": ""
+  "en": "In that case, Matsuoka-san, you use that."
  },
  {
   "id": "GAKKO02:0043",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "私と伊藤さんは弓にするわ。",
-  "en": ""
+  "en": "Itou-san and I will take the bows."
  },
  {
   "id": "GAKKO02:0044",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "ええっ！？\nわ、わたし、ですか……？",
-  "en": ""
+  "en": "Wha--!?\nM-Me...?"
  },
  {
   "id": "GAKKO02:0045",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "そうよ。\nあなたも<1>弓道部員<8>でしょう？",
-  "en": ""
+  "en": "That's right.\nYou're in the <1>Archery Club<8> too, aren't you?"
  },
  {
   "id": "GAKKO02:0046",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "扱いを知ってる人に持たせたいの。",
-  "en": ""
+  "en": "I want them in the hands of people who know\nhow to use them."
  },
  {
   "id": "GAKKO02:0047",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "えっ……　でも……",
-  "en": ""
+  "en": "Huh... But..."
  },
  {
   "id": "GAKKO02:0048",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "だいじょうぶだよ、ひかる。",
-  "en": ""
+  "en": "It'll be okay, Hikaru."
  },
  {
   "id": "GAKKO02:0049",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "いざとなったら、\n私が守ってあげるから……<10>ね？",
-  "en": ""
+  "en": "If anything happens,\nI'll protect you...<10> okay?"
  },
  {
   "id": "GAKKO02:0050",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "うん……\nありがとう、ユカ……",
-  "en": ""
+  "en": "Okay...\nThank you, Yuka..."
  },
  {
   "id": "GAKKO02:0051",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "<1>弓道の弓<8>を２本手に入れた！",
-  "en": ""
+  "en": "Got 2 <1>Archery Bows<8>!"
  },
  {
   "id": "GAKKO02:0052",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "武器は装備しないと使えないわよ。",
-  "en": ""
+  "en": "You can't use a weapon unless it's equipped."
  },
  {
   "id": "GAKKO02:0053",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "いつでも使えるようにすぐに装備してね。",
-  "en": ""
+  "en": "Equip them right away so they're ready to go."
  },
  {
   "id": "GAKKO02:0054",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "それと、新見くん、ごめんなさい。\nあなたに持たせてあげる物がないわね……",
-  "en": ""
+  "en": "And Niimi-kun, I'm sorry.\nI don't have anything to give you..."
  },
  {
   "id": "GAKKO02:0055",
   "kind": "msg",
   "speaker": "翔",
   "jp": "僕は素手でもだいじょうぶですよ。\nこれでも、空手部だったんですから。",
-  "en": ""
+  "en": "I'll be fine bare-handed.\nI was in the karate club, after all."
  },
  {
   "id": "GAKKO02:0056",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "そうだったわね。　頼もしいわ。",
-  "en": ""
+  "en": "That's right. How reassuring."
  },
  {
   "id": "GAKKO02:0057",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "<1>矢<8>も何本か見つかったから、これを使いましょう。",
-  "en": ""
+  "en": "I found a few <1>arrows<8> too, so let's use these."
  },
  {
   "id": "GAKKO02:0058",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "<1>弓道の矢<8>を１０本手に入れた！",
-  "en": ""
+  "en": "Got 10 <1>Archery Arrows<8>!"
  },
  {
   "id": "GAKKO02:0059",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "<1>学食のパン<8>を手に入れた！",
-  "en": ""
+  "en": "Got some <1>Cafeteria Bread<8>!"
  },
  {
   "id": "GAKKO02:0060",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "あ、新見くん……\nだいじょうぶですか？",
-  "en": ""
+  "en": "Oh, Niimi-kun...\nAre you all right?"
  },
  {
   "id": "GAKKO02:0061",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "<1>学食のパン<8>を手に入れた！",
-  "en": ""
+  "en": "Got some <1>Cafeteria Bread<8>!"
  },
  {
   "id": "GAKKO02:0062",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "<1>学食のパン<8>を手に入れた！",
-  "en": ""
+  "en": "Got some <1>Cafeteria Bread<8>!"
  },
  {
   "id": "GAKKO02:0063",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "新見くん。\nまずは職員室を調べてからよ。",
-  "en": ""
+  "en": "Niimi-kun.\nLet's check the faculty room first."
  },
  {
   "id": "GAKKO02:0064",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "あの……新見くん……",
-  "en": ""
+  "en": "Um... Niimi-kun..."
  },
  {
   "id": "GAKKO02:0065",
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "GAKKO02:0066",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "あの<10>…<10>…さっきは……ありがとう……",
-  "en": ""
+  "en": "Um<10>..<10>..Thank you... for earlier..."
  },
  {
   "id": "GAKKO02:0067",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "他の人たちはどこにいるんですか……？",
-  "en": ""
+  "en": "Where is everyone else...?"
  },
  {
   "id": "GAKKO02:0068",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "もしかして、\nわたしたちだけが取り残されているとか……",
-  "en": ""
+  "en": "Could it be that we're\nthe only ones left behind...?"
  },
  {
   "id": "GAKKO02:0069",
   "kind": "choice",
   "speaker": "",
   "jp": "　ちがうよ\n　そうかも知れない",
-  "en": ""
+  "en": "No, we're not\nMaybe we are"
  },
  {
   "id": "GAKKO02:0070",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "よかったあ……\n早くここから逃げましょう。",
-  "en": ""
+  "en": "Thank goodness...\nLet's hurry and get out of here."
  },
  {
   "id": "GAKKO02:0071",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "いつ崩れてもおかしくなさそうですし……",
-  "en": ""
+  "en": "It looks like this place could collapse any\nsecond..."
  },
  {
   "id": "GAKKO02:0072",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "そんな……！\nウソ、ですよね……？",
-  "en": ""
+  "en": "No...!\nThat's not true... is it...?"
  },
  {
   "id": "GAKKO02:0073",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "新見くん、いやです……\nそんなことを言うなんて……",
-  "en": ""
+  "en": "Niimi-kun, no...\nPlease don't say something like that..."
  }
 ]

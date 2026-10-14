@@ -4,286 +4,286 @@
   "kind": "msg",
   "speaker": "シャイ",
   "jp": "……………",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "GSYAI:0001",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "<3>シャイ<8>、今もどったよ。",
-  "en": ""
+  "en": "<3>Shai<8>, I'm back."
  },
  {
   "id": "GSYAI:0002",
   "kind": "msg",
   "speaker": "シャイ",
   "jp": "そう……",
-  "en": ""
+  "en": "I see..."
  },
  {
   "id": "GSYAI:0003",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "この人、ルーの知りあいなの？",
-  "en": ""
+  "en": "Lou, you know this person?"
  },
  {
   "id": "GSYAI:0004",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "うん、わたしの幼なじみよ。",
-  "en": ""
+  "en": "Yeah, we grew up together."
  },
  {
   "id": "GSYAI:0005",
   "kind": "msg",
   "speaker": "シャイ",
   "jp": "……で、なんの用？",
-  "en": ""
+  "en": "...So, what do you want?"
  },
  {
   "id": "GSYAI:0006",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "あ、ああ、その……",
-  "en": ""
+  "en": "Ah, well, um..."
  },
  {
   "id": "GSYAI:0007",
   "kind": "msg",
   "speaker": "シャイ",
   "jp": "用がないなら、出てってよ。\n私も、ヒマじゃないんだから。",
-  "en": ""
+  "en": "If you don't need anything, then get out.\nI'm not exactly sitting around, you know."
  },
  {
   "id": "GSYAI:0008",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "…………あ……",
-  "en": ""
+  "en": "......Oh..."
  },
  {
   "id": "GSYAI:0009",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ずいぶん冷たいんだね。",
-  "en": ""
+  "en": "That's pretty cold of you."
  },
  {
   "id": "GSYAI:0010",
   "kind": "msg",
   "speaker": "シャイ",
   "jp": "……あなたには関係ないでしょ？",
-  "en": ""
+  "en": "...That's none of your business, is it?"
  },
  {
   "id": "GSYAI:0011",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "なによ、その言い方！",
-  "en": ""
+  "en": "Hey! What's with that attitude?!"
  },
  {
   "id": "GSYAI:0012",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "いいよ、ユカ。\nみんな、行こっか……",
-  "en": ""
+  "en": "It's fine, Yuka.\nCome on, everyone, let's go..."
  },
  {
   "id": "GSYAI:0013",
   "kind": "msg",
   "speaker": "シャイ",
   "jp": "<10>……………ふん……",
-  "en": ""
+  "en": "<10>.........Hmph..."
  },
  {
   "id": "GSYAI:0014",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "<10>……今はやめとかない？\nたぶん、何も話してくれないと思うし……",
-  "en": ""
+  "en": "<10>...Can we leave it for now?\nI doubt she'll tell us anything anyway..."
  },
  {
   "id": "GSYAI:0015",
   "kind": "msg",
   "speaker": "シャイ",
   "jp": "<10>……またあなたたちなの？",
-  "en": ""
+  "en": "<10>...You people again?"
  },
  {
   "id": "GSYAI:0016",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "……ごめん。\nみんな、行こっか……",
-  "en": ""
+  "en": "...Sorry.\nCome on, everyone, let's go..."
  },
  {
   "id": "GSYAI:0017",
   "kind": "msg",
   "speaker": "シャイ",
   "jp": "<10>……ありがとう。",
-  "en": ""
+  "en": "<10>...Thank you."
  },
  {
   "id": "GSYAI:0018",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "え？　今なんて……",
-  "en": ""
+  "en": "Huh? What did you just say...?"
  },
  {
   "id": "GSYAI:0019",
   "kind": "msg",
   "speaker": "シャイ",
   "jp": "月光の塔にいたエレボタルを\n退治してくれたんでしょ？\n……礼くらいは言うわ。",
-  "en": ""
+  "en": "You got rid of the Ele Fireflies in the\nMoonlight Tower, didn't you?\n...The least I can do is thank you."
  },
  {
   "id": "GSYAI:0020",
   "kind": "msg",
   "speaker": "シャイ",
   "jp": "それで、なにか用なの？",
-  "en": ""
+  "en": "So, did you need something?"
  },
  {
   "id": "GSYAI:0021",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "あ、ああ、その……",
-  "en": ""
+  "en": "Ah, well, um..."
  },
  {
   "id": "GSYAI:0022",
   "kind": "msg",
   "speaker": "シャイ",
   "jp": "用がないなら、出てってよ。\n私も、ヒマじゃないんだから。",
-  "en": ""
+  "en": "If you don't need anything, then get out.\nI'm not exactly sitting around, you know."
  },
  {
   "id": "GSYAI:0023",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ルー……",
-  "en": ""
+  "en": "Lou..."
  },
  {
   "id": "GSYAI:0024",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "いいよ、ユカ。\nさあ、行こう……",
-  "en": ""
+  "en": "It's fine, Yuka.\nCome on, let's go..."
  },
  {
   "id": "GSYAI:0025",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "ちょっといいかしら？",
-  "en": ""
+  "en": "Do you have a moment?"
  },
  {
   "id": "GSYAI:0026",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ん？誰か先客がいるのか？",
-  "en": ""
+  "en": "Hm? Is somebody already here?"
  },
  {
   "id": "GSYAI:0027",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "村の人に話を聞いたんだけど、\nあなた……この村で一番の弓の使い手なんですって？",
-  "en": ""
+  "en": "The villagers told me that you're...\nthe best archer in this village?"
  },
  {
   "id": "GSYAI:0028",
   "kind": "msg",
   "speaker": "シャイ",
   "jp": "え？\nまあ、それなりの腕はあると思ってるけど……",
-  "en": ""
+  "en": "Huh?\nWell, I'd say I'm pretty good..."
  },
  {
   "id": "GSYAI:0029",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "お願いがあるの。\n私と伊藤さんに、\n弓の撃ち方を教えてくれないかしら？",
-  "en": ""
+  "en": "I have a favor to ask.\nCould you teach Itou-san and me\nhow to shoot a bow?"
  },
  {
   "id": "GSYAI:0030",
   "kind": "msg",
   "speaker": "シャイ",
   "jp": "ええ、いいわ。\n何を聞きたいの？",
-  "en": ""
+  "en": "Sure, I'd be glad to.\nWhat would you like to know?"
  },
  {
   "id": "GSYAI:0031",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "……あの、\n狙いのつけ方がわからないんですけど……",
-  "en": ""
+  "en": "...Um,\nI can't figure out how to aim..."
  },
  {
   "id": "GSYAI:0032",
   "kind": "msg",
   "speaker": "シャイ",
   "jp": "それは慣れるしかないわね。\nできるまで教えたげるから、がんばって。",
-  "en": ""
+  "en": "That just takes practice.\nI'll keep teaching you until you get it,\nso hang in there."
  },
  {
   "id": "GSYAI:0033",
   "kind": "msg",
   "speaker": "シャイ",
   "jp": "あら、翔……\nごめんなさい、今忙しいの。\nまた、後で来てくれるかしら？",
-  "en": ""
+  "en": "Oh, Shou...\nSorry, I'm busy right now.\nCould you come back later?"
  },
  {
   "id": "GSYAI:0034",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ああ、それじゃ……",
-  "en": ""
+  "en": "Oh, okay then..."
  },
  {
   "id": "GSYAI:0035",
   "kind": "msg",
   "speaker": "シャイ",
   "jp": "いらっしゃい。\nあなたが翔ね？\n秋穂とひかるから聞いたわ。",
-  "en": ""
+  "en": "Welcome.\nSo you're Shou?\nAkiho and Hikaru told me about you."
  },
  {
   "id": "GSYAI:0036",
   "kind": "msg",
   "speaker": "翔",
   "jp": "先生と伊藤さんから？",
-  "en": ""
+  "en": "Sensei and Itou-san did?"
  },
  {
   "id": "GSYAI:0037",
   "kind": "msg",
   "speaker": "シャイ",
   "jp": "ええ。\n私、あの二人に頼まれて、弓を教えてるの。",
-  "en": ""
+  "en": "Yes.\nThey asked me to teach them how to use a bow."
  },
  {
   "id": "GSYAI:0038",
   "kind": "msg",
   "speaker": "シャイ",
   "jp": "私はシャイ。\nよろしくね、翔。",
-  "en": ""
+  "en": "I'm Shai.\nNice to meet you, Shou."
  },
  {
   "id": "GSYAI:0039",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ああ、よろしくな。",
-  "en": ""
+  "en": "Yeah, nice to meet you too."
  },
  {
   "id": "GSYAI:0040",
   "kind": "msg",
   "speaker": "翔",
   "jp": "あれ？\n鍵がかかってる……",
-  "en": ""
+  "en": "Huh?\nIt's locked..."
  }
 ]

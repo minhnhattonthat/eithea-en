@@ -4,153 +4,153 @@
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ふう……\nここに帰ってくるのも久しぶりね。",
-  "en": ""
+  "en": "Phew...\nIt's been a while since I was last home."
  },
  {
   "id": "GRUUUZ:0001",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "そうね。\nなんだか、ずいぶん懐かしいわ。",
-  "en": ""
+  "en": "It has.\nIt feels so nostalgic, somehow."
  },
  {
   "id": "GRUUUZ:0002",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ね、ひかる。\nちょっと気分転換に散歩でもしない？",
-  "en": ""
+  "en": "Hey, Hikaru.\nWanna go for a walk? Might lift your mood."
  },
  {
   "id": "GRUUUZ:0003",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "沈んでばかりじゃ体に悪いよ。",
-  "en": ""
+  "en": "Moping all the time is bad for you."
  },
  {
   "id": "GRUUUZ:0004",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "うん………ありがとうユカ。",
-  "en": ""
+  "en": "Okay... thank you, Yuka."
  },
  {
   "id": "GRUUUZ:0005",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "それじゃ元気に行ってきま～す！！",
-  "en": ""
+  "en": "Okay, we're off~!!"
  },
  {
   "id": "GRUUUZ:0006",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "まったく、あの子は………",
-  "en": ""
+  "en": "Honestly, that girl..."
  },
  {
   "id": "GRUUUZ:0007",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ふう。それじゃあ、\n私たちも自由行動にしましょうか。",
-  "en": ""
+  "en": "Phew. Well then,\nwhy don't we all take some free time too?"
  },
  {
   "id": "GRUUUZ:0008",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "あら？　翔、戻ってきたの？",
-  "en": ""
+  "en": "Huh? Shou, you're back?"
  },
  {
   "id": "GRUUUZ:0009",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ああ、少し休もうと思って。",
-  "en": ""
+  "en": "Yeah, I figured I'd rest a bit."
  },
  {
   "id": "GRUUUZ:0010",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そう。\nあ、そうだ、ハーミーにね、翔にあったらエウリケの\n家の前まで来るように伝えてって頼まれたのよ。",
-  "en": ""
+  "en": "I see.\nOh, right! If I saw you, Hermie wanted me to\ntell you to meet her outside Eurike's house."
  },
  {
   "id": "GRUUUZ:0011",
   "kind": "msg",
   "speaker": "翔",
   "jp": "エウリケの？\n………何だろう？",
-  "en": ""
+  "en": "Eurike's?\n...What for?"
  },
  {
   "id": "GRUUUZ:0012",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "さぁ？\nそれだけ言ったら飛び出していっちゃったから……。",
-  "en": ""
+  "en": "Who knows?\nShe ran off the second she said it..."
  },
  {
   "id": "GRUUUZ:0013",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ふうん。\nま、後で行ってみるよ。",
-  "en": ""
+  "en": "Huh.\nWell, I'll head over later."
  },
  {
   "id": "GRUUUZ:0014",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "うん、お願い。\n確かに伝えたわよ。",
-  "en": ""
+  "en": "Okay, please do.\nI delivered the message, got it?"
  },
  {
   "id": "GRUUUZ:0015",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "おつかれさま。\n疲れたんなら休んでく？",
-  "en": ""
+  "en": "Nice work out there.\nTired? Wanna rest here for a bit?"
  },
  {
   "id": "GRUUUZ:0016",
   "kind": "choice",
   "speaker": "",
   "jp": "　休ませてもらう　　　　　　セーブする\n　魔弾研究\n　休まない",
-  "en": ""
+  "en": "Get some rest             Save\n  Magic Bullet Research\n  Don't rest"
  },
  {
   "id": "GRUUUZ:0017",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "休むのね？\nじゃあ、毛布を貸したげるわ。",
-  "en": ""
+  "en": "Resting, huh?\nOkay, I'll get you a blanket."
  },
  {
   "id": "GRUUUZ:0018",
   "kind": "msg",
   "speaker": "翔",
   "jp": "よし、じゃあ出かけるか。",
-  "en": ""
+  "en": "All right, let's head out."
  },
  {
   "id": "GRUUUZ:0019",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ん！？　ちょっとまってな！",
-  "en": ""
+  "en": "Hm?! Hold on a sec!"
  },
  {
   "id": "GRUUUZ:0020",
   "kind": "msg",
   "speaker": "翔",
   "jp": "よし、じゃあ出かけるか。",
-  "en": ""
+  "en": "All right, let's head out."
  },
  {
   "id": "GRUUUZ:0021",
   "kind": "msg",
   "speaker": "翔",
   "jp": "よし、じゃあ出かけるか。",
-  "en": ""
+  "en": "All right, let's head out."
  }
 ]

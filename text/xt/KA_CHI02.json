@@ -11,7 +11,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "KA_CHI02:0002",
@@ -67,7 +67,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "KA_CHI02:0010",
@@ -116,7 +116,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "KA_CHI02:0017",
@@ -179,13 +179,13 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "<1>エレの樹の雫<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>Ele Tree Dew<8>!"
  },
  {
   "id": "KA_CHI02:0026",
   "kind": "msg",
   "speaker": "翔",
   "jp": "<1>エレの樹の葉<8>を手に入れた！",
-  "en": ""
+  "en": "Got an <1>Ele Tree Leaf<8>!"
  }
 ]

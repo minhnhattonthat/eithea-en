@@ -4,244 +4,244 @@
   "kind": "msg",
   "speaker": "ルー",
   "jp": "あれよ！\nあのおっきいのが、エレボタルのボスよ！",
-  "en": ""
+  "en": "There! That big one's the boss of the\nEle Fireflies!"
  },
  {
   "id": "G_TOU6:0001",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "みんな、注意して！\nジャーム達がこっちに気づいたようよ！！",
-  "en": ""
+  "en": "Careful, everyone!\nThe Germs have noticed us!!"
  },
  {
   "id": "G_TOU6:0002",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "言われなくても、わかってるよ。\nいくわよ、みんなッ！！",
-  "en": ""
+  "en": "I know, you don't have to tell me.\nHere we go, everyone!!"
  },
  {
   "id": "G_TOU6:0003",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "……ふう、ぜんぶ倒したようね。\nみんな、だいじょうぶ？",
-  "en": ""
+  "en": "...Phew, looks like we got them all.\nEveryone okay?"
  },
  {
   "id": "G_TOU6:0004",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "だいじょうぶだけど……\nなに、このヘンなにおい……\n何とかならないかなあ。",
-  "en": ""
+  "en": "I'm okay, but...\nWhat is this weird smell...?\nCan't we do something about it?"
  },
  {
   "id": "G_TOU6:0005",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "確かにひどいわね。\n帰ったら、すぐにでも水浴びしたいわ。",
-  "en": ""
+  "en": "It certainly is awful.\nWhen we get back, I want to bathe right away."
  },
  {
   "id": "G_TOU6:0006",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "わたしもです。\n<10>…<10>…あら？\nこれ、なんでしょう……？",
-  "en": ""
+  "en": "Me too.\n<10>..<10>..Oh?\nWhat could this be...?"
  },
  {
   "id": "G_TOU6:0007",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "これはＴＩＰ？\n金色なんて珍しいわね。\n拾っておこっと。",
-  "en": ""
+  "en": "Is this a TIP?\nA gold one, that's rare.\nI'll hang on to it."
  },
  {
   "id": "G_TOU6:0008",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "あれ？　ねぇ、向こうになんかあるよ！",
-  "en": ""
+  "en": "Huh? Hey, there's something over there!"
  },
  {
   "id": "G_TOU6:0009",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "　　月光の塔　　６階",
-  "en": ""
+  "en": "Moonlight Tower - Floor 6"
  },
  {
   "id": "G_TOU6:0010",
   "kind": "msg",
   "speaker": "翔",
   "jp": "どうしよう？\n持って帰ってもいいのかな？",
-  "en": ""
+  "en": "What should we do?\nIs it okay to take it with us?"
  },
  {
   "id": "G_TOU6:0011",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "けど、何か目的があって\nここに置いてるんだったら……",
-  "en": ""
+  "en": "But if someone left it here\nfor a reason..."
  },
  {
   "id": "G_TOU6:0012",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "翔、あなたはどうしたらいいと思う？",
-  "en": ""
+  "en": "Shou, what do you think we should do?"
  },
  {
   "id": "G_TOU6:0013",
   "kind": "msg",
   "speaker": "翔",
   "jp": "変わった石だな。\nルー、知ってるか？",
-  "en": ""
+  "en": "What a strange stone.\nLou, do you know what it is?"
  },
  {
   "id": "G_TOU6:0014",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ちょっと見せて……\nう～ん、わからないわ。",
-  "en": ""
+  "en": "Let me see...\nHmm~ No idea."
  },
  {
   "id": "G_TOU6:0015",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "でも、ひょっとしたら<10>…<10>…\n<1>アーティア<8>かもね。",
-  "en": ""
+  "en": "But maybe<10>..<10>..\nit's an <1>Artia<8>."
  },
  {
   "id": "G_TOU6:0016",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "アーティアってなんなの？",
-  "en": ""
+  "en": "What's an Artia?"
  },
  {
   "id": "G_TOU6:0017",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "古い文献に出てくる宝玉のことよ。\n不思議な力があるんだって。",
-  "en": ""
+  "en": "A gem that shows up in old writings.\nThey say it has mysterious powers."
  },
  {
   "id": "G_TOU6:0018",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "だったらさあ、これ、持って帰ったら？",
-  "en": ""
+  "en": "Then why don't we take it home?"
  },
  {
   "id": "G_TOU6:0019",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ここに置いといてもしょうがないしさ。",
-  "en": ""
+  "en": "It's not doing any good sitting here."
  },
  {
   "id": "G_TOU6:0020",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "けど、何か目的があって\nここに置いてるんだったら……",
-  "en": ""
+  "en": "But if someone left it here\nfor a reason..."
  },
  {
   "id": "G_TOU6:0021",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "翔、あなたはどうしたらいいと思う？",
-  "en": ""
+  "en": "Shou, what do you think we should do?"
  },
  {
   "id": "G_TOU6:0022",
   "kind": "choice",
   "speaker": "",
   "jp": "　持っていこう\n　やめたほうがいい",
-  "en": ""
+  "en": "Let's take it\nBetter not"
  },
  {
   "id": "G_TOU6:0023",
   "kind": "msg",
   "speaker": "翔",
   "jp": "いいんじゃないのか？\nダメだったら返しにくればいいんだし。",
-  "en": ""
+  "en": "Why not?\nIf it's a problem, we can just bring it back."
  },
  {
   "id": "G_TOU6:0024",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そう？\nほんとにいいのかなあ……",
-  "en": ""
+  "en": "You think so?\nAre you sure it's okay..."
  },
  {
   "id": "G_TOU6:0025",
   "kind": "msg",
   "speaker": "翔",
   "jp": "族長にも報告するよ。\nそれに、俺が持つから。",
-  "en": ""
+  "en": "I'll report it to the chief, too.\nAnd I'll be the one carrying it."
  },
  {
   "id": "G_TOU6:0026",
   "kind": "msg",
   "speaker": "翔",
   "jp": "何かあったら、俺の責任だ。\nそれでいいだろ？",
-  "en": ""
+  "en": "If anything happens, it's on me.\nThat okay with you?"
  },
  {
   "id": "G_TOU6:0027",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "<10>…<10>…うん、わかったわ。\nアーティアを持っていきましょ。\n絶対になくさないでね。",
-  "en": ""
+  "en": "<10>..<10>..Okay, fine.\nLet's take the Artia with us.\nJust don't you dare lose it."
  },
  {
   "id": "G_TOU6:0028",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "<1>アーティアフレイ<8>を手に入れた！",
-  "en": ""
+  "en": "Got the <1>Artia Frey<8>!"
  },
  {
   "id": "G_TOU6:0029",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ねぇねぇ、でもアーティアを拾ったってことは\nエウリケには内緒にしとこうよ。",
-  "en": ""
+  "en": "Hey, hey, but let's keep it a secret from\nEurike that we picked up the Artia."
  },
  {
   "id": "G_TOU6:0030",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "なんで？",
-  "en": ""
+  "en": "Why?"
  },
  {
   "id": "G_TOU6:0031",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "あの人、なーんかうさんくさいのよねー。",
-  "en": ""
+  "en": "Something about that guy just seems shady~"
  },
  {
   "id": "G_TOU6:0032",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "とりあえずエウリケの家に戻りましょう。",
-  "en": ""
+  "en": "For now, let's head back to Eurike's house."
  },
  {
   "id": "G_TOU6:0033",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "じゃあ、塔から降りよっか。",
-  "en": ""
+  "en": "Well then, let's go back down the tower."
  },
  {
   "id": "G_TOU6:0034",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "そうだよね。\nアーティアはこのままにするわ。",
-  "en": ""
+  "en": "Yeah, you're right.\nI'll leave the Artia where it is."
  }
 ]

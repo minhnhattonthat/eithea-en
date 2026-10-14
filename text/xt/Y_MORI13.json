@@ -11,7 +11,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "<1>守りの秘薬<8>を手に入れた！",
-  "en": ""
+  "en": "Got an <1>Elixir of Protection<8>!"
  },
  {
   "id": "Y_MORI13:0002",
@@ -25,7 +25,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "Y_MORI13:0004",
@@ -116,7 +116,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "Y_MORI13:0017",
@@ -221,7 +221,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "Y_MORI13:0032",

@@ -11,7 +11,7 @@
   "kind": "msg",
   "speaker": "ハーミー",
   "jp": "<1>エレの樹の秘薬<8>を手に入れた！",
-  "en": ""
+  "en": "Got an <1>Ele Tree Elixir<8>!"
  },
  {
   "id": "Y_MORI06:0002",
@@ -25,14 +25,14 @@
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "新見くん、ちょっといいかしら？",
-  "en": ""
+  "en": "Niimi-kun, do you have a moment?"
  },
  {
   "id": "Y_MORI06:0004",
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "Y_MORI06:0005",
@@ -95,7 +95,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "Y_MORI06:0014",
@@ -186,7 +186,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "Y_MORI06:0027",
@@ -256,7 +256,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "Y_MORI06:0037",

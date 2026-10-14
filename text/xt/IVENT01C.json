@@ -4,552 +4,552 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "ここは……？\nさっきまで教室にいたはずだけど……",
-  "en": ""
+  "en": "Where am I...?\nI was just in the classroom..."
  },
  {
   "id": "IVENT01C:0001",
   "kind": "msg",
   "speaker": "翔",
   "jp": "あっ、なんだあれは……",
-  "en": ""
+  "en": "Huh? What is that..."
  },
  {
   "id": "IVENT01C:0002",
   "kind": "msg",
   "speaker": "翔",
   "jp": "おぉ……\n凄い……見渡す限り森ばかりじゃないか。\nそれに、あの大きな樹……",
-  "en": ""
+  "en": "Whoa...\nAmazing... Nothing but forest as far as\nthe eye can see. And that huge tree..."
  },
  {
   "id": "IVENT01C:0003",
   "kind": "msg",
   "speaker": "翔",
   "jp": "いったい、俺はどこにいるんだ？",
-  "en": ""
+  "en": "Where in the world am I?"
  },
  {
   "id": "IVENT01C:0004",
   "kind": "msg",
   "speaker": "翔",
   "jp": "不思議な樹だな。\n自分で光っているみたいだ。",
-  "en": ""
+  "en": "What a strange tree.\nIt's like it's glowing on its own."
  },
  {
   "id": "IVENT01C:0005",
   "kind": "msg",
   "speaker": "翔",
   "jp": "これが……あの子の言っていたエレの樹……？",
-  "en": ""
+  "en": "Is this... the Ele Tree that girl was talking\nabout...?"
  },
  {
   "id": "IVENT01C:0006",
   "kind": "msg",
   "speaker": "翔",
   "jp": "エレの樹……？\nエレの……なにか記憶に引っ掛かるような気が……",
-  "en": ""
+  "en": "The Ele Tree...? The Ele...\nWhy does that feel like it's tugging at some\nmemory...?"
  },
  {
   "id": "IVENT01C:0007",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "……救ってください。",
-  "en": ""
+  "en": "...Please, save us."
  },
  {
   "id": "IVENT01C:0008",
   "kind": "msg",
   "speaker": "翔",
   "jp": "気のせいか……",
-  "en": ""
+  "en": "Must be my imagination..."
  },
  {
   "id": "IVENT01C:0009",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "救ってください。",
-  "en": ""
+  "en": "Please, save us."
  },
  {
   "id": "IVENT01C:0010",
   "kind": "msg",
   "speaker": "翔",
   "jp": "誰だ！！　出てこい！\nさっきの女の子じゃなさそうだな！！",
-  "en": ""
+  "en": "Who's there?! Show yourself!\nYou don't sound like that girl from before!!"
  },
  {
   "id": "IVENT01C:0011",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "エレの樹を、アイシアの民を……\nそしてこの世界を救ってください……",
-  "en": ""
+  "en": "Save the Ele Tree, the people of Eithéa...\nand this whole world..."
  },
  {
   "id": "IVENT01C:0012",
   "kind": "msg",
   "speaker": "翔",
   "jp": "エレの樹？　アイシア？　さっきの女の子も\n言っていたな。　いったい、それはなんなんだ？\n第一、あんたはいったい誰だ！？",
-  "en": ""
+  "en": "The Ele Tree? Eithéa? That girl said the same\nthing. What's that supposed to be, anyway?\nAnd who the heck are you?!"
  },
  {
   "id": "IVENT01C:0013",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "私はエレの樹の……",
-  "en": ""
+  "en": "I am the Ele Tree's..."
  },
  {
   "id": "IVENT01C:0014",
   "kind": "msg",
   "speaker": "翔",
   "jp": "エレの樹の……\nなんだって？",
-  "en": ""
+  "en": "The Ele Tree's...\nwhat?"
  },
  {
   "id": "IVENT01C:0015",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "私は……\nアイシアの……エレの樹の……\nくっ、ううっ……",
-  "en": ""
+  "en": "I am...\nEithéa's... the Ele Tree's...\nNgh, ugh..."
  },
  {
   "id": "IVENT01C:0016",
   "kind": "msg",
   "speaker": "翔",
   "jp": "おい、どうしたんだ！？",
-  "en": ""
+  "en": "Hey, what's wrong?!"
  },
  {
   "id": "IVENT01C:0017",
   "kind": "msg",
   "speaker": "翔",
   "jp": "うわぁ！！",
-  "en": ""
+  "en": "Whoa!!"
  },
  {
   "id": "IVENT01C:0018",
   "kind": "msg",
   "speaker": "翔",
   "jp": "うっ！？\nなんだ、この殺気は！？",
-  "en": ""
+  "en": "Ugh?!\nWhat's with this bloodlust?!"
  },
  {
   "id": "IVENT01C:0019",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "<1>魔女<8>！　わらわは魔女！！\nアイシアと愚かなる民のセンメツを望む魔女である。",
-  "en": ""
+  "en": "The <1>Witch<8>! I am the Witch!!\nThe Witch who desires the annihilation of\nEithéa and its foolish people."
  },
  {
   "id": "IVENT01C:0020",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "わらわの行く先には死と滅びがあるのみ。\nあらゆる生きとし生けるものに死を……！\nあらゆる形ある物に破壊を……！！",
-  "en": ""
+  "en": "Wherever I go, there is only death and ruin.\nDeath to every living thing...!\nDestruction to every form that exists...!!"
  },
  {
   "id": "IVENT01C:0021",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "ほ～～ほっほほほ！！",
-  "en": ""
+  "en": "Oh~~hohohoho!!"
  },
  {
   "id": "IVENT01C:0022",
   "kind": "msg",
   "speaker": "翔",
   "jp": "な、なんだこいつは……",
-  "en": ""
+  "en": "Wh-What the hell is this thing..."
  },
  {
   "id": "IVENT01C:0023",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "救ってください……\nアイシアを、エレの樹を、あの地に住む人々を……",
-  "en": ""
+  "en": "Please, save them... Eithéa, the Ele Tree,\nthe people who live in that land..."
  },
  {
   "id": "IVENT01C:0024",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "生きとし生けるものに死を！\n形ある物に破壊を！！　ほ～ほほほほ！！",
-  "en": ""
+  "en": "Death to every living thing!\nDestruction to every form!! Oh~hohohoho!!"
  },
  {
   "id": "IVENT01C:0025",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "救ってください……\n私を……",
-  "en": ""
+  "en": "Please, save...\nme..."
  },
  {
   "id": "IVENT01C:0026",
   "kind": "msg",
   "speaker": "翔",
   "jp": "おい！\nどうした、いったいなにがどうしたんだ！！",
-  "en": ""
+  "en": "Hey!\nWhat's wrong? What the hell is going on?!"
  },
  {
   "id": "IVENT01C:0027",
   "kind": "msg",
   "speaker": "翔",
   "jp": "うわぁあああ～～！！",
-  "en": ""
+  "en": "Whoaaaaaa~~!!"
  },
  {
   "id": "IVENT01C:0028",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "どないや？",
-  "en": ""
+  "en": "How's he doin'?"
  },
  {
   "id": "IVENT01C:0029",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "うん、脈ははっきりしているわ。\n気を失っているだけみたい。",
-  "en": ""
+  "en": "Well, his pulse is strong.\nLooks like he's just unconscious."
  },
  {
   "id": "IVENT01C:0030",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "よかった……",
-  "en": ""
+  "en": "Thank goodness..."
  },
  {
   "id": "IVENT01C:0031",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "翔！　翔、だいじょうぶ！？",
-  "en": ""
+  "en": "Shou! Shou, are you okay?!"
  },
  {
   "id": "IVENT01C:0032",
   "kind": "msg",
   "speaker": "翔",
   "jp": "う、うう～ん。",
-  "en": ""
+  "en": "Ugh, uuhhn..."
  },
  {
   "id": "IVENT01C:0033",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "よかった、気が付いたのね。",
-  "en": ""
+  "en": "Thank goodness, you're awake."
  },
  {
   "id": "IVENT01C:0034",
   "kind": "msg",
   "speaker": "翔",
   "jp": "あ、あぁ……\nなんか夢でも見ていたようだな。",
-  "en": ""
+  "en": "Y-Yeah...\nFeels like I was having some kind of dream."
  },
  {
   "id": "IVENT01C:0035",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "夢……？\n周りを見てみれば、\nまだ夢の中じゃないかと思うわよ。",
-  "en": ""
+  "en": "A dream...?\nTake a look around and you'll think\nyou're still dreaming."
  },
  {
   "id": "IVENT01C:0036",
   "kind": "msg",
   "speaker": "翔",
   "jp": "え！？",
-  "en": ""
+  "en": "Huh?!"
  },
  {
   "id": "IVENT01C:0037",
   "kind": "msg",
   "speaker": "翔",
   "jp": "これはいったい、どうしたっていうんだ！？\n何があった？",
-  "en": ""
+  "en": "What on earth happened here?!\nWhat's going on?"
  },
  {
   "id": "IVENT01C:0038",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "わからないわ。",
-  "en": ""
+  "en": "I don't know."
  },
  {
   "id": "IVENT01C:0039",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "私達も気を失っていたらしいのよ。気が付いてみたら\nこうなっていたの。　時計を見たかぎりじゃ\nものの数分しか経っていないはずなのに……",
-  "en": ""
+  "en": "It seems we passed out too. When we came to,\nit was like this. Going by my watch, only a\nfew minutes should have passed, and yet..."
  },
  {
   "id": "IVENT01C:0040",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "携帯も通じへんし、困ったもんや。",
-  "en": ""
+  "en": "My cell's got no signal either. What a mess."
  },
  {
   "id": "IVENT01C:0041",
   "kind": "msg",
   "speaker": "学",
   "jp": "とにかく早く逃げようよ！\nまた崩れてくるよ！！",
-  "en": ""
+  "en": "Let's just get out of here, fast!\nIt's gonna cave in again!!"
  },
  {
   "id": "IVENT01C:0042",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "そうね、とにかく一刻も早く校舎の外へ出ましょう。",
-  "en": ""
+  "en": "You're right. Let's get out of the building\nas quickly as we can."
  },
  {
   "id": "IVENT01C:0043",
   "kind": "msg",
   "speaker": "翔",
   "jp": "先生、でもおかしいとは思いませんか？",
-  "en": ""
+  "en": "But Sensei, don't you think something's off?"
  },
  {
   "id": "IVENT01C:0044",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "おかしい？",
-  "en": ""
+  "en": "Off?"
  },
  {
   "id": "IVENT01C:0045",
   "kind": "msg",
   "speaker": "翔",
   "jp": "はい。　だってこの教室は\n二階にあるはずじゃないですか。　どうして、\n二階にある窓から土砂がなだれ込んでくるんです？",
-  "en": ""
+  "en": "Yeah. I mean, this classroom's supposed to be\non the second floor, right? So why is dirt\npouring in through a second-floor window?"
  },
  {
   "id": "IVENT01C:0046",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "まさか、\n学校ごと地下に陥没してしまったんじゃ……",
-  "en": ""
+  "en": "You don't think...\nthe whole school sank underground...?"
  },
  {
   "id": "IVENT01C:0047",
   "kind": "msg",
   "speaker": "学",
   "jp": "そんなことどうでもいいじゃないか！！\n早く逃げないと……",
-  "en": ""
+  "en": "Who cares about that?!\nWe've gotta get out of here..."
  },
  {
   "id": "IVENT01C:0048",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "みんな、それじゃ……",
-  "en": ""
+  "en": "All right, everyone, let's..."
  },
  {
   "id": "IVENT01C:0049",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ん、なんだ？",
-  "en": ""
+  "en": "Hm? What's that?"
  },
  {
   "id": "IVENT01C:0050",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "どうしたの、翔？",
-  "en": ""
+  "en": "What is it, Shou?"
  },
  {
   "id": "IVENT01C:0051",
   "kind": "msg",
   "speaker": "翔",
   "jp": "殺気だ……\n誰か、いや何か隠れているぞ……！！",
-  "en": ""
+  "en": "Bloodlust...\nSomeone... no, something's hiding here...!!"
  },
  {
   "id": "IVENT01C:0052",
   "kind": "msg",
   "speaker": "学",
   "jp": "うわぁあああ！！",
-  "en": ""
+  "en": "Waaaaah!!"
  },
  {
   "id": "IVENT01C:0053",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "な、なによ、こいつら！？",
-  "en": ""
+  "en": "Wh-What are these things?!"
  },
  {
   "id": "IVENT01C:0054",
   "kind": "msg",
   "speaker": "翔",
   "jp": "野犬……て感じじゃないな。\nむしろモンスターだ……",
-  "en": ""
+  "en": "These aren't... stray dogs.\nMore like monsters..."
  },
  {
   "id": "IVENT01C:0055",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "モンスター…………そんな……",
-  "en": ""
+  "en": "Monsters.......... No way..."
  },
  {
   "id": "IVENT01C:0056",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "みんな、気を付けて!\n襲ってくるわ！！",
-  "en": ""
+  "en": "Everyone, be careful!\nThey're going to attack!!"
  },
  {
   "id": "IVENT01C:0057",
   "kind": "msg",
   "speaker": "学",
   "jp": "うわぁ～～！！　助けて！！",
-  "en": ""
+  "en": "Waaah~~!! Help me!!"
  },
  {
   "id": "IVENT01C:0058",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "学、一人で動くんは危険や！\nまてって言うに、学！！",
-  "en": ""
+  "en": "Manabu, it ain't safe to go off alone!\nI said wait up, Manabu!!"
  },
  {
   "id": "IVENT01C:0059",
   "kind": "msg",
   "speaker": "翔",
   "jp": "先生と伊藤さんも早く！！\nユカも急いで逃げるんだ！！",
-  "en": ""
+  "en": "Sensei, Itou-san, hurry!!\nYou too, Yuka! Get out of here!!"
  },
  {
   "id": "IVENT01C:0060",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "で、でも……！！",
-  "en": ""
+  "en": "B-But...!!"
  },
  {
   "id": "IVENT01C:0061",
   "kind": "msg",
   "speaker": "翔",
   "jp": "いいから逃げろ！！　俺もすぐに行く！",
-  "en": ""
+  "en": "Just run!! I'll be right behind you!"
  },
  {
   "id": "IVENT01C:0062",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ちぃッ！　これは夢じゃなさそうだな！",
-  "en": ""
+  "en": "Tch! Guess this isn't a dream after all!"
  },
  {
   "id": "IVENT01C:0063",
   "kind": "msg",
   "speaker": "翔",
   "jp": "みんな、無事か？",
-  "en": ""
+  "en": "Everyone okay?"
  },
  {
   "id": "IVENT01C:0064",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "なんとかね。",
-  "en": ""
+  "en": "More or less."
  },
  {
   "id": "IVENT01C:0065",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "は、はい。",
-  "en": ""
+  "en": "Y-Yes."
  },
  {
   "id": "IVENT01C:0066",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "新見くんのほうこそ、怪我はない？",
-  "en": ""
+  "en": "What about you, Niimi-kun? Are you hurt?"
  },
  {
   "id": "IVENT01C:0067",
   "kind": "msg",
   "speaker": "翔",
   "jp": "だいじょうぶです、かすり傷ですよ。\nそれよりもヒトシと学は？",
-  "en": ""
+  "en": "I'm fine. It's just a scratch.\nMore importantly, where are Hitoshi\nand Manabu?"
  },
  {
   "id": "IVENT01C:0068",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "教室を出た途端、目の前で天井が崩れたの。\nどうやらそっちのほうへ\n逃げていったみたいなんだけど……",
-  "en": ""
+  "en": "The ceiling came down right in front of us\nthe moment we left the classroom. Looks like\nthey ran off that way, but..."
  },
  {
   "id": "IVENT01C:0069",
   "kind": "msg",
   "speaker": "翔",
   "jp": "くそ……ついてないな。　はぐれちまったか。",
-  "en": ""
+  "en": "Damn... Just our luck. We got split up."
  },
  {
   "id": "IVENT01C:0070",
   "kind": "msg",
   "speaker": "翔",
   "jp": "お～い！　ヒトシ～！　学～！！",
-  "en": ""
+  "en": "Heeey! Hitoshi~! Manabu~!!"
  },
  {
   "id": "IVENT01C:0071",
   "kind": "msg",
   "speaker": "翔",
   "jp": "近くにはいないみたいだな。\n無事だといいんだけど……",
-  "en": ""
+  "en": "Doesn't look like they're nearby.\nI hope they're okay..."
  },
  {
   "id": "IVENT01C:0072",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "とにかく一旦、校庭に出ましょう。\nこれ以上、校舎内にいるのは危険だわ。",
-  "en": ""
+  "en": "Let's head out to the schoolyard for now.\nIt's too dangerous to stay inside any longer."
  },
  {
   "id": "IVENT01C:0073",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そうですね。\n二人も無事なら校庭に向かうはずだ。",
-  "en": ""
+  "en": "Right.\nIf those two are okay, they'll head there too."
  },
  {
   "id": "IVENT01C:0074",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……いったい……",
-  "en": ""
+  "en": "...What on earth..."
  },
  {
   "id": "IVENT01C:0075",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "何が起きたんです？\nわたしたちどうなってしまったんですか？",
-  "en": ""
+  "en": "...happened? What's become of us?"
  },
  {
   "id": "IVENT01C:0076",
   "kind": "msg",
   "speaker": "翔",
   "jp": "伊藤さん、俺にも何が起きたのかまだわからない。\nだけどまずは自分の身を守る事を考えよう。　そう\nすればおのずと答えは出てくるはずだ。ちがうか？",
-  "en": ""
+  "en": "Itou-san, I don't know what happened either.\nBut first, let's focus on staying safe. Do\nthat, and the answers will come. Right?"
  },
  {
   "id": "IVENT01C:0077",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "新見くん……",
-  "en": ""
+  "en": "Niimi-kun..."
  },
  {
   "id": "IVENT01C:0078",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ぐずぐずしてはいられないわ。\n急ぎましょう！",
-  "en": ""
+  "en": "We can't afford to dawdle.\nLet's hurry!"
  }
 ]

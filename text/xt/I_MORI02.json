@@ -4,181 +4,181 @@
   "kind": "msg",
   "speaker": "",
   "jp": "<1>傷薬<8>を手に入れた！",
-  "en": ""
+  "en": "Got a <1>Salve<8>!"
  },
  {
   "id": "I_MORI02:0001",
   "kind": "msg",
   "speaker": "",
   "jp": "<1>２００ＣＡＮ<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>200 CAN<8>!"
  },
  {
   "id": "I_MORI02:0002",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ねえねえ、翔、ちょっとちょっとお！",
-  "en": ""
+  "en": "Hey, hey, Shou, c'mere a sec!"
  },
  {
   "id": "I_MORI02:0003",
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "I_MORI02:0004",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ルーの服ってスゴイよね！\n<10>…<10>…なんかＨぽぉい。",
-  "en": ""
+  "en": "Lou's outfit is really something, huh!\n<10>..<10>..Kinda naughty."
  },
  {
   "id": "I_MORI02:0005",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "翔はあんな服って好きなの？",
-  "en": ""
+  "en": "Do you like outfits like that, Shou?"
  },
  {
   "id": "I_MORI02:0006",
   "kind": "choice",
   "speaker": "",
   "jp": "　けっこう好きかも\n　別に興味はない",
-  "en": ""
+  "en": "Kinda, yeah\n  Not really interested"
  },
  {
   "id": "I_MORI02:0007",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ヤだあ！\n翔ったらＨなんだから！",
-  "en": ""
+  "en": "Eww!\nShou, you're such a perv!"
  },
  {
   "id": "I_MORI02:0008",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……私はあんな服、着ないからね。",
-  "en": ""
+  "en": "...Just so you know, I'm not wearing\nanything like that."
  },
  {
   "id": "I_MORI02:0009",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "たのまれてもイヤよ。\nホントなんだから！",
-  "en": ""
+  "en": "Not even if you beg.\nI mean it!"
  },
  {
   "id": "I_MORI02:0010",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "翔ってば、ああいうのは好きじゃないんだ。\n<10>…<10>…ふう～ん、そうかあ。",
-  "en": ""
+  "en": "So you don't like that kind of thing, Shou.\n<10>..<10>..Hmmm~, I see."
  },
  {
   "id": "I_MORI02:0011",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ねえ翔、聞きたいことがあるの。",
-  "en": ""
+  "en": "Hey, Shou, there's something I want\nto ask you."
  },
  {
   "id": "I_MORI02:0012",
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "I_MORI02:0013",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "あのさ、翔たちが異世界から来たって、\nほんとのことなの？",
-  "en": ""
+  "en": "Um, is it really true that you guys\ncame from another world?"
  },
  {
   "id": "I_MORI02:0014",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ああ、それがどうかしたのか？",
-  "en": ""
+  "en": "Yeah. What about it?"
  },
  {
   "id": "I_MORI02:0015",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ウソとは思ってないけど、\nもう一度聞いておきたいの。",
-  "en": ""
+  "en": "I don't think you're lying,\nbut I want to ask one more time."
  },
  {
   "id": "I_MORI02:0016",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "翔、答えてくれる？",
-  "en": ""
+  "en": "Will you answer me, Shou?"
  },
  {
   "id": "I_MORI02:0017",
   "kind": "choice",
   "speaker": "",
   "jp": "　ほんとうのことだ\n　信じなくてもいい",
-  "en": ""
+  "en": "It's the truth\n  You don't have to believe me"
  },
  {
   "id": "I_MORI02:0018",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ルーに話したことは、すべてほんとうのことだ。",
-  "en": ""
+  "en": "Everything I told you is the truth, Lou."
  },
  {
   "id": "I_MORI02:0019",
   "kind": "msg",
   "speaker": "翔",
   "jp": "何ひとつウソはついてないよ。",
-  "en": ""
+  "en": "I haven't told a single lie."
  },
  {
   "id": "I_MORI02:0020",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "……そう、ありがと。\nこれで安心して族長にも会わせられるわ。",
-  "en": ""
+  "en": "...I see. Thanks.\nNow I can take you to meet the Chief\nwithout worrying."
  },
  {
   "id": "I_MORI02:0021",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "疑うようなことして、ごめんね、翔。",
-  "en": ""
+  "en": "Sorry for doubting you, Shou."
  },
  {
   "id": "I_MORI02:0022",
   "kind": "msg",
   "speaker": "翔",
   "jp": "別に信じてくれなくていいさ。",
-  "en": ""
+  "en": "You don't have to believe me."
  },
  {
   "id": "I_MORI02:0023",
   "kind": "msg",
   "speaker": "翔",
   "jp": "俺たちもまだ混乱してるしな。",
-  "en": ""
+  "en": "We're still pretty confused ourselves."
  },
  {
   "id": "I_MORI02:0024",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "あ、ごめん……\nそういうつもりじゃなかったんだ。",
-  "en": ""
+  "en": "Ah, sorry...\nThat's not what I meant."
  },
  {
   "id": "I_MORI02:0025",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "でも、族長のところではちゃんと話してね。翔。",
-  "en": ""
+  "en": "But tell the Chief everything properly,\nokay, Shou?"
  }
 ]

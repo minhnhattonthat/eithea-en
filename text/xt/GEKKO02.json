@@ -4,20 +4,20 @@
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "う～ん……\nよくみえないなあ……",
-  "en": ""
+  "en": "Hmm...\nI can't see very well..."
  },
  {
   "id": "GEKKO02:0001",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "う～ん、\nまだ、よく見えないなあ……",
-  "en": ""
+  "en": "Hmm,\nI still can't see very well..."
  },
  {
   "id": "GEKKO02:0002",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "やっぱり、中に入らないと\nダメなのかな……？",
-  "en": ""
+  "en": "Guess I have to go inside\nafter all...?"
  }
 ]

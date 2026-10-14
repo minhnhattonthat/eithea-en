@@ -4,41 +4,41 @@
   "kind": "msg",
   "speaker": "",
   "jp": "おはー",
-  "en": ""
+  "en": "Mornin'~"
  },
  {
   "id": "BAST:0001",
   "kind": "msg",
   "speaker": "",
   "jp": "３",
-  "en": ""
+  "en": "3"
  },
  {
   "id": "BAST:0002",
   "kind": "msg",
   "speaker": "",
   "jp": "６",
-  "en": ""
+  "en": "6"
  },
  {
   "id": "BAST:0003",
   "kind": "msg",
   "speaker": "",
   "jp": "７",
-  "en": ""
+  "en": "7"
  },
  {
   "id": "BAST:0004",
   "kind": "msg",
   "speaker": "",
   "jp": "８",
-  "en": ""
+  "en": "8"
  },
  {
   "id": "BAST:0005",
   "kind": "msg",
   "speaker": "",
   "jp": "Ａパターン",
-  "en": ""
+  "en": "Pattern A"
  }
 ]

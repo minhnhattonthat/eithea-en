@@ -4,195 +4,195 @@
   "kind": "msg",
   "speaker": "",
   "jp": "　イオピロスの塔　６階",
-  "en": ""
+  "en": "Iopiros Tower - 6th Floor"
  },
  {
   "id": "I_TOU6:0001",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ここだな……",
-  "en": ""
+  "en": "This is it..."
  },
  {
   "id": "I_TOU6:0002",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ここって……\nなんにもないじゃない？",
-  "en": ""
+  "en": "This is it...?\nThere's nothing here, though?"
  },
  {
   "id": "I_TOU6:0003",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "まあ、見てな。",
-  "en": ""
+  "en": "Just watch."
  },
  {
   "id": "I_TOU6:0004",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ほれ、この文献に無限の知識が詰まってるんだぜ！",
-  "en": ""
+  "en": "There! This document holds infinite\nknowledge!"
  },
  {
   "id": "I_TOU6:0005",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "これが、文献？\n本には見えないんだけど。",
-  "en": ""
+  "en": "This is the document?\nIt doesn't look like a book."
  },
  {
   "id": "I_TOU6:0006",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "<1>ブック<8>っていってな、\n古代の連中は、こいつを本がわりにしてたんだ。",
-  "en": ""
+  "en": "It's called a <1>Book<8>. Folks in ancient\ntimes used these instead of paper books."
  },
  {
   "id": "I_TOU6:0007",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "こいつを解析すれば、\n新しいエネルギーのヒントがつかめるかもしれん。",
-  "en": ""
+  "en": "If I can analyze this thing, I might find\na hint toward a new energy source."
  },
  {
   "id": "I_TOU6:0008",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "あと、おまえらがもとの世界に帰る手がかりもな。",
-  "en": ""
+  "en": "And maybe a clue for getting you lot back\nto your world, too."
  },
  {
   "id": "I_TOU6:0009",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ほんとう！？",
-  "en": ""
+  "en": "Really!?"
  },
  {
   "id": "I_TOU6:0010",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "まあ、どっちも保証はできんがな……",
-  "en": ""
+  "en": "Mind you, I can't promise either..."
  },
  {
   "id": "I_TOU6:0011",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "<1>ブック<8>を手に入れた。",
-  "en": ""
+  "en": "Got the <1>Book<8>."
  },
  {
   "id": "I_TOU6:0012",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ねえ、\nそっちにあるのって、アーティアじゃないの？",
-  "en": ""
+  "en": "Hey,\nisn't that thing over there an Artia?"
  },
  {
   "id": "I_TOU6:0013",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "でも、何でこんなとこに？",
-  "en": ""
+  "en": "But why would it be here?"
  },
  {
   "id": "I_TOU6:0014",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ねえ、これも持っていったほうが\nいいんじゃないの？",
-  "en": ""
+  "en": "Hey, shouldn't we take this\nwith us too?"
  },
  {
   "id": "I_TOU6:0015",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "ええっ！？\nでも、持ち出すのは文献だけって話だし……",
-  "en": ""
+  "en": "Whaaat!?\nBut we said we'd only take the document..."
  },
  {
   "id": "I_TOU6:0016",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "マズいようだったら返せばいいのよ。",
-  "en": ""
+  "en": "If it's a problem, we can just give it back."
  },
  {
   "id": "I_TOU6:0017",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ブックと関係あるかも知れないしさ、ね？",
-  "en": ""
+  "en": "It might have something to do with the Book,\nright?"
  },
  {
   "id": "I_TOU6:0018",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "うーん<10>…<10>…そうね。\n持っていこっか。",
-  "en": ""
+  "en": "Hmm<10>...<10>...okay.\nLet's take it."
  },
  {
   "id": "I_TOU6:0019",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "それじゃあ翔、持っててくれる？",
-  "en": ""
+  "en": "Then Shou, will you hold onto it?"
  },
  {
   "id": "I_TOU6:0020",
   "kind": "msg",
   "speaker": "ルー",
   "jp": "<1>アーティアスノ<8>を手に入れた！",
-  "en": ""
+  "en": "Got the <1>Artia Snow<8>!"
  },
  {
   "id": "I_TOU6:0021",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "さあ、長居は無用だ。\nとっとと帰ろうぜ。",
-  "en": ""
+  "en": "Right, no sense hanging around.\nLet's get outta here."
  },
  {
   "id": "I_TOU6:0022",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "……ど、どうしたんですか！？",
-  "en": ""
+  "en": "...Wh-What's happening!?"
  },
  {
   "id": "I_TOU6:0023",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "こ、この地響きは……\nもしかして、トラップか？",
-  "en": ""
+  "en": "Th-This rumbling...\nDon't tell me, a trap?"
  },
  {
   "id": "I_TOU6:0024",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ちっくしょお、これが\n最後のトラップってわけか！",
-  "en": ""
+  "en": "Damn it all, so this is\nthe final trap!"
  },
  {
   "id": "I_TOU6:0025",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "翔、気をつけろ！\nそいつは仲間を呼ぶんだ。\nパパッと倒さねえとヤベえぞ！",
-  "en": ""
+  "en": "Shou, careful!\nThat thing calls its buddies.\nTake it down fast or we're in trouble!"
  },
  {
   "id": "I_TOU6:0026",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "助かったぜぇ……",
-  "en": ""
+  "en": "Phew, that saved my hide..."
  },
  {
   "id": "I_TOU6:0027",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "さ、早いとこ塔から出ようぜ！",
-  "en": ""
+  "en": "C'mon, let's get out of this tower, quick!"
  }
 ]

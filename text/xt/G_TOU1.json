@@ -4,20 +4,20 @@
   "kind": "msg",
   "speaker": "",
   "jp": "　　月光の塔　　１階",
-  "en": ""
+  "en": "Moonlight Tower - Floor 1"
  },
  {
   "id": "G_TOU1:0001",
   "kind": "msg",
   "speaker": "",
   "jp": "<1>傷薬<8>を手に入れた！",
-  "en": ""
+  "en": "Got a <1>Salve<8>!"
  },
  {
   "id": "G_TOU1:0002",
   "kind": "msg",
   "speaker": "",
   "jp": "<1>１００ＣＡＮ<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>100 CAN<8>!"
  }
 ]

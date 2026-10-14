@@ -4,48 +4,48 @@
   "kind": "msg",
   "speaker": "",
   "jp": "→　族長の家へ\n←　月光の塔へ",
-  "en": ""
+  "en": "-> To the Chief's House\n<- To the Moonlight Tower"
  },
  {
   "id": "GEKKO01Z:0001",
   "kind": "msg",
   "speaker": "村人",
   "jp": "あら、あなたたち戻ってきたのね。",
-  "en": ""
+  "en": "Oh, you've come back."
  },
  {
   "id": "GEKKO01Z:0002",
   "kind": "msg",
   "speaker": "村人",
   "jp": "どう？　ここはいいところでしょう？",
-  "en": ""
+  "en": "Well? It's a nice place, isn't it?"
  },
  {
   "id": "GEKKO01Z:0003",
   "kind": "msg",
   "speaker": "村人",
   "jp": "銃は大切に使ってる？",
-  "en": ""
+  "en": "Are you taking good care of the gun?"
  },
  {
   "id": "GEKKO01Z:0004",
   "kind": "msg",
   "speaker": "村人",
   "jp": "お願い………それは大切なものなの………",
-  "en": ""
+  "en": "Please... that's something precious..."
  },
  {
   "id": "GEKKO01Z:0005",
   "kind": "msg",
   "speaker": "村人",
   "jp": "あら………あなたたち………",
-  "en": ""
+  "en": "Oh... it's you..."
  },
  {
   "id": "GEKKO01Z:0006",
   "kind": "msg",
   "speaker": "村人",
   "jp": "ふうん………はじめて会ったときより\nたくましくなったわね。",
-  "en": ""
+  "en": "Hmm... you've gotten a lot tougher\nsince we first met."
  }
 ]

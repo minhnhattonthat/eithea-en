@@ -4,167 +4,167 @@
   "kind": "msg",
   "speaker": "",
   "jp": "　　月光の塔　　５階",
-  "en": ""
+  "en": "Moonlight Tower - Floor 5"
  },
  {
   "id": "G_TOU5:0001",
   "kind": "msg",
   "speaker": "",
   "jp": "<1>３００ＣＡＮ<8>を手に入れた！",
-  "en": ""
+  "en": "Got <1>300 CAN<8>!"
  },
  {
   "id": "G_TOU5:0002",
   "kind": "msg",
   "speaker": "",
   "jp": "<1>力の秘薬<8>を手に入れた！",
-  "en": ""
+  "en": "Got a <1>Power Elixir<8>!"
  },
  {
   "id": "G_TOU5:0003",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……翔、ちょっといい？",
-  "en": ""
+  "en": "...Shou, got a minute?"
  },
  {
   "id": "G_TOU5:0004",
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "G_TOU5:0005",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……あのね、\n翔はもとの世界のこと、思い出すこと、ある？",
-  "en": ""
+  "en": "...Um, Shou,\ndo you ever think about our world back home?"
  },
  {
   "id": "G_TOU5:0006",
   "kind": "choice",
   "speaker": "",
   "jp": "　ある\n　最近は特に……",
-  "en": ""
+  "en": "Sometimes\nEspecially lately..."
  },
  {
   "id": "G_TOU5:0007",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……なんでだろう？\nさっき、もとの世界のこと、思い出しちゃったの……",
-  "en": ""
+  "en": "...I wonder why?\nJust now, I started remembering home..."
  },
  {
   "id": "G_TOU5:0008",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "そしたらさ、さびしくなって……",
-  "en": ""
+  "en": "And then I got all lonely..."
  },
  {
   "id": "G_TOU5:0009",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "翔やみんなもいるのに、\nすごくさびしくなって……",
-  "en": ""
+  "en": "Even with you and everyone here,\nI got really, really lonely..."
  },
  {
   "id": "G_TOU5:0010",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "<10>…<10>…お父さんとお母さん、元気かなあ？",
-  "en": ""
+  "en": "<10>..<10>..I wonder if Mom and Dad are okay?"
  },
  {
   "id": "G_TOU5:0011",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "やっぱり心配してるんだろうね……",
-  "en": ""
+  "en": "They must be worried sick..."
  },
  {
   "id": "G_TOU5:0012",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "早く帰ろうね。\nもとの世界へ、みんなでいっしょに……",
-  "en": ""
+  "en": "Let's hurry home.\nBack to our world, all of us together..."
  },
  {
   "id": "G_TOU5:0013",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "<10>…<10>…そうなんだ。\n翔はもう、思い出さないんだ。",
-  "en": ""
+  "en": "<10>..<10>..I see.\nSo you don't think about it anymore, Shou."
  },
  {
   "id": "G_TOU5:0014",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "いいなあ……\n私も翔みたいになれたら、\nツラくなくていいのになあ……",
-  "en": ""
+  "en": "Lucky...\nIf only I could be more like you, Shou,\nthen it wouldn't hurt so much..."
  },
  {
   "id": "G_TOU5:0015",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "新見くん、ちょっといい？",
-  "en": ""
+  "en": "Niimi-kun, do you have a moment?"
  },
  {
   "id": "G_TOU5:0016",
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "G_TOU5:0017",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "そういえばさっき村の人に聞いたんだけど、\nこの塔の先に小さな泉があるんですって？",
-  "en": ""
+  "en": "One of the villagers told me earlier that\nthere's a little spring past this tower."
  },
  {
   "id": "G_TOU5:0018",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "エレボタルを倒したら、\nそこで水浴びをしてもいいかしら？",
-  "en": ""
+  "en": "Once we've beaten the Ele Fireflies,\nwould it be all right if I bathed there?"
  },
  {
   "id": "G_TOU5:0019",
   "kind": "choice",
   "speaker": "",
   "jp": "　いいですよ\n　やめたほうがいい",
-  "en": ""
+  "en": "Sure, go ahead\nBetter not"
  },
  {
   "id": "G_TOU5:0020",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "ありがとう。\n水浴びなんて、ひさしぶりだわ。",
-  "en": ""
+  "en": "Thank you.\nIt's been ages since I've had a bath."
  },
  {
   "id": "G_TOU5:0021",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "冷たい水が肌に気持ちいいの。\n<10>…<10>…あら？　うふふふ、新見くん、顔が赤いわよ。",
-  "en": ""
+  "en": "Cool water feels so nice on the skin.\n<10>..<10>..Oh? Ufufu, Niimi-kun,\nyour face is all red."
  },
  {
   "id": "G_TOU5:0022",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "何を想像してるのかしら？",
-  "en": ""
+  "en": "Now what are you imagining, I wonder?"
  },
  {
   "id": "G_TOU5:0023",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "……そうよね。\n一度村の人に聞いてからにするわ。",
-  "en": ""
+  "en": "...You're right.\nI'll ask the villagers about it first."
  }
 ]

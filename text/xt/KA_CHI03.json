@@ -11,7 +11,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "KA_CHI03:0002",
@@ -53,7 +53,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "KA_CHI03:0008",
@@ -74,7 +74,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "KA_CHI03:0011",
@@ -151,7 +151,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　話をする\n　話をしない",
-  "en": ""
+  "en": "Talk\nDon't talk"
  },
  {
   "id": "KA_CHI03:0022",
@@ -242,6 +242,6 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "<1>守りの秘薬<8>を手に入れた！",
-  "en": ""
+  "en": "Got an <1>Elixir of Protection<8>!"
  }
 ]

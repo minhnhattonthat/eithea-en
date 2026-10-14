@@ -145,7 +145,8 @@ def enc_en(en, kind, speaker=""):
     """<p> = extra message page: 」 hcls 〈speaker〉 「 (hcls waits for the button and clears the name box)."""
     pre = "　".encode("cp932") if kind == "choice" else b""
     sep = f"」\r\nhcls\r\n{f'〈{speaker}〉' + chr(13) + chr(10) if speaker else ''}「".encode("cp932")
-    return sep.join(b"\r\n".join(pre + enc_line(l) for l in page.split("\n")) for page in en.split("<p>"))
+    fix = (lambda l: l.lstrip(" ")) if kind == "choice" else (lambda l: l)   # cursor cell is the 0x8140 prefix
+    return sep.join(b"\r\n".join(pre + enc_line(fix(l)) for l in page.split("\n")) for page in en.split("<p>"))
 
 
 def line_chars(s):
@@ -179,6 +180,19 @@ def lint(row, nexthcls=True):
         if kind == "msg" and len(lines) > max(3, jl):
             errs.append(f"{len(lines)} lines > 3 (use <p> for a new box)")
         lim = LIMIT[kind]
+        if kind == "choice":
+            # command_select grid: 3 rows per column, column 2's cursor cell is cell 13 -> its text starts at char 26
+            for k, (l, j) in enumerate(zip(lines, jp.split("\n"))):
+                s = l.lstrip(" ")
+                two = re.search(r"\S[　 ]{2,}\S", j.strip("　 "))
+                m = re.match(r"(.*?\S) {2,}(\S.*)$", s)
+                if two and not (m and len(s) - len(m.group(2)) == 26):
+                    errs.append(f"choice line {k + 1}: 2nd option must start at char 26 (pad column 1 with spaces)")
+                elif two and (line_chars(s) > 46 or len(m.group(1)) > 24):
+                    errs.append(f"choice line {k + 1}: column 1 <= 24 chars, whole line <= 46")
+                elif not two and line_chars(s) > 44:
+                    errs.append(f"choice line {k + 1} is {line_chars(s)} chars > 44")
+            continue
         for k, l in enumerate(lines):
             m = lim[min(k, len(lim) - 1)] if not (kind == "msg" and k == 2) else lim[-1]
             if line_chars(l) > m:
