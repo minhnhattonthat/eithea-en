@@ -141,10 +141,49 @@ def visible_len(s):
     return n + sum(1 for _ in TAG.finditer(s))  # worst case: each code costs one padding space
 
 
-def enc_en(en, kind):
-    lines = en.split("\n")
+def enc_en(en, kind, speaker=""):
+    """<p> = extra message page: 」 hcls 〈speaker〉 「 (hcls waits for the button and clears the name box)."""
     pre = "　".encode("cp932") if kind == "choice" else b""
-    return b"\r\n".join(pre + enc_line(l) for l in lines)
+    sep = f"」\r\nhcls\r\n{f'〈{speaker}〉' + chr(13) + chr(10) if speaker else ''}「".encode("cp932")
+    return sep.join(b"\r\n".join(pre + enc_line(l) for l in page.split("\n")) for page in en.split("<p>"))
+
+
+def line_chars(s):
+    """on-screen chars of one English line after pair padding."""
+    return sum(2 for k in range(0, len(enc_line(s)), 2) if enc_line(s)[k] != 0x87)
+
+
+LIMIT = {"msg": (46, 46, 44), "choice": (44,), "mono": (48,)}   # chars per line by line index (last repeats)
+
+
+def lint(row, nexthcls=True):
+    """error strings for one row's English."""
+    en, jp, kind = row["en"], row["jp"], row["kind"]
+    errs = []
+    if not en:
+        return errs
+    bad = set(TAG.sub("", en.replace("<p>", ""))) - font.CHARS - {"\n"}
+    if bad:
+        errs.append(f"bad chars {''.join(sorted(bad))!r}")
+    tags = lambda s: sorted(t for t in TAG.findall(s) if t != "10")
+    if tags(en) != tags(jp):
+        errs.append(f"inline codes {tags(en)} != jp {tags(jp)}")
+    pages = en.split("<p>")
+    if len(pages) > 1 and (kind != "msg" or not nexthcls):
+        errs.append("<p> only allowed in plain message boxes")
+    jl = jp.count("\n") + 1
+    for page in pages:
+        lines = page.split("\n")
+        if kind == "choice" and len(lines) != jl:
+            errs.append(f"choice needs exactly {jl} lines")
+        if kind == "msg" and len(lines) > max(3, jl):
+            errs.append(f"{len(lines)} lines > 3 (use <p> for a new box)")
+        lim = LIMIT[kind]
+        for k, l in enumerate(lines):
+            m = lim[min(k, len(lim) - 1)] if not (kind == "msg" and k == 2) else lim[-1]
+            if line_chars(l) > m:
+                errs.append(f"line {k + 1} is {line_chars(l)} chars > {m}: {l[:30]!r}...")
+    return errs
 
 
 def parse(b):
@@ -161,7 +200,8 @@ def parse(b):
         mc = b.rfind(b"map_change", 0, s)
         if kind == "msg" and mc >= 0 and b"MONO" in b[mc:b.find(b"\r\n", mc)] and b"open_meswindow" not in b[mc:s]:
             kind = "mono"   # monologue drawn as pre-rendered map graphics (MONO*.P), not the message window
-        ents.append(dict(kind=kind, start=s, end=e, jp=to_text(b[s:e]), speaker=speaker if kind == "msg" else ""))
+        ents.append(dict(kind=kind, start=s, end=e, jp=to_text(b[s:e]), speaker=speaker if kind == "msg" else "",
+                         nexthcls=bool(re.match(rb"[^\r\n]*\r\n\s*hcls", after))))
     return ents
 
 
@@ -198,7 +238,7 @@ def insert(b, rows, mode="en"):
         elif mode == "marker":
             out.append(enc_en(marker(r), r["kind"]))
         elif r["en"]:
-            out.append(enc_en(r["en"], r["kind"]))
+            out.append(enc_en(r["en"], r["kind"], e["speaker"]))
         else:
             out.append(b[e["start"]:e["end"]])
         pos = e["end"]

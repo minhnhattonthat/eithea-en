@@ -68,8 +68,10 @@ G = {
     # '{' and '}' are repurposed: write the Unicode symbol in the English text
     '♪': "...##/...##/...#./...#./...#./.###./####./.##..", '♥': "...../.#.#./#####/#####/#####/.###./..#..",
 }
-ALIAS = {'♪': '{', '♥': '}', '…': None}  # Unicode -> slot char; '…' is rejected (write "...")
-CHARS = {chr(0x20 + i) for i in range(94)} - {'{', '}'} | set(ALIAS) - {'…'}
+G['é'] = "...#./..#../...../.###./#...#/#####/#..../.###."
+G['~'] = "...../...../...../.#..#/#.#.#/#..#."
+ALIAS = {'♪': '{', '♥': '}', 'é': '`', '~': '|', '…': None}  # Unicode -> slot char; '…' rejected (write "...")
+CHARS = {chr(0x20 + i) for i in range(94)} - {'{', '}', '`', '|'} | set(ALIAS) - {'…'}
 
 
 def half(ch):

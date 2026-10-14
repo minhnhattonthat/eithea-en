@@ -15,7 +15,7 @@ P = font.pair
 def test_pair_roundtrip_and_sjis_safe():
     for a in range(0x20, 0x7E):
         for b in range(0x20, 0x7E):
-            if chr(a) in "{}" or chr(b) in "{}":
+            if chr(a) in "{}`|" or chr(b) in "{}`|":
                 continue
             p = P(chr(a), chr(b))
             assert font.unpair(*p) == chr(a) + chr(b)

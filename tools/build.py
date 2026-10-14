@@ -22,11 +22,13 @@ mk = root / "tools" / "mkpsxiso-2.30-win64" / "mkpsxiso.exe"
 QA_VOICE = re.compile(rb"^[ \t]*(?:voice(?:_start|_wait|_stop)?\b[^\r\n]*(?:\r\n)?|(hcls)[ \t]+V[LT]\d+[^\r\n]*)", re.M)
 
 
-def edit(items, qa_novoice, overrides=()):
+def edit(items, qa_novoice, overrides=(), scripts=None):
     out = []
     ov = dict(o.split("=", 1) for o in overrides)  # NAME.TYPE (e.g. IVENT01.XT) -> replacement file
     for name, typ, data in items:
         key = f"{name.rstrip()}.{typ.rstrip()}"
+        if scripts and typ == "XT" and name.rstrip() in scripts:
+            data = scripts[name.rstrip()]
         if key in ov:
             data = pathlib.Path(ov[key]).read_bytes()
         if qa_novoice and typ == "XT":
@@ -35,7 +37,7 @@ def edit(items, qa_novoice, overrides=()):
     return out
 
 
-def build(n, out, qa_novoice=False, overrides=(), english=False):
+def build(n, out, qa_novoice=False, overrides=(), english=False, marker=False):
     w = root / "work" / f"d{n}"
     tree = out / f"tree{n}"
     if tree.exists():
@@ -48,7 +50,11 @@ def build(n, out, qa_novoice=False, overrides=(), english=False):
         shutil.copy(fb / "EITHEA.EXE", tree / "EITHEA.EXE")
         overrides = [f"KANJI.IN={fb / 'KANJI.IN'}", f"KANJI.BL={fb / 'KANJI.BL'}", *overrides]
     cd = w / "tree" / "CD_DATA"
-    items = edit(bind.split((cd / "BIND.TBL").read_bytes(), (cd / "BIND.DAT").read_bytes()), qa_novoice, overrides)
+    scripts = None
+    if english:  # translated XT scripts (text/xt/*.json); mode "marker" shows ids instead
+        import text
+        scripts = {nm: b for (d, nm), b in text.files(marker and "marker" or "en").items() if d == f"d{n}"}
+    items = edit(bind.split((cd / "BIND.TBL").read_bytes(), (cd / "BIND.DAT").read_bytes()), qa_novoice, overrides, scripts)
     tbl, dat = bind.join(items)
     (tree / "CD_DATA" / "BIND.TBL").write_bytes(tbl)
     (tree / "CD_DATA" / "BIND.DAT").write_bytes(dat)
@@ -65,8 +71,9 @@ if __name__ == "__main__":
     ap.add_argument("--qa-novoice", action="store_true")
     ap.add_argument("--out", default=str(root / "work" / "build"))
     ap.add_argument("--override", action="append", default=[], help="NAME.TYPE=FILE replaces that archive file")
-    ap.add_argument("--english", action="store_true", help="apply the English font engine patch")
+    ap.add_argument("--english", action="store_true", help="English font engine patch + translated scripts")
+    ap.add_argument("--marker", action="store_true", help="with --english: every script block shows its id")
     a = ap.parse_args()
     o = pathlib.Path(a.out)
     o.mkdir(parents=True, exist_ok=True)
-    build(a.disc, o, a.qa_novoice, a.override, a.english)
+    build(a.disc, o, a.qa_novoice, a.override, a.english, a.marker)

@@ -4,594 +4,594 @@
   "kind": "mono",
   "speaker": "",
   "jp": "俺の名前は翔。　新見　翔だ。",
-  "en": ""
+  "en": "My name is Shou. Shou Niimi."
  },
  {
   "id": "IVENT01:0001",
   "kind": "mono",
   "speaker": "",
   "jp": "俺は赤ん坊の頃、今通っている明神高校の門の前に、\n誰も見た事がない奇妙な木の葉に包まれて\n捨てられていたそうだ。",
-  "en": ""
+  "en": "When I was a baby, I was found abandoned at the\ngate of Myoujin High School, where I go now,\nwrapped in strange leaves no one had ever seen."
  },
  {
   "id": "IVENT01:0002",
   "kind": "mono",
   "speaker": "",
   "jp": "色々な人が八方手を尽くして探してくれたけど、\n両親はおろか心当たりのある人さえ\n見つからなかった。",
-  "en": ""
+  "en": "Lots of people went to great lengths to search,\nbut they never found my parents, or even anyone\nwho knew anything about me."
  },
  {
   "id": "IVENT01:0003",
   "kind": "mono",
   "speaker": "",
   "jp": "結局、俺は学校の側にある今の両親の元に\n引き取られ、この歳まで育てられた。",
-  "en": ""
+  "en": "In the end, my current parents, who live near\nthe school, took me in and raised me."
  },
  {
   "id": "IVENT01:0004",
   "kind": "mono",
   "speaker": "",
   "jp": "だけどそれを除くと俺はどこにでもいる、\nごく平凡な高校生だった。",
-  "en": ""
+  "en": "But apart from that, I was just an ordinary\nhigh school kid, the kind you'd find anywhere."
  },
  {
   "id": "IVENT01:0005",
   "kind": "mono",
   "speaker": "",
   "jp": "そう、あの日までは……",
-  "en": ""
+  "en": "Yeah... until that day."
  },
  {
   "id": "IVENT01:0006",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "……そしたら<3>吉永<8>先生、なんて言うたと思う？\n『斉藤くん！今度こんな事をやったら停学ものよ！』\nやて。",
-  "en": ""
+  "en": "...So then <3>Yoshinaga<8>-sensei goes, guess what?\n\"Saitou-kun! Do that again and you're getting\nsuspended!\" Can ya believe it?"
  },
  {
   "id": "IVENT01:0007",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "単なるお茶目に\nそんな目くじら立てる事はあらへんやろになぁ？",
-  "en": ""
+  "en": "All that fuss over a little harmless fun?\nGimme a break, right?"
  },
  {
   "id": "IVENT01:0008",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ははは。\nだけどそれは<3>ヒトシ<8>が悪いな。",
-  "en": ""
+  "en": "Hahaha.\nBut that one's on you, <3>Hitoshi<8>."
  },
  {
   "id": "IVENT01:0009",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "なんや<3>翔<8>も先生の味方かいな。\nまったく美人は得やなぁ。",
-  "en": ""
+  "en": "What, you're on the teacher's side too, <3>Shou<8>?\nMan, pretty women get away with everything."
  },
  {
   "id": "IVENT01:0010",
   "kind": "msg",
   "speaker": "校内放送",
   "jp": "下校の時刻になりました。\n校舎に残っている生徒はすぐに下校しましょう。",
-  "en": ""
+  "en": "It is now time to go home.\nAll students still in the school building,\nplease leave immediately."
  },
  {
   "id": "IVENT01:0011",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "おっ、もうこないな時間か。\nそろそろ帰ろか、翔。\nはよせんと校門が閉まってまうで。",
-  "en": ""
+  "en": "Whoa, it's that late already?\nGuess we oughta head home, Shou.\nHurry, or they'll lock the gate on us."
  },
  {
   "id": "IVENT01:0012",
   "kind": "msg",
   "speaker": "翔",
   "jp": "あぁ、そうだな。\n……そういえば、<3>学<8>はどうした？",
-  "en": ""
+  "en": "Yeah, you're right.\n...Come to think of it, where's <3>Manabu<8>?"
  },
  {
   "id": "IVENT01:0013",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "そやな。　<1>写真部<8>の取材で、\nなんや大スクープがあるとか言うて、\n飛び出していったきりやな……",
-  "en": ""
+  "en": "Oh, him. He ran off yappin' about some huge\nscoop for the <1>Photography Club<8>, and that's\nthe last I saw of him..."
  },
  {
   "id": "IVENT01:0014",
   "kind": "msg",
   "speaker": "翔",
   "jp": "スクープ？",
-  "en": ""
+  "en": "A scoop?"
  },
  {
   "id": "IVENT01:0015",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "こら！！　早く帰りなさい！！",
-  "en": ""
+  "en": "Hey!! Go home, right now!!"
  },
  {
   "id": "IVENT01:0016",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "は、はい。\n今帰りますんで……と、なんや<3>ユカ<8>かいな。",
-  "en": ""
+  "en": "Y-Yes ma'am.\nWe're leavin' right now... Oh, it's just <3>Yuka<8>."
  },
  {
   "id": "IVENT01:0017",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "なんだはないでしょなんだは。　いったい、いつまで\n学校にいるつもり？　そんなに学校が好きなら、\nもうちょっと勉強したらいいじゃないの。",
-  "en": ""
+  "en": "What do you mean, \"just\"? How long are you\nplanning to hang around school? If you love\nit so much, maybe try studying for once."
  },
  {
   "id": "IVENT01:0018",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "そういうユカはなんで残ってんねん。",
-  "en": ""
+  "en": "So why're you still here, Yuka?"
  },
  {
   "id": "IVENT01:0019",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "週番だからに決まってるでしょ！\nあんたたちが帰らないと仕事が終わらないの。\n校門も閉められないし、さっさと帰った帰った！！",
-  "en": ""
+  "en": "Because I'm on duty this week, obviously!\nI can't finish my job until you guys leave,\nor lock the gate. Now go home! Go, go!!"
  },
  {
   "id": "IVENT01:0020",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "まったく、そないに邪険にせんでもええやないか！",
-  "en": ""
+  "en": "Geez, ya don't have to be so mean about it!"
  },
  {
   "id": "IVENT01:0021",
   "kind": "msg",
   "speaker": "翔",
   "jp": "それじゃ、帰るとしようか。\nじゃあな、ユカ。　また、明日……",
-  "en": ""
+  "en": "Well, guess we'll head home.\nSee you, Yuka. Tomorrow, then..."
  },
  {
   "id": "IVENT01:0022",
   "kind": "msg",
   "speaker": "学",
   "jp": "スクープ、スクープ！！\n大スクープ発覚だよ！！　みんな！！",
-  "en": ""
+  "en": "A scoop, a scoop!!\nI've uncovered a huge scoop, everyone!!"
  },
  {
   "id": "IVENT01:0023",
   "kind": "msg",
   "speaker": "学",
   "jp": "あれ、みんなは？",
-  "en": ""
+  "en": "Huh? Where is everybody?"
  },
  {
   "id": "IVENT01:0024",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "今、何時や思うとるんや。\nこんな時間に学校に残っとるんは、\n俺らみたいな勉強熱心な優等生だけやで。",
-  "en": ""
+  "en": "What time d'ya think it is?\nThe only ones still at school this late are\nmodel students like us who love studyin'."
  },
  {
   "id": "IVENT01:0025",
   "kind": "msg",
   "speaker": "学",
   "jp": "そんな事よりも、大スクープだよ。\nみんな！！　<3>伊藤<8>さんが……",
-  "en": ""
+  "en": "Never mind that, it's a huge scoop,\neveryone!! <3>Itou<8>-san is..."
  },
  {
   "id": "IVENT01:0026",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "<3>ひかる<8>がどうかしたの！？",
-  "en": ""
+  "en": "What about <3>Hikaru<8>!?"
  },
  {
   "id": "IVENT01:0027",
   "kind": "msg",
   "speaker": "学",
   "jp": "うん、その伊藤さんが\n堀尾学園に転校するのが確実になったみたいなんだ！",
-  "en": ""
+  "en": "Yeah, Itou-san... It looks like it's official.\nShe's transferring to Horio Academy!"
  },
  {
   "id": "IVENT01:0028",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "……そう。\nホントだったんだ……",
-  "en": ""
+  "en": "...I see.\nSo it was true..."
  },
  {
   "id": "IVENT01:0029",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "学、堀尾学園っていうからにはやっぱり……？",
-  "en": ""
+  "en": "Manabu, if it's Horio Academy, then that\nmeans...?"
  },
  {
   "id": "IVENT01:0030",
   "kind": "msg",
   "speaker": "学",
   "jp": "うん、たぶん間違いないね！\nこれはうちの学校、始まって以来の大ニュースだよ！",
-  "en": ""
+  "en": "Yep, no doubt about it!\nThis is the biggest news since our school\nwas founded!"
  },
  {
   "id": "IVENT01:0031",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "さっきから聞いていれば、なに浮かれてるのよ二人\nとも。少しはひかるの気持ちも考えてみたらどうな\nの？まったくデリカシーってもんがないんだから！",
-  "en": ""
+  "en": "You two have been gushing this whole time.\nWhy don't you try thinking about how Hikaru\nfeels? You have zero tact, honestly!"
  },
  {
   "id": "IVENT01:0032",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "そやけどなぁ、ユカ。　考えてもみい、\n堀尾学園やで堀尾学園！！　これで未来の\nビッグアイドルに決まったも同然やないか！",
-  "en": ""
+  "en": "Yeah, but Yuka. Think about it.\nHorio Academy! Horio Academy!! That's as good\nas a ticket to being a big-time idol!"
  },
  {
   "id": "IVENT01:0033",
   "kind": "msg",
   "speaker": "翔",
   "jp": "……なんで堀尾学園に行くと、\nアイドルになるんだよ？",
-  "en": ""
+  "en": "...Why does going to Horio Academy\nmake you an idol?"
  },
  {
   "id": "IVENT01:0034",
   "kind": "msg",
   "speaker": "学",
   "jp": "翔くん、知らないの？\n堀尾学園っていうのはさ、",
-  "en": ""
+  "en": "You don't know, Shou-kun?\nHorio Academy is..."
  },
  {
   "id": "IVENT01:0035",
   "kind": "msg",
   "speaker": "学",
   "jp": "少人数の全寮制で芸能科だけ。\nつまり生徒はみ～んな将来のデビューが\n約束されているようなもんなんだ。",
-  "en": ""
+  "en": "A small boarding school with nothing but a\nperforming arts course. Basically, every\nstudent's debut is as good as guaranteed."
  },
  {
   "id": "IVENT01:0036",
   "kind": "msg",
   "speaker": "翔",
   "jp": "へぇ、そんな凄い学校に伊藤さんがねぇ……\nユカ、知っていたのか？",
-  "en": ""
+  "en": "Huh. So Itou-san's going to a school like\nthat... Yuka, did you know?"
  },
  {
   "id": "IVENT01:0037",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ううん。　<10>…<10>…<10>なんかオーディションには\n合格したって話は聞いていたんだけど……\n転校は、私も噂だけで……",
-  "en": ""
+  "en": "No.<10>..<10>..<10> I heard she passed some audition,\nbut... the transfer was just a rumor,\neven to me..."
  },
  {
   "id": "IVENT01:0038",
   "kind": "msg",
   "speaker": "翔",
   "jp": "そうか……",
-  "en": ""
+  "en": "I see..."
  },
  {
   "id": "IVENT01:0039",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "あら、まだ残っていたの？",
-  "en": ""
+  "en": "Oh my, you're still here?"
  },
  {
   "id": "IVENT01:0040",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "新見くんや斉藤くんが\nそんなに勉強熱心だとは知らなかったわ。\nもう校内には誰も残っていないわよ。",
-  "en": ""
+  "en": "I had no idea Niimi-kun and Saitou-kun\nwere so devoted to their studies.\nThere's no one else left in the building."
  },
  {
   "id": "IVENT01:0041",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "あ、吉永先生！！\n今すぐ、帰りますさかい。",
-  "en": ""
+  "en": "Ah, Yoshinaga-sensei!!\nWe're leavin' right this second."
  },
  {
   "id": "IVENT01:0042",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "いいのよ、ちょうどよかったわ。\n伊藤さん、入ってらっしゃい。",
-  "en": ""
+  "en": "It's all right. Actually, this is good timing.\nItou-san, come in."
  },
  {
   "id": "IVENT01:0043",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "は、はい。",
-  "en": ""
+  "en": "Y-Yes."
  },
  {
   "id": "IVENT01:0044",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "高木くんからある程度は聞いてるかと思うけど、\n伊藤さんが堀尾学園のほうへ転校する事になったわ。",
-  "en": ""
+  "en": "I imagine Takagi-kun has told you some of\nthis already, but Itou-san will be\ntransferring to Horio Academy."
  },
  {
   "id": "IVENT01:0045",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "転校自体、急遽、決まったうえ、\nすぐに寮に入らなければならないので、\n伊藤さんは明日から登校する事が出来ないの。",
-  "en": ""
+  "en": "It was decided very suddenly, and she has to\nmove into the dormitory right away, so she\nwon't be coming to school from tomorrow."
  },
  {
   "id": "IVENT01:0046",
   "kind": "msg",
   "speaker": "翔",
   "jp": "それはまた突然だな……",
-  "en": ""
+  "en": "That's pretty sudden..."
  },
  {
   "id": "IVENT01:0047",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "本当はクラスのみんなにも\nきちんとした形で挨拶したかったそうだけど……",
-  "en": ""
+  "en": "She really wanted to say a proper goodbye\nto the whole class, but..."
  },
  {
   "id": "IVENT01:0048",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "そういう事情だから、\nとりあえずはまだ残っている人がいれば、\nその人たちだけにでもと思ってね……",
-  "en": ""
+  "en": "Under the circumstances, I thought she could\nat least say it to whoever was still here..."
  },
  {
   "id": "IVENT01:0049",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "そうよね、伊藤さん。",
-  "en": ""
+  "en": "Isn't that right, Itou-san?"
  },
  {
   "id": "IVENT01:0050",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "あ、はい……　わたし、その……\nみんなとあんまり親しくお話したり、\n遊んだりする事は出来ませんでしたけど……",
-  "en": ""
+  "en": "Ah, yes... I, um...\nI never really got to talk much with all\nof you, or hang out together, but..."
  },
  {
   "id": "IVENT01:0051",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "でも、みんなの事は\n新しい学校に行っても忘れません。",
-  "en": ""
+  "en": "I won't forget any of you,\neven at my new school."
  },
  {
   "id": "IVENT01:0052",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "本当に、今日までありがとう……",
-  "en": ""
+  "en": "Thank you for everything, up until today..."
  },
  {
   "id": "IVENT01:0053",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "それじゃあ、\nロッカーの中の荷物を片付けちゃいましょう。",
-  "en": ""
+  "en": "Well then,\nlet's clear out the things in your locker."
  },
  {
   "id": "IVENT01:0054",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "翔、どうしてあの子、\n私に話してくれなかったのかしら……",
-  "en": ""
+  "en": "Shou, why didn't she\ntell me about it...?"
  },
  {
   "id": "IVENT01:0055",
   "kind": "msg",
   "speaker": "翔",
   "jp": "色々と事情があるんだろう。\n今日にでも電話して聞いてみたらどうだ？",
-  "en": ""
+  "en": "She must have her reasons.\nWhy not call her tonight and ask?"
  },
  {
   "id": "IVENT01:0056",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "そうだね……",
-  "en": ""
+  "en": "I guess so..."
  },
  {
   "id": "IVENT01:0057",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "あ、あの……\nユカ……",
-  "en": ""
+  "en": "Um, er...\nYuka..."
  },
  {
   "id": "IVENT01:0058",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ひかる……",
-  "en": ""
+  "en": "Hikaru..."
  },
  {
   "id": "IVENT01:0059",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "わたし、その……\nユカには話そうと思っていたんだけど……",
-  "en": ""
+  "en": "I, um...\nI was going to tell you, Yuka, but..."
  },
  {
   "id": "IVENT01:0060",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "う、うん。　気にしないで。\n頑張ってね。　応援してるから。",
-  "en": ""
+  "en": "Y-Yeah. Don't worry about it.\nGood luck. I'm rooting for you."
  },
  {
   "id": "IVENT01:0061",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "うん……それと、その……新見くん……",
-  "en": ""
+  "en": "Okay... And, um... Niimi-kun..."
  },
  {
   "id": "IVENT01:0062",
   "kind": "msg",
   "speaker": "翔",
   "jp": "うん、俺？",
-  "en": ""
+  "en": "Hm, me?"
  },
  {
   "id": "IVENT01:0063",
   "kind": "msg",
   "speaker": "ひかる",
   "jp": "うん、その新見くん……\nわたし、その……",
-  "en": ""
+  "en": "Yes, um, Niimi-kun...\nI, um..."
  },
  {
   "id": "IVENT01:0064",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ん、なんだ。いったい？",
-  "en": ""
+  "en": "Hm? What is it?"
  },
  {
   "id": "IVENT01:0065",
   "kind": "msg",
   "speaker": "ヒトシ",
   "jp": "地、地震！？",
-  "en": ""
+  "en": "A-An earthquake!?"
  },
  {
   "id": "IVENT01:0066",
   "kind": "msg",
   "speaker": "学",
   "jp": "うわぁあ、地震だ！",
-  "en": ""
+  "en": "Whoaaa, it's an earthquake!"
  },
  {
   "id": "IVENT01:0067",
   "kind": "msg",
   "speaker": "秋穂",
   "jp": "みんな、落ち着いて！！",
-  "en": ""
+  "en": "Everyone, stay calm!!"
  },
  {
   "id": "IVENT01:0068",
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "きゃあ～～！！",
-  "en": ""
+  "en": "Kyaaah!!"
  },
  {
   "id": "IVENT01:0069",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ん……？\nここはどこだ？\n俺、何をしていたんだっけ……？",
-  "en": ""
+  "en": "Hm...?\nWhere am I?\nWhat was I doing...?"
  },
  {
   "id": "IVENT01:0070",
   "kind": "msg",
   "speaker": "翔",
   "jp": "お～～い！　みんな、どこ行った！！\n学、ヒトシ、ユカ！！　返事をしてくれ！！",
-  "en": ""
+  "en": "Heeey! Everyone, where'd you go!!\nManabu, Hitoshi, Yuka!! Answer me!!"
  },
  {
   "id": "IVENT01:0071",
   "kind": "msg",
   "speaker": "翔",
   "jp": "おかしいな……\n先生が伊藤さんを連れてきて、そうしたら……\nそうだ、地震があったんだ。それで……それで……",
-  "en": ""
+  "en": "That's weird...\nSensei brought Itou-san in, and then...\nRight, there was an earthquake. And then..."
  },
  {
   "id": "IVENT01:0072",
   "kind": "msg",
   "speaker": "翔",
   "jp": "まさか……あのまま天井に押しつぶされて……",
-  "en": ""
+  "en": "Don't tell me... we got crushed under\nthe ceiling..."
  },
  {
   "id": "IVENT01:0073",
   "kind": "msg",
   "speaker": "翔",
   "jp": "俺、死んだのか？",
-  "en": ""
+  "en": "Am I... dead?"
  },
  {
   "id": "IVENT01:0074",
   "kind": "msg",
   "speaker": "翔",
   "jp": "ユカやみんなは無事かな……",
-  "en": ""
+  "en": "I hope Yuka and the others are okay..."
  },
  {
   "id": "IVENT01:0075",
   "kind": "msg",
   "speaker": "翔",
   "jp": "誰だ！？",
-  "en": ""
+  "en": "Who's there!?"
  },
  {
   "id": "IVENT01:0076",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "なにもたもたしているんだ。　おいてくぞ！",
-  "en": ""
+  "en": "Why are you dawdling? I'm leaving without you!"
  },
  {
   "id": "IVENT01:0077",
   "kind": "msg",
   "speaker": "翔",
   "jp": "置いていくって……、どこへ行くんだ？",
-  "en": ""
+  "en": "Leave me...? Where are you going?"
  },
  {
   "id": "IVENT01:0078",
   "kind": "msg",
   "speaker": "？？？",
   "jp": "決まっているじゃないか。\n<1>アイシア<8>を、<1>エレの樹<8>を助けるんだ！",
-  "en": ""
+  "en": "Isn't it obvious?\nWe're going to save <1>Eithéa<8>, the <1>Ele Tree<8>!"
  },
  {
   "id": "IVENT01:0079",
   "kind": "msg",
   "speaker": "翔",
   "jp": "アイシア？　エレの樹？　なんだそりゃ。\nおいまってくれ！！",
-  "en": ""
+  "en": "Eithéa? Ele Tree? What're you talking about?\nHey, wait up!!"
  },
  {
   "id": "IVENT01:0080",
   "kind": "msg",
   "speaker": "翔",
   "jp": "うっ！？",
-  "en": ""
+  "en": "Ugh!?"
  },
  {
   "id": "IVENT01:0081",
   "kind": "msg",
   "speaker": "翔",
   "jp": "お～～い！！",
-  "en": ""
+  "en": "Heeey!!"
  },
  {
   "id": "IVENT01:0082",
   "kind": "msg",
   "speaker": "翔",
   "jp": "なんだったんだ、今の子は……\nどこに行った？",
-  "en": ""
+  "en": "What was that kid just now...?\nWhere did they go?"
  },
  {
   "id": "IVENT01:0083",
   "kind": "msg",
   "speaker": "翔",
   "jp": "アイシア？　エレの樹……？",
-  "en": ""
+  "en": "Eithéa? Ele Tree...?"
  },
  {
   "id": "IVENT01:0084",
   "kind": "msg",
   "speaker": "翔",
   "jp": "俺はいったい……",
-  "en": ""
+  "en": "What's happening to me...?"
  }
 ]
