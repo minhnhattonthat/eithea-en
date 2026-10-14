@@ -1,0 +1,10 @@
+rom/
+build/
+work/
+dist/
+release/
+tools/*/
+*.sstate
+*.mcd
+__pycache__/
+.pytest_cache/
