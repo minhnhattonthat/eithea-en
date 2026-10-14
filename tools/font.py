@@ -121,7 +121,11 @@ def build(out):
     (out / "EITHEA.EXE").write_bytes((root / "work/d1/tree/EITHEA.EXE").read_bytes())
     subprocess.run([str(root / "tools/armips/armips.exe"), str(root / "asm/font.asm"), "-root", str(out),
                     "-strequ", "CODEOUT", "fontext.bin"], check=True)
-    ext = (out / "fontext.bin").read_bytes()
+    ext = bytearray((out / "fontext.bin").read_bytes())
+    for k, name in enumerate(("Shou", "Akiho")):           # battle-prompt names (asm str_shou / str_akiho)
+        b = encode(name) + b"\0"
+        ext[len(ext) - 16 + 8 * k:len(ext) - 8 + 8 * k] = b.ljust(8, b"\0")
+    ext = bytes(ext)
     order = [chr(0x20 + i) for i in range(94)]
     rev = {v: k for k, v in ALIAS.items() if v}
     hw = b"".join(half(rev.get(c, c)) for c in order) + bytes(24 * (NCH - 94))
