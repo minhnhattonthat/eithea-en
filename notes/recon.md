@@ -29,8 +29,17 @@
 
 ## Graphics text found so far
 - Opening FMV `MOVIE/OPEN1.STR`: red Japanese story text burned into video (needs STR subtitle/replace).
-- Title logo (アイシア / "Eithea" logo) + menu 最初から始める / 続きから始める / オプション on the title TIM.
+- Title logo: `ROGO.IM`; menu 最初から始める / 続きから始める / オプション: separate `ROGO0.IM`. Both now replaced in English builds.
 - Staff/ending credits, chapter title cards, map names: TBD survey.
+
+### English title logo (2026-10-18)
+
+- Source: BIND entries `work/d1/bind/1344_ROGO.IM` and `work/d2/bind/1433_ROGO.IM`, byte-identical (77,344 bytes). TIM is 320×240, 8bpp, one 256-colour CLUT; VRAM rect `(320, 0, 160, 240)` in 16-bit words. Pixel data starts at byte 544. Searching every unpacked BIND member on both discs for the complete pixel block found only these two files, no embedded copies.
+- `tools/title_logo.png` is the masked 258×116 RGBA English artwork, placed at `(32, 18)` by `gfx.title_logo()`. The blue katakana and its shadow are replaced with glossy, beveled **Eithéa**, including the acute accent. The plank and its gold English inscription are redrawn where the removed stems exposed them. The surrounding forest, lower sky, and menu area outside the mask stay original.
+- Artwork was made with the built-in imagegen tool, using the decoded original as an edit target. Prompt: replace only the large アイシア with exact “Eithéa”; match icy blue glossy bevels, dark navy extrusion, cyan-white highlights, bold slightly italic fantasy letters, and the original approximately `(36,20)..(285,125)` footprint; retain the wooden plank, its gold English inscription, forest canopy, sky, rays, and 4:3 framing; reconstruct exposed background, with no extra text or ornaments. The generated edit was Lanczos-downsampled to 320×240, masked to the union of the old/new title and plank, then cropped to the checked-in PNG. Builds use this fixed asset; no image-generation service is needed.
+- `title_logo` is in `gfx.SECTIONS`, so both `gfx.all_files("d1")` and `gfx.all_files("d2")` return `ROGO.IM` for `tools/build.py --english`. Existing `save()` requantizes to the original CLUT without dithering. Verified both outputs retain the exact size, TIM headers, CLUT and VRAM rect, all indices remain below 256, and every index outside the alpha mask is unchanged (21,018 changed pixels).
+- QA: `python -X utf8 tools/check.py`: **9 passed, 1 skipped**. Disc 1 built with `python -X utf8 tools/build.py 1 --qa-novoice --english --out work/build_logo`. Cold boot with SCPH-5500, route `10800 -;4 circle;2300 -`, 13,100 frames, screenshots every 300: exit 0, smoke passed, English title/menu visually inspected. Final screenshot: `work/title_logo_title.png`. Temporary build/run directories removed after QA. Disc 2 asset generation checked; disc 2 was not built or booted.
+- Environment gotcha: the old `.claude/skills/translate-retro-game/scripts/emu.py` path is absent in this checkout. Used the installed plugin's `C:/Users/Nathan/.claude/plugins/marketplaces/retro-translation/skills/translate-retro-game/scripts/emu.py` with the same route/BIOS/frame arguments plus `--smoke --sheet`. This path migration belongs in the skill's `references/emulator-qa.md` setup guidance. The opening FMV's separate Japanese title artwork is outside this title-screen texture change.
 
 ## Emulator QA notes
 - PCSX-Redux headless: first `voice_start`/`voice_wait` never completes (voice end not detected) → game hangs. `tools/build.py --qa-novoice` strips voice commands from XT scripts for QA builds only.

@@ -15,13 +15,13 @@ Rulings and names: `glossary.md`. Research: `notes/research.md`. Engine/recon: `
 - Batches: `tools/batches.py split|check|merge`, `tools/terms.py`, briefs in `docs/` (translator, reviewer, exe). Polish rules: `tools/polish.py`. Single row: `tools/setrow.py ID "text"`.
 - EXE strings: `tools/exetext.py` (`text/exe.json`, in place, padded with 0x8140; `raw:` = plain SJIS for BIOS-drawn text).
 - Font: `tools/font.py` + `asm/font.asm` (2 chars per SJIS-safe code, hook in glyph blitter; battle name-copy fix).
-- Graphics: `tools/gfx.py` (name box FONT3A + EXE u/v/w, title menu, chapter/info cards, result, option, album, buttons, note, prologue incl. PROLOG.NM copies, MONO*.P monologue pages). FMV: `tools/fmv.py` (jPSXdec partial replace).
+- Graphics: `tools/gfx.py` (name box FONT3A + EXE u/v/w, English title logo + menu, chapter/info cards, result, option, album, buttons, note, prologue incl. PROLOG.NM copies, MONO*.P monologue pages). FMV: `tools/fmv.py` (jPSXdec partial replace).
 
 ## Paths / disc facts
 - `rom/` originals (Redump Rev 1), `work/d<N>/tree` + `bind/` unpacked (gitignored). Disc space on H: is tight: delete old work/build_* dirs.
 - EITHEA.EXE = game; SLPS/EITHEA1 = boot (logos, prologue, FMV; endings exec it). BIND.DAT/TBL archive; scripts .XT plain cp932.
 - PCSX-Redux hangs on the first voice: QA builds use `--qa-novoice`. Cold boot after every rebuild (savestates hold old RAM).
 
-## Status (2026-10-14)
+## Status (2026-10-18)
 - Done: engine, all 7,873 script rows + 1,050 EXE strings translated (44 agent batches + 4 EXE batches, sampled review, fixes), graphics, FMV captions, release tool.
-- Known limits: odd-length names give a double space before suffix pieces; title logo and brush-name FMV art kept; debug menus Japanese.
+- Known limits: odd-length names give a double space before suffix pieces; brush-name FMV art kept.

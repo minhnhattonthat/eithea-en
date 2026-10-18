@@ -173,6 +173,20 @@ def save(name, im, keep_unchanged=True):
     return tim.write_indices(src, rows)
 
 
+def title_logo():
+    """ROGO: 320x240 title backdrop, identical on both discs (8bpp, 256-colour CLUT).
+
+    The masked English artwork includes the plank exposed by removing the old
+    katakana. Outside its alpha mask, save() preserves original palette indices.
+    See notes/recon.md for asset provenance and archive-copy checks.
+    """
+    im = img("ROGO.IM")
+    with Image.open(root / "tools" / "title_logo.png") as asset:
+        assert asset.mode == "RGBA" and asset.size == (258, 116)
+        im.alpha_composite(asset, (32, 18))
+    return {"ROGO.IM": save("ROGO.IM", im)}
+
+
 def menu():
     """ROGO0: title menu sprites, two colour sets of three 16 px rows at x 16..128."""
     im = img("ROGO0.IM")
@@ -580,7 +594,7 @@ def all_files(disc="d1"):
     return files, patch
 
 
-SECTIONS = [menu, chapters, info, result, option, buttons, album, note, prolog]
+SECTIONS = [title_logo, menu, chapters, info, result, option, buttons, album, note, prolog]
 
 
 if __name__ == "__main__":
