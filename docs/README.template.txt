@@ -15,7 +15,7 @@ Character names keep their Japanese honorifics (-san, -kun, -sensei...).
 
 KNOWN LIMITATIONS
 - Spoken voice acting stays Japanese (text is English).
-- The title logo, the stylized brush-written names that animate in the opening movie, and a few
+- The stylized brush-written names that animate in the opening movie, and a few
   pieces of in-world artwork stay as drawn.
 - Text uses a fixed-width 6 px font.
 - Staff name readings are best effort; corrections welcome.
