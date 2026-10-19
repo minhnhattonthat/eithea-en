@@ -15,4 +15,10 @@ You need your own dumps unpacked under `rom/` and `work/` (gitignored). See `CLA
 - `asm/font.asm`: half-width font engine, name and strcat hooks
 - `glossary.md`: naming rulings
 
+## Support
+
+If you enjoy this translation, you can support my work on Ko-fi:
+
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/minhnhattonthat)
+
 Translation, tools and patch were produced with AI assistance (Claude, Anthropic) under the direction of the project owner. Original game © ATLUS / TamTam 2001.
