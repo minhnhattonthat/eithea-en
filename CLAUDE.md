@@ -22,6 +22,9 @@ Rulings and names: `glossary.md`. Research: `notes/research.md`. Engine/recon: `
 - EITHEA.EXE = game; SLPS/EITHEA1 = boot (logos, prologue, FMV; endings exec it). BIND.DAT/TBL archive; scripts .XT plain cp932.
 - PCSX-Redux hangs on the first voice: QA builds use `--qa-novoice`. Cold boot after every rebuild (savestates hold old RAM).
 
+## Rulings
+- Player bug reports: GitHub issues (`gh issue list --label bug`). Copy the attached save into `work/states/`, reproduce in the emulator, fix, commit with `Fixes #N`, and update the Status section.
+
 ## Status (2026-10-18)
 - Done: engine, all 7,873 script rows + 1,050 EXE strings translated (44 agent batches + 4 EXE batches, sampled review, fixes), graphics, FMV captions, release tool.
 - Known limits: odd-length names give a double space before suffix pieces; brush-name FMV art kept.

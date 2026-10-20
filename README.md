@@ -4,6 +4,9 @@ Unofficial English fan translation of **Eithéa (アイシア)**, Atlus / TamTam
 
 **No game data is included.** Download the xdelta patches from the [latest release](../../releases/latest) and apply them to your own Redump (Rev 1) dumps. The release README lists the required hashes and patching steps.
 
+**Found a bug?** [Report it](../../issues/new/choose): untranslated text, typos, overflow, crashes. Attaching a savestate
+helps most.
+
 ## What is translated
 All script text, menus, battle text, graphics text, the title logo, opening-movie cast captions, staff credits and the developer debug menu (hold L1+R1 on New Game). Voices stay Japanese. See the release README for known limits.
 
