@@ -7,8 +7,19 @@ Unofficial English fan translation of **Eithéa (アイシア)**, Atlus / TamTam
 **Found a bug?** [Report it](../../issues/new/choose): untranslated text, typos, overflow, crashes. Attaching a savestate
 helps most.
 
-## What is translated
-All script text, menus, battle text, graphics text, the title logo, opening-movie cast captions, staff credits and the developer debug menu (hold L1+R1 on New Game). Voices stay Japanese. See the release README for known limits.
+## Translation status
+
+| Part | Status |
+|---|---|
+| Dialogue / story, choices, monologues (both discs) | Translated |
+| Menus, items, equipment, magic bullets, monsters, battle text | Translated |
+| Title logo and menu, chapter cards, other graphics text | Translated (a few pieces of in-world artwork stay as drawn) |
+| Opening movie | Partly translated (cast captions in English; the animated brush-written names stay as drawn) |
+| Staff credits | Translated (staff name readings are best effort) |
+| Developer debug menu (hold L1+R1 on New Game) | Translated |
+| Voice acting | Left in Japanese (spoken audio; the text is English) |
+
+Known issues: none known, but scenes after the first chapter's opening were checked with the text tools, not played through; [report one](../../issues/new/choose).
 
 ## Building from source
 You need your own dumps unpacked under `rom/` and `work/` (gitignored). See `CLAUDE.md` for the commands and `notes/` for the engine, font hook and file-format research.
