@@ -158,7 +158,7 @@
   "kind": "msg",
   "speaker": "ルー",
   "jp": "族長が、あなたたちを呼んでるの。\nいっしょに来てくれないかな？",
-  "en": "The chief's asking for you guys.\nCan you come with me?"
+  "en": "The Chief's asking for you guys.\nCan you come with me?"
  },
  {
   "id": "GRUUU:0023",
@@ -249,14 +249,14 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "それには<1>イオピロスの塔<8>にある文献が必要なんだ。",
-  "en": "And for that, I need the records kept in the\n<1>Iopiros Tower<8>."
+  "en": "And for that, I need the old texts kept in the\n<1>Iopiros Tower<8>."
  },
  {
   "id": "GRUUU:0036",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "それにはイオピロスの塔にある文献が必要なんだ。",
-  "en": "And for that, I need the records kept in the\nIopiros Tower."
+  "en": "And for that, I need the old texts kept in the\nIopiros Tower."
  },
  {
   "id": "GRUUU:0037",
@@ -333,7 +333,7 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "文献の中には異世界の記述もあるらしいぜ。",
-  "en": "Word is, the records even mention\nother worlds."
+  "en": "Word is, the old texts even mention\nother worlds."
  },
  {
   "id": "GRUUU:0048",

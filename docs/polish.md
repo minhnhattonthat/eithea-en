@@ -5,9 +5,9 @@ Minors from reviews, one per line. Tick `[x]` when fixed or `waived: reason`. Re
 ## Story pass ch01
 - [ ] IVENT02:0034 - 進ぬ!電気少年 (parody of 進め!電波少年): "Don't Go! Electric Boy" reads as negation; try "Onward! Electric Boy"
 - [ ] IVENT02B:0111 - callback to IVENT01:0005 "Yeah... until that day."; make "Yeah... until yesterday."
-- [ ] IVENT02B:0078/0071, IVENT02:0014/0097 - 族長 "the chief" vs "the Chief"; unify to "the Chief"
+- [x] IVENT02B:0078/0071, IVENT02:0014/0097 - 族長 "the chief" vs "the Chief"; fixed (all 族長 rows with lowercase)
 - [ ] IVENT02B:0075 - "The Ele Tree sprouts all over" vs IVENT02:0104 "Ele Trees"; plural
-- [ ] GAKKO04:0022 - "more Germ around" -> "more Germs around"
+- [x] GAKKO04:0022 - "more Germ around" -> "more Germs around"; fixed
 - [ ] IVENT01C:0074-0075 - Hikaru's split question reads clumsily
 - [ ] IVENT01C:0019-0020 - Witch's わらわ has no archaic/regal marker (optional)
 - [ ] IVENT02:0007 - Lou "...You say weird things." -> "...You're a strange one." (optional)
@@ -18,9 +18,9 @@ Minors from reviews, one per line. Tick `[x]` when fixed or `waived: reason`. Re
 - [ ] IVENT04:0035 - Lou's Musra line ends on stiff "see."; "..., you know."
 - [ ] IVENT04:0132 - Akiho "way too scary" slangy for her; "far too dangerous"
 - [ ] GEKKO06:0015 (also IVENT14:0015, same line) - Lou "It'd get messy. Trust me." -> "It is complicated. Totally."
-- [ ] 文献: IVENT04:0017 "records handed down", GRUUU:0035/0036/0047 "records" vs glossary "old texts"; unify
-- [ ] ジャーム: IVENT04:0077, GEKKO01:0048/0049 "the Germ" vs "Germs"; plural (see ch01 GAKKO04:0022)
-- [ ] 族長 lowercase "chief": GRUUU:0022, GEURIKE:0002; capitalise (grep all files)
+- [x] 文献: IVENT04:0017, GRUUU:0035/0036/0047 "records" -> "old texts"; fixed
+- [x] ジャーム: plural "Germs" for the group (GEKKO01:0025/48/49/53, IVENT02A:0005, IVENT03:0013, IVENT04:0077); fixed
+- [x] 族長 lowercase "chief": GRUUU:0022, GEURIKE:0002, IVENT02B:0050; fixed
 - [ ] GSHOP:0022 - dummy "Item Bullet tutorial goes here." line; confirm unreachable
 - [ ] IVENT04:0032 - Fanna "I see." after her own explanation; check JP flow
 
@@ -71,4 +71,42 @@ Minors from reviews, one per line. Tick `[x]` when fixed or `waived: reason`. Re
 - [ ] IVENT42:0004 - "not every member ... has their pride" clumsy
 - [ ] IVENT42:0006 - Vamur 小娘 "little wench" -> "that brat"
 - [ ] KA_SHI06:0006 / KA_SHI08:0021 - Hikaru "I knew it!" smug -> "Right?!"
-- [ ] KA_SHI13:0052 - Shou stiff -> "Can you talk to me once you've figured out what you want to say?"
+- [ ] KA_SHI13:0052 - Shou stiff -> see below
+## Story pass ch08 (Important fixed: Y_MORI03:0021; Imul "babe" -> "baby" in YA_POPO, IVENT101)
+- [ ] IVENT50:0022 - Hermie "Ah, it is over here~" stilted -> "Ah, it really is over here~"
+- [ ] YA_HAMI:0034 - Hikaru "I'm really, so sorry..." stray comma
+- [ ] YA_HAMI:0001-0003 - Hermie trailing "~" inconsistent; "Hermie" vs "I" self-reference (check JP)
+- [ ] IVENT55:0013 - Akiho あたる wordplay murky
+- [ ] YA_PIEN:0058 - Shou "left by the school" -> "left by the school gate" (optional)
+- [ ] IVENT51:0002 - Pien "gathering nuts" for 木の実 -> "fruit" (optional)
+
+## Story pass ch10a (Important fixed: GSYAIZ:0001 "we picked up", Myu SEIDOU02/07/10 match IVENT76; 魔女 -> "Witch" in 14 rows)
+- [ ] IVENT70:0011 - Hikaru "N-No way!" too loud -> "O-Oh, no... that's not true at all..."
+- [ ] IVENT74:0024 - Hikaru added stutter "D-Did someone..."
+- [ ] IVENT74:0033 - Myu-as-Goddess "Oh...?" flat -> "Hoh... you call me false...?"
+- [ ] IVENT72:0002 "Yamyam's Ele Tree" vs I_TOU1Z:0001 "Sacred Tree of Yamyam" (JP differs: エレの樹 / 神木; ok?)
+- [ ] IVENT80:0033 - "old man" (Hermie's オヤジ = "Old Man" per glossary)
+- [ ] Item-get: "Got <1>Speed Elixir" no article (K_CHI21:0008, SEIDOU04:0001); GMATEZ:0006 "Obtained" -> "Got"
+- [ ] GSHOPZ:0016 - dummy tutorial line (see GSHOP:0022)
+- [ ] IVENT75:0017 vs K_CHI22H:0019 - who taught Shai about love (source inconsistency; leave?)
+- [ ] IVENT80:0125 - Akiho 不純異性交遊 stiff -> "That's improper, you two... when did this start?!"
+
+## Story pass ch10b (Important fixed: IVENT902:0039-0040 Yuka confession, IVENTC08:0041-0042)
+- [ ] IVENT915:0008 - wording differs from 912-914 for identical JP; match
+- [ ] IVENT912:0025 (+913-915) - 憎いとさえ "I almost hate you" -> "I even hate you."
+- [ ] IVENT916:0013 - "Okay...~" -> "Okay~..."
+- [ ] IVENT86:0017 - "Yamyam forest" -> "Yamyam Forest"
+- [ ] IVENT907:0017 (+908-911) - Prada "Resistance is futile" (Borg) -> "Struggling is pointless."
+- [ ] K_CHI23:0027 - Imul ソーリー flattened to "Sorry" (optional "Soorry")
+- [ ] IVENTC08:0026 - "Your face is joke enough" -> "Your face is the only joke here"
+- [ ] IVENTC08:0036 - "I don't want to never see you again." awkward
+- [ ] K_CHI23:0070 vs K_CHI25:0002 - "Open / Leave it" vs "Open it / Leave it"
+- [ ] General: scan same-JP rows with different EN (variant scenes) and unify
+
+## Story pass ch09 (Important fixed: IVENT61:0058-0059 Azel "him" -> "her")
+- [ ] IVENT61:0023 - "Got Artia Air!" tagged speaker Karen; check name box in game
+- [ ] IVENTC06:0032 - お店 "a bar" (added); "There's a place I like."
+- [ ] SHIN05:0005 - "make up for the rest" ambiguous -> "make up for resting!"
+- [ ] IVENT61:0005/0006 - `<8>` after names with no opener; verify codes balanced (likely fine, JP same)
+- [ ] IVENT62:0002/0007 - Pien "Aye"/"Just so"; keep register consistent
+- [ ] (ch07) KA_SHI13:0052 - Shou stiff -> "Can you talk to me once you've figured out what you want to say?"

@@ -179,7 +179,7 @@
   "kind": "msg",
   "speaker": "村人",
   "jp": "銃と弓はね、ジャームから\n身を守るためって意味のほうが大きいんだよ。",
-  "en": "Guns and bows are really more about\nprotecting ourselves from the Germ."
+  "en": "Guns and bows are really more about\nprotecting ourselves from the Germs."
  },
  {
   "id": "GEKKO01:0026",
@@ -340,14 +340,14 @@
   "kind": "msg",
   "speaker": "村人",
   "jp": "最近、ジャームが狂暴になっているの。",
-  "en": "The Germ have gotten more violent lately."
+  "en": "The Germs have gotten more violent lately."
  },
  {
   "id": "GEKKO01:0049",
   "kind": "msg",
   "speaker": "村人",
   "jp": "この本によるとね。\nジャームが狂暴化するときって、\n世界の闇が濃くなるときなんだって。",
-  "en": "According to this book,\nwhen the Germ turn violent,\nit's when the world's darkness grows deeper."
+  "en": "According to this book,\nwhen the Germs turn violent,\nit's when the world's darkness grows deeper."
  },
  {
   "id": "GEKKO01:0050",
@@ -375,7 +375,7 @@
   "kind": "msg",
   "speaker": "村人",
   "jp": "あなたがいれば、ジャームが狂暴化したって、\nきっと倒してくれるんでしょうね。",
-  "en": "With you here, even if the Germ go berserk,\nI bet you'd beat them for us."
+  "en": "With you here, even if the Germs go berserk,\nI bet you'd beat them for us."
  },
  {
   "id": "GEKKO01:0054",
