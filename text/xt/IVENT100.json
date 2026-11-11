@@ -74,7 +74,7 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "どうだ、だいじょうぶか？\nどっか痛むか？",
-  "en": "Well, you all right?\nSomethin' hurt?"
+  "en": "Well, you all right?\nSomething hurt?"
  },
  {
   "id": "IVENT100:0011",
@@ -88,7 +88,7 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "魔女たちを倒した祝宴さ！\nほら、翔も飲めよ！",
-  "en": "A feast for beatin' the Witches!\nHere, Shou, have a drink!"
+  "en": "A feast for beating the Witches!\nHere, Shou, have a drink!"
  },
  {
   "id": "IVENT100:0013",
@@ -158,7 +158,7 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "な、なあ、腹へってねえか？\n酒も食い物もうめえぞ！",
-  "en": "S-Say, aren't ya hungry?\nThe drinks and food are top-notch!"
+  "en": "S-Say, aren't you hungry?\nThe drinks and food are top-notch!"
  },
  {
   "id": "IVENT100:0023",
@@ -179,7 +179,7 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……それに、もとの世界に帰るんだろ？\nほら、みんなのとこに行って、あいさつしてこいよ。",
-  "en": "...And you're headin' back to your own world,\nright? Go on, go see everyone and say your\ngoodbyes."
+  "en": "...And you're heading back to your own world,\nright? Go on, go see everyone and say your\ngoodbyes."
  },
  {
   "id": "IVENT100:0026",
@@ -228,7 +228,7 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "今日ぐらいみんなと\nバカ騒ぎすりゃあいいじゃねえか、なぁ！\nハハハハハハハハハハハ！",
-  "en": "But today, ya oughta just go wild\nwith everybody, right?!\nHahahahahahahahahahaha!"
+  "en": "But today, you oughta just go wild\nwith everybody, right?!\nHahahahahahahahahahaha!"
  },
  {
   "id": "IVENT100:0033",
@@ -249,6 +249,6 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "……それに、もとの世界に帰るんだろ？\nだったら、みんなにあいさつしてこいよ。",
-  "en": "...And you're headin' back to your own world,\nright? Then go say your goodbyes to everyone."
+  "en": "...And you're heading back to your own world,\nright? Then go say your goodbyes to everyone."
  }
 ]

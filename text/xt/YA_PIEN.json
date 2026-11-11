@@ -18,7 +18,7 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "俺たちにわかることなら答えてやるぜ。",
-  "en": "If it's something we know, we'll answer ya."
+  "en": "If it's something we know, we'll answer you."
  },
  {
   "id": "YA_PIEN:0003",
@@ -32,7 +32,7 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "何か隠してんじゃないのか？\nあまり先走るんじゃねえぞ。",
-  "en": "You're not hiding something, are ya?\nDon't go getting ahead of yourself."
+  "en": "You're not hiding something, are you?\nDon't go getting ahead of yourself."
  },
  {
   "id": "YA_PIEN:0005",
@@ -991,7 +991,7 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "偶然にしては出来すぎてると思わねぇか。翔？",
-  "en": "Pretty convenient for a coincidence,\ndon't ya think, Shou?"
+  "en": "Pretty convenient for a coincidence,\ndon't you think, Shou?"
  },
  {
   "id": "YA_PIEN:0142",

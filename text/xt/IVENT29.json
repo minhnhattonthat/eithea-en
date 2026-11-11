@@ -18,7 +18,7 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "いるのは、石像だけじゃねえぞ。",
-  "en": "There's more than statues here, ya know."
+  "en": "There's more than statues here, you know."
  },
  {
   "id": "IVENT29:0003",
@@ -32,7 +32,7 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "本物もいるってことさ。\nま、そうそう会えるもんじゃないがな。",
-  "en": "Means there're real ones too.\nThough ya don't run into 'em that often."
+  "en": "Means there're real ones too.\nThough you don't run into 'em that often."
  },
  {
   "id": "IVENT29:0005",
@@ -53,7 +53,7 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "最初からマトモに入ろうとは思っちゃいねえよ。",
-  "en": "I never planned on goin' in the normal way."
+  "en": "I never planned on going in the normal way."
  },
  {
   "id": "IVENT29:0008",
@@ -81,7 +81,7 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "あたりまえだ。\nエレの樹からとったエネルギーを\n貯えているんだからな！",
-  "en": "Of course it is.\nIt's storin' the energy it took from\nthe Ele Tree!"
+  "en": "Of course it is.\nIt's storing the energy it took from\nthe Ele Tree!"
  },
  {
   "id": "IVENT29:0012",
@@ -102,7 +102,7 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "だからどんどん、樹は弱ってるんだ。",
-  "en": "That's why the tree keeps gettin' weaker."
+  "en": "That's why the tree keeps getting weaker."
  },
  {
   "id": "IVENT29:0015",

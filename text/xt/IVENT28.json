@@ -347,7 +347,7 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "火竜族のヤツらは、\nエレの樹からもっと力を吸い取るつもりなのさ。",
-  "en": "Those Fire Dragon Clan types are plannin' to\nsuck even more power out of the Ele Tree."
+  "en": "Those Fire Dragon Clan types are planning to\nsuck even more power out of the Ele Tree."
  },
  {
   "id": "IVENT28:0050",
@@ -368,7 +368,7 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "…<10>…そのうち話すさ。\nこうなると、イオピロスが心配だな。",
-  "en": "...<10>...I'll tell ya eventually.\nThe way things are, I'm worried about Iopiros."
+  "en": "...<10>...I'll tell you eventually.\nThe way things are, I'm worried about Iopiros."
  },
  {
   "id": "IVENT28:0053",
@@ -452,21 +452,21 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "少し時間をやるから、その間に答えを出してくれ。",
-  "en": "I'll give ya a little time.\nHave an answer for me by then."
+  "en": "I'll give you a little time.\nHave an answer for me by then."
  },
  {
   "id": "IVENT28:0065",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ああ、翔たちはいいぞ。\nこれはアイシアの問題だ。\nおまえたちに関係ないからな。",
-  "en": "Oh, and Shou, you guys are off the hook.\nThis is Eithéa's problem.\nIt's got nothin' to do with you."
+  "en": "Oh, and Shou, you guys are off the hook.\nThis is Eithéa's problem.\nIt's got nothing to do with you."
  },
  {
   "id": "IVENT28:0066",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ただ、力を貸してくれるって言うんなら、\nありがたいな。\n俺だけじゃあ心細くてよ。",
-  "en": "Still, if you're offerin' to lend a hand,\nI'd be grateful.\nI'm feelin' a little uneasy on my own."
+  "en": "Still, if you're offering to lend a hand,\nI'd be grateful.\nI'm feeling a little uneasy on my own."
  },
  {
   "id": "IVENT28:0067",
@@ -795,7 +795,7 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "お、答えが出たか？\nいい返事を期待してるぜ。",
-  "en": "Oh, made up your minds?\nI'm hopin' for a good answer."
+  "en": "Oh, made up your minds?\nI'm hoping for a good answer."
  },
  {
   "id": "IVENT28:0114",
@@ -816,14 +816,14 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "頼んでおいてこんな事いうのも何だが、\nわかってるとは思うが、今回は危険なんだぞ。\n生命の保障はできない…<10>…死ぬかもしれねえ。",
-  "en": "Funny thing to say after I'm the one askin',\nbut you know this one's dangerous, right?\nNo promises you'll live...<10> You could die."
+  "en": "Funny thing to say after I'm the one asking,\nbut you know this one's dangerous, right?\nNo promises you'll live...<10> You could die."
  },
  {
   "id": "IVENT28:0117",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "それに、おまえたちには何のメリットもねえ。\nそれでも、いいのか？",
-  "en": "And there's nothin' in it for you guys.\nYou still sure?"
+  "en": "And there's nothing in it for you guys.\nYou still sure?"
  },
  {
   "id": "IVENT28:0118",
@@ -851,7 +851,7 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "翔、センセイ、ありがとよ。\nなら、善は急げだ。\nとっとと行こうぜ！",
-  "en": "Shou, Sensei, thanks.\nThen there's no time like the present.\nLet's get movin'!"
+  "en": "Shou, Sensei, thanks.\nThen there's no time like the present.\nLet's get moving!"
  },
  {
   "id": "IVENT28:0122",
@@ -949,7 +949,7 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "なに怒ってんだよ！\nブックを解析中に異世界の事を調べていたら\nこんな文章が見つかったんだ。",
-  "en": "What're you so mad about?!\nI found that passage while analyzin' the Book\nand diggin' into other worlds."
+  "en": "What're you so mad about?!\nI found that passage while analyzing the Book\nand digging into other worlds."
  },
  {
   "id": "IVENT28:0136",
@@ -970,7 +970,7 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "まあ、この家には好きなだけいてくれていいからよ。",
-  "en": "Anyway, feel free to stay as long as ya like."
+  "en": "Anyway, feel free to stay as long as you like."
  },
  {
   "id": "IVENT28:0139",
@@ -991,7 +991,7 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "心強い<10>…<10>…けどよ、\nひかる、本当にいいのか？",
-  "en": "Glad to have ya<10>...<10>...but\nHikaru, are you really sure?"
+  "en": "Glad to have you<10>...<10>...but\nHikaru, are you really sure?"
  },
  {
   "id": "IVENT28:0142",
@@ -1005,7 +1005,7 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "今まで以上に危険なんだ。\n<10>…<10>…死ぬかもしれないんだぞ？",
-  "en": "It's more dangerous than anything so far.\n<10>...<10>...You could die, ya know?"
+  "en": "It's more dangerous than anything so far.\n<10>...<10>...You could die, you know?"
  },
  {
   "id": "IVENT28:0144",
@@ -1075,14 +1075,14 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "すまねえな。\n…<10>…みんな、ありがとよ。",
-  "en": "Sorry 'bout this.\n...<10>...Thanks, everyone."
+  "en": "Sorry about this.\n...<10>...Thanks, everyone."
  },
  {
   "id": "IVENT28:0154",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "よし、なら、善は急げだ。\nとっとと行こうぜ！",
-  "en": "All right, no time like the present.\nLet's get movin'!"
+  "en": "All right, no time like the present.\nLet's get moving!"
  },
  {
   "id": "IVENT28:0155",

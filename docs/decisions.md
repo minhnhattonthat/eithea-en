@@ -13,3 +13,5 @@ decision replaces one, mark the old one "replaced by D<n>" instead of deleting i
 | D5 | 2026-10-14 | Graphics text left in Japanese | none (default), list | None by default (titles, menus, banners in scope); brush-written FMV names kept as drawn |
 | D6 | 2026-10-14 | Specs and plans | need approval, pre-approved | Pre-approved: keep going through checkpoints, report at end |
 | D7 | 2026-10-14 | Saves provided | yes, none | None; late scenes need route/emulator input |
+| D8 | 2026-11-12 | Albaijan's spelling (agent ruling, story pass) | dropped g's/"ya" (some files), standard (most files) | Standard spelling; gruff via word choice ("ain't", "gotta" ok). Dropped g's/"ya" stay Hitoshi's marker (glossary voices) so the two don't blur |
+| D9 | 2026-11-12 | Story-pass chapter split (agent ruling) | by file prefix, by script graph, by dev chapter-select | Dev chapter-select (STARTBAK/START1.XT) entry scripts -> `tools/review.py` CHAPTERS; IVENT in number order, then field scripts |

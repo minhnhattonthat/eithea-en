@@ -74,7 +74,7 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "俺のことさ。\n商人のアルバイジャンだ。\nよろしくな。",
-  "en": "That'd be me.\nAlbaijan, merchant by trade.\nNice to meet ya."
+  "en": "That'd be me.\nAlbaijan, merchant by trade.\nNice to meet you."
  },
  {
   "id": "IVENT09:0011",
@@ -95,7 +95,7 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "ああ、まあ旅のついでだ。\n礼をくれるってんなら、\n遠慮せずにもらうけどよ。",
-  "en": "Yeah, well, it was on my way.\nBut if you're offerin' a reward,\nI won't say no."
+  "en": "Yeah, well, it was on my way.\nBut if you're offering a reward,\nI won't say no."
  },
  {
   "id": "IVENT09:0014",
@@ -179,7 +179,7 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "あそこの中は、盗賊よけに\nジャームがウジャウジャと\nいやがるらしいんだ。",
-  "en": "Word is the place is crawlin'\nwith Germs, to keep out\nthieves."
+  "en": "Word is the place is crawling\nwith Germs, to keep out\nthieves."
  },
  {
   "id": "IVENT09:0026",
@@ -242,7 +242,7 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "おまえたち、もとの世界に帰る\n方法を探してるんだろ？",
-  "en": "You're lookin' for a way back to\nyour own world, right?"
+  "en": "You're looking for a way back to\nyour own world, right?"
  },
  {
   "id": "IVENT09:0035",
@@ -298,7 +298,7 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "おい、まてよ！\nおまえらもついてくる気か？",
-  "en": "Hey, hold on!\nYou two plannin' to tag along?"
+  "en": "Hey, hold on!\nYou two planning to tag along?"
  },
  {
   "id": "IVENT09:0043",
@@ -312,14 +312,14 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "冗談じゃない！",
-  "en": "You gotta be kiddin'!"
+  "en": "You gotta be kidding!"
  },
  {
   "id": "IVENT09:0045",
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "おまえらみたいに弱い奴らを\n連れて行くわけには\nいかねえな。",
-  "en": "I can't go draggin' along\nweaklings like you\ntwo."
+  "en": "I can't go dragging along\nweaklings like you\ntwo."
  },
  {
   "id": "IVENT09:0046",
@@ -424,7 +424,7 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "そうか。\nよろしくな、センセイ。",
-  "en": "Gotcha.\nNice to meet ya, Sensei."
+  "en": "Gotcha.\nNice to meet you, Sensei."
  },
  {
   "id": "IVENT09:0061",
@@ -466,7 +466,7 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "俺はかまわねえぜ？\nコイツの言うことも\nよくわかるしな。",
-  "en": "Fine by me.\nI get where she's\ncomin' from."
+  "en": "Fine by me.\nI get where she's\ncoming from."
  },
  {
   "id": "IVENT09:0067",

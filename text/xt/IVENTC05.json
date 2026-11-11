@@ -74,14 +74,14 @@
   "kind": "msg",
   "speaker": "イムル",
   "jp": "ええ、そうですよ。",
-  "en": "Yes, that's right."
+  "en": "Yes. That is so."
  },
  {
   "id": "IVENTC05:0011",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "昔……まだ王が男だった頃、\nこの国は戦争に明け暮れてました。",
-  "en": "Long ago... back when our kings were men,\nthis country was constantly at war."
+  "en": "Long ago... when our kings were men,\nthis land knew nothing but war."
  },
  {
   "id": "IVENTC05:0012",
@@ -116,7 +116,7 @@
   "kind": "msg",
   "speaker": "イムル",
   "jp": "でも、今はこんなことになってる……",
-  "en": "But look at how things are now..."
+  "en": "And yet, look at what has become of it now..."
  },
  {
   "id": "IVENTC05:0017",
