@@ -103,6 +103,16 @@ Minors from reviews, one per line. Tick `[x]` when fixed or `waived: reason`. Re
 - [ ] K_CHI23:0070 vs K_CHI25:0002 - "Open / Leave it" vs "Open it / Leave it"
 - [ ] General: scan same-JP rows with different EN (variant scenes) and unify
 
+## Story pass endings (Importants already fixed: IVENT100 Albaijan spelling D8, IVENT101:0035 "babies")
+- [ ] IVENT110:0039 / IVENT111:0033 - セーブを終了しますか "Quit the save menu?" vs "Finish saving?" (112-115); unify
+- [ ] Hermie "big brother" capitalised in IVENT105@d2:0003/0007/0025/0046, IVENT114@d2:0008/0010/0012; glossary lowercase
+- [ ] IVENT114@d2:0002 - 白い目で見られる "cold shoulder" -> "gave me the side-eye"
+- [ ] IVENT114@d2:0008 - イチャついてる "flirting" -> "being all lovey-dovey"
+- [ ] IVENT104:0010 - "Could I have protected you" -> "Was I even able to protect you, Sensei...?"
+- [ ] IVENT105@d2:0042 - added stutter "W-Will you carry me"
+- [ ] IVENT105@d2:0052 - バカバカバカ "Dummy" soft (optional)
+- [ ] IVENT103:0037-0040 - Hikaru register light; add an "um" at 0038
+
 ## Story pass ch09 (Important fixed: IVENT61:0058-0059 Azel "him" -> "her")
 - [ ] IVENT61:0023 - "Got Artia Air!" tagged speaker Karen; check name box in game
 - [ ] IVENTC06:0032 - お店 "a bar" (added); "There's a place I like."
