@@ -28,6 +28,9 @@ def run(n):
 
 if __name__ == "__main__":
     discs = [int(a) for a in sys.argv[1:]] or [1, 2]
+    sys.path.insert(0, str(root / "tools"))
+    import check_rom
+    check_rom.check()
     ok = True
     for n in discs:
         good = run(n)

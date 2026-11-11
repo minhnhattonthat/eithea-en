@@ -21,13 +21,35 @@ helps most.
 
 Known issues: none known, but scenes after the first chapter's opening were checked with the text tools, not played through; [report one](../../issues/new/choose).
 
-## Building from source
-You need your own dumps unpacked under `rom/` and `work/` (gitignored). See `CLAUDE.md` for the commands and `notes/` for the engine, font hook and file-format research.
+## What's here
 
-- `text/`: script rows (`text/xt/*.json`) and EXE strings (`text/exe.json`)
-- `tools/`: extraction, insertion, graphics, font and release tools
-- `asm/font.asm`: half-width font engine, name and strcat hooks
-- `glossary.md`: naming rulings
+| Path | What it is |
+|---|---|
+| `text/` | Script rows (`text/xt/*.json`) and EXE strings (`text/exe.json`): Japanese and English. Translation fixes go here. |
+| `glossary.md` | Binding names, terms and style rules. |
+| `tools/` | Python build chain: unpack, extract, insert, font, graphics, release. |
+| `asm/font.asm` | Half-width font engine, name and strcat hooks. |
+| `tests/` | pytest suite (disc-dependent tests skip when the dumps are absent). |
+| `docs/re/` | Reverse-engineering notes (engine, font hook, file formats). |
+| `docs/decisions.md`, `docs/status.md` | Rulings with their reasons; current progress and open bugs. |
+| `docs/fonts.md` | Fonts used and their licences. |
+| `AGENTS.md` | Instructions for coding agents (`CLAUDE.md` points to it). |
+| `.codex/agents/`, `.opencode/agents/` | Subagent types for Codex and opencode; Claude Code gets them from the plugin. |
+
+## Build your own patched discs
+
+Needs Python 3.12+, Windows (mkpsxiso, armips and jPSXdec go under `tools/`) and your own Redump Rev 1 dumps:
+
+```sh
+# copy your dumps (.bin + .cue) to rom/:
+#   Eithea (Japan) (Disc 1) (Rev 1).bin  408001440 bytes, SHA-1 47541f3bd8c53ad4b272861955b14ec1d73b0fa1
+#   Eithea (Japan) (Disc 2) (Rev 1).bin  603981840 bytes, SHA-1 ba3368060fd044722f7f82cc512dcb9b0d28b75f
+#   (the build refuses any other dump, see rom.sha1)
+python -X utf8 tools/identity.py                     # unpack to work/d1, work/d2 and verify a byte-identical rebuild
+python -X utf8 tools/bind.py unpack work/d1/tree/CD_DATA/BIND.TBL work/d1/tree/CD_DATA/BIND.DAT work/d1/bind  # same for d2
+python -X utf8 tools/build.py 1 --english --out build # -> build/Eithea_disc1.bin/.cue
+python -X utf8 tools/check.py                        # tests
+```
 
 ## Support
 

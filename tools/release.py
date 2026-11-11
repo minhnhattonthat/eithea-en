@@ -104,4 +104,6 @@ def main(version):
 
 
 if __name__ == "__main__":
+    import check_rom
+    check_rom.check()
     main(sys.argv[1])

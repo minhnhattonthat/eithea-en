@@ -178,7 +178,7 @@ def title_logo():
 
     The masked English artwork includes the plank exposed by removing the old
     katakana. Outside its alpha mask, save() preserves original palette indices.
-    See notes/recon.md for asset provenance and archive-copy checks.
+    See docs/re/recon.md for asset provenance and archive-copy checks.
     """
     im = img("ROGO.IM")
     with Image.open(root / "tools" / "title_logo.png") as asset:
