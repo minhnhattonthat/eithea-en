@@ -32,13 +32,13 @@
   "kind": "msg",
   "speaker": "イムル",
   "jp": "<1>コークスクリュー<8>を手に入れた！",
-  "en": "Got <1>Corkscrew<8>!"
+  "en": "Got a <1>Corkscrew<8>!"
  },
  {
   "id": "KA_SHI01:0005",
   "kind": "msg",
   "speaker": "イムル",
   "jp": "<1>金色の冠<8>を手に入れた！",
-  "en": "Got <1>Golden Crown<8>!"
+  "en": "Got a <1>Golden Crown<8>!"
  }
 ]

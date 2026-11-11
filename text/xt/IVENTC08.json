@@ -186,7 +186,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　……すまない\n　いっしょにいるよ\n　冗談は顔だけにしろ",
-  "en": "...I'm sorry\nI'll stay with you\nYour face is joke enough"
+  "en": "...I'm sorry\nI'll stay with you\nYour face is the only joke here"
  },
  {
   "id": "IVENTC08:0027",
@@ -256,7 +256,7 @@
   "kind": "msg",
   "speaker": "翔",
   "jp": "おまえに会えなくなるのは、いやだ。",
-  "en": "I don't want to never see you again."
+  "en": "I can't stand the thought of\nnever seeing you again."
  },
  {
   "id": "IVENTC08:0037",

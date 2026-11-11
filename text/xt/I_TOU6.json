@@ -60,7 +60,7 @@
   "kind": "msg",
   "speaker": "アルバイジャン",
   "jp": "あと、おまえらがもとの世界に帰る手がかりもな。",
-  "en": "And maybe a clue for getting you lot back\nto your world, too."
+  "en": "And maybe a clue for getting you guys back\nto your world, too."
  },
  {
   "id": "I_TOU6:0009",
@@ -144,7 +144,7 @@
   "kind": "msg",
   "speaker": "ルー",
   "jp": "<1>アーティアスノ<8>を手に入れた！",
-  "en": "Got the <1>Artia Snow<8>!"
+  "en": "Got <1>Artia Snow<8>!"
  },
  {
   "id": "I_TOU6:0021",

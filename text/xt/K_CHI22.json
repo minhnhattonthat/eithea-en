@@ -18,7 +18,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　開ける\n　やめる",
-  "en": "Open\nLeave it"
+  "en": "Open it\nLeave it"
  },
  {
   "id": "K_CHI22:0003",
@@ -53,7 +53,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　開ける\n　やめる",
-  "en": "Open\nLeave it"
+  "en": "Open it\nLeave it"
  },
  {
   "id": "K_CHI22:0008",
@@ -74,7 +74,7 @@
   "kind": "choice",
   "speaker": "",
   "jp": "　開ける\n　やめる",
-  "en": "Open\nLeave it"
+  "en": "Open it\nLeave it"
  },
  {
   "id": "K_CHI22:0011",

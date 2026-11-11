@@ -11,7 +11,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "<1>力の水<8>を手に入れた！",
-  "en": "Got <1>Power Water<8>!"
+  "en": "Got some <1>Power Water<8>!"
  },
  {
   "id": "SHIN05:0002",
@@ -39,7 +39,7 @@
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "休んでたぶん、思いっきり暴れるからね！",
-  "en": "I'm gonna go all out to make up for the rest!"
+  "en": "I'm gonna go all out to make up for resting!"
  },
  {
   "id": "SHIN05:0006",

@@ -74,7 +74,7 @@
   "kind": "msg",
   "speaker": "ユカ",
   "jp": "ありがとう……\nね、そっちに行ってもいい？",
-  "en": "Thanks...\nHey, can I come sit over there?"
+  "en": "Thanks...\nHey, can I come over there?"
  },
  {
   "id": "IVENT31:0011",
@@ -438,7 +438,7 @@
   "kind": "msg",
   "speaker": "オパス",
   "jp": "ふふふ……\nひさしぶりだな、アルバイジャン？",
-  "en": "Heh heh heh...\nLong time no see, Albaijan."
+  "en": "Heh heh heh...\nIt has been a long time, Albaijan."
  },
  {
   "id": "IVENT31:0063",
