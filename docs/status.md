@@ -20,7 +20,14 @@ Updated at the end of every session. Keep it to what the next session needs; his
      Moonlight Village/Fire Dragon Kingdom widened; checked in d1_5100/d1_6100 shots). All chapter cards now use
      `gfx.fill` (erase left halo ghosts on every card). ZENTAI1.P (IVENT02, `NON` overlay) not seen in-game yet.
      VRAM+RAM dumps: `--script tools/lua/vramdump.lua --var DUMP_AT=N`.
-  2. Rebuild QA both discs (`warp.py build N` + `state N`), re-tour both (`tour N --frames 5400 --every 90`),
+  2. 2026-11-12 round 2: both discs toured + reviewed (d1 48 ok, d2 85 ok); fixes committed (e81bc32: MONO
+     orphan word, Fire Dragon Kingdom margin, save-slot "Shou's Level" gap [unverified in-game], exe wording).
+     Rebuilt + re-toured after them; gates re-initialised: chunks `work/qa/d1/chunks/chunk_000.txt`,
+     `work/qa/d2/chunks/chunk_000..004.txt` need visual-qa verdicts (`work/qa/d<N>/verdicts/r3_chunk_NNN.tsv`),
+     then `qa_gate.py check work/qa/d<N>/manifest.tsv work/qa/d<N>/verdicts`. Tours aren't frame-deterministic, so
+     every re-tour invalidates most verdicts: do fixes in batches. Reviewers flagged tour stalls (one line held
+     ~4000 frames: d2_10130, d2_12040/12050/12060/12070/12090 IVENT90, d1_4120) = coverage gap, see item 3.
+     (Old item 2 text:) Rebuild QA both discs (`warp.py build N` + `state N`), re-tour both (`tour N --frames 5400 --every 90`),
      `qa_gate.py init work/qa/d<N>/manifest.tsv work/qa/tour_d<N> --build work/build_qa/Eithea_disc<N>.bin`,
      dispatch visual-qa per chunk (d1 first round: 47 ok, issues = map labels, area labels [fixed], card patches).
      Disc 2 not toured yet. Voice-test scenes (d1_8888, d2_1858/3688/681) hang to timeout: drop or waive them.
