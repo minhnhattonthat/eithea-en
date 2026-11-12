@@ -38,7 +38,7 @@ def edit(items, qa_novoice, overrides=(), scripts=None):
     return out
 
 
-def build(n, out, qa_novoice=False, overrides=(), english=False, marker=False, keep_tree=False):
+def build(n, out, qa_novoice=False, overrides=(), english=False, marker=False, keep_tree=False, qa_cover=False):
     w = root / "work" / f"d{n}"
     tree = out / f"tree{n}"
     if tree.exists():
@@ -71,6 +71,10 @@ def build(n, out, qa_novoice=False, overrides=(), english=False, marker=False, k
         scripts = {nm: b for (d, nm), b in text.files(marker and "marker" or "en").items() if d == f"d{n}"}
         import access
         scripts["START"] = access.start_script            # hidden debug-menu gate (hold L1+R1 on New Game)
+        if qa_cover:   # QA only: flag[990] = row+1 before each text block, read by tools/lua/rowlog.lua
+            sys.path.insert(0, str(root / "tools" / "debug"))
+            import cover
+            scripts = {nm: (cover.instrument(n, nm, b) if isinstance(b, bytes) else b) for nm, b in scripts.items()}
     items = edit(bind.split((cd / "BIND.TBL").read_bytes(), (cd / "BIND.DAT").read_bytes()), qa_novoice, overrides, scripts)
     tbl, dat = bind.join(items)
     (tree / "CD_DATA" / "BIND.TBL").write_bytes(tbl)
@@ -91,7 +95,8 @@ if __name__ == "__main__":
     ap.add_argument("--override", action="append", default=[], help="NAME.TYPE=FILE replaces that archive file")
     ap.add_argument("--english", action="store_true", help="English font engine patch + translated scripts")
     ap.add_argument("--marker", action="store_true", help="with --english: every script block shows its id")
+    ap.add_argument("--qa-cover", action="store_true", help="with --english, QA only: text-coverage row flags")
     a = ap.parse_args()
     o = pathlib.Path(a.out)
     o.mkdir(parents=True, exist_ok=True)
-    build(a.disc, o, a.qa_novoice, a.override, a.english, a.marker)
+    build(a.disc, o, a.qa_novoice, a.override, a.english, a.marker, qa_cover=a.qa_cover)

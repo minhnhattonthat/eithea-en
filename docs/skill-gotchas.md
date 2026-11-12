@@ -1,2 +1,4 @@
 references/translation.md - story reviewers: a whole-file Read of glossary.md (~230 lines) came back as a context-mode stub; tell reviewers to read it with offset/limit.
 references/translation.md - regenerate chapter files after every fix round before dispatching the next reviewers; reviewers of later chapters re-flagged issues already fixed in stale files.
+references/emulator-qa.md - PCSX-Redux `--debugger` with an L.on_exec hook ran ~2 frames in 15 min while 3 JIT jobs shared the CPU: unusable for coverage. Instead instrument the QA build (a flag set before each text block) and read the flag array per frame under JIT.
+references/emulator-qa.md - PS1 dev-menu warps: the "current script" name var updates when `change` is requested, before the old script stops; a coverage probe keyed on name+offset credits the old script's offsets to the new name. Log on value change of a per-row flag instead.

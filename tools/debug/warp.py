@@ -119,7 +119,8 @@ def run(name, frames, every, outdir):
     presses, desc, target = scenes(n)[name]
     out = outdir / name
     r = emu(n, out, "--state-in", str(STATES / f"devmenu_d{n}.sstate"), "--route-str", route(presses),
-            "--frames", str(frames), "--shot-every", str(every), "--mash", "60", "--mash-key", "circle", "--sheet")
+            "--frames", str(frames), "--shot-every", str(every), "--mash", "60", "--mash-key", "circle", "--sheet",
+            "--script", str(root / "tools" / "lua" / "rowlog.lua"))   # text coverage: tools/debug/cover.py
     (out / "scene.txt").write_text(f"{name}\t{desc}\t{target}\n", encoding="utf-8")
     print(name, "exit", r.returncode, desc, "->", target, flush=True)
     return r.returncode
@@ -144,7 +145,7 @@ if __name__ == "__main__":
         xt = root / "work" / f"qa_START_d{n}.XT"
         subprocess.run([sys.executable, "-X", "utf8", str(root / "tools/qa.py"), "debugstart", str(xt), n], check=True)
         sys.exit(subprocess.run([sys.executable, "-X", "utf8", str(root / "tools/build.py"), n, "--english", "--qa-novoice",
-                                 "--override", f"START.XT={xt}", "--out", str(BUILD)]).returncode)
+                                 "--qa-cover", "--override", f"START.XT={xt}", "--out", str(BUILD)]).returncode)
     elif a.cmd == "state":
         n = int(a.args[0])
         r = emu(n, root / "work" / "qa" / f"devboot{n}", "--route-str", BOOT, "--state-out", str(STATES / f"devmenu_d{n}.sstate"))

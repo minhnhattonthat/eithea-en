@@ -254,7 +254,10 @@ def insert(b, rows, mode="en"):
         elif mode == "marker":
             out.append(enc_en(marker(r), r["kind"]))
         elif r["en"]:
-            out.append(enc_en(r["en"], r["kind"], e["speaker"], e["jp"][:1] == "　"))
+            en = r["en"]
+            if b[:e["start"]].rstrip(b"\r\n\x81\x75").endswith(b"open_small_window"):   # area label: centre in box
+                en = " " * min((48 - len(en)) // 2, 46 - len(en)) + en   # 48 cells wide (asm/font.asm 4)
+            out.append(enc_en(en, r["kind"], e["speaker"], e["jp"][:1] == "　"))
         else:
             out.append(b[e["start"]:e["end"]])
         pos = e["end"]

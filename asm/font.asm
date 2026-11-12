@@ -92,6 +92,18 @@ padflag_tramp:
     nop
 .org 0x80010E00                 ; its name string (same length as "bast_off")
     .ascii "pad_flag"
+
+; 4) open_small_window (area labels, window type 2): the box was 160 px (x 82..242, 18 cells) for ~11 Japanese
+;    cells; English labels run to 46 chars. Use the main message window's geometry: frame x 8, 36 cells, the two
+;    144 px text halves at x 16 and 160. tools/text.py centres each label with leading spaces.
+.org 0x8002AA1C
+    addiu a1, zero, 0x10        ; text half 1 x (was 0x5a)
+.org 0x8002AA84
+    addiu a1, zero, 0xA0        ; text half 2 x (was 0xea)
+.org 0x8002AAD0
+    addiu a0, zero, 8           ; frame x (was 0x52)
+.org 0x8002AAD8
+    addiu a2, zero, 0x24        ; frame width in 8 px cells (was 0x12)
 .close
 
 ; ---- ext code, position independent, lives in KANJI.IN at CODEOFF ----
