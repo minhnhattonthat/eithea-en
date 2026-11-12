@@ -26,6 +26,22 @@ BUILD = root / "work" / "build_qa"
 STATES = root / "work" / "states"
 BIOS = root / "tools" / "pcsx-redux" / "bios" / "SCPH-5500.bin"
 BOOT = "13200 -;4 circle;700 -"   # title -> New Game -> dev menu (menu up by ~13900)
+BLANK = root / "work" / "qa" / "blank.mcd"   # fresh card per run: a save on the shared card turns New Game into Load
+
+
+def blank_card():
+    """Formatted empty PS1 card: header, 15 free directory frames, empty broken-sector list, header copy."""
+    def frame(head):
+        f = bytearray(128)
+        f[:len(head)] = head
+        for b in f[:127]:
+            f[127] ^= b
+        return bytes(f)
+    card = frame(b"MC") + frame(b"\xa0" + bytes(7) + b"\xff\xff") * 15 + frame(b"\xff" * 4 + bytes(4) + b"\xff\xff") * 20
+    card += bytes(128 * 27) + frame(b"MC")
+    assert len(card) == 8192
+    BLANK.parent.mkdir(parents=True, exist_ok=True)
+    BLANK.write_bytes(card + bytes(131072 - 8192))
 
 
 def blocks(n):
@@ -109,8 +125,11 @@ def route(presses):
 
 
 def emu(n, out, *args):
+    if not BLANK.exists():
+        blank_card()
     cmd = [sys.executable, "-X", "utf8", str(pathlib.Path(SKILL) / "scripts" / "emu.py"),
-           str(BUILD / f"Eithea_disc{n}.cue"), "--out", str(out), "--bios", str(BIOS), "--timeout", "1200", *args]
+           str(BUILD / f"Eithea_disc{n}.cue"), "--out", str(out), "--bios", str(BIOS), "--timeout", "1200",
+           "--sav", str(BLANK), *args]
     return subprocess.run(cmd, capture_output=True, text=True)
 
 
