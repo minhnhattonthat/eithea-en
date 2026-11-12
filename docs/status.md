@@ -27,7 +27,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   1. Phase 9: v1.0 was already published (tag v1.0 = 42ca0c6). v1.1 = `release/Eithea_EN_v1.1.zip`, built 2026-11-12 (check, leftover-JP gate, xdelta re-apply all pass;
      README TESTING updated). Shipped patches applied to rom/ originals match the README SHA-1s and both boot
      (d1 prologue, d2 "swap for DISC 1"). Note: release.py deletes the built .bin - smoke the re-applied patch.
-     **Waiting on the user: publish v1.1.**
+     Published as GitHub release v1.1 (zip + both xdelta, notes = what's new + README).
   2. Known tour defects, not text bugs: d1_4090 lands on the same scene as d1_4050 (dev-menu path?); d2_11010 mash
      saves to the blank card and sticks on "Overwrite?"; voice-test scenes time out; ending variants share openings.
   3. Inkbox: choice boxes are left-aligned grids; title menu items sit on art (inkbox can't measure) - eyeballed ok.
@@ -50,4 +50,5 @@ Updated at the end of every session. Keep it to what the next session needs; his
      Disc 2 not toured yet. Voice-test scenes (d1_8888, d2_1858/3688/681) hang to timeout: drop or waive them.
 - **Known limits:** odd-length names give a double space before suffix pieces; brush-name FMV art kept.
 - **Open bugs:** none.
-- **Waiting on the user:** publish v1.1 (zip is local only; tag v1.1 local, not pushed).
+- **Waiting on the user:** - (v1.1 published 2026-11-12: GitHub release v1.1, Latest. Pushing needs gh account
+  minhnhattonthat active; nathantonsoniq has no write access.)
