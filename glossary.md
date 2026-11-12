@@ -74,6 +74,9 @@
 | 女王 | the Queen |
 | 黒の間 | Black Chamber |
 | ヤムヤムの森 | Yamyam Forest |
+| 月光族の村 (map label) | Moonlight Village |
+| カーライルの町 (map label) | Town of Carlyle |
+| 火竜族の王国 (map label) | Fire Dragon Kingdom |
 | 魔弾研究 (menu) | Magic Bullet Study |
 | 赤竜亭 | Red Dragon Tavern |
 | 地下廃墟 | Underground Ruins |

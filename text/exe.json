@@ -1799,7 +1799,7 @@
   "addr": "80013f2c",
   "size": 38,
   "jp": "弓道の弓とともに入手した矢、威力は低い",
-  "en": "Came with the Archery Bow. Low power"
+  "en": "Came with the Archery Bow. Low power."
  },
  {
   "addr": "80013f54",
@@ -1913,7 +1913,7 @@
   "addr": "80014184",
   "size": 60,
   "jp": "弓道の弓とともに入手した矢、威力は低い　　　　　　　　　　　",
-  "en": "Came with the Archery Bow. Low power"
+  "en": "Came with the Archery Bow. Low power."
  },
  {
   "addr": "800141c4",
@@ -3521,7 +3521,7 @@
   "addr": "80017da8",
   "size": 28,
   "jp": "<9>　　　　　翔のレベル　　１",
-  "en": "<9>          Shou's Level  1"
+  "en": "<9>        Shou's Level    1"
  },
  {
   "addr": "80017de4",
@@ -4061,7 +4061,7 @@
   "addr": "80018820",
   "size": 28,
   "jp": "使用する弾を選択して下さい！",
-  "en": "Choose a bullet to use!"
+  "en": "Choose a Magic Bullet!"
  },
  {
   "addr": "80018840",

@@ -437,6 +437,10 @@ def glow_text(w, h, s, font="tahomabd.ttf", max_size=13, wrap=True):
             else:
                 cur = t
         lines.append(cur)
+        if len(lines) > 1 and " " not in lines[-1] and " " in lines[-2]:   # no one-word last line
+            head, last = lines[-2].rsplit(" ", 1)
+            if f.getlength(f"{last} {lines[-1]}") <= w - 6:
+                lines[-2:] = [head, f"{last} {lines[-1]}"]
         s = "\n".join(lines)
         bb = d.multiline_textbbox((0, 0), s, font=f, spacing=2, align="center")
         if bb[2] - bb[0] <= w - 4 and bb[3] - bb[1] <= h - 2:
@@ -628,7 +632,7 @@ MAP_NRECTS = {"ZENTAI.P": 26, "ZENTAI1.P": 19}   # ZENTAI1 (d1 early map) lacks 
 MAP_RECT0 = 0x51A - 10 * 10
 MAP_LABELS = {  # rect id: (English, new rect u0, v0, width)
     10: ("Moonlight Village", 0, 24, 112), 11: ("Iopiros Tower", 112, 24, 112),
-    12: ("Town of Carlyle", 0, 40, 112), 13: ("Fire Dragon Kingdom", 112, 40, 144),
+    12: ("Town of Carlyle", 0, 40, 112), 13: ("Fire Dragon Kingdom", 112, 40, 128),   # 144 plate: keep a margin
     14: ("Yamyam Forest", 0, 56, 112),
     15: ("Ele Tree", 0, 120, 64), 19: ("Eurolia", 64, 120, 88), 20: ("Iopiros", 0, 136, 88), 21: ("Yamyam", 88, 136, 72),
 }
