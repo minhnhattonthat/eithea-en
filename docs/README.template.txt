@@ -39,9 +39,11 @@ middle of the story skips events and can leave flags unset, so don't save over a
 Disc 2 has its own list (chapters 6-10, endings and epilogues).
 
 TESTING
-Checked in PCSX-Redux (SCPH-5500 BIOS): boot, prologue, opening movie, the first chapter's opening
-scenes, field menus and a battle. Later scenes were checked with the text tools (line widths, codes),
-not played through. Start from a cold boot (not a savestate made with the Japanese game).
+Checked in PCSX-Redux (SCPH-5500 BIOS): boot, prologue, opening movie, field menus and a battle, plus
+a screenshot tour of every chapter start, dungeon, finale, ending and epilogue on both discs (reached
+through the debug menu, reviewed screen by screen). Every script line was checked with the text tools
+(line widths, codes) and read in story order, but the game was not played through start to finish.
+Start from a cold boot (not a savestate made with the Japanese game).
 Bug reports with a screenshot or savestate are welcome.
 
 CREDITS
