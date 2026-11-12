@@ -123,6 +123,45 @@ def erase(im, box, pred, grow=2, iters=80):
     return Image.fromarray(a.clip(0, 255).astype("uint8"), "RGBA")
 
 
+def fill(im, rects):
+    """replace whole rects: smooth Laplace fill from the clean border plus the fine grain (high-pass) of the clean
+    rows below the lowest rect, for cards where `erase` leaves pale halo ghosts of outlined lettering."""
+    import numpy as np
+    from PIL import ImageFilter
+    a = np.array(im).astype(float)
+    mask = np.zeros(a.shape[:2], bool)
+    for x0, y0, x1, y1 in rects:
+        mask[y0:y1, x0:x1] = True
+    cur = a.copy()
+    cur[mask] = a[~mask].mean(axis=0)
+    for _ in range(700):
+        s = (np.roll(cur, 1, 0) + np.roll(cur, -1, 0) + np.roll(cur, 1, 1) + np.roll(cur, -1, 1)) / 4
+        cur[mask] = s[mask]
+    hp = a - np.array(im.filter(ImageFilter.GaussianBlur(3))).astype(float)
+    top, bot = min(r[1] for r in rects), max(r[3] for r in rects)
+    src = bot + (np.arange(a.shape[0]) - top) % (a.shape[0] - bot)
+    cur[mask] += hp[src][mask]
+    cur[..., 3] = a[..., 3]
+    return Image.fromarray(cur.clip(0, 255).astype("uint8"))
+
+
+def text_rects(im, box, pred, pad=6, gap=3):
+    """one rect per text line inside box: rows where pred holds, split at gaps of more than `gap` rows, padded."""
+    import numpy as np
+    a = np.array(im.convert("RGB")).astype(int)
+    x0, y0, x1, y1 = box
+    reg = a[y0:y1, x0:x1]
+    m = np.vectorize(lambda r, g, b: pred(r, g, b))(reg[..., 0], reg[..., 1], reg[..., 2]).astype(bool)
+    rows = [y for y in range(m.shape[0]) if m[y].sum() > 2]
+    runs, s = [], rows[0]
+    for p, q in zip(rows, rows[1:] + [None]):
+        if q is None or q - p > gap:
+            cols = np.nonzero(m[s:p + 1].sum(0))[0]
+            runs.append((x0 + cols.min() - pad, y0 + s - pad, x0 + cols.max() + 1 + pad, y0 + p + 1 + pad))
+            s = q
+    return runs
+
+
 def text(im, box, s, font="tahoma.ttf", size=11, fill=(48, 48, 48), halo=(248, 248, 248), align="c", aa=True,
          spacing=2, shadow=None, stroke=1):
     """draw s (may hold \\n) centred in box with a 1 px halo."""
@@ -226,6 +265,10 @@ def not_teal(r, g, b):
     return max(r, g, b) < 140 or min(r, g, b) > 226 or not (b >= r - 5 and g >= r - 5 and abs(g - b) < 60)
 
 
+def dark_or_coloured(r, g, b):   # card lettering and its shadow; unlike not_teal, keeps the white light rays
+    return max(r, g, b) < 150 or not (b >= r - 5 and g >= r - 5 and abs(g - b) < 60)
+
+
 CHAPTERS = [  # (title card, number, [(text, accent?)])  accent part drawn bigger in the card's accent colour
     ("TITLE01.IM", 1, [("It Came ", 0), ("Suddenly", 1)], (24, 64, 200)),
     ("TITLE02.IM", 2, [("The ", 0), ("Moonlight", 1), (" Tower", 0)], (130, 130, 20)),
@@ -245,7 +288,7 @@ def chapters():
     gray = (64, 64, 72)
     for name, n, parts, acc in CHAPTERS:
         im = img(name)
-        im = erase(im, (16, 74, 304, 162), not_teal, grow=3, iters=150)
+        im = fill(im, text_rects(im, (30, 70, 290, 162), dark_or_coloured))   # erase() left pale halo ghosts
         im = rich(im, 160, 92, [(f"~ Chapter {n} ~", gray, "tahomabd.ttf", 13)])
         im = rich(im, 160, 122, [(t, acc if a else gray, "tahomabd.ttf", 21 if a else 17) for t, a in parts])
         out[name] = save(name, im)
@@ -576,6 +619,71 @@ def prolog():
     return out
 
 
+# World map (map_change 999,ZENTAI.MP: IVENT20, IVENT29): place labels are 16-row sprites on one 256x256 8bpp page
+# (VRAM 320,256; CLUT 320,241 = file page-0x200), copied whole in ZENTAI.P (both discs) and ZENTAI1.P (d1).
+# Sprite rects: (u0,v0,u1,v1,0) halfword records, record k at RECT0 + 10*k; each label is drawn centred over a
+# subtract-blend plate (rects 16/17/18 = gradient bars 144/112/88 wide). Unused 神木 (96,56) is wiped.
+MAP_PAGE = {"ZENTAI.P": 0x4CA00, "ZENTAI1.P": 0x13D20}
+MAP_NRECTS = {"ZENTAI.P": 26, "ZENTAI1.P": 19}   # ZENTAI1 (d1 early map) lacks the small labels 19-25
+MAP_RECT0 = 0x51A - 10 * 10
+MAP_LABELS = {  # rect id: (English, new rect u0, v0, width)
+    10: ("Moonlight Village", 0, 24, 112), 11: ("Iopiros Tower", 112, 24, 112),
+    12: ("Town of Carlyle", 0, 40, 112), 13: ("Fire Dragon Kingdom", 112, 40, 144),
+    14: ("Yamyam Forest", 0, 56, 112),
+    15: ("Ele Tree", 0, 120, 64), 19: ("Eurolia", 64, 120, 88), 20: ("Iopiros", 0, 136, 88), 21: ("Yamyam", 88, 136, 72),
+}
+MAP_PLATES = {17: (0, 72, 143, 87)}   # Moonlight Village now 112 wide: give its plate the 144 bar
+
+
+def map_label(s, w, clut):
+    """16-row 8bpp label: white anti-aliased text, dark outline, centred; indices into the page's grey CLUT."""
+    import numpy as np
+    from PIL import ImageFilter
+    grey = [(i, (int(c) & 31) << 3) for i, c in enumerate(clut) if i and int(c) & 0x7FFF and
+            (int(c) & 31) == ((int(c) >> 5) & 31) == ((int(c) >> 10) & 31)]
+    for size in range(12, 7, -1):
+        f = ImageFont.truetype(WIN + "tahomabd.ttf", size)
+        if f.getlength(s) <= w - 4:
+            break
+    core = Image.new("L", (w, 16))
+    d = ImageDraw.Draw(core)
+    bb = d.textbbox((0, 0), s, font=f)
+    d.text(((w - (bb[2] - bb[0])) // 2 - bb[0], (16 - (bb[3] - bb[1])) // 2 - bb[1]), s, font=f, fill=255)
+    c = np.array(core) / 255.0
+    ring = np.array(core.filter(ImageFilter.MaxFilter(3))) / 255.0
+    val = np.where(c > 0.15, 40 + c * 208, 0)
+    out = np.zeros((16, w), np.uint8)
+    lv = np.array([g for _, g in grey]); ix = np.array([i for i, _ in grey])
+    on = c > 0.15
+    out[on] = ix[np.abs(lv[None, :] - val[on][:, None]).argmin(1)]
+    edge = ~on & (ring > 0.3)
+    out[edge] = ix[np.abs(lv - 32).argmin()]
+    return out
+
+
+def world_map(disc):
+    import numpy as np
+    out = {}
+    for name, page in MAP_PAGE.items():
+        hits = sorted((root / "work" / disc / "bind").glob(f"*_{name}"))
+        if not hits:
+            continue
+        p = bytearray(hits[0].read_bytes())
+        clut = np.frombuffer(bytes(p[page - 0x200:page]), "<u2")
+        px = np.frombuffer(bytes(p[page:page + 0x10000]), np.uint8).reshape(256, 256).copy()
+        px[24:72, :] = 0
+        px[120:152, :160] = 0
+        for k, (s, u, v, w) in MAP_LABELS.items():
+            px[v:v + 16, u:u + w] = map_label(s, w, clut)
+            if k < MAP_NRECTS[name]:
+                struct.pack_into("<4h", p, MAP_RECT0 + 10 * k, u, v, u + w - 1, v + 15)
+        for k, r in MAP_PLATES.items():
+            struct.pack_into("<4h", p, MAP_RECT0 + 10 * k, *r)
+        p[page:page + 0x10000] = px.tobytes()
+        out[name] = bytes(p)
+    return out
+
+
 def exe_patch(exe, patch):
     exe = bytearray(exe)
     for a, word in patch.items():
@@ -591,6 +699,7 @@ def all_files(disc="d1"):
     for sec in SECTIONS:
         files.update(sec())
     files.update(mono(disc))
+    files.update(world_map(disc))
     return files, patch
 
 
