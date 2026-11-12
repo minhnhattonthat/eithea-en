@@ -16,10 +16,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
   before each block, `tools/lua/rowlog.lua` logs it, `tools/debug/cover.py work/qa/tour_d1` maps + runs textcover.
   Brief `docs/visual-qa-brief.md`. Small-window area labels widened + centred (asm/font.asm 4, `text.insert`).
 - **Next:**
-  1. World map place labels still Japanese (エレの樹, 月光族の村, イオピロスの塔, カーライルの町, 火竜族の王国, 王国): in
-     ZENTAI.P / ZENTAI1.P (d1) / C0LMAP.ND, shown by `map_change 999,ZENTAI.MP,...,C0LMAP.AND` (IVENT20, IVENT29).
-     Survey + redraw (gfx.py, like MONO*.P pages). Also check the Ch.4 card ("Carlyle, the Neutral City", d1_5100
-     tiles 2-3) for pale patches from erased lettering against the original.
+  1. Done 2026-11-12: world-map labels English (`gfx.world_map`: 8bpp page + rect table in ZENTAI.P/ZENTAI1.P,
+     Moonlight Village/Fire Dragon Kingdom widened; checked in d1_5100/d1_6100 shots). All chapter cards now use
+     `gfx.fill` (erase left halo ghosts on every card). ZENTAI1.P (IVENT02, `NON` overlay) not seen in-game yet.
+     VRAM+RAM dumps: `--script tools/lua/vramdump.lua --var DUMP_AT=N`.
   2. Rebuild QA both discs (`warp.py build N` + `state N`), re-tour both (`tour N --frames 5400 --every 90`),
      `qa_gate.py init work/qa/d<N>/manifest.tsv work/qa/tour_d<N> --build work/build_qa/Eithea_disc<N>.bin`,
      dispatch visual-qa per chunk (d1 first round: 47 ok, issues = map labels, area labels [fixed], card patches).
