@@ -521,23 +521,38 @@ def mono(only=None):
                 continue
             for box in paragraphs(px, bg):
                 if box[3] - box[1] > 3:                 # skip 1-2 row decorations
+                    x0, y0, x1, y1 = box
+                    cols = np.nonzero((px[y0:y1] != bg).any(axis=0))[0]
+                    if x0 == 0 and x1 == 256 and cols[cols >= 4].min() > 16:
+                        # u is 8-bit: a sprite running past u=255 wraps to u=0, so a thin strip at the left edge
+                        # is the glyph tail of a right-edge line. Erase it; the text fits the real box.
+                        px[y0:y1, :4] = bg               # page array is fresh per page: in place is safe
+                        box = (int(cols[cols >= 4].min()) + 4, y0, 256, y1)   # +4: the draw pad stays in the rect
                     blocks.append((o, px, bg, box))
         assert len(blocks) == len(refs), f"{name}: {len(blocks)} text blocks, {len(refs)} texts"
         jobs = []
         for (o, px, bg, (x0, y0, x1, y1)), ref in zip(blocks, refs):
             if isinstance(ref, list):                   # split a block by line counts
                 pitch, a = (y1 - y0) / sum(n for n, _ in ref), 0
+                prof = (px != bg).sum(axis=1)
+                def cut(k):   # JP line pitch is uneven: snap to the emptiest row near the even-pitch estimate
+                    e = int(y0 + k * pitch)
+                    if k in (0, sum(n for n, _ in ref)):
+                        return min(e, y1)
+                    r = int(pitch / 3)
+                    return e - r + int(prof[e - r:e + r + 1].argmin())
                 for n, t in ref:
-                    ya, yb = int(y0 + a * pitch), int(y0 + (a + n) * pitch)
+                    ya, yb = cut(a), cut(a + n)
                     cols = np.nonzero((px[ya:yb] != bg).any(axis=0))[0]
-                    jobs.append((o, px, bg, (int(cols.min()), ya, int(cols.max()) + 1, yb), t))
+                    # no vertical pad: the game shows each piece as its own rect, so glow past the cut shows up
+                    jobs.append((o, px, bg, (int(cols.min()), ya, int(cols.max()) + 1, yb), t, 0))
                     a += n
             else:
-                jobs.append((o, px, bg, (x0, y0, x1, y1), ref))
+                jobs.append((o, px, bg, (x0, y0, x1, y1), ref, 2))
         pages = {}
-        for o, px, bg, (x0, y0, x1, y1), ref in jobs:
+        for o, px, bg, (x0, y0, x1, y1), ref, pad in jobs:
             px = pages.setdefault(o, px.copy())
-            X0, Y0, X1, Y1 = max(0, x0 - 4), max(0, y0 - 2), min(256, x1 + 4), min(256, y1 + 2)
+            X0, Y0, X1, Y1 = max(0, x0 - 4), max(0, y0 - pad), min(256, x1 + 4), min(256, y1 + pad)
             lev = glow_text(X1 - X0, Y1 - Y0, mono_text(ref))
             px[Y0:Y1, X0:X1] = bg
             idx = lev if bg == 0 else 15 - lev

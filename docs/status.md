@@ -2,7 +2,7 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8 (visual QA), then 9 (release). Last build: `work/build/` (2026-11-12, after polish pass; `work/build_e/` is older, stale).
+- **Phase:** 9 (release); phase 8 gates pass. Last build: `work/build/` (2026-11-12, after polish pass; `work/build_e/` is older, stale).
 - **Done:** engine, all 7,873 script rows + 1,050 EXE strings translated, graphics incl. English title logo, FMV
   captions, release tool. 2026-11-12: template layout; **story pass done** - 12 chapter files
   (`tools/review.py --chapters`, split per D9) all reviewed, Critical/Important fixed, re-checked;
@@ -15,7 +15,22 @@ Updated at the end of every session. Keep it to what the next session needs; his
   gate manifests `work/qa/d<N>/manifest.tsv` + `verdicts/`. Text coverage: `build.py --qa-cover` sets flag[990]=row+1
   before each block, `tools/lua/rowlog.lua` logs it, `tools/debug/cover.py work/qa/tour_d1` maps + runs textcover.
   Brief `docs/visual-qa-brief.md`. Small-window area labels widened + centred (asm/font.asm 4, `text.insert`).
+- **Phase 8 gates pass (2026-11-12, round 4):** `qa_gate.py check work/qa/d<N>/manifest.tsv work/qa/d<N>/verdicts`
+  exits 0 for both discs (d1 51 sheets ok; d2 89 ok, build afb71a9d waived: gfx.mono hotfix re-checked in spot runs).
+  Round 3 was void: a Ch.10 save on the shared emulator card turned New Game into Load; `warp.py` now passes a fresh
+  blank card (`work/qa/blank.mcd`) to every run. Round 4 fixes: IVENT70:0003 "big brother"; MONO split cuts snap to
+  the JP paragraph gap (stray dash on "few hours." page); MONO4 "But I only ever..." block wraps past u=255 (8-bit
+  u) - left-edge strip erased, text fits the real box (was clipped both sides). Coverage waived (D13).
+  Gotchas: `qa_gate init` gives newly added ids credit for old verdicts with the same id - move old verdicts out
+  (`verdicts_old/`) after a broken tour; delete stale sheet_N.png from earlier tours before init.
 - **Next:**
+  1. Phase 9: release build (`work/build/` is stale: rebuild both discs via `tools/release.py`), leftover-JP gate,
+     then the user decides on publishing.
+  2. Known tour defects, not text bugs: d1_4090 lands on the same scene as d1_4050 (dev-menu path?); d2_11010 mash
+     saves to the blank card and sticks on "Overwrite?"; voice-test scenes time out; ending variants share openings.
+  3. Inkbox: choice boxes are left-aligned grids; title menu items sit on art (inkbox can't measure) - eyeballed ok.
+  4. Playtest reports via GitHub issues.
+- **History (round 1-3 notes):**
   1. Done 2026-11-12: world-map labels English (`gfx.world_map`: 8bpp page + rect table in ZENTAI.P/ZENTAI1.P,
      Moonlight Village/Fire Dragon Kingdom widened; checked in d1_5100/d1_6100 shots). All chapter cards now use
      `gfx.fill` (erase left halo ghosts on every card). ZENTAI1.P (IVENT02, `NON` overlay) not seen in-game yet.
@@ -31,10 +46,6 @@ Updated at the end of every session. Keep it to what the next session needs; his
      `qa_gate.py init work/qa/d<N>/manifest.tsv work/qa/tour_d<N> --build work/build_qa/Eithea_disc<N>.bin`,
      dispatch visual-qa per chunk (d1 first round: 47 ok, issues = map labels, area labels [fixed], card patches).
      Disc 2 not toured yet. Voice-test scenes (d1_8888, d2_1858/3688/681) hang to timeout: drop or waive them.
-  3. Text coverage: a 5400-frame mash tour reaches only a few rows per scene (events are slow); full coverage of
-     8,002 rows needs either much longer tours per scene or waivers. Ask the user which (scope decision).
-  4. Inkbox: choice boxes are left-aligned grids; title menu items sit on art (inkbox can't measure) - eyeballed ok.
-  5. Playtest reports via GitHub issues.
 - **Known limits:** odd-length names give a double space before suffix pieces; brush-name FMV art kept.
 - **Open bugs:** none.
 - **Waiting on the user:** -
